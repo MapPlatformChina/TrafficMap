@@ -46,8 +46,8 @@ class TrafficData:
 		self.dict_link_set.reset()
 
 		# load from below file
-		fn_point = 'POINTS.DAT'			# get coordinates and LCD from this file
-		fn_poffset = 'POFFSETS.DAT'		# get connection and direction from this file
+		fn_point = '../Res/POINTS.DAT'			# get coordinates and LCD from this file
+		fn_poffset = '../Res/POFFSETS.DAT'		# get connection and direction from this file
 		seperator = ';'
 		
 		# load data into point_data and poffset_data

@@ -129,7 +129,7 @@ class App:
 		if filename: 
 			self.traffic_file_input.delete(0,END)
 			self.traffic_file_input.insert(0,filename)
-			self.traffic_data.load_traffic('data.csv')
+			self.traffic_data.load_traffic(filename)
 		else:
 			return
 		
