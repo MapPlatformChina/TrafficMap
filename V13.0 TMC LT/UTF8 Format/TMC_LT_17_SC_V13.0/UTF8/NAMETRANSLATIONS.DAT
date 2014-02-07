@@ -1,0 +1,223 @@
+﻿CID;LID;NID;NTRANSLATION
+507;2;1;ya zhou
+507;3;1;Asia
+507;2;2;zhong guo
+507;3;2;China
+507;2;3;si chuan sheng
+507;3;3;SICHUAN
+507;2;39;de yang shi
+507;3;39;Deyang
+507;2;126;guang an shi
+507;3;126;Guang'an
+507;2;62;guang yuan shi
+507;3;62;Guangyuan
+507;2;18;liang shan yi zu zi zhi zhou
+507;3;18;Liangshanyizu Aut. Prefecture
+507;2;49;mian yang shi
+507;3;49;Mianyang
+507;2;106;nan yun shi
+507;3;106;Nanyun
+507;2;5;pan zhi hua shi
+507;3;5;Panzhihua
+507;2;30;ya an shi
+507;3;30;Yaan
+507;2;40;jing kun gao su gong lu de yang duan
+507;3;40;Jingkun Hwy Deyang Sect
+507;2;41;zhong shan da dao nan san duan
+507;3;41;Zhongshan Blvd Nansan Sect
+507;2;48;fei yun da dao zhong duan
+507;3;48;Feiyun Blvd Middle Sect
+507;2;74;bei jing da dao
+507;3;74;Beijing Blvd
+507;2;43;jin sha jiang xi lu
+507;3;43;Jinshajiang West Rd
+507;2;44;kai jiang lu
+507;3;44;Kaijiang Rd
+507;2;7;G108
+507;3;7;G108
+507;2;45;bai ma shou fei zhan
+507;3;45;Baima Tollgate
+507;2;46;wan an bei lu
+507;3;46;Wan'an North Rd
+507;2;47;jin shan shou fei zhan
+507;3;47;Jinshan Tollgate
+507;2;104;cheng mian (fu xian) gao su gong lu
+507;3;104;Chengmian(fuxian) Hwy
+507;2;63;jing kun gao su gong lu guang yuan duan
+507;3;63;Jingkun Hwy Guangyuan Sect
+507;2;61;qing jian lu
+507;3;61;Qingjian Rd
+507;2;75;guang yuan chu kou
+507;3;75;Guangyuan Exit Ramp
+507;2;64;jian men guan fu wu qu
+507;3;64;Jianmenguan Service Area
+507;2;105;lan hai gao su gong lu
+507;3;105;Lanhai Hwy
+507;2;65;zhao hua shou fei zhan
+507;3;65;Zhaohua Tollgate
+507;2;66;guang yuan shou fei zhan
+507;3;66;Guangyuan Tollgate
+507;2;19;jing kun gao su gong lu liang shan duan
+507;3;19;Jingkun Hwy Liangshan Sect
+507;2;17;yong lang shou fei zhan
+507;3;17;Yonglang Tollgate
+507;2;82;pu sa gang fu wu qu
+507;3;82;Pusagang Service Area
+507;2;20;pu ba shou fei zhan
+507;3;20;Puba Tollgate
+507;2;22;de chang fu wu qu
+507;3;22;Dechang Service Area
+507;2;21;xi hui lu nan duan
+507;3;21;Xihui Rd South Sect
+507;2;128;tang jia cun
+507;3;128;Tangjia Village
+507;2;24;S307
+507;3;24;S307
+507;2;25;X13
+507;3;25;X13
+507;2;29;xi ning shou fei zhan
+507;3;29;Xining Tollgate
+507;2;26;xi ning fu wu qu
+507;3;26;Xining Service Area
+507;2;76;li zhou shou fei zhan
+507;3;76;Lizhou Tollgate
+507;2;28;man shui wan shou fei zhan
+507;3;28;Manshuiwan Tollgate
+507;2;79;mian ning fu wu qu
+507;3;79;Mianning Service Area
+507;2;80;zhuang zi shang cun
+507;3;80;Zhuangzishang Village
+507;2;83;ting che qu
+507;3;83;Tingchequ
+507;2;81;la ma fang
+507;3;81;Lamafang
+507;2;50;jing kun gao su gong lu mian yang duan
+507;3;50;Jingkun Hwy Mianyang Sect
+507;2;51;jiu zhou da dao
+507;3;51;Jiuzhou Blvd
+507;2;52;S205
+507;3;52;S205
+507;2;53;ke xue cheng shou fei zhan
+507;3;53;Kexuecheng Tollgate
+507;2;77;mian sui gao su gong lu
+507;3;77;Miansui Hwy
+507;2;54;jiang you shou fei zhan
+507;3;54;Jiangyou Tollgate
+507;2;55;guan shan shou fei zhan
+507;3;55;Guanshan Tollgate
+507;2;56;S302
+507;3;56;S302
+507;2;57;xin an fu wu qu
+507;3;57;Xin'an Service Area
+507;2;78;xiao xi ba shou fei zhan
+507;3;78;Xiaoxiba Tollgate
+507;2;59;zhong yan lu
+507;3;59;Zhongyan Rd
+507;2;60;er lang miao shou fei zhan
+507;3;60;Erlangmiao Tollgate
+507;2;6;jing kun gao su gong lu pan zhi hua duan
+507;3;6;Jingkun Hwy Panzhihua Sect
+507;2;8;da tian ting che qu
+507;3;8;Datian Parking Area
+507;2;9;S214
+507;3;9;S214
+507;2;10;zong fa shou fei zhan
+507;3;10;Zongfa Tollgate
+507;2;11;jin sha jiang da dao dong duan
+507;3;11;Jinshajiang Blvd East Sect
+507;2;127;S310
+507;3;127;S310
+507;2;12;xin jiu shou fei zhan
+507;3;12;Xinjiu Tollgate
+507;2;13;xue fu lu
+507;3;13;Xuefu Rd
+507;2;14;mi yi fu wu qu
+507;3;14;Miyi Service Area
+507;2;15;mi yi shou fei zhan
+507;3;15;Miyi Tollgate
+507;2;16;gua bang shou fei zhan
+507;3;16;Guabang Tollgate
+507;2;31;jing kun gao su gong lu ya an duan
+507;3;31;Jingkun Hwy Yaan Sect
+507;2;36;qiong ming gao su gong lu
+507;3;36;Qiongming Hwy
+507;2;84;gong yi ma
+507;3;84;Gongyima
+507;2;86;bin he lu yi duan
+507;3;86;Binheluyiduan
+507;2;87;shi mian fu wu qu
+507;3;87;Shimian Service Area
+507;2;88;fu xian cun
+507;3;88;Fuxian Village
+507;2;91;gong he cun
+507;3;91;Gonghe Village
+507;2;90;shang yan cun
+507;3;90;Shangyan Village
+507;2;92;hui guan shang
+507;3;92;Huiguanshang
+507;2;93;zhu jia zhuang
+507;3;93;Zhujiazhuang
+507;2;94;fu wu qu
+507;3;94;Service Area
+507;2;95;wang jia shan
+507;3;95;Wangjiashan
+507;2;96;lu jia gou
+507;3;96;Lujiagou
+507;2;32;G318
+507;3;32;G318
+507;2;33;long xi lu
+507;3;33;Longxi Rd
+507;2;34;ya an dong shou fei zhan
+507;3;34;Yaan Dong Tollgate
+507;2;35;cha du da dao
+507;3;35;Chadu Blvd
+507;2;120;lan hai gao su gong lu guang an duan
+507;3;120;Lanhai Hwy Guang'an Sect
+507;2;121;qian tang ting che qu
+507;3;121;Qiantang Parking Area
+507;2;109;guang gao lu
+507;3;109;Guanggao Rd
+507;2;122;wu sheng xian
+507;3;122;Wusheng County
+507;2;123;S304
+507;3;123;S304
+507;2;124;wu sheng fu wu qu
+507;3;124;Wusheng Service Area
+507;2;125;liu jia gou
+507;3;125;Liujiagou
+507;2;97;lan hai gao su gong lu guang yuan duan
+507;3;97;Lanhai Hwy Guangyuan Sect
+507;2;98;lang zhong fu wu qu
+507;3;98;Langzhong Service Area
+507;2;103;jing kun gao su gong lu
+507;3;103;Jingkun Hwy
+507;2;99;wang jia wan
+507;3;99;Wangjiawan
+507;2;100;cang xi fu wu qu
+507;3;100;Cangxi Service Area
+507;2;101;G212
+507;3;101;G212
+507;2;102;wan guang gao su gong lu
+507;3;102;Wanguang Hwy
+507;2;108;lan hai gao su gong lu nan yun duan
+507;3;108;Lanhai Hwy Nanyun Sect
+507;2;110;hu rong gao su gong lu
+507;3;110;Hurong Hwy
+507;2;111;nan chong rao cheng gao su gong lu
+507;3;111;Nanchongraocheng Hwy
+507;2;112;xi yun fu wu qu
+507;3;112;Xiyun Service Area
+507;2;113;yang jia wan
+507;3;113;Yangjiawan
+507;2;115;nan bu fu wu qu
+507;3;115;Nanbu Service Area
+507;2;116;bai ma gou
+507;3;116;Baimagou
+507;2;117;guo an jie
+507;3;117;Guoan St
+507;2;118;feng jia wan
+507;3;118;Fengjiawan
+507;2;119;mei shan si
+507;3;119;Meishansi
+507;2;129;li zi ping ting che qu
+507;3;129;Liziping Parking Area

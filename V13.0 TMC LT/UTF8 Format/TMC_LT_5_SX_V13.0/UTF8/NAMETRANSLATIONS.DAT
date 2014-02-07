@@ -1,0 +1,625 @@
+﻿CID;LID;NID;NTRANSLATION
+495;2;4;tai yuan shi
+495;3;4;Taiyuan
+495;2;9;qing xu fu wu qu
+495;3;9;Qingxu Service Area
+495;2;10;wen yuan lu
+495;3;10;Wenyuan Rd
+495;2;12;jin ci lu
+495;3;12;Jinci Rd
+495;2;17;fen dong bei lu
+495;3;17;Fendong North Rd
+495;2;22;xin yang xi da jie
+495;3;22;Xinyang West Ave
+495;2;23;da yu ting che qu
+495;3;23;Dayu Parking Area
+495;2;26;tai yuan fu wu qu
+495;3;26;Taiyuan Service Area
+495;2;30;ma dao po jie
+495;3;30;Madaopo St
+495;2;31;chao yang jie
+495;3;31;Chaoyang St
+495;2;32;chang feng dong jie
+495;3;32;Changfeng East St
+495;2;35;tai yu lu
+495;3;35;Taiyu Rd
+495;2;36;xin jin ci lu
+495;3;36;Xinjinci Rd
+495;2;38;ye yu jie
+495;3;38;Yeyu St
+495;2;41;chai hua xian
+495;3;41;Chaihua Line
+495;2;42;xin lan lu
+495;3;42;Xinlan Rd
+495;2;43;xiao niu xian
+495;3;43;Xiaoniu Line
+495;2;44;chang feng xi jie
+495;3;44;Changfeng West St
+495;2;45;hui tong bei lu
+495;3;45;Huitong North Rd
+495;2;48;xue fu jie
+495;3;48;Xuefu St
+495;2;49;xin jian lu
+495;3;49;Xinjian Rd
+495;2;50;ying ze da jie
+495;3;50;Yingze Ave
+495;2;51;da tong lu
+495;3;51;Datong Rd
+495;2;52;shui xi men jie
+495;3;52;Shuiximen St
+495;2;53;yang shi jie
+495;3;53;Yangshi St
+495;2;54;fu xi jie
+495;3;54;Fuxi St
+495;2;55;han xi men jie
+495;3;55;Hanximen St
+495;2;56;liu xi jie
+495;3;56;Liuxi St
+495;2;57;bei da jie
+495;3;57;Beida St
+495;2;58;sheng li jie
+495;3;58;Shengli St
+495;2;59;xin jian nan lu
+495;3;59;Xinjian South Rd
+495;2;60;nan nei huan jie
+495;3;60;S Inner Ring St
+495;2;61;shuang ta xi jie
+495;3;61;Shuangta West St
+495;2;62;kang le jie
+495;3;62;Kangle St
+495;2;63;ping yang lu
+495;3;63;Pingyang Rd
+495;2;64;nan zhong huan jie
+495;3;64;Nanzhonghuan St
+495;2;65;qin xian bei jie
+495;3;65;Qinxian North St
+495;2;66;wang cun nan jie
+495;3;66;Wangcun South St
+495;2;67;chang feng jie
+495;3;67;Changfeng St
+495;2;68;jian she nan lu
+495;3;68;Jianshe South Rd
+495;2;69;ying ze nan jie
+495;3;69;Yingze South St
+495;2;70;di cun jie
+495;3;70;Dicun St
+495;2;71;shuang ta si jie
+495;3;71;Shuangtasi St
+495;2;72;bing zhou dong jie
+495;3;72;Bingzhou East St
+495;2;73;jian she bei lu
+495;3;73;Jianshe North Rd
+495;2;74;wu yi dong jie
+495;3;74;Wuyi East St
+495;2;75;wu long kou jie
+495;3;75;Wulongkou St
+495;2;76;fu dong jie
+495;3;76;Fudong St
+495;2;77;ying chun jie
+495;3;77;Yingchun St
+495;2;78;jian he lu
+495;3;78;Jianhe Rd
+495;2;79;jie fang bei lu
+495;3;79;Jiefang North Rd
+495;2;80;dong shan ma lu
+495;3;80;Dongshan Rd
+495;2;81;G208
+495;3;81;G208
+495;2;82;da wang xian
+495;3;82;Dawang Line
+495;2;83;fen dong nan lu
+495;3;83;Fendong South Rd
+495;2;84;da yun gong lu
+495;3;84;Dayun Hwy
+495;2;85;chang sheng xi jie
+495;3;85;Changsheng West St
+495;2;86;tong da xi jie
+495;3;86;Tongda West St
+495;2;87;ren min bei lu
+495;3;87;Renmin North Rd
+495;2;89;ping yang nan lu
+495;3;89;Pingyang South Rd
+495;2;90;nan wai huan lu
+495;3;90;S Outer Ring Rd
+495;2;91;heng shan lu
+495;3;91;Hengshan Rd
+495;2;92;jian he xi jie
+495;3;92;Jianhe West St
+495;2;93;gang yuan lu
+495;3;93;Gangyuan Rd
+495;2;94;xin cheng nan da jie
+495;3;94;Xincheng South Ave
+495;2;96;jin qiao dong jie
+495;3;96;Jinqiao East St
+495;2;97;xi kuang jie
+495;3;97;Xikuang St
+495;2;98;bai jia zhuang lu
+495;3;98;Baijiazhuang Rd
+495;2;99;ying ze xi da jie
+495;3;99;Yingze West Ave
+495;2;100;wa liu lu
+495;3;100;Waliu Rd
+495;2;101;he ping bei lu
+495;3;101;Heping North Rd
+495;2;103;da wang lu
+495;3;103;Dawang Rd
+495;2;104;xi qu lu
+495;3;104;Xiqu Rd
+495;2;105;tao yuan bei lu
+495;3;105;Taoyuan North Rd
+495;2;106;nan hai jie
+495;3;106;Nanhai St
+495;2;107;jie fang lu
+495;3;107;Jiefang Rd
+495;2;108;liu xiang nan lu
+495;3;108;Liuxiang South Rd
+495;2;116;xi yu dong jie
+495;3;116;Xiyu East St
+495;2;117;bin he xi lu
+495;3;117;Binhe West Rd
+495;2;118;nan nei huan xi jie
+495;3;118;S Inner Ring West St
+495;2;120;hou wang nan jie
+495;3;120;Houwang South St
+495;2;121;yi cun bei jie
+495;3;121;Yicun North St
+495;2;123;ren min nan lu
+495;3;123;Renmin South Rd
+495;2;124;chang sheng jie
+495;3;124;Changsheng St
+495;2;125;tong da jie
+495;3;125;Tongda St
+495;2;129;wu luo jie
+495;3;129;Wuluo St
+495;2;130;qing yun jie
+495;3;130;Qingyun St
+495;2;131;ge ta ying cun
+495;3;131;Getaying Village
+495;2;132;wu cheng nan lu
+495;3;132;Wucheng South Rd
+495;2;133;jin yang jie
+495;3;133;Jinyang St
+495;2;134;wu cheng lu
+495;3;134;Wucheng Rd
+495;2;136;bing zhou nan lu
+495;3;136;Bingzhou South Rd
+495;2;137;bing zhou bei lu
+495;3;137;Bingzhou North Rd
+495;2;138;wu yi lu
+495;3;138;Wuyi Rd
+495;2;139;shang ma jie
+495;3;139;Shangma St
+495;2;140;xin min zhong jie
+495;3;140;Xinmin Middle St
+495;2;141;xiao dong men jie
+495;3;141;Xiaodongmen St
+495;2;146;wu pang xian
+495;3;146;Wupang Line
+495;2;147;xi wen zhuang chang sheng lu
+495;3;147;Xiwenzhuangchangsheng Rd
+495;2;148;bin he dong lu
+495;3;148;Binhe East Rd
+495;2;150;jin song lu
+495;3;150;Jinsong Rd
+495;2;151;han xi guan jie
+495;3;151;Hanxiguan St
+495;2;152;sheng li qiao
+495;3;152;Shengli Brg
+495;2;153;nan nei huan qiao
+495;3;153;Nanneihuan Brg
+495;2;154;yi fen qiao
+495;3;154;Yifen Brg
+495;2;155;jin qiao lu
+495;3;155;Jinqiao Rd
+495;2;156;xi yu jie
+495;3;156;Xiyu St
+495;2;157;he ping nan lu
+495;3;157;Heping South Rd
+495;2;159;da zhong jie
+495;3;159;Dazhong St
+495;2;160;wa yao jie
+495;3;160;Wayao St
+495;2;161;yu men he nan yan an
+495;3;161;Yumenhe'nanyan'an
+495;2;162;yi fen jie
+495;3;162;Yifen St
+495;2;163;xing hua jie
+495;3;163;Xinghua St
+495;2;164;xing hua bei jie
+495;3;164;Xinghua North St
+495;2;165;chai xi gong lu
+495;3;165;Chaixi Hwy
+495;2;167;ying bin bei lu
+495;3;167;Yingbin North Rd
+495;2;168;chang zhi lu
+495;3;168;Changzhi Rd
+495;2;169;wu cheng bei jie
+495;3;169;Wucheng North St
+495;2;170;jie fang nan lu
+495;3;170;Jiefang South Rd
+495;2;171;kai hua si jie
+495;3;171;Kaihuasi St
+495;2;172;zhong lou jie
+495;3;172;Zhonglou St
+495;2;173;dong ji hu ying
+495;3;173;E Jihuying
+495;2;174;cheng fang dong jie
+495;3;174;Chengfang East St
+495;2;176;ti yu xi lu
+495;3;176;Tiyu West Rd
+495;2;177;ti yu lu
+495;3;177;Tiyu Rd
+495;2;178;wen hua jie
+495;3;178;Wenhua St
+495;2;179;er ying pan jie
+495;3;179;Eryingpan St
+495;2;184;tao yuan nan lu
+495;3;184;Taoyuan South Rd
+495;2;185;qing nian lu
+495;3;185;Qingnian Rd
+495;2;186;bing zhou xi jie
+495;3;186;Bingzhou West St
+495;2;187;qiao dong jie
+495;3;187;Qiaodong St
+495;2;188;nan guan fang lu
+495;3;188;Nanguanfang Rd
+495;2;189;qiao dong jie bei er xiang
+495;3;189;Qiaodongjiebeier Ln
+495;2;190;xin cheng nan jie
+495;3;190;Xincheng South St
+495;2;191;shuang ta bei lu
+495;3;191;Shuangta North Rd
+495;2;192;jing yuan lu
+495;3;192;Jingyuan Rd
+495;2;193;shui xi guan jie
+495;3;193;Shuixiguan St
+495;2;194;jin song bei lu
+495;3;194;Jinsong North Rd
+495;2;195;du si jie
+495;3;195;Dusi St
+495;2;196;tao yuan san xiang
+495;3;196;Taoyuansan Ln
+495;2;197;qiao tou jie
+495;3;197;Qiaotou St
+495;2;198;xin cheng bei jie
+495;3;198;Xincheng North St
+495;2;199;yu men he bei yan an
+495;3;199;Yumenhebeiyan'an
+495;2;200;qian feng bei lu
+495;3;200;Qianfeng North Rd
+495;2;202;po zi jie
+495;3;202;Pozi St
+495;2;203;xi ji hu ying
+495;3;203;W Jihuying
+495;2;204;san qiao jie
+495;3;204;Sanqiao St
+495;2;205;jin gang yan lu
+495;3;205;Jin'gangyan Rd
+495;2;206;bei xiao qiang
+495;3;206;Beixiaoqiang
+495;2;207;ba ling nan jie
+495;3;207;Baling South St
+495;2;208;dun hua nan lu
+495;3;208;Dunhua South Rd
+495;2;215;xing hua bei xiang
+495;3;215;Xinghua North Ln
+495;2;216;bin xi bei huan lu
+495;3;216;Binxibeihuan Rd
+495;2;217;ying xi jie
+495;3;217;Yingxi St
+495;2;218;qian feng nan lu
+495;3;218;Qianfeng South Rd
+495;2;219;yu he dong jie
+495;3;219;Yuhe East St
+495;2;220;he ping bei lu bei xiang
+495;3;220;Hepingbeilu North Ln
+495;2;221;yi xing lu
+495;3;221;Yixing Rd
+495;2;224;liu xiang
+495;3;224;Liuxiang
+495;2;225;yong kang jie
+495;3;225;Yongkang St
+495;2;227;xin cheng jie
+495;3;227;Xincheng St
+495;2;229;hong gou bei jie
+495;3;229;Honggou North St
+495;2;230;song zhuang lu
+495;3;230;Songzhuang Rd
+495;2;231;wo hu shan lu
+495;3;231;Wohushan Rd
+495;2;240;da wang lu zhi bin he xi lu
+495;3;240;Dawang Rd to Binhe West Rd
+495;2;241;da yu shou fei zhan
+495;3;241;Dayu Tollgate
+495;2;251;gu cheng xi jie
+495;3;251;Gucheng West St
+495;2;257;ji chang zhuan yong xian
+495;3;257;Jichangzhuanyong Line
+495;2;258;tai yuan wu su guo ji ji chang
+495;3;258;Taiyuan Wusu International Airport
+495;2;263;ban shan guo ji hua yuan
+495;3;263;Banshan Int'l Garden
+495;2;268;zhong bei da xue
+495;3;268;Zhongbei University
+495;2;596;tai yuan rao cheng gao su gong lu
+495;3;596;Taiyuanraocheng Hwy
+495;2;597;tai yuan rao cheng gao su gong lu bei duan
+495;3;597;Taiyuanraocheng Hwy North Sect
+495;2;599;tai yuan rao cheng gao su gong lu dong duan
+495;3;599;Taiyuanraocheng Hwy East Sect
+495;2;601;tai yuan rao cheng gao su gong lu nan duan
+495;3;601;Taiyuanraocheng Hwy South Sect
+495;2;604;tai yuan rao cheng gao su gong lu xi duan
+495;3;604;Taiyuanraocheng Hwy West Sect
+495;2;605;xi yuan nan lu
+495;3;605;Xiyuan South Rd
+495;2;607;er guang gao su gong lu tai yuan duan
+495;3;607;Erguang Hwy Taiyuan Sect
+495;2;608;jing kun gao su gong lu tai yuan duan
+495;3;608;Jingkun Hwy Taiyuan Sect
+495;2;611;er guang gao su gong lu
+495;3;611;Erguang Hwy
+495;2;614;dong qi xian
+495;3;614;Dongqi Line
+495;2;615;ni tun shou fei zhan
+495;3;615;Nitun Tollgate
+495;2;616;kang xi gong lu
+495;3;616;Kangxi Hwy
+495;2;617;jing le fu wu qu
+495;3;617;Jingle Service Area
+495;2;620;long cheng da jie
+495;3;620;Longcheng Ave
+495;2;624;shang xiao qiang
+495;3;624;Shangxiaoqiang
+495;2;627;peng cun lu
+495;3;627;Pengcun Rd
+495;2;631;tai yuan bei fu wu qu (er guang gao su gong lu)
+495;3;631;Taiyuan N Service Area (Erguang Hwy)
+495;2;641;shan xi zhong yi xue yuan su she
+495;3;641;Shanxizhongyixueyuansushe
+495;2;642;yang qu shou fei zhan
+495;3;642;Yangqu Tollgate
+495;2;644;bei he wan lu
+495;3;644;Beihewan Rd
+495;2;645;nan tun an ju jie
+495;3;645;Nantun'anju St
+495;2;646;chang xing bei jie
+495;3;646;Changxing North St
+495;2;647;chang xing lu
+495;3;647;Changxing Rd
+495;2;648;chang xing nan jie
+495;3;648;Changxing South St
+495;2;649;xu tan xi jie
+495;3;649;Xutan West St
+495;2;650;yi fen qiao (bin he xi lu)
+495;3;650;Yifen Brg (Binhe West Rd)
+495;2;651;yi fen qiao (fu xi jie)
+495;3;651;Yifen Brg (Fuxi St)
+495;2;652;ying ze da qiao (xi qu lu)
+495;3;652;Yingze Brg (Xiqu Rd)
+495;2;653;ying ze da qiao (jin song lu)
+495;3;653;Yingze Brg (Jinsong Rd)
+495;2;656;sheng li qiao (bin xi bei huan lu)
+495;3;656;Shengli Brg (Binxibeihuan Rd)
+495;2;657;sheng li qiao (bei da jie)
+495;3;657;Shengli Brg (Beida St)
+495;2;658;chang feng qiao (bin he xi lu)
+495;3;658;Changfeng Brg (Binhe West Rd)
+495;2;659;chang feng qiao (chang feng jie)
+495;3;659;Changfeng Brg (Changfeng St)
+495;2;660;nan zhong huan qiao (bin he xi lu)
+495;3;660;Nanzhonghuan Brg (Binhe West Rd)
+495;2;661;nan zhong huan qiao (bin he dong lu)
+495;3;661;Nanzhonghuan Brg (Binhe East Rd)
+495;2;662;xiang yun qiao (bin he dong lu)
+495;3;662;Xiangyun Brg (Binhe East Rd)
+495;2;663;xiang yun qiao (bin he xi lu)
+495;3;663;Xiangyun Brg (Binhe West Rd)
+495;2;664;ping lin gao su gong lu
+495;3;664;Pinglin Hwy
+495;2;665;tai yuan bei fu wu qu
+495;3;665;Taiyuan N Service Area 
+495;2;666;zhang zi tou hu tong shi li jiao qiao
+495;3;666;Zhangzitouhutongshi Jct
+495;2;667;yang jia yu hu tong shi li jiao qiao
+495;3;667;Yangjiayuhutongshi Jct
+495;2;668;chao yang jie hu tong shi li jiao qiao
+495;3;668;Chaoyangjiehutongshi Jct
+495;2;669;tai yuan dong fu wu qu
+495;3;669;Taiyuan E Service Area
+495;2;670;xing hua xi jie
+495;3;670;Xinghua West St
+495;2;671;ping lin gao su gong lu tai yuan duan
+495;3;671;Pingling Hwy Taiyuan Sect
+495;2;672;tai yang gao su gong lu
+495;3;672;Taiyang Hwy
+495;2;673;min hang nan lu
+495;3;673;Minhang South Rd
+495;2;674;huan cheng bei lu
+495;3;674;Huancheng North Rd
+495;2;675;yang qu dong hu tong
+495;3;675;Yangqudonghutong
+495;2;677;S314
+495;3;677;S314
+495;2;680;hua ta cun
+495;3;680;Huata Village
+495;2;681;gang luan xian
+495;3;681;Gangluan Line
+495;2;682;long cheng xi da jie
+495;3;682;Longcheng West Ave
+495;2;683;nan zhong huan xi jie
+495;3;683;Nanzhonghuan West St
+495;2;684;wu yi guang chang
+495;3;684;Wuyiguangchang
+495;2;685;chang feng qiao
+495;3;685;Changfeng Brg
+495;2;686;sheng li qiao dong bei huan lu
+495;3;686;Shengliqiaodongbeihuan Rd
+495;2;687;cai xing jie
+495;3;687;Caixing St
+495;2;688;ying ze da qiao
+495;3;688;Yingze Brg
+495;2;689;xi xiao qiang
+495;3;689;Xixiaoqiang
+495;2;690;chai cun qiao
+495;3;690;Chaicun Brg
+495;2;691;ying ze da qiao bei za dao qiao
+495;3;691;Yingzedaqiaobeizadao Brg
+495;2;692;ying ze da qiao nan za dao qiao
+495;3;692;Yingzedaqiaonanzadao Brg
+495;2;693;xin jin ci lu (long cheng xi da jie)
+495;3;693;Xinjinci Rd (Longcheng W Ave)
+495;2;694;nan nei huan qiao nan za dao qiao
+495;3;694;Nanneihuanqiaonanzadao Brg
+495;2;696;ping yang nan lu (nan zhong huan jie)
+495;3;696;Pingyang South Rd (Nanzhonghuan St)
+495;2;697;wo hu shan lu zhi tai yuan rao cheng gao su gong lu
+495;3;697;Wohushan Rd to Taiyuanraocheng Hwy
+495;2;698;wu yi dong jie nan er xiang
+495;3;698;Wuyidongjienaner Ln
+495;2;699;wu yi jie nan yi xiang
+495;3;699;Wuyijienanyi Ln
+495;2;700;jin yang jie (wu cheng nan lu)
+495;3;700;Jinyang St (Wucheng South Rd)
+495;2;701;tai hang dong jie
+495;3;701;Taihang East St
+495;2;702;chang feng da qiao bei za dao qiao
+495;3;702;Changfengdaqiaobeizadao Brg
+495;2;708;shan xi sheng qing gong zhi ye ji shu xue yuan
+495;3;708;Shanxishengqinggongzhiyejishuxueyuan
+495;2;709;chang hua wan xiao qu
+495;3;709;Changhuawanxiaoqu
+495;2;710;ma dao po jie (cai xing jie)
+495;3;710;Madaopo St (Caixing St)
+495;2;711;tai gang cui xin yuan
+495;3;711;Taigangcuixinyuan
+495;2;712;shuang ta bei xiao qu
+495;3;712;Shuangtabeixiaoqu
+495;2;713;wo hu shan gong lu
+495;3;713;Wohushan Hwy
+495;2;715;sheng li jie xi nan huan lu
+495;3;715;Shenglijiexi'nanhuan Rd
+495;2;716;sheng li qiao xi bei huan lu
+495;3;716;Shengliqiaoxibeihuan Rd
+495;2;717;bei sha he bei yan an
+495;3;717;Beishahebeiyan'an
+495;2;718;ying ze da qiao xi bei za dao qiao
+495;3;718;Yingze Brg Xibeizadao Brg
+495;2;719;ying ze da qiao xi nan za dao qiao
+495;3;719;Yingze Brg Xinanzadao Brg
+495;2;720;ying ze da qiao dong bei za dao qiao
+495;3;720;Yingze Brg Dongbeizadao Brg
+495;2;721;ying ze da qiao dong nan za dao qiao
+495;3;721;Yingze Brg Dongnanzadao Brg
+495;2;722;ya zhou
+495;3;722;Asia
+495;2;723;zhong guo
+495;3;723;China
+495;2;724;shan xi sheng
+495;3;724;SHANXI
+495;2;729;qing yin gao su gong lu
+495;3;729;Qingyin Hwy
+495;2;732;ying bin lu
+495;3;732;Yingbin Rd
+495;2;734;G307
+495;3;734;G307
+495;2;737;G108
+495;3;737;G108
+495;2;1258;jing kun gao su gong lu
+495;3;1258;Jingkun Hwy
+495;2;1268;qiu guo xian
+495;3;1268;Qiuguo Line
+495;2;1269;yun cheng shi
+495;3;1269;Yuncheng
+495;2;1270;jing kun gao su gong lu yun cheng duan
+495;3;1270;Jingkun Hwy Yuncheng Sect
+495;2;1271;long men shou fei zhan
+495;3;1271;Longmen Tollgate
+495;2;1272;he jin xi shou fei zhan
+495;3;1272;Hejin W Tollgate
+495;2;1274;he jin fu wu qu
+495;3;1274;Hejin Service Area
+495;2;1275;ying yun xian
+495;3;1275;Yingyun Line
+495;2;1278;jin hou gao su gong lu
+495;3;1278;Jinhou Hwy
+495;2;1280;lin fen shi
+495;3;1280;Linfen
+495;2;1281;jing kun gao su gong lu lin fen duan
+495;3;1281;Jingkun Hwy Linfen Sect
+495;2;1282;xiang fen fu wu qu
+495;3;1282;Xiangfen Service Area
+495;2;1283;bei chai shou fei zhan
+495;3;1283;Beichai Tollgate
+495;2;1284;ying bin da dao
+495;3;1284;Yingbin Blvd
+495;2;1285;lin fen fu wu qu
+495;3;1285;Linfen Service Area
+495;2;1286;tu men shou fei zhan
+495;3;1286;Tumen Tollgate
+495;2;1287;fei hong xi jie
+495;3;1287;Feihong West St
+495;2;1288;huo zhou fu wu qu
+495;3;1288;Huozhou Service Area
+495;2;1289;huo shang xian
+495;3;1289;Huoshang Line
+495;2;1290;ren yi shou fei zhan
+495;3;1290;Renyi Tollgate
+495;2;1291;jin zhong shi
+495;3;1291;Jinzhong
+495;2;1293;jing kun gao su gong lu jin zhong duan
+495;3;1293;Jingkun Hwy Jinzhong Sect
+495;2;1294;ling shi fu wu qu
+495;3;1294;Lingshi Service Area
+495;2;1295;S221
+495;3;1295;S221
+495;2;1296;jie xiu shou fei zhan
+495;3;1296;Jiexiu Tollgate
+495;2;1297;zhang lan shou fei zhan
+495;3;1297;Zhanglan Tollgate
+495;2;1299;fen ping gao su gong lu
+495;3;1299;Fenping Hwy
+495;2;1300;nan wai huan
+495;3;1300;S Outer Ring
+495;2;1301;ping yao fu wu qu
+495;3;1301;Pingyao Service Area
+495;2;1302;qi jie xian
+495;3;1302;Qijie Line
+495;2;1306;jin zhong fu wu qu
+495;3;1306;Jinzhong Service Area
+495;2;1307;bin yang lu
+495;3;1307;Binyang Rd
+495;2;1308;lv liang shi
+495;3;1308;Lvliang
+495;2;1309;jing kun gao su gong lu lv liang duan
+495;3;1309;Jingkun Hwy Lvliang Sect
+495;2;1310;wen shui dong shou fei zhan
+495;3;1310;Wenshui E Tollgate
+495;2;1311;yang quan shi
+495;3;1311;Yangquan
+495;2;1312;jing kun gao su gong lu yang quan duan
+495;3;1312;Jingkun Hwy Yangquan Sect
+495;2;1313;G207
+495;3;1313;G207
+495;2;1315;qing yin gao su gong lu yang quan duan
+495;3;1315;Qingyin Hwy Yangquan Sect
+495;2;1316;yang quan fu wu qu
+495;3;1316;Yangquan Service Area
+495;2;1339;G209
+495;3;1339;G209
+495;2;1340;xin su xian
+495;3;1340;Xinsu Line
+495;2;1364;yang wu gao su gong lu
+495;3;1364;Yangwu Hwy
+495;2;1365;tai gu gao su gong lu
+495;3;1365;Taigu Hwy
+495;2;1367;bin he bei lu
+495;3;1367;Binhe North Rd
+495;2;1369;xi shan sui dao xi
+495;3;1369;Xishan Tunl W
+495;2;1370;ying ze xi bei huan qiao
+495;3;1370;Yingzexibeihuan Brg
+495;2;1372;nan nei huan xi bei huan qiao
+495;3;1372;Nanneihuanxibeihuan Brg
+495;2;1373;nan nei huan xi nan huan qiao
+495;3;1373;Nanneihuanxi'nanhuan Brg

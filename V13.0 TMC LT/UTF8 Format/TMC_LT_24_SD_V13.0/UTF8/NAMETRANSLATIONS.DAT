@@ -1,0 +1,3177 @@
+﻿CID;LID;NID;NTRANSLATION
+514;2;77448;ya zhou
+514;3;77448;Asia
+514;2;77449;zhong guo
+514;3;77449;China
+514;2;78838;shan dong sheng
+514;3;78838;SHANDONG
+514;2;63203;bin zhou shi
+514;3;63203;Binzhou
+514;2;63213;de zhou shi
+514;3;63213;Dezhou
+514;2;63108;he ze shi
+514;3;63108;Heze
+514;2;76255;ji nan shi
+514;3;76255;Ji'nan
+514;2;63126;ji ning shi
+514;3;63126;Jining
+514;2;63175;lai wu shi
+514;3;63175;Laiwu
+514;2;63163;lin yi shi
+514;3;63163;Linyi
+514;2;40272;qing dao shi
+514;3;40272;Qingdao
+514;2;63223;ri zhao shi
+514;3;63223;Rizhao
+514;2;63149;tai an shi
+514;3;63149;Taian
+514;2;18868;wei hai shi
+514;3;18868;Weihai
+514;2;5919;yan tai shi
+514;3;5919;Yantai
+514;2;63139;zao zhuang shi
+514;3;63139;Zaozhuang
+514;2;63183;zi bo shi
+514;3;63183;Zibo
+514;2;76378;ji wei lu
+514;3;76378;Jiwei Rd
+514;2;76306;er huan nan lu
+514;3;76306;2nd Ring South Rd
+514;2;77382;nan xin zhuang xi lu
+514;3;77382;Nanxinzhuang West Rd
+514;2;76532;ji yi xi chang lu
+514;3;76532;Jiyixichang Rd
+514;2;76332;jing shi lu
+514;3;76332;Jingshi Rd
+514;2;76533;ji chuang er chang lu
+514;3;76533;Jichuangerchang Rd
+514;2;76298;G104 ji nan duan
+514;3;76298;G104 Ji'nan Sect
+514;2;76261;da xue lu
+514;3;76261;Daxue Rd
+514;2;76282;G220
+514;3;76282;G220
+514;2;77383;jing tai gao su gong lu
+514;3;77383;Jingtai Hwy
+514;2;80080;zhong qi lu
+514;3;80080;Zhongqi Rd
+514;2;80053;er huan dong gao jia lu
+514;3;80053;2nd Ring East Viad
+514;2;79548;ji guang gao su gong lu
+514;3;79548;Jiguang Hwy
+514;2;62553;qing lan gao su gong lu
+514;3;62553;Qinglan Hwy
+514;2;41871;qing dao qian wan gang 1 hao shu gang gao su gong lu
+514;3;41871;Qingdaoqianwan'gangyihaoshugang Hwy
+514;2;41862;shuang liu gao jia lu
+514;3;41862;Shuangliu Viad
+514;2;40054;S328
+514;3;40054;S328
+514;2;40086;S219
+514;3;40086;S219
+514;2;41908;long hai lu
+514;3;41908;Longhai Rd
+514;2;41876;ao dong lu
+514;3;41876;Aodong Rd
+514;2;76270;ji chang gao su gong lu
+514;3;76270;Jichang Hwy
+514;2;77471;qing yin gao su gong lu
+514;3;77471;Qingyin Hwy
+514;2;80046;ji chang shou fei zhan
+514;3;80046;Airport Tollgate
+514;2;79533;rao cheng gao su gong lu
+514;3;79533;Raocheng Hwy
+514;2;80112;ying bin nan lu
+514;3;80112;Yingbin South Rd
+514;2;80042;ji nan yin jia lin shu niu li jiao
+514;3;80042;Ji'nanyinjialinshuniu Jct
+514;2;76307;G308
+514;3;76307;G308
+514;2;79530;G104
+514;3;79530;G104
+514;2;76520;tian qiao fu wu qu
+514;3;76520;Tianqiao Service Area
+514;2;76444;he hua lu
+514;3;76444;Hehua Rd
+514;2;76400;gong ye bei lu
+514;3;76400;Gongye North Rd
+514;2;77385;jing shi dong lu
+514;3;77385;Jingshi East Rd
+514;2;79483;jing hu gao su gong lu
+514;3;79483;Jinghu Hwy
+514;2;76273;S103
+514;3;76273;S103
+514;2;40394;qing xin gao su gong lu
+514;3;40394;Qingxin Hwy
+514;2;62901;rong wu gao su gong lu
+514;3;62901;Rongwu Hwy
+514;2;63898;G204
+514;3;63898;G204
+514;2;38664;qing wei lu
+514;3;38664;Qingwei Rd
+514;2;38945;chang jiang er lu
+514;3;38945;Changjianger Rd
+514;2;40392;wei qing gao su gong lu
+514;3;40392;Weiqing Hwy
+514;2;41944;lan wang xian
+514;3;41944;Lanwang Line
+514;2;40397;ji mo ting che qu
+514;3;40397;Jimo Parking Area
+514;2;41945;yi kang lu
+514;3;41945;Yikang Rd
+514;2;41861;shen hai gao su gong lu
+514;3;41861;Shenhai Hwy
+514;2;40399;san cheng lu
+514;3;40399;Sancheng Rd
+514;2;40153;ping du fu wu qu
+514;3;40153;Pingdu Service Area
+514;2;41865;rong wei gao su gong lu
+514;3;41865;Rongwei Hwy
+514;2;48039;zhang you lu
+514;3;48039;Zhangyou Rd
+514;2;40048;S220
+514;3;40048;S220
+514;2;48006;rong wei gao su gong lu (long men xi lu)
+514;3;48006;Rongwei Hwy (Longmen West Rd)
+514;2;41888;hai bo er lu
+514;3;41888;Haiboer Rd
+514;2;41889;S334 (song yun lu)
+514;3;41889;S334 (Songyun Rd)
+514;2;40288;hai xi lu
+514;3;40288;Haixi Rd
+514;2;40443;tai shan lu (shang hai lu)
+514;3;40443;Taishan Rd (Shanghai Rd)
+514;2;48063;da zhuang li jiao
+514;3;48063;Dazhuang Jct
+514;2;48064;huang shan li jiao
+514;3;48064;Huangshan Jct
+514;2;41890;huan tai bei lu
+514;3;41890;Huantai North Rd
+514;2;40062;S395
+514;3;40062;S395
+514;2;40534;fu zhou bei lu (zheng zhou dong lu)
+514;3;40534;Fuzhou North Rd (Zhengzhou East Rd)
+514;2;40057;ying bin da jie
+514;3;40057;Yingbin Ave
+514;2;41946;ao dong bei lu (jin hong dong lu)
+514;3;41946;Aodong North Rd (Jinhong East Rd)
+514;2;41947;shuang yuan lu (jin hong dong lu)
+514;3;41947;Shuangyuan Rd (Jinhong East Rd)
+514;2;40516;he yang lu
+514;3;40516;Heyang Rd
+514;2;48065;xi ying men li jiao qiao
+514;3;48065;Xiyingmen Jct
+514;2;48066;cheng yang nan li jiao
+514;3;48066;Chengyang South Jct
+514;2;40535;zheng yang dong lu
+514;3;40535;Zhengyang East Rd
+514;2;40537;xi fu lu
+514;3;40537;Xifu Rd
+514;2;40538;hai he lu
+514;3;40538;Haihe Rd
+514;2;38681;wen hua lu
+514;3;38681;Wenhua Rd
+514;2;38682;lan ao lu
+514;3;38682;Lan'ao Rd
+514;2;40058;S394
+514;3;40058;S394
+514;2;40412;yan tai lu (yan qing gong lu)
+514;3;40412;Yantai Rd (Yanqing Hwy)
+514;2;5984;X016
+514;3;5984;X016
+514;2;5985;kong gang lu
+514;3;5985;Konggang Rd
+514;2;76896;ji chang lu
+514;3;76896;Jichang Rd
+514;2;6039;da hai yang lu
+514;3;6039;Dahaiyang Rd
+514;2;6020;he bin lu
+514;3;6020;Hebin Rd
+514;2;15863;du jia tuan li jiao
+514;3;15863;Dujiatuan Jct
+514;2;6017;gang cheng xi da jie
+514;3;6017;Gangcheng West Ave
+514;2;6057;wo long zhong lu
+514;3;6057;Wolong Middle Rd
+514;2;6090;hong qi zhong lu
+514;3;6090;Hongqi Middle Rd
+514;2;41941;G204 zhi qing wei lu
+514;3;41941;G204 to Qingwei Rd
+514;2;40025;wen yang lu
+514;3;40025;Wenyang Rd
+514;2;40384;chong yang lu
+514;3;40384;Chongyang Rd
+514;2;63894;G206
+514;3;63894;G206
+514;2;6122;jia ling jiang lu
+514;3;6122;Jialingjiang Rd
+514;2;15872;fu shan li jiao
+514;3;15872;Fushan Jct
+514;2;5955;bei jing bei lu
+514;3;5955;Beijing North Rd
+514;2;5975;da ji jia lu
+514;3;5975;Dajijia Rd
+514;2;5976;bei jing zhong lu
+514;3;5976;Beijing Middle Rd
+514;2;5980;bei jing nan lu
+514;3;5980;Beijing South Rd
+514;2;5982;chang jiang lu
+514;3;5982;Changjiang Rd
+514;2;48005;kun lun shan lu
+514;3;48005;Kunlunshan Rd
+514;2;6163;qing dao da jie
+514;3;6163;Qingdao Ave
+514;2;6161;nan chang da jie
+514;3;6161;Nanchang Ave
+514;2;6162;su zhou da jie
+514;3;6162;Suzhou Ave
+514;2;5956;shang hai da jie
+514;3;5956;Shanghai Ave
+514;2;41396;shao xing lu
+514;3;41396;Shaoxing Rd
+514;2;80082;da you qi che qiao
+514;3;80082;Dayouqiche Brg
+514;2;80083;xing cun li jiao
+514;3;80083;Xingcun Jct
+514;2;76334;zhang zhuang lu
+514;3;76334;Zhangzhuang Rd
+514;2;76335;er huan xi lu
+514;3;76335;2nd Ring West Rd
+514;2;77384;duan xing xi lu
+514;3;77384;Duanxing West Rd
+514;2;76468;ying shi jie
+514;3;76468;Yingshi St
+514;2;80036;nan xin zhuang jie
+514;3;80036;Nanxinzhuang St
+514;2;76336;wei shi er lu
+514;3;76336;Weishier Rd
+514;2;76573;wei qi lu
+514;3;76573;Weiqi Rd
+514;2;76337;wei wu lu
+514;3;76337;Weiwu Rd
+514;2;76338;wei er lu
+514;3;76338;Weier Rd
+514;2;76339;wei yi lu
+514;3;76339;Weiyi Rd
+514;2;76501;min sheng da jie
+514;3;76501;Minsheng Ave
+514;2;76268;shun he gao jia lu
+514;3;76268;Shunhe Viad
+514;2;76340;qing nian dong lu
+514;3;76340;Qingnian East Rd
+514;2;76500;qian fo shan lu
+514;3;76500;Qianfoshan Rd
+514;2;76341;li shan lu
+514;3;76341;Lishan Rd
+514;2;76342;shan shi dong lu
+514;3;76342;Shanshi East Rd
+514;2;76343;shan da lu
+514;3;76343;Shanda Rd
+514;2;76597;jiang shui quan lu
+514;3;76597;Jiangshuiquan Rd
+514;2;76345;zhuan shan xi lu
+514;3;76345;Zhuanshan West Rd
+514;2;76590;ao ti xi lu
+514;3;76590;Aoti West Rd
+514;2;76793;ao ti zhong lu
+514;3;76793;Aoti Middle Rd
+514;2;76585;ao ti dong lu
+514;3;76585;Aoti East Rd
+514;2;76346;shun hua lu
+514;3;76346;Shunhua Rd
+514;2;79712;feng huang lu
+514;3;79712;Fenghuang Rd
+514;2;76347;feng shan lu
+514;3;76347;Fengshan Rd
+514;2;76348;feng ming lu
+514;3;76348;Fengming Rd
+514;2;76522;jing shi xi lu
+514;3;76522;Jingshi West Rd
+514;2;77433;song yuan xin qu
+514;3;77433;Songyuan Xinqu
+514;2;39977;ha er bin lu
+514;3;39977;Haerbin Rd
+514;2;39962;an shan lu
+514;3;39962;Anshan Rd
+514;2;39278;he fei lu
+514;3;39278;Hefei Rd
+514;2;39964;fu shun lu
+514;3;39964;Fushun Rd
+514;2;39984;yi chun lu
+514;3;39984;Yichun Rd
+514;2;39538;nan jing lu
+514;3;39538;Nanjing Rd
+514;2;39981;qing jiang lu
+514;3;39981;Qingjiang Rd
+514;2;38760;fu zhou bei lu
+514;3;38760;Fuzhou North Rd
+514;2;40565;hei long jiang nan lu
+514;3;40565;Heilongjiang South Rd
+514;2;41878;kua hai da qiao gao jia lu
+514;3;41878;Kuahaidaqiao Viad
+514;2;39567;chang sha lu
+514;3;39567;Changsha Rd
+514;2;40554;hei long jiang zhong lu
+514;3;40554;Heilongjiang Middle Rd
+514;2;48067;hai er li jiao qiao
+514;3;48067;Haier Jct
+514;2;40010;zao shan lu
+514;3;40010;Zaoshan Rd
+514;2;38674;da lao lu
+514;3;38674;Dalao Rd
+514;2;38672;jin shui lu
+514;3;38672;Jinshui Rd
+514;2;39492;S214
+514;3;39492;S214
+514;2;39401;shi mei an lu
+514;3;39401;Shimeian Rd
+514;2;39400;xiang tan lu
+514;3;39400;Xiangtan Rd
+514;2;40371;xian shan dong lu
+514;3;40371;Xianshan East Rd
+514;2;39197;zhao hong lu
+514;3;39197;Zhaohong Rd
+514;2;77102;G308 ji nan duan
+514;3;77102;G308 Ji'nan Sect
+514;2;80098;jiao bin li jiao
+514;3;80098;Jiaobin Jct
+514;2;76356;tan tun cun
+514;3;76356;Tantun Village
+514;2;76217;G309
+514;3;76217;G309
+514;2;76364;ji luo lu
+514;3;76364;Jiluo Rd
+514;2;76734;xiao lv zhuang
+514;3;76734;Xiaolvzhuang
+514;2;77386;qiu shan
+514;3;77386;Qiushan
+514;2;80084;gang xi li jiao
+514;3;80084;Gangxi Jct
+514;2;76276;S102
+514;3;76276;S102
+514;2;77434;shan qian zhuang cun
+514;3;77434;Shanqianzhuang Village
+514;2;76297;bei yuan da jie
+514;3;76297;Beiyuan Ave
+514;2;76530;bei yuan gao jia lu
+514;3;76530;Beiyuan Viad
+514;2;76401;huan xiang dian lu
+514;3;76401;Huanxiangdian Rd
+514;2;76402;huang dian da jie
+514;3;76402;Huangdian Ave
+514;2;76403;kai yuan lu
+514;3;76403;Kaiyuan Rd
+514;2;76404;ba wang lu
+514;3;76404;Bawang Rd
+514;2;76535;gong ye nan lu
+514;3;76535;Gongye South Rd
+514;2;76405;xin cun zhong lu
+514;3;76405;Xincun Middle Rd
+514;2;80085;ji nan guo dian li jiao qiao
+514;3;80085;Ji'nanguodian Jct
+514;2;80086;ji nan nan hu tong li jiao
+514;3;80086;Ji'nannanhutong Jct
+514;2;18962;S201
+514;3;18962;S201
+514;2;22124;xin chu zhang lu
+514;3;22124;Xinchuzhang Rd
+514;2;18964;dong jia cun
+514;3;18964;Dongjia Village
+514;2;18893;X02
+514;3;18893;X02
+514;2;41666;song shan lu
+514;3;41666;Songshan Rd
+514;2;18897;qing dao nan lu
+514;3;18897;Qingdao South Rd
+514;2;19091;hai bu nan lu
+514;3;19091;Haibu South Rd
+514;2;18965;S301
+514;3;18965;S301
+514;2;38883;S202
+514;3;38883;S202
+514;2;38884;yan qing lu
+514;3;38884;Yanqing Rd
+514;2;40520;zhu jiang er lu
+514;3;40520;Zhujianger Rd
+514;2;40479;zheng yang zhong lu
+514;3;40479;Zhengyang Middle Rd
+514;2;38891;yan yang lu
+514;3;38891;Yanyang Rd
+514;2;40030;chong qing bei lu
+514;3;40030;Chongqing North Rd
+514;2;40032;chong qing zhong lu
+514;3;40032;Chongqing Middle Rd
+514;2;48007;chang cheng lu (S602)
+514;3;48007;Changcheng Rd (S602)
+514;2;41461;ying bin lu
+514;3;41461;Yingbin Rd
+514;2;40603;cheng yang qu liu ting xiao xue
+514;3;40603;Chengyangqu Liuting Pri Sch
+514;2;39965;chong qing nan lu
+514;3;39965;Chongqing South Rd
+514;2;39371;wen zhou lu
+514;3;39371;Wenzhou Rd
+514;2;39563;zheng zhou lu
+514;3;39563;Zhengzhou Rd
+514;2;39961;an shan er lu
+514;3;39961;Anshaner Rd
+514;2;39967;rui chang lu
+514;3;39967;Ruichang Rd
+514;2;39026;de feng lu
+514;3;39026;Defeng Rd
+514;2;39025;beng bu lu
+514;3;39025;Bengbu Rd
+514;2;39024;de xing lu
+514;3;39024;Dexing Rd
+514;2;39555;luo yang lu
+514;3;39555;Luoyang Rd
+514;2;40006;qing shan lu
+514;3;40006;Qingshan Rd
+514;2;39262;shu yuan lu
+514;3;39262;Shuyuan Rd
+514;2;39384;zhen hua lu
+514;3;39384;Zhenhua Rd
+514;2;39012;sheng ping dong lu
+514;3;39012;Shengping East Rd
+514;2;39389;tang shan lu
+514;3;39389;Tangshan Rd
+514;2;39003;lou shan lu
+514;3;39003;Loushan Rd
+514;2;39217;zun yi lu
+514;3;39217;Zunyi Rd
+514;2;19093;wei qing yi ji lu
+514;3;19093;Weiqingyiji Rd
+514;2;18880;S204
+514;3;18880;S204
+514;2;19038;ma shan lu
+514;3;19038;Mashan Rd
+514;2;22128;shan hai lu
+514;3;22128;Shanhai Rd
+514;2;21883;S206
+514;3;21883;S206
+514;2;15842;kun yu shan lu
+514;3;15842;Kunyushan Rd
+514;2;6001;lei shen miao da jie
+514;3;6001;Leishenmiao Ave
+514;2;5996;S207
+514;3;5996;S207
+514;2;15866;jin niu shan lu
+514;3;15866;Jinniushan Rd
+514;2;15867;wu wu lu
+514;3;15867;Wuwu Rd
+514;2;6063;gong shang da jie
+514;3;6063;Gongshang Ave
+514;2;6008;dong guan lu
+514;3;6008;Dongguan Rd
+514;2;5998;xing wu lu
+514;3;5998;Xingwu Rd
+514;2;6460;xi jiao lu
+514;3;6460;Xijiao Rd
+514;2;6006;mou shan lu
+514;3;6006;Moushan Rd
+514;2;5940;tong hai lu
+514;3;5940;Tonghai Rd
+514;2;6007;zheng yang lu
+514;3;6007;Zhengyang Rd
+514;2;39493;jiu shui dong lu
+514;3;39493;Jiushui East Rd
+514;2;39427;wan nian quan lu
+514;3;39427;Wannianquan Rd
+514;2;40008;jiu shui xi lu
+514;3;40008;Jiushui West Rd
+514;2;5994;S208
+514;3;5994;S208
+514;2;5961;ao ke ma da jie
+514;3;5961;Aokema Ave
+514;2;6028;zhen da lu
+514;3;6028;Zhenda Rd
+514;2;15870;lai shan li jiao
+514;3;15870;Laishan Jct
+514;2;38885;S209
+514;3;38885;S209
+514;2;38676;hai er lu
+514;3;38676;Haier Rd
+514;2;38937;hua cheng lu
+514;3;38937;Huacheng Rd
+514;2;38938;zhong cheng lu
+514;3;38938;Zhongcheng Rd
+514;2;61439;chang cheng lu
+514;3;61439;Changcheng Rd
+514;2;6446;rong wu gao su gong lu yan tai duan
+514;3;6446;Rongwu Hwy Yantai Sect
+514;2;22125;yan wei yi ji gong lu
+514;3;22125;Yanweiyiji Hwy
+514;2;5925;S308
+514;3;5925;S308
+514;2;40088;S218
+514;3;40088;S218
+514;2;5927;lai zhou fu wu qu
+514;3;5927;Laizhou Service Area
+514;2;5928;hai lai xian
+514;3;5928;Hailai Line
+514;2;15844;yan tai lai zhou shu gang gao su gong lu
+514;3;15844;Yantailaizhoushugang Hwy
+514;2;40145;S217
+514;3;40145;S217
+514;2;5930;S304
+514;3;5930;S304
+514;2;5931;zhao yuan fu wu qu
+514;3;5931;Zhaoyuan Service Area
+514;2;15845;S608
+514;3;15845;S608
+514;2;5992;nan shan lu
+514;3;5992;Nanshan Rd
+514;2;5934;S213
+514;3;5934;S213
+514;2;5935;S211
+514;3;5935;S211
+514;2;5936;peng lai fu wu qu
+514;3;5936;Penglai Service Area
+514;2;15846;yan tai xi gang qu shu gang gao su gong lu
+514;3;15846;Yantaixigangqushugang Hwy
+514;2;15847;shang hai da jie (rao cheng gao su gong lu)
+514;3;15847;Shanghai Ave (Raocheng Hwy)
+514;2;15848;shen hai gao su gong lu (rao cheng gao su gong lu)
+514;3;15848;Shenhai Hwy (Raocheng Hwy)
+514;2;15852;gang cheng xi da jie (rao cheng gao su gong lu)
+514;3;15852;Gangcheng West Ave (Raocheng Hwy)
+514;2;15853;fu tao lu (rao cheng gao su gong lu)
+514;3;15853;Futao Rd (Raocheng Hwy)
+514;2;15854;ji chang lu (rao cheng gao su gong lu)
+514;3;15854;Jichang Rd (Raocheng Hwy)
+514;2;15855;ao ke ma da jie (rao cheng gao su gong lu)
+514;3;15855;Aokema Ave (Raocheng Hwy)
+514;2;15857;guan hai lu (rao cheng gao su gong lu)
+514;3;15857;Guanhai Rd (Raocheng Hwy)
+514;2;5941;gao er fu lu
+514;3;5941;Gaoerfu Rd
+514;2;5942;jiu guan chu ru kou
+514;3;5942;Jiuguanchurukou
+514;2;6018;bing lun lu
+514;3;6018;Binglun Rd
+514;2;5972;zhi chu lu
+514;3;5972;Zhichu Rd
+514;2;6019;hong qi xi lu
+514;3;6019;Hongqi West Rd
+514;2;6016;fu tao lu
+514;3;6016;Futao Rd
+514;2;15871;chong yi li jiao
+514;3;15871;Chongyi Jct
+514;2;5993;ming quan lu
+514;3;5993;Mingquan Rd
+514;2;6014;ying te er da dao
+514;3;6014;Yingteer Blvd
+514;2;39474;xiang gang dong lu
+514;3;39474;Xianggang East Rd
+514;2;39486;bin hai gong lu
+514;3;39486;Binhai Hwy
+514;2;41891;lao shan lu
+514;3;41891;Laoshan Rd
+514;2;41948;Z004
+514;3;41948;Z004
+514;2;40068;S296
+514;3;40068;S296
+514;2;41892;Z005
+514;3;41892;Z005
+514;2;48021;hua xian lu
+514;3;48021;Huaxian Rd
+514;2;40382;tie qi shan lu
+514;3;40382;Tieqishan Rd
+514;2;48008;ta shan
+514;3;48008;Tashan
+514;2;38761;ning xia lu
+514;3;38761;Ningxia Rd
+514;2;38749;qing da yi lu
+514;3;38749;Qingdayi Rd
+514;2;39467;hai jiang lu
+514;3;39467;Haijiang Rd
+514;2;39470;hai long lu
+514;3;39470;Hailong Rd
+514;2;39471;hai an lu
+514;3;39471;Haian Rd
+514;2;39464;dong hai dong lu
+514;3;39464;Donghai East Rd
+514;2;41747;shen zhen lu
+514;3;41747;Shenzhen Rd
+514;2;39484;qin ling lu
+514;3;39484;Qinling Rd
+514;2;39485;yun ling lu
+514;3;39485;Yunling Rd
+514;2;6067;bin hai dong lu
+514;3;6067;Binhai East Rd
+514;2;6005;zheng fu da jie
+514;3;6005;Zhengfu Ave
+514;2;15840;cheng long xian
+514;3;15840;Chenglong Line
+514;2;6064;ning hai da jie
+514;3;6064;Ninghai Ave
+514;2;6065;xin cheng da jie
+514;3;6065;Xincheng Ave
+514;2;6066;san shan da jie
+514;3;6066;Sanshan Ave
+514;2;38847;S309
+514;3;38847;S309
+514;2;38905;shuang yuan lu
+514;3;38905;Shuangyuan Rd
+514;2;41902;jin hong dong lu
+514;3;41902;Jinhong East Rd
+514;2;40285;hai er da dao
+514;3;40285;Haier Blvd
+514;2;40143;xiang gang lu
+514;3;40143;Xianggang Rd
+514;2;40291;chang jiang xi lu
+514;3;40291;Changjiang West Rd
+514;2;40165;huai he xi lu
+514;3;40165;Huaihe West Rd
+514;2;40292;xiang jiang lu
+514;3;40292;Xiangjiang Rd
+514;2;40293;qi chang cheng lu
+514;3;40293;Qichangcheng Rd
+514;2;40202;qian wan gang lu
+514;3;40202;Qianwan'gang Rd
+514;2;41894;wei he lu
+514;3;41894;Weihe Rd
+514;2;40178;huang he xi lu
+514;3;40178;Huanghe West Rd
+514;2;40390;qing dao liu ting ji chang
+514;3;40390;Qingdao Liuting Airport
+514;2;40226;chang cheng nan lu
+514;3;40226;Changcheng South Rd
+514;2;6036;nan da jie
+514;3;6036;Nanda St
+514;2;6035;xi pao tai nan lu
+514;3;6035;Xipaotai South Rd
+514;2;76980;jie fang lu
+514;3;76980;Jiefang Rd
+514;2;76973;jian she lu
+514;3;76973;Jianshe Rd
+514;2;6038;qing nian lu
+514;3;6038;Qingnian Rd
+514;2;6040;hai gang lu
+514;3;6040;Haigang Rd
+514;2;6041;xi nan he lu
+514;3;6041;Xi'nanhe Rd
+514;2;6042;sheng li lu
+514;3;6042;Shengli Rd
+514;2;6043;bei he jie
+514;3;6043;Beihe St
+514;2;18978;qing dao bei lu
+514;3;18978;Qingdao North Rd
+514;2;18958;qing dao zhong lu
+514;3;18958;Qingdao Middle Rd
+514;2;18981;qi jia kuang lu
+514;3;18981;Qijiakuang Rd
+514;2;18979;cang kou lu
+514;3;18979;Cangkou Rd
+514;2;18980;yu gang lu
+514;3;18980;Yugang Rd
+514;2;18975;hai nan lu
+514;3;18975;Hainan Rd
+514;2;18896;zhu hai lu
+514;3;18896;Zhuhai Rd
+514;2;41760;bin hai da dao
+514;3;41760;Binhai Blvd
+514;2;40312;jia ling jiang dong lu
+514;3;40312;Jialingjiang East Rd
+514;2;39660;jiao zhou lu
+514;3;39660;Jiaozhou Rd
+514;2;48012;jia ling jiang lu lian jie xian li jiao
+514;3;48012;Jialingjianglulianjiexian Jct
+514;2;18953;wei jia tan cun
+514;3;18953;Weijiatan Village
+514;2;19122;qing hua jie
+514;3;19122;Qinghua St
+514;2;18952;hai bu lu
+514;3;18952;Haibu Rd
+514;2;41670;huang hai lu
+514;3;41670;Huanghai Rd
+514;2;41728;shang hai lu
+514;3;41728;Shanghai Rd
+514;2;18970;hua xia lu
+514;3;18970;Huaxia Rd
+514;2;18971;hai feng lu
+514;3;18971;Haifeng Rd
+514;2;40151;S603
+514;3;40151;S603
+514;2;39416;miao ling lu
+514;3;39416;Miaoling Rd
+514;2;39277;liao yang dong lu
+514;3;39277;Liaoyang East Rd
+514;2;48010;zhu zhou lu
+514;3;48010;Zhuzhou Rd
+514;2;40262;tian shui lu
+514;3;40262;Tianshui Rd
+514;2;41898;S396
+514;3;41898;S396
+514;2;40524;tai an jie
+514;3;40524;Taian St
+514;2;40391;S297
+514;3;40391;S297
+514;2;40447;li jiang xi lu
+514;3;40447;Lijiang West Rd
+514;2;40302;jiang shan nan lu
+514;3;40302;Jiangshan South Rd
+514;2;40303;tai hang shan lu
+514;3;40303;Taihangshan Rd
+514;2;40376;yin he lu
+514;3;40376;Yinhe Rd
+514;2;48011;Y205
+514;3;48011;Y205
+514;2;40171;chong ming dao dong lu
+514;3;40171;Chongmingdao East Rd
+514;2;40190;zhai tang dao jie
+514;3;40190;Zhaitangdao St
+514;2;40170;liu gong dao lu
+514;3;40170;Liugongdao Rd
+514;2;40191;da gong dao lu
+514;3;40191;Dagongdao Rd
+514;2;40187;chong ming dao xi lu
+514;3;40187;Chongmingdao West Rd
+514;2;40169;peng hu dao jie
+514;3;40169;Penghudao St
+514;2;40188;hai tan dao jie
+514;3;40188;Haitandao St
+514;2;40189;zhou shan dao lu
+514;3;40189;Zhoushandao Rd
+514;2;40184;huang he dong lu
+514;3;40184;Huanghe East Rd
+514;2;40183;jiang shan zhong lu
+514;3;40183;Jiangshan Middle Rd
+514;2;40185;long gang shan lu
+514;3;40185;Longgangshan Rd
+514;2;40186;ta shan lu
+514;3;40186;Tashan Rd
+514;2;41496;huang he lu
+514;3;41496;Huanghe Rd
+514;2;40502;S299
+514;3;40502;S299
+514;2;48068;ling zhu shan yi yuan
+514;3;48068;Lingzhushanyiyuan
+514;2;41493;tian shan lu
+514;3;41493;Tianshan Rd
+514;2;40181;huang he zhong lu
+514;3;40181;Huanghe Middle Rd
+514;2;76576;kai tuo lu
+514;3;76576;Kaituo Rd
+514;2;40167;tuan jie lu
+514;3;40167;Tuanjie Rd
+514;2;18961;X01
+514;3;18961;X01
+514;2;18921;shi chang da dao
+514;3;18921;Shichang Blvd
+514;2;77194;wen hua xi lu
+514;3;77194;Wenhua West Rd
+514;2;18920;hai bin bei lu
+514;3;18920;Haibin North Rd
+514;2;18922;huo ju lu
+514;3;18922;Huoju Rd
+514;2;18923;dan dong lu
+514;3;18923;Dandong Rd
+514;2;18924;ke ji lu
+514;3;18924;Keji Rd
+514;2;41679;shen yang lu
+514;3;41679;Shenyang Rd
+514;2;41681;fu shan lu
+514;3;41681;Fushan Rd
+514;2;18912;gu zhai xi lu
+514;3;18912;Guzhai West Rd
+514;2;18913;gu zhai dong lu
+514;3;18913;Guzhai East Rd
+514;2;77217;he ping lu
+514;3;77217;Heping Rd
+514;2;18917;tong yi lu
+514;3;18917;Tongyi Rd
+514;2;18926;dong cheng lu
+514;3;18926;Dongcheng Rd
+514;2;18918;xin wei lu
+514;3;18918;Xinwei Rd
+514;2;21854;S302
+514;3;21854;S302
+514;2;6012;yong da jie
+514;3;6012;Yongda St
+514;2;18887;jiu guan cun
+514;3;18887;Jiuguan Village
+514;2;77181;feng huang shan lu
+514;3;77181;Fenghuangshan Rd
+514;2;18892;shen yang nan lu
+514;3;18892;Shenyang South Rd
+514;2;18894;S302 (jiu)
+514;3;18894;S302(Former)
+514;2;5939;guan hai lu
+514;3;5939;Guanhai Rd
+514;2;6157;X018
+514;3;6157;X018
+514;2;5986;he ping lu
+514;3;5986;Heping Rd
+514;2;6004;mou xin lu
+514;3;6004;Mouxin Rd
+514;2;5989;lu shan lu
+514;3;5989;Lushan Rd
+514;2;21942;fu hai lu
+514;3;21942;Fuhai Rd
+514;2;5990;qi quan lu
+514;3;5990;Qiquan Rd
+514;2;6010;hui fu jie
+514;3;6010;Huifu St
+514;2;6011;pu wan jie
+514;3;6011;Puwan St
+514;2;6015;he bin nan lu
+514;3;6015;Hebin South Rd
+514;2;15832;shan hai nan lu
+514;3;15832;Shanhai South Rd
+514;2;18898;hai bin nan lu
+514;3;18898;Haibin South Rd
+514;2;19111;da xi zhuang cun
+514;3;19111;Daxizhuang Village
+514;2;19109;S302 zhi rong wu gao su gong lu
+514;3;19109;S302 to Rongwu Hwy
+514;2;38852;hua shan san lu
+514;3;38852;Huashansan Rd
+514;2;41652;S203
+514;3;41652;S203
+514;2;48069;lai qing lu (tai an jie)
+514;3;48069;Laiqing Rd (Taian St)
+514;2;41903;ao dong bei lu
+514;3;41903;Aodong North Rd
+514;2;40444;zheng yang xi lu
+514;3;40444;Zhengyang West Rd
+514;2;41900;tian hai lu
+514;3;41900;Tianhai Rd
+514;2;41901;ao dong zhong lu
+514;3;41901;Aodong Middle Rd
+514;2;41872;ao dong nan lu
+514;3;41872;Aodong South Rd
+514;2;41985;dong da yang cun
+514;3;41985;Dongdayang Village
+514;2;41877;jiao zhou wan da qiao
+514;3;41877;Jiaozhouwan Brg
+514;2;41899;geng hai lu
+514;3;41899;Genghai Rd
+514;2;38947;song shan er lu
+514;3;38947;Songshaner Rd
+514;2;38868;tai shan yi lu
+514;3;38868;Taishanyi Rd
+514;2;48013;bu xi lu
+514;3;48013;Buxi Rd
+514;2;40163;qian shan bei lu
+514;3;40163;Qianshan North Rd
+514;2;80121;ju yang lu
+514;3;80121;Juyang Rd
+514;2;40160;yan shan lu
+514;3;40160;Yanshan Rd
+514;2;40161;fa jia yuan cun
+514;3;40161;Fajiayuan Village
+514;2;40164;huai he dong lu
+514;3;40164;Huaihe East Rd
+514;2;40162;liao he lu
+514;3;40162;Liaohe Rd
+514;2;40051;S329
+514;3;40051;S329
+514;2;40459;chao yang lu
+514;3;40459;Chaoyang Rd
+514;2;41495;tai shan lu
+514;3;41495;Taishan Rd
+514;2;48070;jiao nan li jiao
+514;3;48070;Jiaonan Jct
+514;2;41955;yuan he lu
+514;3;41955;Yuanhe Rd
+514;2;38768;fu zhou nan lu
+514;3;38768;Fuzhou South Rd
+514;2;48056;huan dao lu
+514;3;48056;Huandao Rd
+514;2;48055;jin sha tan lu
+514;3;48055;Jinshatan Rd
+514;2;48057;gan shui wan cun
+514;3;48057;Ganshuiwan Village
+514;2;48054;shi que tan lu
+514;3;48054;Shiquetan Rd
+514;2;38850;S602
+514;3;38850;S602
+514;2;39271;hai kou lu
+514;3;39271;Haikou Rd
+514;2;39275;yin chuan dong lu
+514;3;39275;Yinchuan East Rd
+514;2;40445;hei long jiang bei lu
+514;3;40445;Heilongjiang North Rd
+514;2;41911;xi yuan lu
+514;3;41911;Xiyuan Rd
+514;2;18932;S704
+514;3;18932;S704
+514;2;18950;bei huan hai lu
+514;3;18950;Beihuanhai Rd
+514;2;41680;ji lin lu
+514;3;41680;Jilin Rd
+514;2;18904;da lian lu
+514;3;18904;Dalian Rd
+514;2;18933;yuan yao dun lu
+514;3;18933;Yuanyaodun Rd
+514;2;19112;hua du fan dian
+514;3;19112;Huadufandian
+514;2;41706;bin hai lu
+514;3;41706;Binhai Rd
+514;2;21954;huan hai lu
+514;3;21954;Huanhai Rd
+514;2;18934;tong yi bei lu
+514;3;18934;Tongyi North Rd
+514;2;19123;jing zi cun
+514;3;19123;Jingzi Village
+514;2;19124;hei dao
+514;3;19124;Heidao Island
+514;2;18987;da qing lu
+514;3;18987;Daqing Rd
+514;2;18959;dong hai lu
+514;3;18959;Donghai Rd
+514;2;18938;dong shan lu
+514;3;18938;Dongshan Rd
+514;2;19104;an hai lu
+514;3;19104;Anhai Rd
+514;2;18940;qi dong kuang lu
+514;3;18940;Qidongkuang Rd
+514;2;18939;yu hua lu
+514;3;18939;Yuhua Rd
+514;2;18983;da zhong lu
+514;3;18983;Dazhong Rd
+514;2;18984;kun ming lu
+514;3;18984;Kunming Rd
+514;2;77207;wen hua dong lu
+514;3;77207;Wenhua East Rd
+514;2;19040;hai bin zhong lu
+514;3;19040;Haibin Middle Rd
+514;2;18954;qi lu da dao
+514;3;18954;Qilu Blvd
+514;2;18977;ping du lu
+514;3;18977;Pingdu Rd
+514;2;77221;huan shan lu
+514;3;77221;Huanshan Rd
+514;2;18927;shen yang zhong lu
+514;3;18927;Shenyang Middle Rd
+514;2;19117;jiu feng jie
+514;3;19117;Jiufeng St
+514;2;19106;xian gu ding feng jing qu
+514;3;19106;Xianguding Scenic Area
+514;2;40090;jiang shan bei lu
+514;3;40090;Jiangshan North Rd
+514;2;41863;qing dao qian wan gang 2 hao shu gang gao su gong lu
+514;3;41863;Qingdaoqianwan'gangerhaoshugang Hwy
+514;2;41870;qing dao qian wan gang 3 hao shu gang gao su gong lu
+514;3;41870;Qingdaoqianwan'gang 3 Shugang Hwy
+514;2;15874;dong ting li jiao
+514;3;15874;Dongting Jct
+514;2;5991;xi shan lu
+514;3;5991;Xishan Rd
+514;2;6026;qing nian nan lu
+514;3;6026;Qingnian South Rd
+514;2;6027;tong shi nan lu
+514;3;6027;Tongshi South Rd
+514;2;39540;shan dong lu
+514;3;39540;Shandong Rd
+514;2;38846;xiang zhou lu
+514;3;38846;Xiangzhou Rd
+514;2;39658;xiang gang zhong lu
+514;3;39658;Xianggang Middle Rd
+514;2;38771;min jiang lu
+514;3;38771;Minjiang Rd
+514;2;38770;jiang xi lu
+514;3;38770;Jiangxi Rd
+514;2;38763;yan ji lu
+514;3;38763;Yanji Rd
+514;2;39440;dun hua lu
+514;3;39440;Dunhua Rd
+514;2;18966;S901
+514;3;18966;S901
+514;2;18967;di wen tou cun
+514;3;18967;Diwentou Village
+514;2;76361;ji qi lu
+514;3;76361;Jiqi Rd
+514;2;76423;kuang shan dong lu
+514;3;76423;Kuangshan East Rd
+514;2;76393;wu ying shan zhong lu
+514;3;76393;Wuyingshan Middle Rd
+514;2;76424;huang gang lu
+514;3;76424;Huanggang Rd
+514;2;76534;lv you lu
+514;3;76534;Lvyou Rd
+514;2;76510;li yang da jie
+514;3;76510;Liyang Ave
+514;2;77406;san long lu
+514;3;77406;Sanlong Rd
+514;2;76511;qian fo shan nan lu
+514;3;76511;Qianfoshan South Rd
+514;2;76562;qian fo shan dong lu
+514;3;76562;Qianfoshan East Rd
+514;2;76344;er huan dong lu
+514;3;76344;2nd Ring East Rd
+514;2;77428;hong shan lu
+514;3;77428;Hongshan Rd
+514;2;76601;zhuan shan sui dao
+514;3;76601;Zhuanshan Tunl
+514;2;77437;long ding da dao
+514;3;77437;Longding Blvd
+514;2;76568;shun hua nan lu
+514;3;76568;Shunhua South Rd
+514;2;77401;gang jiu lu
+514;3;77401;Gangjiu Rd
+514;2;77394;gang xi lu
+514;3;77394;Gangxi Rd
+514;2;76798;jiang jun lu
+514;3;76798;Jiangjun Rd
+514;2;76447;hua shan dong lu
+514;3;76447;Huashan East Rd
+514;2;80089;hua shan zhen zhong xin zhong xue
+514;3;80089;Huashanzhenzhongxinzhongxue
+514;2;15831;XF12
+514;3;15831;XF12
+514;2;6049;XFG1
+514;3;6049;XFG1
+514;2;6060;yong an jie
+514;3;6060;Yongan St
+514;2;6128;jin xiu shan zhuang
+514;3;6128;Jinxiu Shan Villa
+514;2;40374;xia ta lu
+514;3;40374;Xiata Rd
+514;2;19004;ju hua ding lu
+514;3;19004;Juhuading Rd
+514;2;19103;yi hai lu
+514;3;19103;Yihai Rd
+514;2;39893;an hui lu
+514;3;39893;Anhui Rd
+514;2;39185;tai ping lu
+514;3;39185;Taiping Rd
+514;2;40246;ji ning lu
+514;3;40246;Jining Rd
+514;2;39182;hu nan lu
+514;3;39182;Hu'nan Rd
+514;2;40244;de xian lu
+514;3;40244;Dexian Rd
+514;2;40506;an qing lu
+514;3;40506;Anqing Rd
+514;2;39525;yin chuan xi lu
+514;3;39525;Yinchuan West Rd
+514;2;41924;an shun bei lu
+514;3;41924;Anshun North Rd
+514;2;39200;xing yang lu
+514;3;39200;Xingyang Rd
+514;2;40368;xin shan lu
+514;3;40368;Xinshan Rd
+514;2;39188;an shun lu
+514;3;39188;Anshun Rd
+514;2;39186;rui jin lu
+514;3;39186;Ruijin Rd
+514;2;39966;jia shan lu
+514;3;39966;Jiashan Rd
+514;2;48015;huan wan da dao
+514;3;48015;Huanwan Blvd
+514;2;39293;liao yang xi lu
+514;3;39293;Liaoyang West Rd
+514;2;40356;an shan yi lu
+514;3;40356;Anshanyi Rd
+514;2;80103;an shan lu fu lu
+514;3;80103;Anshan Rd Side Rd
+514;2;39970;ren min lu
+514;3;39970;Renmin Rd
+514;2;39625;lian yun gang lu
+514;3;39625;Lianyungang Rd
+514;2;39325;jia ding lu
+514;3;39325;Jiading Rd
+514;2;77389;bai he bei jie
+514;3;77389;Baihe North St
+514;2;76587;long ao nan lu
+514;3;76587;Longao South Rd
+514;2;80090;hua yuan dong lu
+514;3;80090;Huayuan East Rd
+514;2;76521;jie fang dong lu
+514;3;76521;Jiefang East Rd
+514;2;76567;xin luo da jie
+514;3;76567;Xinluo Ave
+514;2;39450;ao men lu
+514;3;39450;Aomen Rd
+514;2;39542;dong hai er lu
+514;3;39542;Donghaier Rd
+514;2;39448;pu ning lu
+514;3;39448;Puning Rd
+514;2;40255;jin ping lu
+514;3;40255;Jinping Rd
+514;2;40237;hui dong lu
+514;3;40237;Huidong Rd
+514;2;39539;feng shun lu
+514;3;39539;Fengshun Rd
+514;2;39536;dong hai xi lu
+514;3;39536;Donghai West Rd
+514;2;39453;zhu hai zhi lu
+514;3;39453;Zhuhai Byp
+514;2;39454;xin hui lu
+514;3;39454;Xinhui Rd
+514;2;76584;ba li wa lu
+514;3;76584;Baliwa Rd
+514;2;76409;qi li shan lu
+514;3;76409;Qilishan Rd
+514;2;76508;shun geng lu
+514;3;76508;Shungeng Rd
+514;2;40388;bai sha he lu
+514;3;40388;Baishahe Rd
+514;2;48016;bai sha he nan liu lu qiao
+514;3;48016;Baishahe'nanliulu Brg
+514;2;6093;bai shi lu
+514;3;6093;Baishi Rd
+514;2;6094;feng huang tai lu
+514;3;6094;Fenghuangtai Rd
+514;2;77390;bai he dong lu
+514;3;77390;Baihe East Rd
+514;2;76812;gui hua yuan nan qu
+514;3;76812;Guihuayuan South Area
+514;2;19105;ban yue wan sui dao
+514;3;19105;Banyuewan Tunnel
+514;2;39125;bao tou lu
+514;3;39125;Baotou Rd
+514;2;39126;shang he lu
+514;3;39126;Shanghe Rd
+514;2;39132;re he lu
+514;3;39132;Rehe Rd
+514;2;39129;wu ding lu
+514;3;39129;Wuding Rd
+514;2;39178;bao ding lu
+514;3;39178;Baoding Rd
+514;2;39174;he nan lu
+514;3;39174;He'nan Rd
+514;2;38701;zhong shan lu
+514;3;38701;Zhongshan Rd
+514;2;76476;bao tu quan bei lu
+514;3;76476;Baotuquan North Rd
+514;2;76494;hei hu quan xi lu
+514;3;76494;Heihuquan West Rd
+514;2;77208;shao nian lu
+514;3;77208;Shaonian Rd
+514;2;76464;gong qing tuan lu
+514;3;76464;Gongqingtuan Rd
+514;2;76489;da ming hu lu
+514;3;76489;Daminghu Rd
+514;2;76430;bao tu quan nan lu
+514;3;76430;Baotuquan South Rd
+514;2;76293;luo yuan da jie
+514;3;76293;Luoyuan Ave
+514;2;6129;dong guan nan jie
+514;3;6129;Dongguan South St
+514;2;6130;dong guan zhong jie
+514;3;6130;Dongguan Middle St
+514;2;40335;bei jing lu
+514;3;40335;Beijing Rd
+514;2;39179;fei cheng lu
+514;3;39179;Feicheng Rd
+514;2;76588;bei ma an shan lu
+514;3;76588;N Maanshan Rd
+514;2;76583;tian huang lu
+514;3;76583;Tianhuang Rd
+514;2;76363;wu ying shan bei lu
+514;3;76363;Wuyingshan North Rd
+514;2;6055;bei ma lu
+514;3;6055;Beima Rd
+514;2;6071;hai gang gong ren da dao
+514;3;6071;Haiganggongren Blvd
+514;2;76792;bei xiao xin zhuang xi jie
+514;3;76792;Beixiaoxinzhuang West St
+514;2;76380;jing liu lu
+514;3;76380;Jingliu Rd
+514;2;76397;san kong qiao jie
+514;3;76397;Sankongqiao St
+514;2;76559;lian si lu
+514;3;76559;Liansi Rd
+514;2;76398;sheng chan lu
+514;3;76398;Shengchan Rd
+514;2;76458;shui tun lu
+514;3;76458;Shuitun Rd
+514;2;76399;li huang lu
+514;3;76399;Lihuang Rd
+514;2;76708;bei yuan da jie bei
+514;3;76708;Beiyuan Ave N
+514;2;76695;bei yuan gao jia lu bei ce
+514;3;76695;Beiyuan Viad N
+514;2;76710;bei yuan gao jia lu bei ce bei yuan da jie bei shang za dao
+514;3;76710;Beiyuan Viad N Beiyuan Ave N Entrance Ramp
+514;2;76721;shun he gao jia lu bei yuan da jie bei ru kou za dao
+514;3;76721;Shunhe Viad Beiyuan Ave N Entrance Ramp
+514;2;76711;bei yuan da jie nan
+514;3;76711;Beiyuan Ave S
+514;2;76722;bei yuan gao jia lu bei yuan da jie nan chu kou za dao
+514;3;76722;Beiyuan Viad Beiyuan Ave S Exit Ramp
+514;2;76736;li huang lu dong ce
+514;3;76736;Lihuang Rd E
+514;2;76735;bei yuan gao jia lu nan ce bei yuan da jie nan shang za dao
+514;3;76735;Beiyuan Viad S Beiyuan Ave S Entrance Ramp
+514;2;76728;bei yuan gao jia lu bei yuan da jie nan xia za dao
+514;3;76728;Beiyuan Viad Beiyuan Ave S Exit Ramp
+514;2;80070;bei yuan gao jia lu er huan dong gao jia lu ru kou za dao
+514;3;80070;Beiyuan Viad 2nd Ring East Viad Entrance Ramp
+514;2;80077;bei yuan gao jia lu er huan dong gao jia lu chu kou za dao
+514;3;80077;Beiyuan Viad 2nd Ring East Viad Exit Ramp
+514;2;80059;er huan dong gao jia lu dong ce
+514;3;80059;2nd Ring East Viad E
+514;2;80071;bei yuan gao jia lu er huan dong gao jia lu dong ce ru kou za dao
+514;3;80071;Beiyuan Viad 2nd Ring East Viad E Entrance Ramp
+514;2;80056;er huan dong gao jia lu xi ce
+514;3;80056;2nd Ring East Viad W
+514;2;80075;bei yuan gao jia lu er huan dong gao jia lu xi ce ru kou za dao
+514;3;80075;Beiyuan Viad 2nd Ring East Viad W Entrance Ramp
+514;2;76760;bei yuan gao jia lu ji luo lu chu kou za dao
+514;3;76760;Beiyuan Viad Jiluo Rd Exit Ramp
+514;2;76737;li shan bei lu dong ce
+514;3;76737;Lishan North Rd E
+514;2;76738;bei yuan gao jia lu li shan bei lu dong ce chu kou za dao
+514;3;76738;Beiyuan Viad Lishan North Rd E Exit Ramp
+514;2;76671;bei yuan gao jia lu li shan lu chu kou za dao
+514;3;76671;Beiyuan Viad Lishan Rd Exit Ramp
+514;2;76679;bei yuan gao jia lu lian si lu chu kou za dao
+514;3;76679;Beiyuan Viad Liansi Rd Exit Ramp
+514;2;76531;nan quan fu jie
+514;3;76531;Nanquanfu St
+514;2;76759;bei yuan gao jia lu nan quan fu jie chu kou za dao
+514;3;76759;Beiyuan Viad S Quanfu St Exit Ramp
+514;2;76678;bei yuan gao jia lu sheng chan lu chu kou za dao
+514;3;76678;Beiyuan Viad Shengchan Rd Exit Ramp
+514;2;76638;shun he gao jia lu xi ce
+514;3;76638;Shunhe Viad W
+514;2;76692;shun he gao jia lu xi ce bei yuan gao jia lu ru kou za dao
+514;3;76692;Shunhe Viad W Beiyuan Viad Entrance Ramp
+514;2;76395;wu ying shan lu
+514;3;76395;Wuyingshan Rd
+514;2;76642;bei yuan gao jia lu wu ying shan lu chu kou za dao
+514;3;76642;Beiyuan Viad Wuyingshan Rd Exit Ramp
+514;2;76383;xi gong shang he lu
+514;3;76383;W Gongshanghe Rd
+514;2;76761;bei yuan gao jia lu xi gong shang he lu chu kou za dao
+514;3;76761;Beiyuan Viad W Gongshanghe Rd Exit Ramp
+514;2;77439;yao tou da gou
+514;3;77439;Yaotou Dagou
+514;2;76517;er huan dong lu gao jia
+514;3;76517;2nd Ring Donglu Viad
+514;2;76706;bei yuan gao jia lu bei ce bei yuan da jie chu kou za dao
+514;3;76706;Beiyuan Viad N Beiyuan Ave Exit Ramp
+514;2;76709;bei yuan gao jia lu bei ce bei yuan da jie bei xia za dao
+514;3;76709;Beiyuan Viad N Beiyuan Ave N Exit Ramp
+514;2;76705;shun he gao jia lu bei yuan gao jia lu bei ce ru kou za dao
+514;3;76705;Shunhe Viad Beiyuan Viad N Entrance Ramp
+514;2;76633;shun he gao jia lu dong ce
+514;3;76633;Shunhe Viad E
+514;2;76702;shun he gao jia lu dong ce bei yuan gao jia lu bei ce ru kou za dao
+514;3;76702;Shunhe Viad E Beiyuan Viad N Entrance Ramp
+514;2;76726;shun he gao jia lu nan ce
+514;3;76726;Shunhe Viad S
+514;2;76725;shun he gao jia lu nan ce bei yuan gao jia lu bei ce xia za dao
+514;3;76725;Shunhe Viad S Beiyuan Viad N Exit Ramp
+514;2;76696;shun he gao jia lu xi ce bei yuan gao jia lu bei ce ru kou za dao
+514;3;76696;Shunhe Viad W Beiyuan Viad N Entrance Ramp
+514;2;76838;bei yuan gao jia lu dong ce
+514;3;76838;Beiyuan Viad E
+514;2;76839;bei yuan gao jia lu dong ce nan quan fu jie ru kou za dao
+514;3;76839;Beiyuan Viad E Nanquanfu St Entrance Ramp
+514;2;76684;bei yuan gao jia lu nan ce
+514;3;76684;Beiyuan Viad S
+514;2;76715;shun he gao jia lu you bei yuan gao jia lu nan ce zhi bei yuan da jie nan xia za dao
+514;3;76715;Shunhe Viad From Beiyuan Viad S to Beiyuan Ave S Exit Ramp
+514;2;80076;bei yuan gao jia lu nan ce er huan dong gao jia lu xi ce ru kou za dao
+514;3;80076;Beiyuan Viad S 2nd Ring East Viad W Entrance Ramp
+514;2;76681;shun he gao jia lu bei yuan gao jia lu nan ce ru kou za dao
+514;3;76681;Shunhe Viad Beiyuan Viad S Entrance Ramp
+514;2;76690;shun he gao jia lu dong ce bei yuan gao jia lu nan ce ru kou za dao
+514;3;76690;Shunhe Viad E Beiyuan Viad S Entrance Ramp
+514;2;76691;shun he gao jia lu xi ce bei yuan gao jia lu nan ce ru kou za dao
+514;3;76691;Shunhe Viad W Beiyuan Viad S Entrance Ramp
+514;2;40344;bei zhong lu
+514;3;40344;Beizhong Rd
+514;2;38799;yan an san lu
+514;3;38799;Yan'ansan Rd
+514;2;39643;zhen jiang lu
+514;3;39643;Zhenjiang Rd
+514;2;80024;biao shan lu
+514;3;80024;Biaoshan Rd
+514;2;76592;dong gong shang he lu
+514;3;76592;E Gongshanghe Rd
+514;2;76376;xiao qing he bei lu
+514;3;76376;Xiaoqinghe North Rd
+514;2;80025;qing he nan lu
+514;3;80025;Qinghe South Rd
+514;2;76385;biao shan nan lu
+514;3;76385;Biaoshan South Rd
+514;2;6100;bin hai bei lu
+514;3;6100;Binhai North Rd
+514;2;6045;hong kou lu
+514;3;6045;Hongkou Rd
+514;2;6109;da ma lu
+514;3;6109;Damalu
+514;2;15869;hai tian lu
+514;3;15869;Haitian Rd
+514;2;15838;hai lan lu
+514;3;15838;Hailan Rd
+514;2;15839;bin he xi lu
+514;3;15839;Binhe West Rd
+514;2;6114;bin hai zhong lu
+514;3;6114;Binhai Middle Rd
+514;2;6052;hai yun lu
+514;3;6052;Haiyun Rd
+514;2;6050;xin xing bei jie
+514;3;6050;Xinxing North St
+514;2;6112;qing quan lu
+514;3;6112;Qingquan Rd
+514;2;6031;yin hai lu
+514;3;6031;Yinhai Rd
+514;2;15834;hai yue lu
+514;3;15834;Haiyue Rd
+514;2;77404;bin he nan lu
+514;3;77404;Binhe South Rd
+514;2;76542;wu liu zha bei lu
+514;3;76542;Wuliuzha North Rd
+514;2;76365;li shan bei lu
+514;3;76365;Lishan North Rd
+514;2;77409;hang yun lu
+514;3;77409;Hangyun Rd
+514;2;6461;ke ji da dao
+514;3;6461;Keji Blvd
+514;2;63189;bin lai gao su gong lu lai wu duan
+514;3;63189;Binlai Hwy Laiwu Sect
+514;2;63165;G205
+514;3;63165;G205
+514;2;63182;miao shan shou fei zhan
+514;3;63182;Miaoshan Tollgate
+514;2;63192;bin lai gao su gong lu zi bo duan
+514;3;63192;Binlai Hwy Zibo Sect
+514;2;63201;guang qing lu
+514;3;63201;Guangqing Rd
+514;2;63193;bo shan shou fei zhan
+514;3;63193;Boshan Tollgate
+514;2;63194;S325
+514;3;63194;S325
+514;2;63195;zhou cun fu wu qu
+514;3;63195;Zhoucun Service Area
+514;2;64361;zhou long lu
+514;3;64361;Zhoulong Rd
+514;2;63198;S321
+514;3;63198;S321
+514;2;63199;gao qing fu wu qu
+514;3;63199;Gaoqing Service Area
+514;2;63200;wei gao lu
+514;3;63200;Weigao Rd
+514;2;19102;bin zhou bei jie
+514;3;19102;Binzhou North St
+514;2;38788;chang chun lu
+514;3;38788;Changchun Rd
+514;2;41927;bo hai lu
+514;3;41927;Bohai Rd
+514;2;41976;gang tong lu
+514;3;41976;Gangtong Rd
+514;2;39164;pu ji lu
+514;3;39164;Puji Rd
+514;2;19014;wu jia zhuang
+514;3;19014;Wujiazhuang
+514;2;40345;cao xian lu
+514;3;40345;Caoxian Rd
+514;2;39820;liao ning lu
+514;3;39820;Liaoning Rd
+514;2;39821;zhu cheng lu
+514;3;39821;Zhucheng Rd
+514;2;76484;cha lu jie
+514;3;76484;Chalu St
+514;2;18948;chang hua lu
+514;3;18948;Changhua Rd
+514;2;18901;huan cui lu
+514;3;18901;Huancui Rd
+514;2;18993;jiu hua lu
+514;3;18993;Jiuhua Rd
+514;2;18994;huo ju nan lu
+514;3;18994;Huoju South Rd
+514;2;39156;chang le lu
+514;3;39156;Changle Rd
+514;2;40475;da gang wei wu lu
+514;3;40475;Dagangweiwu Rd
+514;2;38790;hua yang lu
+514;3;38790;Huayang Rd
+514;2;6139;chang an lu
+514;3;6139;Chang'an Rd
+514;2;6030;gang cheng dong da jie
+514;3;6030;Gangcheng East Ave
+514;2;6121;chang bai shan lu
+514;3;6121;Changbaishan Rd
+514;2;6082;hei long jiang lu
+514;3;6082;Heilongjiang Rd
+514;2;38978;li yang lu
+514;3;38978;Liyang Rd
+514;2;38970;chun yang lu
+514;3;38970;Chunyang Rd
+514;2;40227;min hang lu
+514;3;40227;Minhang Rd
+514;2;40071;tian he lu
+514;3;40071;Tianhe Rd
+514;2;19115;bi jia tuan cun
+514;3;19115;Bijiatuan Village
+514;2;38789;nei meng gu lu
+514;3;38789;Neimenggu Rd
+514;2;41912;da cheng lu
+514;3;41912;Dacheng Rd
+514;2;38796;wei hai lu
+514;3;38796;Weihai Rd
+514;2;40311;chang jiang dong lu
+514;3;40311;Changjiang East Rd
+514;2;40310;shao shan lu
+514;3;40310;Shaoshan Rd
+514;2;40313;qing dao xue jia dao lun du zhan
+514;3;40313;Qingdaoxuejiadaolunduzhan
+514;2;48062;chang jiang dong lu zhi huan dao lu
+514;3;48062;Changjiang East Rd to Huandao Rd
+514;2;38946;hua shan yi lu
+514;3;38946;Huashanyi Rd
+514;2;18949;chang jiang jie
+514;3;18949;Changjiang St
+514;2;18995;pu tuo lu
+514;3;18995;Putuo Rd
+514;2;15864;gu zhang lu
+514;3;15864;Guzhang Rd
+514;2;6075;e mei shan lu
+514;3;6075;Emeishan Rd
+514;2;6076;zhu jiang lu
+514;3;6076;Zhujiang Rd
+514;2;40309;chang jiang zhong lu
+514;3;40309;Changjiang Middle Rd
+514;2;40304;jing gang shan lu
+514;3;40304;Jinggangshan Rd
+514;2;6138;chang ning lu
+514;3;6138;Changning Rd
+514;2;39574;si liu nan lu
+514;3;39574;Siliu South Rd
+514;2;39572;jiu jiang lu
+514;3;39572;Jiujiang Rd
+514;2;39571;zhou kou lu
+514;3;39571;Zhoukou Rd
+514;2;40249;chang shan lu
+514;3;40249;Changshan Rd
+514;2;40250;huan tai lu
+514;3;40250;Huantai Rd
+514;2;39131;tie shan lu
+514;3;39131;Tieshan Rd
+514;2;64129;chang shen gao su gong lu bin zhou duan
+514;3;64129;Changshen Hwy Binzhou Sect
+514;2;63202;bin zhou nan shou fei zhan
+514;3;63202;Binzhou S Tollgate
+514;2;64362;huang he er lu
+514;3;64362;Huangheer Rd
+514;2;63228;bin zhou xi shou fei zhan
+514;3;63228;Binzhouxi Tollgate
+514;2;63205;S316
+514;3;63205;S316
+514;2;63206;bin zhou fu wu qu
+514;3;63206;Binzhou Service Area
+514;2;63207;S315
+514;3;63207;S315
+514;2;38918;chang shun lu
+514;3;38918;Changshun Rd
+514;2;41970;rong hai lu
+514;3;41970;Ronghai Rd
+514;2;48074;shuang bu li jiao qiao
+514;3;48074;Shuangbu Jct
+514;2;40456;xian shan xi lu
+514;3;40456;Xianshan West Rd
+514;2;80100;chang shun lu zhi rui jin lu
+514;3;80100;Changshun Rd to Ruijin Rd
+514;2;40605;chang yang lu
+514;3;40605;Changyang Rd
+514;2;39906;deng zhou lu
+514;3;39906;Dengzhou Rd
+514;2;38704;yan an lu
+514;3;38704;Yan'an Rd
+514;2;77418;chao yang jie
+514;3;77418;Chaoyang St
+514;2;77417;hua dian jie
+514;3;77417;Huadian St
+514;2;76612;zhou gong ci jie
+514;3;76612;Zhougongci St
+514;2;76578;che zhan jie
+514;3;76578;Chezhan St
+514;2;76388;jing yi lu
+514;3;76388;Jingyi Rd
+514;2;77388;zhan qian lu
+514;3;77388;Zhanqian Rd
+514;2;77387;ji nan zhan
+514;3;77387;Jinanzhan
+514;2;39725;cheng wu lu
+514;3;39725;Chengwu Rd
+514;2;39719;gui zhou lu
+514;3;39719;Guizhou Rd
+514;2;39750;wen shang lu
+514;3;39750;Wenshang Rd
+514;2;39737;ci shan lu
+514;3;39737;Cishan Rd
+514;2;40332;yun cheng nan lu
+514;3;40332;Yuncheng South Rd
+514;2;39135;cheng kou lu
+514;3;39135;Chengkou Rd
+514;2;39133;meng zhuang lu
+514;3;39133;Mengzhuang Rd
+514;2;40222;shun xing lu
+514;3;40222;Shunxing Rd
+514;2;76438;chong hua lu
+514;3;76438;Chonghua Rd
+514;2;76570;shun hua xi lu
+514;3;76570;Shunhua West Rd
+514;2;77424;kang hong lu
+514;3;77424;Kanghong Rd
+514;2;77423;tian chen lu
+514;3;77423;Tianchen Rd
+514;2;6061;chong wen jie
+514;3;6061;Chongwen St
+514;2;6133;song xia lu
+514;3;6133;Songxia Rd
+514;2;40385;he cheng lu
+514;3;40385;Hecheng Rd
+514;2;40386;jin cheng lu
+514;3;40386;Jincheng Rd
+514;2;39062;chun cheng lu
+514;3;39062;Chuncheng Rd
+514;2;40460;shuo yang lu
+514;3;40460;Shuoyang Rd
+514;2;39063;qiu yang lu
+514;3;39063;Qiuyang Rd
+514;2;39738;si chuan lu
+514;3;39738;Sichuan Rd
+514;2;39742;tai xi si lu
+514;3;39742;Taixisi Rd
+514;2;15841;cui shan da jie
+514;3;15841;Cuishan Ave
+514;2;39165;pu ji zhi lu
+514;3;39165;Puji Byp
+514;2;39813;da gu lu
+514;3;39813;Dagu Rd
+514;2;6054;xi da jie
+514;3;6054;Xida St
+514;2;40229;xia zhuang lu
+514;3;40229;Xiazhuang Rd
+514;2;6025;er ma lu
+514;3;6025;Ermalu
+514;2;76492;hei hu quan bei lu
+514;3;76492;Heihuquan North Rd
+514;2;76491;xian xi xiang
+514;3;76491;Xianxi Ln
+514;2;76816;an cha si jie
+514;3;76816;Anchasi St
+514;2;39314;da sha lu
+514;3;39314;Dasha Rd
+514;2;40360;kai feng lu
+514;3;40360;Kaifeng Rd
+514;2;80091;chang qing gu shan li jiao
+514;3;80091;Changqinggushan Jct
+514;2;39903;lai yang lu
+514;3;39903;Laiyang Rd
+514;2;39904;yu shan lu
+514;3;39904;Yushan Rd
+514;2;39918;hong dao lu
+514;3;39918;Hongdao Rd
+514;2;38713;da yao san lu
+514;3;38713;Dayaosan Rd
+514;2;40238;xiao yao san lu
+514;3;40238;Xiaoyaosan Rd
+514;2;40258;da yao yi lu
+514;3;40258;Dayaoyi Rd
+514;2;19034;xing hua bei jie
+514;3;19034;Xinghua North St
+514;2;19001;ta shan zhong lu
+514;3;19001;Tashan Middle Rd
+514;2;18906;jin zhou lu
+514;3;18906;Jinzhou Rd
+514;2;41701;tian jin lu
+514;3;41701;Tianjin Rd
+514;2;18903;ying kou lu
+514;3;18903;Yingkou Rd
+514;2;39746;shan xian lu
+514;3;39746;Shanxian Rd
+514;2;48018;shan xian zhi lu
+514;3;48018;Shanxian Byp
+514;2;39748;wen shui lu
+514;3;39748;Wenshui Rd
+514;2;39908;dao kou lu
+514;3;39908;Daokou Rd
+514;2;40235;de ping lu
+514;3;40235;Deping Rd
+514;2;39833;le ling lu
+514;3;39833;Leling Rd
+514;2;40245;yi shui lu
+514;3;40245;Yishui Rd
+514;2;39788;zhe jiang lu
+514;3;39788;Zhejiang Rd
+514;2;39181;hu bei lu
+514;3;39181;Hubei Rd
+514;2;39916;he jiang lu
+514;3;39916;Hejiang Rd
+514;2;39915;huang tai lu
+514;3;39915;Huangtai Rd
+514;2;39912;tang shan lu
+514;3;39912;Tangshan Rd
+514;2;38707;guang rao lu
+514;3;38707;Guangrao Rd
+514;2;39911;yan an yi lu
+514;3;39911;Yan'anyi Rd
+514;2;76427;di kou lu
+514;3;76427;Dikou Rd
+514;2;76396;wu ying shan dong lu
+514;3;76396;Wuyingshan East Rd
+514;2;6033;dian chang dong lu
+514;3;6033;Dianchang East Rd
+514;2;6032;hua gong lu
+514;3;6032;Huagong Rd
+514;2;76591;dong xi dan feng jie
+514;3;76591;Dongxidanfeng St
+514;2;76483;dong guan da jie
+514;3;76483;Dongguan Ave
+514;2;76374;hua yuan lu
+514;3;76374;Huayuan Rd
+514;2;76482;ming hu dong lu
+514;3;76482;Minghu East Rd
+514;2;6002;xin jian da jie
+514;3;6002;Xinjian Ave
+514;2;6024;san ma lu
+514;3;6024;Sanmalu
+514;2;39465;mai dao lu
+514;3;39465;Maidao Rd
+514;2;39466;hai you lu
+514;3;39466;Haiyou Rd
+514;2;39472;hai ning lu
+514;3;39472;Haian Rd
+514;2;39700;xiang gang xi lu
+514;3;39700;Xianggang West Rd
+514;2;39543;zhan shan san lu
+514;3;39543;Zhanshansan Rd
+514;2;39697;dong hai yi lu
+514;3;39697;Donghaiyi Rd
+514;2;39705;yun yang lu
+514;3;39705;Yunyang Rd
+514;2;39843;yue yang lu
+514;3;39843;Yueyang Rd
+514;2;39695;hua yan lu
+514;3;39695;Huayan Rd
+514;2;39537;dong hai zhong lu
+514;3;39537;Donghai Middle Rd
+514;2;48019;fu zhou nan lu (dong hai xi lu)
+514;3;48019;Fuzhou South Rd (Donghai West Rd)
+514;2;39462;yan er dao lu
+514;3;39462;Yanerdao Rd
+514;2;39460;tai wan lu
+514;3;39460;Taiwan Rd
+514;2;39458;zhang hua lu
+514;3;39458;Zhanghua Rd
+514;2;39457;tai nan lu
+514;3;39457;Tainan Rd
+514;2;77393;dong luo he lu
+514;3;77393;E Luohe Rd
+514;2;76560;shui tun bei lu
+514;3;76560;Shuitun North Rd
+514;2;39792;dong ping lu
+514;3;39792;Dongping Rd
+514;2;39775;fei xian lu
+514;3;39775;Feixian Rd
+514;2;40334;guang zhou lu
+514;3;40334;Guangzhou Rd
+514;2;39789;guan cheng lu
+514;3;39789;Guancheng Rd
+514;2;39791;yun nan lu
+514;3;39791;Yunnan Rd
+514;2;40333;jia xiang lu
+514;3;40333;Jiaxiang Rd
+514;2;76593;ren feng qian jie
+514;3;76593;Renfeng Front St
+514;2;18945;dong xin lu
+514;3;18945;Dongxin Rd
+514;2;18996;kun lun lu
+514;3;18996;Kunlun Rd
+514;2;18946;tian mu lu
+514;3;18946;Tianmu Rd
+514;2;76544;dong yu da jie
+514;3;76544;Dongyu Ave
+514;2;76267;er huan bei lu
+514;3;76267;2nd Ring North Rd
+514;2;76455;su shan lu
+514;3;76455;Sushan Rd
+514;2;77410;duan xing dong lu
+514;3;77410;Duanxing East Rd
+514;2;39957;hai bo he nan lu
+514;3;39957;Haibohe South Rd
+514;2;39956;zhen jiang bei lu
+514;3;39956;Zhenjiang North Rd
+514;2;39646;xu zhou lu
+514;3;39646;Xuzhou Rd
+514;2;6118;hai bin lu
+514;3;6118;Haibin Rd
+514;2;40247;en xian lu
+514;3;40247;Enxian Rd
+514;2;39934;guan tao lu
+514;3;39934;Guantao Rd
+514;2;40248;gan su lu
+514;3;40248;Gansu Rd
+514;2;80092;ji nan li jiao qiao
+514;3;80092;Ji'nan Jct
+514;2;76362;lan xiang lu
+514;3;76362;Lanxiang Rd
+514;2;80068;er huan dong gao jia lu bei yuan gao jia lu chu kou za dao
+514;3;80068;2nd Ring East Viad Beiyuan Viad Exit Ramp
+514;2;80078;er huan dong gao jia lu bei yuan gao jia lu ru kou za dao
+514;3;80078;2nd Ring East Viad Beiyuan Viad Entrance Ramp
+514;2;80063;er huan dong gao jia lu er huan dong lu chu kou za dao
+514;3;80063;2nd Ring East Viad 2nd Ring East Rd Exit Ramp
+514;2;80079;er huan dong gao jia lu jiang jun lu chu kou za dao
+514;3;80079;2nd Ring East Viad Jiangjun Rd Exit Ramp
+514;2;80055;er huan dong gao jia lu jing shi lu chu kou za dao
+514;3;80055;2nd Ring East Viad Jingshi Rd Exit Ramp
+514;2;76415;shan da nan lu
+514;3;76415;Shanda South Rd
+514;2;76518;hua long lu
+514;3;76518;Hualong Rd
+514;2;80069;er huan dong gao jia lu dong ce bei yuan gao jia lu chu kou za dao
+514;3;80069;2nd Ring East Viad E Beiyuan Viad Exit Ramp
+514;2;80064;er huan dong gao jia lu dong ce er huan dong lu chu kou za dao
+514;3;80064;2nd Ring East Viad E 2nd Ring East Rd Exit Ramp
+514;2;80060;er huan dong gao jia lu dong ce jing shi lu chu kou za dao
+514;3;80060;2nd Ring East Viad E Jingshi Rd Exit Ramp
+514;2;80072;er huan dong gao jia lu xi ce bei yuan gao jia lu chu kou za dao
+514;3;80072;2nd Ring East Viad W Beiyuan Viad Exit Ramp
+514;2;80073;er huan dong gao jia lu xi ce bei yuan gao jia lu bei ce chu kou za dao
+514;3;80073;2nd Ring East Viad W Beiyuan Viad N Exit Ramp
+514;2;80074;er huan dong gao jia lu xi ce bei yuan gao jia lu bei ce xia za dao
+514;3;80074;2nd Ring East Viad W Beiyuan Viad N Exit Ramp
+514;2;80067;er huan dong gao jia lu xi ce er huan dong lu chu kou za dao
+514;3;80067;2nd Ring East Viad W 2nd Ring East Rd Exit Ramp
+514;2;80057;er huan dong gao jia lu xi ce jing shi lu chu kou za dao
+514;3;80057;2nd Ring East Viad W Jingshi Rd Exit Ramp
+514;2;76781;jing shi lu nan ce
+514;3;76781;Jingshi Rd S
+514;2;80058;er huan dong gao jia lu xi ce jing shi lu nan ce chu kou za dao
+514;3;80058;2nd Ring East Viad W Jingshi Rd S Exit Ramp
+514;2;80062;er huan dong gao jia lu er huan dong lu ru kou za dao
+514;3;80062;2nd Ring East Viad 2nd Ring East Rd Entrance Ramp
+514;2;80066;er huan dong gao jia lu dong ce er huan dong lu ru kou za dao
+514;3;80066;2nd Ring East Viad E 2nd Ring East Rd Entrance Ramp
+514;2;80065;er huan dong gao jia lu xi ce er huan dong lu ru kou za dao
+514;3;80065;2nd Ring East Viad W 2nd Ring East Rd Entrance Ramp
+514;2;76503;yao tou lu
+514;3;76503;Yaotou Rd
+514;2;76375;qi li pu lu
+514;3;76375;Qilipu Rd
+514;2;76366;jiu qu zhuang lu
+514;3;76366;Jiuquzhuang Rd
+514;2;76367;qi li shan xi lu
+514;3;76367;Qilishan West Rd
+514;2;76368;wan shou lu
+514;3;76368;Wanshou Rd
+514;2;76369;ying xiong shan lu
+514;3;76369;Yingxiongshan Rd
+514;2;76357;bai ma shan nan lu
+514;3;76357;Baimashan South Rd
+514;2;76358;wei hua xi lu
+514;3;76358;Weihua West Rd
+514;2;76359;la shan lu
+514;3;76359;Lashan Rd
+514;2;76822;xing fu jie
+514;3;76822;Xingfu St
+514;2;76454;xin sha lu
+514;3;76454;Xinsha Rd
+514;2;76580;er qi xin cun nan lu
+514;3;76580;Erqixincun South Rd
+514;2;76486;lang mao shan lu
+514;3;76486;Langmaoshan Rd
+514;2;76410;liu li shan nan lu
+514;3;76410;Liulishan South Rd
+514;2;76548;er qi xin cun zhong lu
+514;3;76548;Erqixincun Middle Rd
+514;2;76443;fei yue da dao
+514;3;76443;Feiyue Blvd
+514;2;39783;guang xi lu
+514;3;39783;Guangxi Rd
+514;2;40573;fen jin lu
+514;3;40573;Fenjin Rd
+514;2;40306;jia ling jiang xi lu
+514;3;40306;Jialingjiang West Rd
+514;2;48024;qing he lu
+514;3;48024;Qinghe Rd
+514;2;41928;gan dao
+514;3;41928;Gandao
+514;2;40512;feng shan lu
+514;3;40512;Fengshan Rd
+514;2;40513;bin he lu
+514;3;40513;Binhe Rd
+514;2;39255;jing kou lu
+514;3;39255;Jingkou Rd
+514;2;40511;shao shan lu
+514;3;40511;Shaoshan Rd
+514;2;80081;ji gang wen hua xiao xue
+514;3;80081;Jigangwenhuaxiaoxue
+514;2;76440;shi ji da dao
+514;3;76440;Shiji Blvd
+514;2;6125;zhao xian dong lu
+514;3;6125;Zhaoxian East Rd
+514;2;6470;feng tai shan lu
+514;3;6470;Fengtaishan Rd
+514;2;6119;jin sha jiang lu
+514;3;6119;Jinshajiang Rd
+514;2;15875;huai he lu
+514;3;15875;Huaihe Rd
+514;2;76539;fo shan jie
+514;3;76539;Foshan St
+514;2;39704;fo tao lu
+514;3;39704;Fotao Rd
+514;2;41914;jia yu guan lu
+514;3;41914;Jiayuguan Rd
+514;2;15876;fu hai lu li jiao
+514;3;15876;Fuhailu Jct
+514;2;6059;xian fu jie
+514;3;6059;Xianfu St
+514;2;6062;tian fu jie
+514;3;6062;Tianfu St
+514;2;6132;fu lai li jie
+514;3;6132;Fulaili St
+514;2;6086;xin zhuang jie
+514;3;6086;Xinzhuang St
+514;2;6105;xi nan guan zhong jie
+514;3;6105;Xi'nanguan Middle St
+514;2;39672;jing shan lu
+514;3;39672;Jingshan Rd
+514;2;15826;fu ying lu
+514;3;15826;Fuying Rd
+514;2;15824;zhu ji dong lu
+514;3;15824;Zhuji East Rd
+514;2;15827;xing fu dong lu
+514;3;15827;Xingfu East Rd
+514;2;6074;xing fu lu
+514;3;6074;Xingfu Rd
+514;2;38762;feng hua lu
+514;3;38762;Fenghua Rd
+514;2;38765;yi lan lu
+514;3;38765;Yilan Rd
+514;2;38766;ji xian lu
+514;3;38766;Jixian Rd
+514;2;80108;fu zhou nan lu fu lu
+514;3;80108;Fuzhou South Rd Side Rd
+514;2;39969;kang ding lu
+514;3;39969;Kangding Rd
+514;2;39596;tong yu lu
+514;3;39596;Tongyu Rd
+514;2;6048;tong lin lu
+514;3;6048;Tonglin Rd
+514;2;6029;ying chun da jie
+514;3;6029;Yingchun Ave
+514;2;15833;guang dang he dong lu
+514;3;15833;Guangdanghe East Rd
+514;2;6069;gang wan da dao
+514;3;6069;Gangwan Blvd
+514;2;40002;gao an lu
+514;3;40002;Gaoan Rd
+514;2;40003;ping xiang lu
+514;3;40003;Pingxiang Rd
+514;2;40005;nan chang lu
+514;3;40005;Nanchang Rd
+514;2;38717;gao xiong lu
+514;3;38717;Gaoxiong Rd
+514;2;40362;ji long lu
+514;3;40362;Jilong Rd
+514;2;40352;gao you hu lu
+514;3;40352;Gaoyouhu Rd
+514;2;40353;gao tian lu
+514;3;40353;Gaotian Rd
+514;2;76435;hua xin lu
+514;3;76435;Huaxin Rd
+514;2;76436;hua xian chang lu
+514;3;76436;Huaxianchang Rd
+514;2;76439;ying xiu lu
+514;3;76439;Yingxiu Rd
+514;2;76442;lie shi shan dong lu
+514;3;76442;Lieshishan East Rd
+514;2;19002;gong song ling lu
+514;3;19002;Gongsongling Rd
+514;2;19008;gu mo lu
+514;3;19008;Gumo Rd
+514;2;19120;gu mo
+514;3;19120;Gumo
+514;2;76778;shun he gao jia lu dong ce gong qing tuan lu shang za dao
+514;3;76778;Shunhe Viad E Gongqingtuan Rd Entrance Ramp
+514;2;76391;jing si lu
+514;3;76391;Jingsi Rd
+514;2;76475;pu li jie
+514;3;76475;Puli St
+514;2;19007;hua yuan zhong lu
+514;3;19007;Huayuan Middle Rd
+514;2;48001;gu tian lu
+514;3;48001;Gutian Rd
+514;2;39531;quan zhou lu
+514;3;39531;Quanzhou Rd
+514;2;18998;qin cun lu
+514;3;18998;Qincun Rd
+514;2;18999;gu zhai nan lu
+514;3;18999;Guzhai South Rd
+514;2;18911;wen hua zhong lu
+514;3;18911;Wenhua Middle Rd
+514;2;19000;xi cheng lu
+514;3;19000;Xicheng Rd
+514;2;41915;qing dao jiao zhou wan sui dao
+514;3;41915;Qingdaojiaozhouwan Tunl
+514;2;15837;xue yuan lu
+514;3;15837;Xueyuan Rd
+514;2;6051;feng lin lu
+514;3;6051;Fenglin Rd
+514;2;6053;hong qi dong lu
+514;3;6053;Hongqi East Rd
+514;2;39145;guan xian lu
+514;3;39145;Guanxian Rd
+514;2;39146;xiao gang yi lu
+514;3;39146;Xiaogangyi Rd
+514;2;39150;xin jiang lu
+514;3;39150;Xinjiang Rd
+514;2;39932;lai zhou lu
+514;3;39932;Laizhou Rd
+514;2;39937;ling xian lu
+514;3;39937;Lingxian Rd
+514;2;48025;wu song lu
+514;3;48025;Wusong Rd
+514;2;80026;guan yi jie
+514;3;80026;Guanyi St
+514;2;80029;shun he dong jie
+514;3;80029;Shunhe East St
+514;2;80027;ju xian jie
+514;3;80027;Juxian St
+514;2;40224;long kou lu
+514;3;40224;Longkou Rd
+514;2;39659;jiang su lu
+514;3;39659;Jiangsu Rd
+514;2;39720;tai xi yi lu
+514;3;39720;Taixiyi Rd
+514;2;39731;xi ling xia er lu
+514;3;39731;Xilingxiaer Rd
+514;2;39728;liu jia xia lu
+514;3;39728;Liujiaxia Rd
+514;2;39069;guo cheng lu
+514;3;39069;Guocheng Rd
+514;2;39070;ming yang lu
+514;3;39070;Mingyang Rd
+514;2;41916;mei ling xi lu
+514;3;41916;Meiling West Rd
+514;2;39810;hai bo lu
+514;3;39810;Haibo Rd
+514;2;39925;liao cheng lu
+514;3;39925;Liaocheng Rd
+514;2;18988;hai bu cun
+514;3;18988;Haibu Village
+514;2;19096;tong yi nan lu
+514;3;19096;Tongyi South Rd
+514;2;80032;hai le lu
+514;3;80032;Haile Rd
+514;2;40287;hai bin shi er lu
+514;3;40287;Haibinshier Rd
+514;2;15836;cao bu cun
+514;3;15836;Caobu Village
+514;2;40347;han kou lu
+514;3;40347;Hankou Rd
+514;2;39319;hang zhou lu
+514;3;39319;Hangzhou Rd
+514;2;41919;hai an lu
+514;3;41919;Haian Rd
+514;2;48022;xuan hua lu
+514;3;48022;Xuanhua Rd
+514;2;39296;hang zhou zhi lu
+514;3;39296;Hangzhou Byp
+514;2;41920;luo hu lu
+514;3;41920;Luohu Rd
+514;2;80111;lang jiu zhuan mai dian
+514;3;80111;Langjiuzhuanmaidian
+514;2;39520;jin song san lu
+514;3;39520;Jinsongsan Rd
+514;2;76433;li shan dong lu
+514;3;76433;Lishan East Rd
+514;2;76507;yan zi shan lu
+514;3;76507;Yanzishan Rd
+514;2;40346;he xing lu
+514;3;40346;Hexing Rd
+514;2;38982;xiu cheng lu
+514;3;38982;Xiucheng Rd
+514;2;40519;xiang yang xiao qu
+514;3;40519;Xiangyang Community
+514;2;6117;zhen hua jie
+514;3;6117;Zhenhua St
+514;2;6477;liang jia zhuang cun
+514;3;6477;Liangjiazhuang Village
+514;2;39175;ji nan lu
+514;3;39175;Ji'nan Rd
+514;2;76432;quan cheng lu
+514;3;76432;Quancheng Rd
+514;2;76571;tian di tan jie
+514;3;76571;Tianditan St
+514;2;48046;kua hai da qiao gao jia lu nan ce
+514;3;48046;Kuahaidaqiao Viad S
+514;2;80122;kua hai da qiao gao jia lu nan ce hei long jiang nan lu ru kou za dao
+514;3;80122;Kuahaidaqiao Viad S Heilongjiang South Rd Entrance Ramp
+514;2;48045;kua hai da qiao gao jia lu hei long jiang zhong lu ru kou za dao
+514;3;48045;Kuahaidaqiao Viad Heilongjiang Middle Rd Entrance Ramp
+514;2;80106;hei long jiang zhong lu fu lu
+514;3;80106;Heilongjiang Middle Rd Side Rd
+514;2;80107;ju feng lu
+514;3;80107;Jufeng Rd
+514;2;5971;heng shan lu
+514;3;5971;Hengshan Rd
+514;2;6136;nan ying xiang lu
+514;3;6136;Nanyingxiang Rd
+514;2;6137;kui xing lou sui dao
+514;3;6137;Kuixinglou Tunl
+514;2;6134;huang jin ding sui dao
+514;3;6134;Huangjinding Tunl
+514;2;6096;tong shi lu
+514;3;6096;Tongshi Rd
+514;2;39107;hong shan xia lu
+514;3;39107;Hongshanxia Rd
+514;2;39108;xi ling xia lu
+514;3;39108;Xilingxia Rd
+514;2;39110;tuan dao lu
+514;3;39110;Tuandao Rd
+514;2;76505;hong jia lou bei lu
+514;3;76505;Hongjialou North Rd
+514;2;76564;hong jia lou nan lu
+514;3;76564;Hongjialou South Rd
+514;2;76434;min zi qian lu
+514;3;76434;Minziqian Rd
+514;2;76506;shan da bei lu
+514;3;76506;Shanda North Rd
+514;2;40221;tai an lu
+514;3;40221;Taian Rd
+514;2;40497;hu shan lu
+514;3;40497;Hushan Rd
+514;2;80028;ying xian jie
+514;3;80028;Yingxian St
+514;2;19006;hua yuan bei lu
+514;3;19006;Huayuan North Rd
+514;2;18914;xi bei shan lu
+514;3;18914;Xibeishan Rd
+514;2;76607;xi zhou nan lu
+514;3;76607;Xizhou South Rd
+514;2;77396;shun hua bei lu
+514;3;77396;Shunhua North Rd
+514;2;77395;hong jia lou xi lu
+514;3;77395;Hongjialou West Rd
+514;2;6102;hua mao jie
+514;3;6102;Huamao St
+514;2;6471;hua shan lu
+514;3;6471;Huashan Rd
+514;2;48020;xia zhuang li jiao
+514;3;48020;Xiazhuang Jct
+514;2;6142;xing fu bei lu
+514;3;6142;Xingfu North Rd
+514;2;5973;xing fu nan lu
+514;3;5973;Xingfu South Rd
+514;2;6072;xing fu zhong lu
+514;3;6072;Xingfu Middle Rd
+514;2;76823;ke yuan xiao qu bei qu
+514;3;76823;Keyuan Community North Area
+514;2;40256;hua chuan san lu
+514;3;40256;Huachuansan Rd
+514;2;40514;hua chuan yi lu
+514;3;40514;Huachuanyi Rd
+514;2;39442;liao yuan lu
+514;3;39442;Liaoyuan Rd
+514;2;40168;mi shan lu
+514;3;40168;Mishan Rd
+514;2;15880;yong jiang er zhi lu
+514;3;15880;Yongjianger Byp
+514;2;6467;huang shan lu
+514;3;6467;Huangshan Rd
+514;2;76461;huai cun jie
+514;3;76461;Huaicun St
+514;2;80031;sang yuan lu
+514;3;80031;Sangyuan Rd
+514;2;19097;zhu jiang jie
+514;3;19097;Zhujiang St
+514;2;18947;qian jiang jie
+514;3;18947;Qianjiang St
+514;2;18928;huang he jie
+514;3;18928;Huanghe St
+514;2;15873;zhi fu dao li jiao qiao
+514;3;15873;Zhifudao Jct
+514;2;80088;kai yuan you yuan
+514;3;80088;Kaiyuan Tourism Park
+514;2;76553;yan zi shan xi lu
+514;3;76553;Yanzishan West Rd
+514;2;6083;ying xiang lu
+514;3;6083;Yingxiang Rd
+514;2;15882;huan shan lu dong kou sui dao
+514;3;15882;Huanshanludongkou Tunl
+514;2;6097;huan xin lu
+514;3;6097;Huanxin Rd
+514;2;6095;yu huang ding xi lu
+514;3;6095;Yuhuangding West Rd
+514;2;6108;le shan li
+514;3;6108;Leshanli
+514;2;39882;zi jing guan lu
+514;3;39882;Zijingguan Rd
+514;2;39710;tai ping jiao yi lu
+514;3;39710;Taipingjiaoyi Rd
+514;2;41922;huang he lu zhi qing dao qian wan gang 2 hao shu gang gao su gong lu
+514;3;41922;Huanghe Rd to Qingdaoqianwan'gangerhaoshugang Hwy
+514;2;40251;wu di lu
+514;3;40251;Wudi Rd
+514;2;76504;huang tai nan lu
+514;3;76504;Huangtai South Rd
+514;2;80033;ba jian bao lu
+514;3;80033;Bajianbao Rd
+514;2;41926;huang zhang lu
+514;3;41926;Huangzhang Rd
+514;2;40325;tong he lu
+514;3;40325;Tonghe Rd
+514;2;40326;mo he lu
+514;3;40326;Mohe Rd
+514;2;6123;ju fu lu
+514;3;6123;Jufu Rd
+514;2;39874;hui quan lu
+514;3;39874;Huiquan Rd
+514;2;39876;shan hai guan lu
+514;3;39876;Shanhaiguan Rd
+514;2;39709;zheng yang guan lu
+514;3;39709;Zhengyangguan Rd
+514;2;77425;hui zhan dong lu
+514;3;77425;Huizhan East Rd
+514;2;77427;hui zhan lu
+514;3;77427;Huizhan Rd
+514;2;77426;hui zhan xi lu
+514;3;77426;Huizhan West Rd
+514;2;40357;ji shui lu
+514;3;40357;Jishui Rd
+514;2;40232;ji xian san lu
+514;3;40232;Jixiansan Rd
+514;2;39606;hua chuan lu
+514;3;39606;Huachuan Rd
+514;2;76543;ji an jie
+514;3;76543;Ji'an St
+514;2;76474;shun he xi jie
+514;3;76474;Shunhe West St
+514;2;76479;ming hu xi lu
+514;3;76479;Minghu West Rd
+514;2;76488;ji da lu
+514;3;76488;Jida Rd
+514;2;76292;yu han lu
+514;3;76292;Yuhan Rd
+514;2;63109;ji guang gao su gong lu he ze duan
+514;3;63109;Jiguang Hwy Heze Sect
+514;2;77445;G105
+514;3;77445;G105
+514;2;63124;S338
+514;3;63124;S338
+514;2;64363;tai ping liu he da qiao
+514;3;64363;Taipingliuhe Brg
+514;2;63111;S350
+514;3;63111;S350
+514;2;63112;cao xian fu wu qu
+514;3;63112;Caoxian Service Area
+514;2;63113;S348
+514;3;63113;S348
+514;2;63114;S351
+514;3;63114;S351
+514;2;63115;ding tao ting che qu
+514;3;63115;Dingtao Parking Area
+514;2;63116;G327
+514;3;63116;G327
+514;2;63117;ri lan gao su gong lu
+514;3;63117;Rilan Hwy
+514;2;76280;ji guang gao su gong lu ji nan duan
+514;3;76280;Jiguang Hwy Ji'nan Sect
+514;2;79796;dong ping fu wu qu
+514;3;79796;Dongping Service Area
+514;2;77431;ping yin fu wu qu
+514;3;77431;Pingyin Service Area
+514;2;80039;jin dong da jie
+514;3;80039;Jindong Ave
+514;2;76526;fu yan lu
+514;3;76526;Fuyan Rd
+514;2;76527;chang qing fu wu qu
+514;3;76527;Changqing Service Area
+514;2;77446;S104
+514;3;77446;S104
+514;2;76260;ji nan fu wu qu
+514;3;76260;Ji'nan Service Area
+514;2;80040;ji nan xiao xu jia shu niu li jiao qiao
+514;3;80040;Ji'nanxiaoxujiashuniu Jct
+514;2;63127;ji guang gao su gong lu ji ning duan
+514;3;63127;Jiguang Hwy Jining Sect
+514;2;64364;sha he fu wu qu
+514;3;64364;Shahe Service Area
+514;2;63128;liang shan fu wu qu
+514;3;63128;Liangshan Service Area
+514;2;63129;S337
+514;3;63129;S337
+514;2;63150;ji guang gao su gong lu tai an duan
+514;3;63150;Jiguang Hwy Taian Sect
+514;2;63151;dong ping shou fei zhan
+514;3;63151;Dongping Tollgate
+514;2;76747;bei yuan gao jia lu ji luo lu ru kou za dao
+514;3;76747;Beiyuan Viad Jiluo Rd Entrance Ramp
+514;2;76384;qi che chang dong lu
+514;3;76384;Qichechang East Rd
+514;2;76472;shi fan lu
+514;3;76472;Shifan Rd
+514;2;76386;luo kou nan lu
+514;3;76386;Luokou South Rd
+514;2;39142;shan xi lu
+514;3;39142;Shanxi Rd
+514;2;39929;li cun lu
+514;3;39929;Licun Rd
+514;2;48037;jiao zhou lu nan ce
+514;3;48037;Jiaozhou Rd S
+514;2;39811;si fang lu
+514;3;39811;Sifang Rd
+514;2;39339;ning hua lu
+514;3;39339;Ninghua Rd
+514;2;6120;wu zhi shan lu
+514;3;6120;Wuzhishan Rd
+514;2;39337;zun hua lu
+514;3;39337;Zunhua Rd
+514;2;39120;xi zang lu
+514;3;39120;Xizang Rd
+514;2;39373;jia xing lu
+514;3;39373;Jiaxing Rd
+514;2;6104;jian chang nan jie
+514;3;6104;Jianchang South St
+514;2;76554;jian guo xiao jing san lu
+514;3;76554;Jianguoxiaojingsan Rd
+514;2;77412;jian ning lu
+514;3;77412;Jianning Rd
+514;2;76466;yang guang xin lu
+514;3;76466;Yangguangxin Rd
+514;2;77413;zhong guang ming jie
+514;3;77413;Zhongguangming St
+514;2;6092;zhi fu tun lu
+514;3;6092;Zhifutun Rd
+514;2;6101;qian jin jie
+514;3;6101;Qianjin St
+514;2;76313;liu chang shan lu
+514;3;76313;Liuchangshan Rd
+514;2;77399;liang zhuang da jie
+514;3;77399;Liangzhuang Ave
+514;2;76412;jing shi yi lu
+514;3;76412;Jingshiyi Rd
+514;2;39663;ping yuan lu
+514;3;39663;Pingyuan Rd
+514;2;40274;long shan lu
+514;3;40274;Longshan Rd
+514;2;39642;zhi quan lu
+514;3;39642;Zhiquan Rd
+514;2;77429;yao jia dong lu
+514;3;77429;Yaojia East Rd
+514;2;6085;min sheng jie
+514;3;6085;Minsheng St
+514;2;6087;shi fu jie
+514;3;6087;Shifu St
+514;2;39345;jin hua lu
+514;3;39345;Jinhua Rd
+514;2;39349;rui an lu
+514;3;39349;Ruian Rd
+514;2;41934;jin sha lu
+514;3;41934;Jinsha Rd
+514;2;39347;jin hua zhi lu
+514;3;39347;Jinhua Byp
+514;2;41949;bin chuan lu
+514;3;41949;Binchuan Rd
+514;2;40364;jin song qi lu
+514;3;40364;Jinsongqi Rd
+514;2;39410;tong an lu
+514;3;39410;Tongan Rd
+514;2;39284;jin song si lu
+514;3;39284;Jinsongsi Rd
+514;2;39286;jin song yi lu
+514;3;39286;Jinsongyi Rd
+514;2;41963;tong he lu
+514;3;41963;Tonghe Rd
+514;2;77400;jing hu gao su gong lu ji nan duan
+514;3;77400;Jinghu Hwy Jinan Sect
+514;2;79663;S327
+514;3;79663;S327
+514;2;77440;pan long shou fei zhan
+514;3;77440;Panlong Tollgate
+514;2;80043;yu long lu
+514;3;80043;Yulong Rd
+514;2;80044;Y004
+514;3;80044;Y004
+514;2;76289;zhang qiu fu wu qu
+514;3;76289;Zhangqiu Service Area
+514;2;80045;S243
+514;3;80045;S243
+514;2;63176;jing hu gao su gong lu lai wu duan
+514;3;63176;Jinghu Hwy Laiwu Sect
+514;2;63161;jiu long da jie
+514;3;63161;Jiulong Ave
+514;2;63178;lai tai gao su gong lu
+514;3;63178;Laitai Hwy
+514;2;63179;hui yuan da jie
+514;3;63179;Huiyuan Ave
+514;2;63180;lai wu fu wu qu
+514;3;63180;Laiwu Service Area
+514;2;63230;xu jia gou cun
+514;3;63230;Xujiagou Village
+514;2;63250;S242
+514;3;63250;S242
+514;2;63186;xue ye hu ting che qu
+514;3;63186;Xueyehu Parking Area
+514;2;63164;jing hu gao su gong lu lin yi duan
+514;3;63164;Jinghu Hwy Linyi Sect
+514;2;63155;tai xin gao su gong lu
+514;3;63155;Taixin Hwy
+514;2;63166;tan cheng fu wu qu
+514;3;63166;Tancheng Service Area
+514;2;63167;tan cheng shou fei zhan
+514;3;63167;Tancheng Tollgate
+514;2;63168;luo zhuang shou fei zhan
+514;3;63168;Luozhuang Tollgate
+514;2;63169;lin yi fu wu qu
+514;3;63169;Linyi Service Area
+514;2;63170;men si gong lu
+514;3;63170;Mensi Hwy
+514;2;63172;qing tuo shou fei zhan
+514;3;63172;Qingtuo Tollgate
+514;2;63173;yi nan fu wu qu
+514;3;63173;Yi'nan Service Area
+514;2;63174;duo nan xian
+514;3;63174;Duonan Line
+514;2;63229;S234
+514;3;63229;S234
+514;2;63158;jing hu gao su gong lu tai an duan
+514;3;63158;Jinghu Hwy Taian Sect
+514;2;63159;lai xin fu wu qu
+514;3;63159;Laixin Service Area
+514;2;63160;XJ19
+514;3;63160;XJ19
+514;2;39264;jiu shui lu
+514;3;39264;Jiushui Rd
+514;2;39257;jun feng lu
+514;3;39257;Junfeng Rd
+514;2;64134;jing tai gao su gong lu de zhou duan
+514;3;64134;Jingtai Hwy Dezhou Sect
+514;2;63222;wu qiao fu wu qu
+514;3;63222;Wuqiao Service Area
+514;2;63217;qi an da jie
+514;3;63217;Qi'an Ave
+514;2;63216;yu cheng fu wu qu
+514;3;63216;Yucheng Service Area
+514;2;63218;ping yin gong lu
+514;3;63218;Pingyin Hwy
+514;2;63219;de zhou nan fu wu qu
+514;3;63219;Dezhou S Service Area
+514;2;63220;de zhou fu wu qu
+514;3;63220;Dezhou Service Area
+514;2;63221;S353
+514;3;63221;S353
+514;2;77153;jing tai gao su gong lu ji nan duan
+514;3;77153;Jingtai Hwy Ji'nan Sect
+514;2;80022;tai an fu wu qu
+514;3;80022;Taian Service Area
+514;2;80041;ji nan huai yin shu niu li jiao
+514;3;80041;Ji'nanhuaiyinshuniu Jct
+514;2;63131;jing tai gao su gong lu ji ning duan
+514;3;63131;Jingtai Hwy Jining Sect
+514;2;63132;zou cheng fu wu qu
+514;3;63132;Zoucheng Service Area
+514;2;63138;ning yang fu wu qu
+514;3;63138;Ningyang Service Area
+514;2;64365;yi shan li jiao
+514;3;64365;Yishan Jct
+514;2;63134;S342
+514;3;63134;S342
+514;2;63135;qu fu fu wu qu
+514;3;63135;Qufu Service Area
+514;2;63136;jing xuan dong lu
+514;3;63136;Jingxuan East Rd
+514;2;63153;jing tai gao su gong lu tai an duan
+514;3;63153;Jingtai Hwy Taian Sect
+514;2;63154;S333
+514;3;63154;S333
+514;2;64366;tai shan da jie xi duan
+514;3;64366;Taishandajiexiduan
+514;2;63140;jing tai gao su gong lu zao zhuang duan
+514;3;63140;Jingtai Hwy Zaozhuang Sect
+514;2;63141;yi cheng shou fei zhan
+514;3;63141;Yicheng Tollgate
+514;2;63142;xue cheng fu wu qu
+514;3;63142;Xuecheng Service Area
+514;2;63143;zao zhuang fu wu qu
+514;3;63143;Zaozhuang Service Area
+514;2;63144;guang ming da dao
+514;3;63144;Guangming Blvd
+514;2;63145;zao zhuang lian jie xian gao su gong lu
+514;3;63145;Zaozhuanglianjiexian Hwy
+514;2;63146;teng zhou fu wu qu
+514;3;63146;Tengzhou Service Area
+514;2;63147;bei xin dong lu
+514;3;63147;Beixin East Rd
+514;2;76389;jing ba lu
+514;3;76389;Jingba Rd
+514;2;76502;qing nian xi lu
+514;3;76502;Qingnian West Rd
+514;2;41595;jing ba lu (qing dao shi)
+514;3;41595;Jingba Rd (Qingdao)
+514;2;76294;jing er lu
+514;3;76294;Jinger Rd
+514;2;77397;kun lun jie
+514;3;77397;Kunlun St
+514;2;76462;wei ba lu
+514;3;76462;Weiba Rd
+514;2;76429;wei liu lu
+514;3;76429;Weiliu Rd
+514;2;76460;wei san lu
+514;3;76460;Weisan Rd
+514;2;76791;ying shi xi jie
+514;3;76791;Yingshi West St
+514;2;76390;jing qi lu
+514;3;76390;Jingqi Rd
+514;2;76775;shun he gao jia lu xi ce jing qi lu shang za dao
+514;3;76775;Shunhe Viad W Jingqi Rd Entrance Ramp
+514;2;40322;jing san lu
+514;3;40322;Jingsan Rd
+514;2;80048;jing shi lu
+514;3;80048;Jingshi Rd
+514;2;80050;er huan dong gao jia lu jing shi lu ru kou za dao
+514;3;80050;2nd Ring East Viad Jingshi Rd Entrance Ramp
+514;2;80061;er huan dong gao jia lu xi ce jing shi lu ru kou za dao
+514;3;80061;2nd Ring East Viad W Jingshi Rd Entrance Ramp
+514;2;76665;shun he gao jia lu dong ce jing shi lu ru kou za dao
+514;3;76665;Shunhe Viad E Jingshi Rd Entrance Ramp
+514;2;76662;jing shi lu bei ce
+514;3;76662;Jingshi Rd N
+514;2;76780;shun he gao jia lu dong ce jing shi lu bei ce ru kou za dao
+514;3;76780;Shunhe Viad E Jingshilu N Entrance Ramp
+514;2;76767;jing shi lu fu lu
+514;3;76767;Jingshi Rd Side Rd
+514;2;80051;yan shan li jiao qiao
+514;3;80051;Yanshan Jct
+514;2;76782;shun he gao jia lu dong ce jing shi lu nan ce ru kou za dao
+514;3;76782;Shunhe Viad E Jingshilu S Entrance Ramp
+514;2;76605;ji nan shi yuan lin zhi gong xue xiao
+514;3;76605;Ji'nanshiyuanlinzhigongxuexiao
+514;2;76512;ma an shan lu
+514;3;76512;Maanshan Rd
+514;2;76557;shan dong sheng ti yu zhong xin
+514;3;76557;Shandong Province Gym
+514;2;76776;shun he gao jia lu xi ce jing si lu shang za dao
+514;3;76776;Shunhe Viad W Jingsi Rd Entrance Ramp
+514;2;76579;lin xiang nan jie
+514;3;76579;Linxiang South St
+514;2;76572;jing wu lu
+514;3;76572;Jingwu Rd
+514;2;76459;wei jiu lu
+514;3;76459;Weijiu Rd
+514;2;76387;tian cheng lu
+514;3;76387;Tiancheng Rd
+514;2;19099;min jiang jie
+514;3;19099;Minjiang St
+514;2;39988;shang qiu lu
+514;3;39988;Shangqiu Rd
+514;2;39496;shi niu shan lu
+514;3;39496;Shiniushan Rd
+514;2;39498;han chuan lu
+514;3;39498;Hanchuan Rd
+514;2;39429;yu ye quan lu
+514;3;39429;Yuyequan Rd
+514;2;40496;lian hua shan lu
+514;3;40496;Lianhuashan Rd
+514;2;19118;wei hai shi wei
+514;3;19118;Weihaishiwei
+514;2;76480;bei tan nan jie
+514;3;76480;Beitan South St
+514;2;39734;qu tang xia lu
+514;3;39734;Qutangxia Rd
+514;2;39716;xi ling xia san lu
+514;3;39716;Xilingxiasan Rd
+514;2;39103;ming yue xia lu
+514;3;39103;Mingyuexia Rd
+514;2;39712;qing tong xia lu
+514;3;39712;Qingtongxia Rd
+514;2;41923;an yang lu
+514;3;41923;Anyang Rd
+514;2;48053;kai hua lu
+514;3;48053;Kaihua Rd
+514;2;39566;kai ping lu
+514;3;39566;Kaiping Rd
+514;2;40361;da sha zhi lu
+514;3;40361;Dasha Byp
+514;2;40228;lu yang lu
+514;3;40228;Luyang Rd
+514;2;80095;shun feng lu
+514;3;80095;Shunfeng Rd
+514;2;39306;nan ning lu
+514;3;39306;Nanning Rd
+514;2;41942;ke da zhi lu
+514;3;41942;Keda Byp
+514;2;19101;ke ji lu zhi gu zhai xi lu
+514;3;19101;Keji Rd to Guzhai West Rd
+514;2;6141;lai shan ji chang
+514;3;6141;Laishan Airport
+514;2;48044;kua hai da qiao gao jia lu hei long jiang nan lu chu kou za dao
+514;3;48044;Kuahaidaqiao Viad Heilongjiang South Rd Exit Ramp
+514;2;48050;kua hai da qiao gao jia lu hei long jiang nan lu ru kou za dao
+514;3;48050;Kuahaidaqiao Viad Heilongjiang South Rd Entrance Ramp
+514;2;41887;kua hai da qiao gao jia lu jin song qi lu xia za dao
+514;3;41887;Kuahaidaqiao Viad Jinsongqi Rd Exit Ramp
+514;2;39309;si liu zhong lu
+514;3;39309;Siliu Middle Rd
+514;2;41880;kua hai da qiao gao jia lu si liu zhong lu xia za dao
+514;3;41880;Kuahaidaqiao Viad Siliu Middle Rd Exit Ramp
+514;2;41881;si liu zhong lu dong ce
+514;3;41881;Siliu Middle Rd E
+514;2;41882;kua hai da qiao gao jia lu si liu zhong lu dong ce xia za dao
+514;3;41882;Kuahaidaqiao Viad Siliu Middle Rd Exit Ramp
+514;2;48048;kua hai da qiao gao jia lu bei ce
+514;3;48048;Kuahaidaqiao Viad N
+514;2;48049;kua hai da qiao gao jia lu bei ce hei long jiang nan lu chu kou za dao
+514;3;48049;Kuahaidaqiao Viad N Heilongjiang South Rd Exit Ramp
+514;2;48047;kua hai da qiao gao jia lu nan ce hei long jiang nan lu chu kou za dao
+514;3;48047;Kuahaidaqiao Viad S Heilongjiang South Rd Exit Ramp
+514;2;80116;kua hai da qiao gao jia lu nan ce hei long jiang zhong lu chu kou za dao
+514;3;80116;Kuahaidaqiao Viad S Heilongjiang Middle Rd Exit Ramp
+514;2;77416;kuang shi jie
+514;3;77416;Kuangshi St
+514;2;15843;mou ping ge ming lie shi ling yuan
+514;3;15843;Moupinggeminglieshilingyuan
+514;2;40239;lai wu er lu
+514;3;40239;Laiwuer Rd
+514;2;40240;lai wu yi lu
+514;3;40240;Laiwuyi Rd
+514;2;39917;qi dong lu
+514;3;39917;Qidong Rd
+514;2;39901;nan hai lu
+514;3;39901;Nanhai Rd
+514;2;39900;qin yu lu
+514;3;39900;Qinyu Rd
+514;2;39936;guang dong lu
+514;3;39936;Guangdong Rd
+514;2;39784;lan shan lu
+514;3;39784;Lanshan Rd
+514;2;48058;li jiang dong lu
+514;3;48058;Lijiang East Rd
+514;2;48059;yan tai qian
+514;3;48059;Yantaiqian
+514;2;48060;wa wu zhuang cun
+514;3;48060;Wawuzhuang Village
+514;2;76720;shun he gao jia lu li huang lu ru kou za dao
+514;3;76720;Shunhe Viad Lihuang Rd Entrance Ramp
+514;2;76296;ming hu bei lu
+514;3;76296;Minghu North Rd
+514;2;76416;xin huang lu
+514;3;76416;Xinhuang Rd
+514;2;76672;bei yuan gao jia lu li shan lu ru kou za dao
+514;3;76672;Beiyuan Viad Lishan Rd Entrance Ramp
+514;2;38793;li jin lu
+514;3;38793;Lijin Rd
+514;2;39910;ning hai lu
+514;3;39910;Ninghai Rd
+514;2;40206;qin huang dao lu
+514;3;40206;Qinhuangdao Rd
+514;2;39795;tai dong yi lu
+514;3;39795;Taidongyi Rd
+514;2;39832;zhang qiu lu
+514;3;39832;Zhangqiu Rd
+514;2;39827;song shan lu
+514;3;39827;Songshan Rd
+514;2;48072;qing gang li jiao qiao
+514;3;48072;Qinggang Jct
+514;2;39931;yu cheng lu
+514;3;39931;Yucheng Rd
+514;2;76613;yong qing jie
+514;3;76613;Yongqing St
+514;2;41931;ling xian zhi lu
+514;3;41931;Lingxian Byp
+514;2;40173;qing dao gang you gang
+514;3;40173;Qingdao Gangyou Port
+514;2;39735;wu xia lu
+514;3;39735;Wuxia Rd
+514;2;48029;liu pan shan lu
+514;3;48029;Liupanshan Rd
+514;2;77422;long ao bei lu
+514;3;77422;Longao North Rd
+514;2;41933;long gang lu
+514;3;41933;Longgang Rd
+514;2;48071;qing dao jiang su lu xiao xue (long kou zhi lu)
+514;3;48071;Qingdaojiangsuluxiaoxue (Longkou Byp)
+514;2;40527;xin hao shan gong yuan
+514;3;40527;Xinhaoshan Park
+514;2;40528;long jiang lu
+514;3;40528;Longjiang Rd
+514;2;40259;long de lu
+514;3;40259;Longde Rd
+514;2;39527;ning de lu
+514;3;39527;Ningde Rd
+514;2;39227;si liu bei lu
+514;3;39227;Siliu North Rd
+514;2;76473;luo an lu
+514;3;76473;Luoan Rd
+514;2;76431;luo wen lu
+514;3;76431;Luowen Rd
+514;2;76832;shun he gao jia lu dong ce luo yuan da jie shang za dao
+514;3;76832;Shunhe Viad E Luoyuan Ave Entrance Ramp
+514;2;76561;nan men da jie
+514;3;76561;Nanmen Ave
+514;2;76540;dong qing long jie
+514;3;76540;E Qinglong St
+514;2;76606;qian fo shan xi lu
+514;3;76606;Qianfoshan West Rd
+514;2;39137;qing hai lu
+514;3;39137;Qinghai Rd
+514;2;39136;chang yi lu
+514;3;39136;Changyi Rd
+514;2;40387;xin zheng lu
+514;3;40387;Xinzheng Rd
+514;2;38742;xin pu lu
+514;3;38742;Xinpu Rd
+514;2;76481;bei guan bei lu
+514;3;76481;Beiguan North Rd
+514;2;80037;nan da huai shu nan jie
+514;3;80037;Nandahuaishu South St
+514;2;39315;nan feng lu
+514;3;39315;Nanfeng Rd
+514;2;40498;si fang lao nian gong yu
+514;3;40498;Sifanglaoniangongyu
+514;2;39862;wen deng lu
+514;3;39862;Wendeng Rd
+514;2;39875;wu chang lu
+514;3;39875;Wuchang Rd
+514;2;6103;nan hong jie
+514;3;6103;Nanhong St
+514;2;38820;nan liu lu
+514;3;38820;Nanliu Rd
+514;2;6023;si ma lu
+514;3;6023;Simalu
+514;2;6131;nan tong lu
+514;3;6131;Nantong Rd
+514;2;76428;nan xin zhuang zhong jie
+514;3;76428;Nanxinzhuang Middle St
+514;2;38748;qing da lu
+514;3;38748;Qingda Rd
+514;2;39370;ping an lu
+514;3;39370;Ping'an Rd
+514;2;39879;ning wu guan lu
+514;3;39879;Ningwuguan Rd
+514;2;80105;ning xia lu fu lu
+514;3;80105;Ningxia Rd Side Rd
+514;2;48003;pu xian lu
+514;3;48003;Puxian Rd
+514;2;48004;zi yang lu
+514;3;48004;Ziyang Rd
+514;2;40348;pu kou lu
+514;3;40348;Pukou Rd
+514;2;41969;da gang wei si lu
+514;3;41969;Dagangweisi Rd
+514;2;40337;qi he lu
+514;3;40337;Qihe Rd
+514;2;39677;qi xia lu
+514;3;39677;Qixia Rd
+514;2;19108;wei hai huo che zhan
+514;3;19108;Weihaihuochezhan
+514;2;19024;qi lu da dao zhi hua xia lu
+514;3;19024;Qilu Blvd to Huaxia Rd
+514;2;76563;yan xiang lu
+514;3;76563;Yanxiang Rd
+514;2;40298;shan dong ke ji da xue
+514;3;40298;Shandong Sci&Tech University
+514;2;41929;qian wan gang lu zhi qing dao qian wan gang 1 hao shu gang gao su gong lu
+514;3;41929;Qianwangang Rd to Qingdaoqianwan'gangyihaoshugang Hwy
+514;2;6469;qin huai he lu
+514;3;6469;Qinhuaihe Rd
+514;2;40175;qing dao huang dao lun du ma tou zhi liu gong dao lu
+514;3;40175;Qingdaohuangdaolundumatou to Liugongdao Rd
+514;2;40176;qing dao huang dao lun du ma tou
+514;3;40176;Qingdaohuangdaolundumatou
+514;2;39160;da gang wei san lu
+514;3;39160;Dagangweisan Rd
+514;2;40268;qing lan gao su gong lu qing dao duan
+514;3;40268;Qinglan Hwy Qingdao Sect
+514;2;40136;jiao zhou fu wu qu
+514;3;40136;Jiaozhou Service Area
+514;2;40137;S397
+514;3;40137;S397
+514;2;40404;qing tong xia lu nan duan
+514;3;40404;Qingtongxia Rd South Sect
+514;2;40405;qing tong xia lu bei duan
+514;3;40405;Qingtongxia Rd North Sect
+514;2;77124;qing yin gao su gong lu ji nan duan
+514;3;77124;Qingyin Hwy Ji'nan Sect
+514;2;76750;zou ping fu wu qu
+514;3;76750;Zouping Service Area
+514;2;80047;qiao nan lu
+514;3;80047;Qiaonan Rd
+514;2;41602;qing yin gao su gong lu qing dao duan
+514;3;41602;Qingyin Hwy Qingdao Sect
+514;2;48041;yi an da dao
+514;3;48041;Yian Blvd
+514;2;40472;gao mi fu wu qu
+514;3;40472;Gaomi Service Area
+514;2;6113;yan da lu
+514;3;6113;Yanda Rd
+514;2;39193;qu yuan lu
+514;3;39193;Quyuan Rd
+514;2;48028;dong nan qu
+514;3;48028;Dongnanqu
+514;2;80102;qu yuan lu zhi xiang tan lu
+514;3;80102;Quyuan Rd to Xiangtan Rd
+514;2;63118;ri lan gao su gong lu he ze duan
+514;3;63118;Rilan Hwy Heze Sect
+514;2;63125;yi he tun cun
+514;3;63125;Yihetun Village
+514;2;63120;S339
+514;3;63120;S339
+514;2;63121;S254
+514;3;63121;S254
+514;2;41867;rong wei gao su gong lu qing dao duan
+514;3;41867;Rongwei Hwy Qingdao Sect
+514;2;41868;xin wei gao su gong lu
+514;3;41868;Xinwei Hwy
+514;2;41869;long men xi lu
+514;3;41869;Longmen West Rd
+514;2;41937;yu xing lu
+514;3;41937;Yuxing Rd
+514;2;40154;ping du chu kou
+514;3;40154;Pingduchukou
+514;2;40146;lai xi fu wu qu
+514;3;40146;Laixi Service Area
+514;2;64127;rong wu gao su gong lu bin zhou duan
+514;3;64127;Rongwu Hwy Binzhou Sect
+514;2;64126;chang shen gao su gong lu
+514;3;64126;Changshen Hwy
+514;2;63212;wu di fu wu qu
+514;3;63212;Wudi Service Area
+514;2;63210;wu di ting che qu
+514;3;63210;Wudi Parking Area
+514;2;63211;S239
+514;3;63211;S239
+514;2;41628;rong wu gao su gong lu qing dao duan
+514;3;41628;Rongwu Hwy Qingdao Sect
+514;2;40156;hui bu chu kou
+514;3;40156;Huibuchukou
+514;2;40480;S221
+514;3;40480;S221
+514;2;48038;xin he li jiao
+514;3;48038;Xinhe Jct
+514;2;40403;chang yi ting che qu
+514;3;40403;Changyi Parking Area
+514;2;38826;si hu lu
+514;3;38826;Sihu Rd
+514;2;40383;rui yang lu
+514;3;40383;Ruiyang Rd
+514;2;40531;sang zi lu
+514;3;40531;Sangzi Rd
+514;2;6140;ta shan sui dao
+514;3;6140;Tashan Tunl
+514;2;40339;shang qing lu
+514;3;40339;Shangqing Rd
+514;2;40341;yan an er lu
+514;3;40341;Yan'aner Rd
+514;2;40340;tuo feng lu
+514;3;40340;Tuofeng Rd
+514;2;77414;shang xin jie
+514;3;77414;Shangxin St
+514;2;76490;tong yuan ju qian jie
+514;3;76490;Tongyuanju Front St
+514;2;15884;shen hai gao su gong lu fu lu
+514;3;15884;Shenhai Hwy Side Rd
+514;2;6150;yong fu yuan lu
+514;3;6150;Yongfuyuan Rd
+514;2;40607;shen hai gao su gong lu qing dao duan
+514;3;40607;Shenhai Hwy Qingdao Sect
+514;2;40148;S307
+514;3;40148;S307
+514;2;40140;S398
+514;3;40140;S398
+514;2;40049;S334
+514;3;40049;S334
+514;2;40483;jiao nan fu wu qu
+514;3;40483;Jiaonan Service Area
+514;2;40142;jiu zhao lu
+514;3;40142;Jiuzhao Rd
+514;2;41864;S393
+514;3;41864;S393
+514;2;63224;shen hai gao su gong lu ri zhao duan
+514;3;63224;Shenhai Hwy Rizhao Sect
+514;2;63225;lan shan xi lu
+514;3;63225;Lanshan West Rd
+514;2;63226;S341
+514;3;63226;S341
+514;2;63227;ri zhao fu wu qu
+514;3;63227;Rizhao Service Area
+514;2;64367;ri zhao shi jiu gang qu shu gang gao su gong lu
+514;3;64367;Rizhaoshijiugangqushugang Hwy
+514;2;6160;shen hai gao su gong lu yan tai duan
+514;3;6160;Shenhai Hwy Yantai Sect
+514;2;5963;lai yang chu ru kou
+514;3;5963;Laiyangchurukou
+514;2;5964;S306
+514;3;5964;S306
+514;2;5965;qi xia fu wu qu
+514;3;5965;Qixia Service Area
+514;2;15858;chang qing jie
+514;3;15858;Changqing St
+514;2;5958;S802
+514;3;5958;S802
+514;2;15859;mao long shan bei lu
+514;3;15859;Maolongshan North Rd
+514;2;5969;fu shan fu wu qu
+514;3;5969;Fushan Service Area
+514;2;18942;shen yang nan lu zhi S302 (jiu)
+514;3;18942;Shenyang South Rd to S302 (Former)
+514;2;39253;yong qing lu
+514;3;39253;Yongqing Rd
+514;2;39240;sheng ping lu
+514;3;39240;Shengping Rd
+514;2;39245;yong ping lu
+514;3;39245;Yongping Rd
+514;2;76680;shun he gao jia lu sheng chan lu ru kou za dao
+514;3;76680;Shunhe Viad Shengchan Rd Entrance Ramp
+514;2;76683;sheng chan lu dong ce
+514;3;76683;Shengchan Rd E
+514;2;76682;shun he gao jia lu sheng chan lu dong ce ru kou za dao
+514;3;76682;Shunhe Viad Shengchan Rd E Entrance Ramp
+514;2;39405;wen chang lu
+514;3;39405;Wenchang Rd
+514;2;76582;gao er cun
+514;3;76582;Gaoer Village
+514;2;76496;feng qi lu
+514;3;76496;Fengqi Rd
+514;2;76833;tang ye xi lu
+514;3;76833;Tangye West Rd
+514;2;80097;shui tun bei lu zhi wu liu zha bei lu
+514;3;80097;Shuitun North Rd to Wuliuzha North Rd
+514;2;76843;bei yuan gao jia lu shun he gao jia lu chu kou za dao
+514;3;76843;Beiyuan Viad Shunhe Viad Exit Ramp
+514;2;76845;shun he gao jia lu bei yuan gao jia lu bei ce shang za dao
+514;3;76845;Shunhe Viad Beiyuan Viad N Entrance Ramp
+514;2;76841;shun he gao jia lu bei yuan gao jia lu nan ce shang za dao
+514;3;76841;Shunhe Viad Beiyuan Viad S Entrance Ramp
+514;2;76732;shun he gao jia lu ming hu bei lu chu kou za dao
+514;3;76732;Shunhe Viad Minghu North Rd Exit Ramp
+514;2;76650;shun he gao jia lu shun he xi jie chu kou za dao
+514;3;76650;Shunhe Viad Shunhe West St Exit Ramp
+514;2;76694;bei yuan gao jia lu shun he gao jia lu dong ce chu kou za dao
+514;3;76694;Beiyuan Viad Shunhe Viad E Exit Ramp
+514;2;76698;bei yuan gao jia lu bei ce shun he gao jia lu dong ce chu kou za dao
+514;3;76698;Beiyuan Viad N Shunhe Viad E Exit Ramp
+514;2;76842;bei yuan gao jia lu nan ce shun he gao jia lu dong ce chu kou za dao
+514;3;76842;Beiyuan Viad S Shunhe Viad E Exit Ramp
+514;2;76847;bei yuan gao jia lu nan ce 1
+514;3;76847;Beiyuan Viad S 1
+514;2;76848;bei yuan gao jia lu nan ce 1 shun he gao jia lu dong ce chu kou za dao
+514;3;76848;Beiyuan Viad S 1 Shunhe Viad E Exit Ramp
+514;2;76774;shun he gao jia lu dong ce luo yuan da jie xia za dao
+514;3;76774;Shunhe Viad E Luoyuan Ave Exit Ramp
+514;2;76634;shun he gao jia lu dong ce wu liu zha bei lu chu kou za dao
+514;3;76634;Shunhe Viad E Wuliuzha North Rd Exit Ramp
+514;2;76846;bei yuan gao jia lu shun he gao jia lu xi ce ru kou za dao
+514;3;76846;Beiyuan Viad Shunhe Viad W Entrance Ramp
+514;2;76700;bei yuan gao jia lu bei ce shun he gao jia lu xi ce chu kou za dao
+514;3;76700;Beiyuan Viad N Shunhe Viad W Exit Ramp
+514;2;76701;bei yuan gao jia lu nan ce shun he gao jia lu xi ce chu kou za dao
+514;3;76701;Beiyuan Viad S Shunhe Viad W Exit Ramp
+514;2;76783;shun he gao jia lu xi ce jing shi lu bei ce chu kou za dao
+514;3;76783;Shunhe Viad W Jingshi Rd N Exit Ramp
+514;2;76784;shun he gao jia lu xi ce jing shi lu nan ce chu kou za dao
+514;3;76784;Shunhe Viad W Jingshi Rd S Exit Ramp
+514;2;76777;shun he gao jia lu xi ce jing si lu xia za dao
+514;3;76777;Shunhe Viad W Jingsi Rd Exit Ramp
+514;2;76639;xiao qing he bei lu bei ce
+514;3;76639;Xiaoqinghe North Rd N
+514;2;76834;shun he gao jia lu xi ce xiao qing he bei lu bei ce chu kou za dao
+514;3;76834;Shunhe Viad W Xiaoqinghe North Rd N Exit Ramp
+514;2;76660;shun he gao jia xi ce
+514;3;76660;Shunhe Viad W
+514;2;76785;shun he gao jia xi ce jing shi lu chu kou za dao
+514;3;76785;Shunhe Viad W Jingshi Rd Exit Ramp
+514;2;76649;shun he gao jia lu shun he xi jie ru kou za dao
+514;3;76649;Shunhe Viad Shunhe West St Entrance Ramp
+514;2;40253;tai dong qi lu
+514;3;40253;Taidongqi Rd
+514;2;76840;tu wu lu
+514;3;76840;Tuwu Rd
+514;2;76565;shun hua dong lu
+514;3;76565;Shunhua East Rd
+514;2;39231;xing cheng lu
+514;3;39231;Xingcheng Rd
+514;2;39310;tang he lu
+514;3;39310;Tanghe Rd
+514;2;41883;kua hai da qiao gao jia lu si liu zhong lu shang za dao
+514;3;41883;Kuahaidaqiao Viad Siliu Middle Rd Entrance Ramp
+514;2;39246;si liu zhong zhi lu
+514;3;39246;Siliu Middle Byp
+514;2;41884;kua hai da qiao gao jia lu si liu zhong lu dong ce shang za dao
+514;3;41884;Kuahaidaqiao Viad Siliu Middle Rd E Entrance Ramp
+514;2;19046;huan shan jie
+514;3;19046;Huanshan St
+514;2;40343;tai dong ba lu
+514;3;40343;Taidongba Rd
+514;2;40342;tai dong liu lu
+514;3;40342;Taidongliu Rd
+514;2;40495;tai liu lu
+514;3;40495;Tailiu Rd
+514;2;39722;tai xi san lu
+514;3;39722;Taixisan Rd
+514;2;39115;tuan dao san lu
+514;3;39115;Tuandaosan Rd
+514;2;39688;tai ping jiao liu lu
+514;3;39688;Taipingjiaoliu Rd
+514;2;39842;tai ping jiao si lu
+514;3;39842;Taipingjiaosi Rd
+514;2;39853;zhan shan wu lu
+514;3;39853;Zhanshanwu Rd
+514;2;40599;tai ping jiao si lu nan duan
+514;3;40599;Taipingjiaosi Rd South Sect
+514;2;40598;tai ping jiao si lu bei duan
+514;3;40598;Taipingjiaosi Rd North Sect
+514;2;39889;tan cheng lu
+514;3;39889;Tancheng Rd
+514;2;39692;tai qing lu
+514;3;39692;Taiqing Rd
+514;2;40315;mei jing bao shui da sha
+514;3;40315;Meijingbaoshuidasha
+514;2;38697;tai yuan lu
+514;3;38697;Taiyuan Rd
+514;2;41936;yi du lu
+514;3;41936;Yidu Rd
+514;2;41925;tang yi lu
+514;3;41925;Tangyi Rd
+514;2;19119;hua tian jia xiao qu
+514;3;19119;Huatianjia Community
+514;2;6098;hui cong jie
+514;3;6098;Huicong St
+514;2;40365;yan ling lu
+514;3;40365;Yanling Rd
+514;2;39506;tong le san lu
+514;3;39506;Tonglesan Rd
+514;2;80110;fu shan ju fang chan
+514;3;80110;Fushanjufangchan
+514;2;40509;tong an si lu
+514;3;40509;Tongansi Rd
+514;2;77420;tong yuan ju hou jie
+514;3;77420;Tongyuanju Back St
+514;2;77419;zhi jin shi jie
+514;3;77419;Zhijinshi St
+514;2;19013;xing hua jie
+514;3;19013;Xinghua St
+514;2;40338;wang cun lu
+514;3;40338;Wangcun Rd
+514;2;41874;wei qing gao su gong lu qing dao duan
+514;3;41874;Weiqing Hwy Qingdao Sect
+514;2;39487;S212
+514;3;39487;S212
+514;2;40393;ji mo fu wu qu
+514;3;40393;Jimo Service Area
+514;2;41875;lan zhou lu
+514;3;41875;Lanzhou Rd
+514;2;19090;wei qing gao su gong lu wei hai duan
+514;3;19090;Weiqing Hwy Weihai Sect
+514;2;18871;ru shan xi shou fei zhan
+514;3;18871;Rushan W Tollgate
+514;2;18873;yin jin da dao
+514;3;18873;Yinjin Blvd
+514;2;18875;ru shan ting che qu
+514;3;18875;Rushan Parking Area
+514;2;18876;wen deng fu wu qu
+514;3;18876;Wendeng Service Area
+514;2;18879;wen deng ting che qu
+514;3;18879;Wendeng Parking Area
+514;2;6457;wei qing gao su gong lu yan tai duan
+514;3;6457;Weiqing Hwy Yantai Sect
+514;2;5954;ru shan zhai chu ru kou
+514;3;5954;Rushanzhaichurukou
+514;2;5947;yang jun chu ru kou
+514;3;5947;Yangjunchurukou
+514;2;15860;xing cun li jiao
+514;3;15860;Xingcun Jct
+514;2;6158;hai yang fu wu qu
+514;3;6158;Haiyang Service Area
+514;2;6159;xin an chu ru kou
+514;3;6159;Xin'anchurukou
+514;2;15861;hai yang xi li jiao
+514;3;15861;Haiyang West Jct
+514;2;15862;dong feng da dao bei lu
+514;3;15862;Dongfengdadao North Rd
+514;2;6225;hai he yi lu
+514;3;6225;Haiheyi Rd
+514;2;40203;hei shan lu
+514;3;40203;Heishan Rd
+514;2;38816;fu xin lu
+514;3;38816;Fuxin Rd
+514;2;39397;nan ling yi lu
+514;3;39397;Nanlingyi Rd
+514;2;39398;mei an san lu
+514;3;39398;Meiansan Rd
+514;2;76772;gan nan dong jie
+514;3;76772;Gannan East St
+514;2;18905;zhong hui da jiu dian
+514;3;18905;Zhonghuidajiudian
+514;2;19114;wen hua xi lu zhi bei huan hai lu
+514;3;19114;Wenhua West Rd to Beihuanhai Rd
+514;2;41938;shou zhang lu
+514;3;41938;Shouzhang Rd
+514;2;77405;wo long lu
+514;3;77405;Wolong Rd
+514;2;76835;yi yuan xiao qu
+514;3;76835;Yiyuan Community
+514;2;76641;bei yuan gao jia lu wu ying shan lu ru kou za dao
+514;3;76641;Beiyuan Viad Wuyingshan Rd Entrance Ramp
+514;2;77408;wu ying shan xi lu
+514;3;77408;Wuyingshan West Rd
+514;2;40254;wu tian lu
+514;3;40254;Wutian Rd
+514;2;76637;shun he gao jia lu xi ce wu liu zha bei lu ru kou za dao
+514;3;76637;Shunhe Viad W Wuliuzha North Rd Entrance Ramp
+514;2;48030;wu sheng guan du jia jiu dian
+514;3;48030;Wushengguandujiajiudian
+514;2;39247;wu yang lu
+514;3;39247;Wuyang Rd
+514;2;76836;bei yuan gao jia lu xi gong shang he lu ru kou za dao
+514;3;76836;Beiyuan Viad W Gongshanghe Rd Entrance Ramp
+514;2;40120;tuan dao
+514;3;40120;Tuandao
+514;2;48031;fei xian lu (shan xian zhi lu)
+514;3;48031;Feixian Rd (Shanxian Byp)
+514;2;77421;xi luo he lu
+514;3;77421;W Luohe Rd
+514;2;6107;yu huang ding dong lu
+514;3;6107;Yuhuangding East Rd
+514;2;15828;xin shi lu
+514;3;15828;Xinshi Rd
+514;2;15830;xin qiao dong lu
+514;3;15830;Xinqiao East Rd
+514;2;76608;zhu dian lu
+514;3;76608;Zhudian Rd
+514;2;76609;zhu shun lu
+514;3;76609;Zhushun Rd
+514;2;38673;zhong lao lu
+514;3;38673;Zhonglao Rd
+514;2;40367;xian xia ling lu
+514;3;40367;Xianxialing Rd
+514;2;6127;fu xin chuang ye yuan
+514;3;6127;Fuxin High-tech Business Incubator
+514;2;48073;xiang gang dong lu zhi dong hai dong lu
+514;3;48073;Xianggang East Rd to Donghai East Rd
+514;2;19025;bo tong lu
+514;3;19025;Botong Rd
+514;2;48075;zuo shan lu (wen deng lu)
+514;3;48075;Zuoshan Rd (Wendeng Rd)
+514;2;40305;xiang jiang lu di yi xiao xue
+514;3;40305;Xiangjiangludiyixiaoxue
+514;2;15878;xiang zhen lu
+514;3;15878;Xiangzhen Rd
+514;2;41913;xiang yang lu
+514;3;41913;Xiangyang Rd
+514;2;76456;bei zha zi dong lu
+514;3;76456;Beizhazi East Rd
+514;2;76837;shun he gao jia lu dong ce xiao qing he bei lu bei ce ru kou za dao
+514;3;76837;Shunhe Viad E Xiaoqinghe North Rd N Entrance Ramp
+514;2;80038;xiao wei liu lu
+514;3;80038;Xiaoweiliu Rd
+514;2;76610;xin zhu lu
+514;3;76610;Xinzhu Rd
+514;2;39138;shen xian lu
+514;3;39138;Shenxian Rd
+514;2;39143;he bei lu
+514;3;39143;Hebei Rd
+514;2;15883;guan zhuang lu
+514;3;15883;Guanzhuang Rd
+514;2;80023;xin zhao lu
+514;3;80023;Xinzhao Rd
+514;2;15829;xi pao tai lu
+514;3;15829;Xipaotai Rd
+514;2;6034;xin qiao xi lu
+514;3;6034;Xinqiao West Rd
+514;2;18982;xin wei fu lu
+514;3;18982;Xinweifu Rd
+514;2;41866;xin wei gao su gong lu qing dao duan
+514;3;41866;Xinwei Hwy Qingdao Sect
+514;2;40155;ma ge zhuang ting che qu
+514;3;40155;Magezhuang Parking Area
+514;2;76425;xing ji qiao dong lu
+514;3;76425;Xingjiqiao East Rd
+514;2;77411;xing ji qiao xi lu
+514;3;77411;Xingjiqiao West Rd
+514;2;40358;xing long lu
+514;3;40358;Xinglong Rd
+514;2;40359;qing dao sha ling zhuang zhan
+514;3;40359;Qingdao Shalingzhuang Station
+514;2;40354;xu zhou bei lu
+514;3;40354;Xuzhou North Rd
+514;2;48032;xin yuan gong yu
+514;3;48032;Xinyuangongyu
+514;2;80117;yan hai gao su gong lu
+514;3;80117;Yanhai Hwy
+514;2;80118;XF43
+514;3;80118;XF43
+514;2;80119;ye tou cun
+514;3;80119;Yetou Village
+514;2;39693;yang kou lu
+514;3;39693;Yangkou Rd
+514;2;40510;yan shou gong lu
+514;3;40510;Yanshougong Rd
+514;2;80054;er huan dong gao jia lu yan shan li jiao qiao ru kou za dao
+514;3;80054;2nd Ring East Viad Yanshan Jct Entrance Ramp
+514;2;48033;run zi zhi ye gong ye yuan
+514;3;48033;Runzizhiyegongyeyuan
+514;2;40265;guan jia da cun
+514;3;40265;Guanjiada Village
+514;2;48034;shi zi lu yuan cun
+514;3;48034;Shiziluyuan Village
+514;2;41977;xu guang lu
+514;3;41977;Xuguang Rd
+514;2;41906;yi chuan lu
+514;3;41906;Yichuan Rd
+514;2;80104;yi zhong li jiao qiao
+514;3;80104;Yizhong Jct
+514;2;41940;yi yang lu
+514;3;41940;Yiyang Rd
+514;2;48036;mei ling ju
+514;3;48036;Meilingju
+514;2;77415;yin hu chi jie
+514;3;77415;Yinhuchi St
+514;2;40431;ying bin lu zhi min hang lu
+514;3;40431;Yingbin Rd to Minhang Rd
+514;2;40492;yong an lu
+514;3;40492;Yongan Rd
+514;2;40494;wen an lu
+514;3;40494;Wenan Rd
+514;2;39676;fu shan zhi lu
+514;3;39676;Fushan Byp
+514;2;19005;zhu dao lu
+514;3;19005;Zhudao Rd
+514;2;76487;shun yu lu
+514;3;76487;Shunyu Rd
+514;2;6106;yu huang ding bei lu
+514;3;6106;Yuhuangding North Rd
+514;2;40515;yuan tou lu
+514;3;40515;Yuantou Rd
+514;2;40351;yun xiao lu
+514;3;40351;Yunxiao Rd
+514;2;48002;yun cheng bei lu
+514;3;48002;Yuncheng North Rd
+514;2;40231;zao shan dong lu
+514;3;40231;Zaoshan East Rd
+514;2;76422;ji chang xi lu
+514;3;76422;Jichang West Rd
+514;2;76426;kuang shan xiao qu zhong lu
+514;3;76426;Kuangshanxiaoqu Middle Rd
+514;2;48000;zhang zhou yi lu
+514;3;48000;Zhangzhouyi Rd
+514;2;6126;jin he lu
+514;3;6126;Jinhe Rd
+514;2;40585;qu fu lu
+514;3;40585;Qufu Rd
+514;2;5974;zhi fu dao dong lu
+514;3;5974;Zhifudao East Rd
+514;2;6073;dong kou
+514;3;6073;Dongkou
+514;2;80030;zhi fang jie
+514;3;80030;Zhifang St
+514;2;39207;chong qing lu
+514;3;39207;Chongqing Rd
+514;2;80120;chong qing lu li jiao
+514;3;80120;Chongqing Rd Jct
+514;2;48043;kua hai da qiao gao jia lu chong qing nan lu ru kou za dao
+514;3;48043;Kuahaidaqiao Viad Chongqing South Rd Entrance Ramp
+514;2;40016;ke yuan jing liu lu
+514;3;40016;Keyuanjingliu Rd
+514;2;15825;xin sheng lu
+514;3;15825;Xinsheng Rd
+514;2;40223;xi cheng xi cun
+514;3;40223;Xichengxi Village
+514;2;40521;yan tai qian cun
+514;3;40521;Yantaiqian Village
+514;2;39219;yin jiang lu
+514;3;39219;Yinjiang Rd
+514;2;80124;lu dao zui
+514;3;80124;Ludaozui

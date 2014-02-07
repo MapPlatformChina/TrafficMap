@@ -1,0 +1,3123 @@
+﻿CID;LID;NID;NTRANSLATION
+513;2;1;ya zhou
+513;3;1;Asia
+513;2;2;zhong guo
+513;3;2;China
+513;2;3;si chuan sheng
+513;3;3;SICHUAN
+513;2;4;cheng du shi
+513;3;4;Chengdu
+513;2;8;G318
+513;3;8;G318
+513;2;10;cheng wen qiong gao su gong lu
+513;3;10;Chengwenqiong Hwy
+513;2;11;XA19
+513;3;11;XA19
+513;2;12;XN14
+513;3;12;XN14
+513;2;15;cheng peng gao su gong lu
+513;3;15;Chengpeng Hwy
+513;2;17;ba bao jie
+513;3;17;Babao St
+513;2;18;chang shun xia jie
+513;3;18;Changshunxia St
+513;2;19;lao dong cheng gen jie
+513;3;19;Laodongchenggen St
+513;2;20;ba li qiao lu
+513;3;20;Baliqiao Rd
+513;2;23;ba li zhuang lu
+513;3;23;Balizhuang Rd
+513;2;25;er xian qiao xi yi xiang
+513;3;25;Erxianqiaoxiyi Ln
+513;2;34;guang du da dao
+513;3;34;Guangdu Blvd
+513;2;35;bai si jie
+513;3;35;Baisi St
+513;2;36;yu dai qiao jie
+513;3;36;Yudaiqiao St
+513;2;37;gu lou bei yi jie
+513;3;37;Guloubeiyi St
+513;2;38;bai yi xia jie
+513;3;38;Baiyixia St
+513;2;41;bei da jie
+513;3;41;Beida St
+513;2;42;bei dong jie
+513;3;42;Beidong St
+513;2;44;bei jiao chang xi lu
+513;3;44;Beijiaochang West Rd
+513;2;46;wu du lu
+513;3;46;Wudu Rd
+513;2;50;bei zhan dong er lu
+513;3;50;Beizhandonger Rd
+513;2;56;bei zhan xi er lu
+513;3;56;Beizhanxier Rd
+513;2;59;bin jiang dong lu
+513;3;59;Binjiang East Rd
+513;2;62;bin jiang xi lu
+513;3;62;Binjiang West Rd
+513;2;63;xia nan da jie
+513;3;63;Xia'nan Ave
+513;2;65;bin jiang zhong lu
+513;3;65;Binjiang Middle Rd
+513;2;75;hong min lu
+513;3;75;Hongmin Rd
+513;2;86;cao jin lu
+513;3;86;Caojin Rd
+513;2;87;qian tong lu
+513;3;87;Qiantong Rd
+513;2;89;cao shi jie
+513;3;89;Caoshi St
+513;2;92;cha dian zi dong jie
+513;3;92;Chadianzi East St
+513;2;93;jian kang xiang
+513;3;93;Jiankang Ln
+513;2;94;cha dian zi lu
+513;3;94;Chadianzi Rd
+513;2;96;jin fang yuan xi lu
+513;3;96;Jinfangyuan West Rd
+513;2;98;cha dian zi xi jie
+513;3;98;Chadianzi West St
+513;2;99;cha dian zi heng jie
+513;3;99;Chadianzi St
+513;2;101;cha dian zi zheng jie
+513;3;101;Chadianzizheng St
+513;2;106;shang ye jie
+513;3;106;Shangye St
+513;2;114;ying bin lu
+513;3;114;Yingbin Rd
+513;2;118;er xian qiao dong lu
+513;3;118;Erxianqiao East Rd
+513;2;136;zhong shan da dao nan san duan
+513;3;136;Zhongshan Blvd Nansan Sect
+513;2;142;S105
+513;3;142;S105
+513;2;151;wen chang lu
+513;3;151;Wenchang Rd
+513;2;167;cheng bei chu kou gao su gong lu
+513;3;167;Chengbeichukou Hwy
+513;2;171;zou ma jie
+513;3;171;Zouma St
+513;2;176;chuang ye lu
+513;3;176;Chuangye Rd
+513;2;177;tian ci ke ji yuan
+513;3;177;Tianci Science&Technology Garden
+513;2;179;ci tang jie
+513;3;179;Citang St
+513;2;181;xi yu jie
+513;3;181;Xiyu St
+513;2;182;da an dong lu
+513;3;182;Daan East Rd
+513;2;183;tai sheng bei lu
+513;3;183;Taisheng North Rd
+513;2;185;da an xi lu
+513;3;185;Daan West Rd
+513;2;188;da an zhong lu
+513;3;188;Daan Middle Rd
+513;2;193;dong an nan lu
+513;3;193;Dongan South Rd
+513;2;197;da shi dong lu
+513;3;197;Dashi East Rd
+513;2;199;jin li zhong lu
+513;3;199;Jinli Middle Rd
+513;2;200;da shi xi lu
+513;3;200;Dashi West Rd
+513;2;203;da ye lu
+513;3;203;Daye Rd
+513;2;204;jin xing lu
+513;3;204;Jinxing Rd
+513;2;209;dong an bei lu
+513;3;209;Dongan North Rd
+513;2;214;wu cheng da jie
+513;3;214;Wucheng Ave
+513;2;215;dong cheng gen nan jie
+513;3;215;Dongchenggen South St
+513;2;216;jin dun lu
+513;3;216;Jindun Rd
+513;2;222;yang shi jie
+513;3;222;Yangshi St
+513;2;227;dong da jie
+513;3;227;Dongda St
+513;2;229;san sheng jie
+513;3;229;Sansheng St
+513;2;230;dong da lu
+513;3;230;Dongdalu
+513;2;231;gu ya po lu
+513;3;231;Guyapo Rd
+513;2;236;dong hua men jie
+513;3;236;Donghuamen St
+513;2;238;xi yu long jie
+513;3;238;Xiyulong St
+513;2;241;ti du jie
+513;3;241;Tidu St
+513;2;242;dong men jie
+513;3;242;Dongmen St
+513;2;251;dong yu jie
+513;3;251;Dongyu St
+513;2;253;shun cheng da jie
+513;3;253;Shuncheng Ave
+513;2;254;dong zi kou lu
+513;3;254;Dongzikou Rd
+513;2;257;er huan
+513;3;257;2nd Ring
+513;2;261;er xian qiao xi lu
+513;3;261;Erxianqiao West Rd
+513;2;264;fang cao dong jie
+513;3;264;Fangcao East St
+513;2;266;yu lin nan lu
+513;3;266;Yulin South Rd
+513;2;268;yong feng lu
+513;3;268;Yongfeng Rd
+513;2;277;xin yuan da dao
+513;3;277;Xinyuan Blvd
+513;2;287;er huan lu dong yi duan
+513;3;287;2nd Ring Dongyiduan
+513;2;295;huo che nan zhan dong lu
+513;3;295;Huoche'nanzhan East Rd
+513;2;297;gao sheng qiao lu
+513;3;297;Gaoshengqiao Rd
+513;2;300;guan wen lu
+513;3;300;Guanwen Rd
+513;2;302;kui guang lu
+513;3;302;Kuiguang Rd
+513;2;303;guang hua cun jie
+513;3;303;Guanghuacun St
+513;2;304;qing yang da dao
+513;3;304;Qingyang Blvd
+513;2;311;rui lian lu
+513;3;311;Ruilian Rd
+513;2;317;ran deng si lu
+513;3;317;Randengsi Rd
+513;2;318;guang fu qiao jie
+513;3;318;Guangfuqiao St
+513;2;319;gao sheng qiao dong lu
+513;3;319;Gaoshengqiao East Rd
+513;2;322;zong fu lu
+513;3;322;Zongfu Rd
+513;2;328;lin jiang dong lu
+513;3;328;Linjiang East Rd
+513;2;333;hong zhao bi jie
+513;3;333;Hongzhaobi St
+513;2;334;shang nan da jie
+513;3;334;Shangnan Ave
+513;2;339;hua pai fang jie
+513;3;339;Huapaifang St
+513;2;342;hua xing lu
+513;3;342;Huaxing Rd
+513;2;350;zheng bei shang jie
+513;3;350;Zhengbeishang St
+513;2;360;huai shu jie
+513;3;360;Huaishu St
+513;2;361;san dong qiao lu
+513;3;361;Sandongqiao Rd
+513;2;362;chang shun zhong jie
+513;3;362;Changshun Middle St
+513;2;366;huo che nan zhan xi lu
+513;3;366;Huoche'nanzhan West Rd
+513;2;369;ji chang gao su gong lu
+513;3;369;Jichang Hwy
+513;2;391;an rong lu
+513;3;391;Anrong Rd
+513;2;394;deng long jie
+513;3;394;Denglong St
+513;2;396;jiang xi jie
+513;3;396;Jiangxi St
+513;2;397;li min xiang
+513;3;397;Limin Ln
+513;2;407;si ma qiao lu
+513;3;407;Simaqiao Rd
+513;2;409;wen weng lu
+513;3;409;Wenweng Rd
+513;2;414;jin guang lu
+513;3;414;Jinguang Rd
+513;2;415;rong du da dao
+513;3;415;Rongdu Blvd
+513;2;416;shu long da dao zhong duan
+513;3;416;Shulongdadaozhongduan
+513;2;418;xia tong ren lu
+513;3;418;Xiatongren Rd
+513;2;419;chang shun shang jie
+513;3;419;Changshunshang St
+513;2;423;jin ke bei lu
+513;3;423;Jinke North Rd
+513;2;427;shu xi lu
+513;3;427;Shuxi Rd
+513;2;429;jin niu ba lu
+513;3;429;Jinniuba Rd
+513;2;435;jin xian qiao lu
+513;3;435;Jinxianqiao Rd
+513;2;436;shi hui jie
+513;3;436;Shihui St
+513;2;437;xi ti lu
+513;3;437;Xiti Rd
+513;2;440;quan xing lu
+513;3;440;Quanxing Rd
+513;2;441;jin dong lu
+513;3;441;Jindong Rd
+513;2;446;cui jin dong lu
+513;3;446;Cuijin East Rd
+513;2;450;jin li dong lu
+513;3;450;Jinli East Rd
+513;2;453;jin li xi lu
+513;3;453;Jinli West Rd
+513;2;454;qin tai lu
+513;3;454;Qintai Rd
+513;2;455;xiao nan jie
+513;3;455;Xiaonan St
+513;2;459;jin xiu lu
+513;3;459;Jinxiu Rd
+513;2;460;cheng ke lu
+513;3;460;Chengke Rd
+513;2;461;ke hua bei lu
+513;3;461;Kehua North Rd
+513;2;462;jin yang lu
+513;3;462;Jinyang Rd
+513;2;468;jing an lu
+513;3;468;Jing'an Rd
+513;2;469;jing ning lu
+513;3;469;Jingning Rd
+513;2;475;long zhou lu
+513;3;475;Longzhou Rd
+513;2;489;lao chuan zang lu
+513;3;489;Laochuanzang Rd
+513;2;492;ling shi guan lu
+513;3;492;Lingshiguan Rd
+513;2;495;long qing lu
+513;3;495;Longqing Rd
+513;2;501;long teng dong lu
+513;3;501;Longteng East Rd
+513;2;502;long xin lu
+513;3;502;Longxin Rd
+513;2;504;long teng xi lu
+513;3;504;Longteng West Rd
+513;2;506;long hua bei lu
+513;3;506;Longhua North Rd
+513;2;507;long teng zhong lu
+513;3;507;Longteng Middle Rd
+513;2;510;luo guo xiang
+513;3;510;Luoguo Ln
+513;2;513;ma an bei lu
+513;3;513;Maan North Rd
+513;2;514;ma an dong lu
+513;3;514;Maan East Rd
+513;2;516;ma an nan lu
+513;3;516;Maan South Rd
+513;2;517;xing hui zhong bin he lu
+513;3;517;Xinghuizhongbinhe Rd
+513;2;519;ma jia hua yuan lu
+513;3;519;Majiahuayuan Rd
+513;2;525;ni jia qiao lu
+513;3;525;Nijiaqiao Rd
+513;2;528;ning xia jie
+513;3;528;Ningxia St
+513;2;532;niu wang miao xiang
+513;3;532;Niuwangmiao Ln
+513;2;534;ou peng da dao
+513;3;534;Oupeng Blvd
+513;2;535;yi du dong lu
+513;3;535;Yidu East Rd
+513;2;539;qing yang shang jie
+513;3;539;Qingyangshang St
+513;2;540;qing long jie
+513;3;540;Qinglong St
+513;2;545;tong ji jie
+513;3;545;Tongji St
+513;2;549;qing yang zheng jie
+513;3;549;Qingyangzheng St
+513;2;555;qing jiang xi lu
+513;3;555;Qingjiang West Rd
+513;2;564;cheng huan lu
+513;3;564;Chenghuan Rd
+513;2;576;xin guang hua jie
+513;3;576;Xinguanghua St
+513;2;598;ri yue da dao er duan
+513;3;598;Riyue Blvd Er Sect
+513;2;600;cheng fei da dao
+513;3;600;Chengfei Blvd
+513;2;631;san huan fu lu
+513;3;631;3rd Ring Side Rd
+513;2;638;lao hu lin
+513;3;638;Laohulin
+513;2;643;wen miao hou jie
+513;3;643;Wenmiao Back St
+513;2;661;xin chuan lu
+513;3;661;Xinchuan Rd
+513;2;665;ying hui lu
+513;3;665;Yinghui Rd
+513;2;666;shuang jing lu
+513;3;666;Shuangjing Rd
+513;2;668;zhao jue si nan lu
+513;3;668;Zhaojuesi South Rd
+513;2;680;ji jiu lu
+513;3;680;Jijiu Rd
+513;2;685;wu ke dong san lu
+513;3;685;Wukedongsan Rd
+513;2;686;wu qing dong san lu
+513;3;686;Wuqingdongsan Rd
+513;2;702;shun jiang lu
+513;3;702;Shunjiang Rd
+513;2;705;si ma qiao jie
+513;3;705;Simaqiao St
+513;2;717;tai sheng nan lu
+513;3;717;Taisheng South Rd
+513;2;722;shu wa bei er jie
+513;3;722;Shuwabeier St
+513;2;723;tian feng lu
+513;3;723;Tianfeng Rd
+513;2;729;tian xian qiao bei lu
+513;3;729;Tianxianqiao North Rd
+513;2;735;tong ci lu
+513;3;735;Tongci Rd
+513;2;736;wu hou ci da jie
+513;3;736;Wuhouci Ave
+513;2;738;tong hui men lu
+513;3;738;Tonghuimen Rd
+513;2;747;wan he lu
+513;3;747;Wanhe Rd
+513;2;756;wu ding lu
+513;3;756;Wuding Rd
+513;2;761;wang ping bin he lu
+513;3;761;Wangpingbinhe Rd
+513;2;763;xi ti bei lu
+513;3;763;Xiti North Rd
+513;2;789;xi an bei lu
+513;3;789;Xi'an North Rd
+513;2;790;shi ye jie
+513;3;790;Shiye St
+513;2;794;zao zi xiang
+513;3;794;Zaozi Ln
+513;2;798;xi da jie
+513;3;798;Xida St
+513;2;799;tong xin lu
+513;3;799;Tongxin Rd
+513;2;801;xi hua men jie
+513;3;801;Xihuamen St
+513;2;807;xi xin da dao
+513;3;807;Xixin Blvd
+513;2;819;xi yue cheng jie
+513;3;819;W Yuecheng St
+513;2;822;xi mian qiao jie
+513;3;822;Ximianqiao St
+513;2;827;shui jin jie
+513;3;827;Shuijin St
+513;2;837;xiao jia he yan jie
+513;3;837;Xiaojiaheyan St
+513;2;845;gui hong lu
+513;3;845;Guihong Rd
+513;2;849;xin nan lu
+513;3;849;Xinnan Rd
+513;2;858;yi huan lu
+513;3;858;1st Ring Rd
+513;2;859;yi pin tian xia da jie
+513;3;859;Yipintianxia Ave
+513;2;862;yi du da dao xi lu
+513;3;862;Yidudadao West Rd
+513;2;864;chang chun lu
+513;3;864;Changchun Rd
+513;2;868;yi du zhong lu
+513;3;868;Yidu Middle Rd
+513;2;892;yu shuang lu
+513;3;892;Yushuang Rd
+513;2;895;yue fu jie
+513;3;895;Yuefu St
+513;2;896;dong qing shu jie
+513;3;896;Dongqingshu St
+513;2;898;zhao jue si heng lu
+513;3;898;Zhaojuesi Rd
+513;2;906;jun long jie
+513;3;906;Junlong St
+513;2;907;zhong nan da jie
+513;3;907;Zhongnan Ave
+513;2;913;zhong lie ci xi jie
+513;3;913;Zhonglieci West St
+513;2;921;bei xin jie
+513;3;921;Beixin St
+513;2;930;san guan tang jie
+513;3;930;Sanguantang St
+513;2;935;jin quan lu
+513;3;935;Jinquan Rd
+513;2;944;bin he lu
+513;3;944;Binhe Rd
+513;2;945;jiu long cun
+513;3;945;Jiulong Village
+513;2;950;jin hui lu
+513;3;950;Jinhui Rd
+513;2;951;jin ke nan lu
+513;3;951;Jinke South Rd
+513;2;956;xin dong jie
+513;3;956;Xindong St
+513;2;957;xiang xin lu
+513;3;957;Xiangxin Rd
+513;2;958;er huan lu bei duan
+513;3;958;2nd Ring Rd North Sect
+513;2;960;tao xi lu
+513;3;960;Taoxi Rd
+513;2;961;er huan lu dong duan
+513;3;961;2nd Ring Rd East Sect
+513;2;963;guo jia qiao xi jie
+513;3;963;Guojiaqiao West St
+513;2;964;er huan lu nan duan
+513;3;964;2nd Ring Rd South Sect
+513;2;967;er huan lu xi duan
+513;3;967;2nd Ring Rd West Sect
+513;2;969;ying men kou lu
+513;3;969;Yingmenkou Rd
+513;2;970;cheng du rao cheng gao su gong lu bei duan
+513;3;970;Chengduraocheng Hwy North Sect
+513;2;973;cheng du rao cheng gao su gong lu dong duan
+513;3;973;Chengduraocheng Hwy East Sect
+513;2;976;cheng du rao cheng gao su gong lu nan duan
+513;3;976;Chengduraocheng Hwy South Sect
+513;2;979;cheng du rao cheng gao su gong lu xi duan
+513;3;979;Chengduraocheng Hwy West Sect
+513;2;982;bei san huan fu lu
+513;3;982;N 3rd Ring Side Rd
+513;2;985;dong san huan fu lu
+513;3;985;E 3rd Ring Side Rd
+513;2;988;nan san huan fu lu
+513;3;988;S 3rd Ring Side Rd
+513;2;991;xi san huan fu lu
+513;3;991;W 3rd Ring Side Rd
+513;2;994;san huan lu bei duan
+513;3;994;3rd Ring North Sect
+513;2;997;san huan lu dong duan
+513;3;997;3rd Ring East Sect
+513;2;1000;san huan lu nan duan
+513;3;1000;3rd Ring South Sect
+513;2;1003;san huan lu xi duan
+513;3;1003;3rd Ring West Sect
+513;2;1006;yi huan lu bei duan
+513;3;1006;1st Ring North Sect
+513;2;1009;yi huan lu dong duan
+513;3;1009;1st Ring Dongduan
+513;2;1011;hong wa si jie
+513;3;1011;Hongwasi St
+513;2;1012;yi huan lu nan duan
+513;3;1012;1st Ring South Sect
+513;2;1014;ran deng si dong jie
+513;3;1014;Randengsi East St
+513;2;1015;yi huan lu xi duan
+513;3;1015;1st Ring Xiduan
+513;2;1019;xiong mao da dao
+513;3;1019;Xiongmao Blvd
+513;2;1028;hua jin da dao yi duan
+513;3;1028;Huajindadaoyiduan
+513;2;1037;ren he lu
+513;3;1037;Renhe Rd
+513;2;1041;tian he lu
+513;3;1041;Tianhe Rd
+513;2;1042;heng shan bei jie
+513;3;1042;Hengshan North St
+513;2;1046;wang cong dong lu
+513;3;1046;Wangcong East Rd
+513;2;1048;cheng guan gao su gong lu
+513;3;1048;Chengguan Hwy
+513;2;1056;pu tang lu
+513;3;1056;Putang Rd
+513;2;1061;dong hong lu
+513;3;1061;Donghong Rd
+513;2;1062;hong he da dao zhong lu
+513;3;1062;Honghe Blvd Middle Rd
+513;2;1067;gan yan tang
+513;3;1067;Ganyantang
+513;2;1070;bei xin da dao
+513;3;1070;Beixin Blvd
+513;2;1095;dong sheng lu
+513;3;1095;Dongsheng Rd
+513;2;1096;tian ban lu
+513;3;1096;Tianban Rd
+513;2;1106;tian xian qiao nan lu
+513;3;1106;Tianxianqiao South Rd
+513;2;1125;gan tong lu
+513;3;1125;Gantong Rd
+513;2;1126;jin xing bei lu
+513;3;1126;Jinxing North Rd
+513;2;1130;zao jun miao jie
+513;3;1130;Zaojunmiao St
+513;2;1135;zi yun lu
+513;3;1135;Ziyun Rd
+513;2;1136;jin fu lu
+513;3;1136;Jinfu Rd
+513;2;1146;guo jie lou jie
+513;3;1146;Guojielou St
+513;2;1151;luan shi yao
+513;3;1151;Luanshiyao
+513;2;1152;G213
+513;3;1152;G213
+513;2;1161;er xian qiao dong er lu
+513;3;1161;Erxianqiaodonger Rd
+513;2;1164;er xian qiao bei er lu
+513;3;1164;Erxianqiaobeier Rd
+513;2;1168;hong yan lu
+513;3;1168;Hongyan Rd
+513;2;1176;shu wang da dao bei duan
+513;3;1176;Shuwang Blvd North Sect
+513;2;1177;nan jie
+513;3;1177;Nanjie
+513;2;1180;xin du da dao
+513;3;1180;Xindu Blvd
+513;2;1181;hong yang lu
+513;3;1181;Hongyang Rd
+513;2;1186;cheng du fu wu qu
+513;3;1186;Chengdu Service Area
+513;2;1191;huai bai lu
+513;3;1191;Huaibai Rd
+513;2;1192;huai kou fu wu qu
+513;3;1192;Huaikou Service Area
+513;2;1197;xin fan chu ru kou
+513;3;1197;Xinfanchurukou
+513;2;1199;nan feng da dao
+513;3;1199;Nanfeng Blvd
+513;2;1202;wen hua jie
+513;3;1202;Wenhua St
+513;2;1203;hua mei jie
+513;3;1203;Huamei St
+513;2;1204;hua mei lu
+513;3;1204;Huamei Rd
+513;2;1207;wen sheng lu
+513;3;1207;Wensheng Rd
+513;2;1208;ju long lu
+513;3;1208;Julong Rd
+513;2;1214;tian xing da dao
+513;3;1214;Tianxing Blvd
+513;2;1217;xi ling da dao
+513;3;1217;Xiling Blvd
+513;2;1219;shi ji da dao
+513;3;1219;Shiji Blvd
+513;2;1227;chao yang da dao
+513;3;1227;Chaoyang Blvd
+513;2;1229;qiong lai shou fei zhan
+513;3;1229;Qionglai Tollgate
+513;2;1230;cheng le gao su gong lu
+513;3;1230;Chengle Hwy
+513;2;1234;fu wu qu
+513;3;1234;Service Area
+513;2;1242;gao dong shui guo shi chang ting che qu
+513;3;1242;Gaodong Fruits Market Parking Area
+513;2;1260;tian shun bei jie
+513;3;1260;Tianshun North St
+513;2;1264;jiu xing da dao
+513;3;1264;Jiuxing Blvd
+513;2;1275;shu yuan nan jie
+513;3;1275;Shuyuan South St
+513;2;1282;huang jing lu
+513;3;1282;Huangjing Rd
+513;2;1287;fang lin lu
+513;3;1287;Fanglin Rd
+513;2;1290;zi teng lu
+513;3;1290;Ziteng Rd
+513;2;1291;shuang yuan jie
+513;3;1291;Shuangyuan St
+513;2;1292;da shi nan lu
+513;3;1292;Dashi South Rd
+513;2;1298;gu lou bei si jie
+513;3;1298;Guloubeisi St
+513;2;1307;gui hua xiang
+513;3;1307;Guihua Ln
+513;2;1318;dong feng lu bei yi xiang
+513;3;1318;Dongfenglubeiyi Ln
+513;2;1321;dong hua zheng jie
+513;3;1321;Donghuazheng St
+513;2;1322;dong yu he yan jie
+513;3;1322;Dongyuheyan St
+513;2;1335;quan shui xi lu
+513;3;1335;Quanshui West Rd
+513;2;1337;quan shui dong lu
+513;3;1337;Quanshui East Rd
+513;2;1338;wang jia lu
+513;3;1338;Wangjia Rd
+513;2;1341;sha wan lu
+513;3;1341;Shawan Rd
+513;2;1342;jiu li di nan lu
+513;3;1342;Jiulidi South Rd
+513;2;1347;san you lu
+513;3;1347;Sanyou Rd
+513;2;1351;jian she lu
+513;3;1351;Jianshe Rd
+513;2;1353;shuang qing lu
+513;3;1353;Shuangqing Rd
+513;2;1354;shuang gui lu
+513;3;1354;Shuanggui Rd
+513;2;1356;lian gui dong lu
+513;3;1356;Liangui East Rd
+513;2;1357;jing ju si lu
+513;3;1357;Jingjusi Rd
+513;2;1360;gao pan lu
+513;3;1360;Gaopan Rd
+513;2;1362;ke hua zhong lu
+513;3;1362;Kehua Middle Rd
+513;2;1363;xin xi wang lu
+513;3;1363;Xinxiwang Rd
+513;2;1365;xin guang lu
+513;3;1365;Xinguang Rd
+513;2;1366;fang cao jie
+513;3;1366;Fangcao St
+513;2;1368;gao peng da dao
+513;3;1368;Gaopeng Blvd
+513;2;1369;jia ling lu
+513;3;1369;Jialing Rd
+513;2;1371;shuang nan lu
+513;3;1371;Shuangnan Rd
+513;2;1373;qing hua lu
+513;3;1373;Qinghua Rd
+513;2;1375;luo jia nian jie
+513;3;1375;Luojianian St
+513;2;1376;qing xi dong lu
+513;3;1376;Qingxi East Rd
+513;2;1377;fu qin xi lu
+513;3;1377;Fuqin West Rd
+513;2;1381;di kan lu
+513;3;1381;Dikan Rd
+513;2;1388;fang hua jie
+513;3;1388;Fanghua St
+513;2;1390;jin qin lu
+513;3;1390;Jinqin Rd
+513;2;1399;hua you lu
+513;3;1399;Huayou Rd
+513;2;1405;xing hui dong lu
+513;3;1405;Xinghui East Rd
+513;2;1406;shi you lu
+513;3;1406;Shiyou Rd
+513;2;1409;chang rong lu
+513;3;1409;Changrong Rd
+513;2;1410;hang kong lu
+513;3;1410;Hangkong Rd
+513;2;1413;guang fu qiao bei jie
+513;3;1413;Guangfuqiao North St
+513;2;1414;qi dao yan jie
+513;3;1414;Qidaoyan St
+513;2;1419;jia yuan nan jie
+513;3;1419;Jiayuan South St
+513;2;1424;tu long lu
+513;3;1424;Tulong Rd
+513;2;1439;qing yun xi jie
+513;3;1439;Qingyun West St
+513;2;1445;wang jia ba jie
+513;3;1445;Wangjiaba St
+513;2;1446;long wang miao zheng jie
+513;3;1446;Longwangmiaozheng St
+513;2;1449;zhao zhong ci jie
+513;3;1449;Zhaozhongci St
+513;2;1474;zhong tong ren lu
+513;3;1474;Zhongtongren Rd
+513;2;1477;shu xin lu
+513;3;1477;Shuxin Rd
+513;2;1482;chang shou nan lu
+513;3;1482;Changshou South Rd
+513;2;1483;ke hua nan lu
+513;3;1483;Kehua South Rd
+513;2;1486;zi rui da dao
+513;3;1486;Zirui Blvd
+513;2;1490;ji chang lu chang le yi duan
+513;3;1490;Jichangluchangleyiduan
+513;2;1501;sheng shi lu
+513;3;1501;Shengshi Rd
+513;2;1506;xiu yuan lu
+513;3;1506;Xiuyuan Rd
+513;2;1509;shuang jian lu
+513;3;1509;Shuangjian Rd
+513;2;1510;sheng deng lu
+513;3;1510;Shengdeng Rd
+513;2;1513;meng zhui wan jie
+513;3;1513;Mengzhuiwan St
+513;2;1518;qian xiang jie
+513;3;1518;Qianxiang St
+513;2;1524;yin he lu
+513;3;1524;Yinhe Rd
+513;2;1525;xing he lu
+513;3;1525;Xinghe Rd
+513;2;1529;zhang jia xiang
+513;3;1529;Zhangjia Ln
+513;2;1532;ping fu lu
+513;3;1532;Pingfu Rd
+513;2;1533;hong hua dong lu
+513;3;1533;Honghua East Rd
+513;2;1534;er huan lu bei si duan
+513;3;1534;2nd Ring Beisiduan
+513;2;1549;jin ke zhong lu
+513;3;1549;Jinke Middle Rd
+513;2;1554;ying bin da dao
+513;3;1554;Yingbin Blvd
+513;2;1559;jin zhou lu
+513;3;1559;Jinzhou Rd
+513;2;1565;jin qing lu
+513;3;1565;Jinqing Rd
+513;2;1568;hong ji dong lu
+513;3;1568;Hongji East Rd
+513;2;1569;hai jiao shi jie
+513;3;1569;Haijiaoshi St
+513;2;1572;jing tian lu
+513;3;1572;Jingtian Rd
+513;2;1573;chen hui dong lu
+513;3;1573;Chenhui East Rd
+513;2;1574;chen hui lu
+513;3;1574;Chenhui Rd
+513;2;1577;dong yi jie
+513;3;1577;Dongyi St
+513;2;1578;dong guang jie
+513;3;1578;Dongguang St
+513;2;1579;bei shun jie
+513;3;1579;Beishun St
+513;2;1590;jin yan lu
+513;3;1590;Jinyan Rd
+513;2;1593;ci ba dian jie
+513;3;1593;Cibadian St
+513;2;1611;tian ren bei er jie
+513;3;1611;Tianrenbeier St
+513;2;1635;lian gui nan lu
+513;3;1635;Liangui South Rd
+513;2;1656;cao tang bei lu
+513;3;1656;Caotang North Rd
+513;2;1659;qing long xiang
+513;3;1659;Qinglong Ln
+513;2;1662;shang cheng cheng du hua yuan
+513;3;1662;Shangcheng Chengdu Garden
+513;2;1663;dong po lu
+513;3;1663;Dongpo Rd
+513;2;1665;bei sen lu
+513;3;1665;Beisen Rd
+513;2;1666;qing jiang zhong lu
+513;3;1666;Qingjiang Middle Rd
+513;2;1667;shuang jin lu
+513;3;1667;Shuangjin Rd
+513;2;1668;jin sha yi zhi lu
+513;3;1668;Jinshayizhi Rd
+513;2;1671;huan hua bei lu
+513;3;1671;Huanhua North Rd
+513;2;1683;shuang qing nan lu
+513;3;1683;Shuangqing South Rd
+513;2;1698;wu xing lu
+513;3;1698;Wuxing Rd
+513;2;1701;xiao jia cun san xiang
+513;3;1701;Xiaojiacunsan Ln
+513;2;1704;xing hui xi lu
+513;3;1704;Xinghui West Rd
+513;2;1705;cheng hua jie
+513;3;1705;Chenghua St
+513;2;1710;yan dao jie
+513;3;1710;Yandao St
+513;2;1713;lin yin jie
+513;3;1713;Linyin St
+513;2;1714;xiao tian zhu jie
+513;3;1714;Xiaotianzhu St
+513;2;1717;tong zi lin bei lu
+513;3;1717;Tongzilin North Rd
+513;2;1722;li hua jie
+513;3;1722;Lihua St
+513;2;1730;wen shu yuan jie
+513;3;1730;Wenshuyuan St
+513;2;1742;sha he yuan dong lu
+513;3;1742;Shaheyuan East Rd
+513;2;1748;sai yun tai dong yi lu
+513;3;1748;Saiyuntaidongyi Rd
+513;2;1750;san he da dao
+513;3;1750;Sanhe Blvd
+513;2;1751;xin du gong ye da dao dong duan
+513;3;1751;Xindugongyedadaodongduan
+513;2;1757;rui xing lu
+513;3;1757;Ruixing Rd
+513;2;1758;rui nan jie
+513;3;1758;Ruinan St
+513;2;1763;he bin lu
+513;3;1763;Hebin Rd
+513;2;1766;dong jiao chang jie
+513;3;1766;Dongjiaochang St
+513;2;1791;su po dong lu
+513;3;1791;Supo East Rd
+513;2;1792;shu han lu
+513;3;1792;Shuhan Rd
+513;2;1817;sha wan dong er lu
+513;3;1817;Shawandonger Rd
+513;2;1822;he jia nian
+513;3;1822;Hejianian
+513;2;1823;XA37
+513;3;1823;XA37
+513;2;1824;mi tuo si
+513;3;1824;Mituo Temple
+513;2;1827;qing shi qiao bei jie
+513;3;1827;Qingshiqiao North St
+513;2;1835;xi an nan lu
+513;3;1835;Xi'an South Rd
+513;2;1841;xing fu lu xi duan
+513;3;1841;Xingfuluxiduan
+513;2;1843;shu guang lu
+513;3;1843;Shuguang Rd
+513;2;1844;tong he lu
+513;3;1844;Tonghe Rd
+513;2;1853;shu zu lu
+513;3;1853;Shuzu Rd
+513;2;1854;shuang sha lu
+513;3;1854;Shuangsha Rd
+513;2;1855;shuang shui nian jie
+513;3;1855;Shuangshuinian St
+513;2;1860;shuang lin zhong heng lu
+513;3;1860;Shuanglin Middle Rd
+513;2;1863;shuang nan jie
+513;3;1863;Shuangnan St
+513;2;1866;yong ping lu
+513;3;1866;Yongping Rd
+513;2;1882;shuang hua nan lu
+513;3;1882;Shuanghua South Rd
+513;2;1883;jing hua bei lu
+513;3;1883;Jinghua North Rd
+513;2;1889;gu zhong shi jie
+513;3;1889;Guzhongshi St
+513;2;1891;dong da tong jie
+513;3;1891;E Datong St
+513;2;1894;lian gui xi lu
+513;3;1894;Liangui West Rd
+513;2;1901;shuang xin bei lu
+513;3;1901;Shuangxin North Rd
+513;2;1904;dong tong shun jie
+513;3;1904;E Tongshun St
+513;2;1908;zhong lie ci dong jie
+513;3;1908;Zhonglieci East St
+513;2;1926;dao sang shu jie
+513;3;1926;Daosangshu St
+513;2;1934;huang yuan dong jie
+513;3;1934;Huangyuan East St
+513;2;1939;wen miao qian jie
+513;3;1939;Wenmiao Front St
+513;2;1947;xi bei qiao he bian jie
+513;3;1947;Xibeiqiaohebian St
+513;2;1948;bai ma si jie
+513;3;1948;Baimasi St
+513;2;1956;wu hou ci dong jie
+513;3;1956;Wuhouci East St
+513;2;1975;shang du lu
+513;3;1975;Shangdu Rd
+513;2;1980;lu dao lu
+513;3;1980;Ludao Rd
+513;2;1981;long xiang lu
+513;3;1981;Longxiang Rd
+513;2;1992;xi yu he yan jie
+513;3;1992;Xiyuheyan St
+513;2;1997;di kang da dao
+513;3;1997;Dikang Blvd
+513;2;2009;xi mian qiao dong yi jie
+513;3;2009;Ximianqiaodongyi St
+513;2;2019;jun ping jie
+513;3;2019;Junping St
+513;2;2027;gu bai lu
+513;3;2027;Gubai Rd
+513;2;2034;lin yin zhong jie
+513;3;2034;Linyin Middle St
+513;2;2035;long jiang lu
+513;3;2035;Longjiang Rd
+513;2;2054;shuang qiao lu
+513;3;2054;Shuangqiao Rd
+513;2;2061;yu lin bei lu
+513;3;2061;Yulin North Rd
+513;2;2063;xing rong jie
+513;3;2063;Xingrong St
+513;2;2069;wen hua lu
+513;3;2069;Wenhua Rd
+513;2;2070;yong ling lu
+513;3;2070;Yongling Rd
+513;2;2083;jin sha lu
+513;3;2083;Jinsha Rd
+513;2;2092;fu qin nan lu
+513;3;2092;Fuqin South Rd
+513;2;2097;qi jia xiang
+513;3;2097;Qijia Ln
+513;2;2122;jin long shan zhuang nan lu
+513;3;2122;Jinlongshanzhuang South Rd
+513;2;2125;ting che qu
+513;3;2125;Tingchequ
+513;2;2126;yun shi lu
+513;3;2126;Yunshi Rd
+513;2;2128;gui zhu lu
+513;3;2128;Guizhu Rd
+513;2;2131;cheng long da dao
+513;3;2131;Chenglong Blvd
+513;2;2132;yin xing da dao
+513;3;2132;Yinxing Blvd
+513;2;2133;jing long lu
+513;3;2133;Jinglong Rd
+513;2;2134;long cheng da dao
+513;3;2134;Longcheng Blvd
+513;2;2137;yang liu dian bei lu
+513;3;2137;Yangliudian North Rd
+513;2;2138;de sheng shang jie
+513;3;2138;Deshengshang St
+513;2;2139;jing hua nan lu
+513;3;2139;Jinghua South Rd
+513;2;2140;da tian kan jie
+513;3;2140;Datiankan St
+513;2;2141;shuang lin bei heng lu
+513;3;2141;Shuanglin North Rd
+513;2;2142;shuang lin bei zhi lu
+513;3;2142;Shuanglin North Byp
+513;2;2143;xiao long qiao lu
+513;3;2143;Xiaolongqiao Rd
+513;2;2144;hong ji xin lu
+513;3;2144;Hongjixin Rd
+513;2;2145;yi xin qiao nan jie
+513;3;2145;Yixinqiao South St
+513;2;2148;yi xin qiao jie
+513;3;2148;Yixinqiao St
+513;2;2149;shui nian he nan jie
+513;3;2149;Shuinianhe South St
+513;2;2151;wang ping jie
+513;3;2151;Wangping St
+513;2;2152;tian xiang jie
+513;3;2152;Tianxiang St
+513;2;2154;dong sheng jie
+513;3;2154;Dongsheng St
+513;2;2155;hong shi zhu heng jie
+513;3;2155;Hongshizhu St
+513;2;2157;tang ba jie
+513;3;2157;Tangba St
+513;2;2158;xia lian chi jie
+513;3;2158;Xialianchi St
+513;2;2159;geng jia xiang
+513;3;2159;Gengjia Ln
+513;2;2161;zhong sha mao jie
+513;3;2161;Zhongshamao St
+513;2;2162;qing yun nan jie
+513;3;2162;Qingyun South St
+513;2;2163;zi tong qiao zheng jie
+513;3;2163;Zitongqiaozheng St
+513;2;2164;qing shi qiao nan jie
+513;3;2164;Qingshiqiao South St
+513;2;2165;shu wa nan jie
+513;3;2165;Shuwa South St
+513;2;2167;shu wa zhong jie
+513;3;2167;Shuwa Middle St
+513;2;2168;shu wa bei san jie
+513;3;2168;Shuwabeisan St
+513;2;2169;hua xing shang jie
+513;3;2169;Huaxingshang St
+513;2;2170;shu wa bei yi jie
+513;3;2170;Shuwabeiyi St
+513;2;2171;dong yu long jie
+513;3;2171;Dongyulong St
+513;2;2172;guai zao shu jie
+513;3;2172;Guaizaoshu St
+513;2;2173;lian guan gong suo jie
+513;3;2173;Lianguangongsuo St
+513;2;2174;fang zheng jie
+513;3;2174;Fangzheng St
+513;2;2175;shi zi xiang
+513;3;2175;Shizi Ln
+513;2;2176;xiao guan miao jie
+513;3;2176;Xiaoguanmiao St
+513;2;2177;gu lou nan jie
+513;3;2177;Gulou South St
+513;2;2178;da qiang xi jie
+513;3;2178;Daqiang West St
+513;2;2179;gu lou dong jie
+513;3;2179;Guloudong St
+513;2;2180;fan yin si jie
+513;3;2180;Fanyinsi St
+513;2;2181;gu lou bei er jie
+513;3;2181;Guloubeier St
+513;2;2182;zi tong jie
+513;3;2182;Zitong St
+513;2;2183;gu lou bei san jie
+513;3;2183;Guloubeisan St
+513;2;2184;yu quan jie
+513;3;2184;Yuquan St
+513;2;2185;xin kai si jie
+513;3;2185;Xinkaisi St
+513;2;2186;zheng tong shun jie
+513;3;2186;Zhengtongshun St
+513;2;2188;wu yue gong jie
+513;3;2188;Wuyuegong St
+513;2;2189;bai yun si jie
+513;3;2189;Baiyunsi St
+513;2;2190;jiang yuan gong suo jie
+513;3;2190;Jiangyuangongsuo St
+513;2;2191;xiao guan miao hou jie
+513;3;2191;Xiaoguanmiao Back St
+513;2;2192;ying hua si jie
+513;3;2192;Yinghuasi St
+513;2;2193;shi ma xiang
+513;3;2193;Shima Ln
+513;2;2194;xing hui zhong lu
+513;3;2194;Xinghui Middle Rd
+513;2;2195;heng de lu
+513;3;2195;Hengde Rd
+513;2;2196;ma an xi lu
+513;3;2196;Maan West Rd
+513;2;2197;jie fang xi lu
+513;3;2197;Jiefang West Rd
+513;2;2199;hong hua nan lu
+513;3;2199;Honghua South Rd
+513;2;2200;tian jia xiang
+513;3;2200;Tianjia Ln
+513;2;2201;bei zhan dong yi lu
+513;3;2201;Beizhandongyi Rd
+513;2;2202;bai ma si bei shun jie
+513;3;2202;Baimasibeishun St
+513;2;2203;cheng hua xi jie
+513;3;2203;Chenghua West St
+513;2;2204;bei zhan xi yi lu
+513;3;2204;Beizhanxiyi Rd
+513;2;2205;zhan xi lu
+513;3;2205;Zhanxi Rd
+513;2;2206;jiu li di zhong lu
+513;3;2206;Jiulidi Middle Rd
+513;2;2207;qun xing lu
+513;3;2207;Qunxing Rd
+513;2;2208;jiu li di bei lu
+513;3;2208;Jiulidi North Rd
+513;2;2209;jiu li di xi lu
+513;3;2209;Jiulidi West Rd
+513;2;2211;xing chen lu
+513;3;2211;Xingchen Rd
+513;2;2212;chang qing lu
+513;3;2212;Changqing Rd
+513;2;2213;xing han lu
+513;3;2213;Xinghan Rd
+513;2;2214;zhan bei lu
+513;3;2214;Zhanbei Rd
+513;2;2221;wan xiang nan lu
+513;3;2221;Wanxiang South Rd
+513;2;2223;sheng he yi lu
+513;3;2223;Shengheyi Rd
+513;2;2224;tong zi lin lu
+513;3;2224;Tongzilin Rd
+513;2;2225;tong zi lin nan lu
+513;3;2225;Tongzilin South Rd
+513;2;2226;tong zi lin dong lu
+513;3;2226;Tongzilin East Rd
+513;2;2227;yu lin nan jie
+513;3;2227;Yulin South St
+513;2;2228;yu lin dong lu
+513;3;2228;Yulin East Rd
+513;2;2229;chang shou lu
+513;3;2229;Changshou Rd
+513;2;2230;sheng long jie
+513;3;2230;Shenglong St
+513;2;2232;ke yuan jie
+513;3;2232;Keyuan St
+513;2;2233;cheng ke xi lu
+513;3;2233;Chengke West Rd
+513;2;2238;sheng he san lu
+513;3;2238;Shenghesan Rd
+513;2;2239;jing ming lu
+513;3;2239;Jingming Rd
+513;2;2240;shen xian shu nan lu
+513;3;2240;Shenxianshu South Rd
+513;2;2241;zi jing xi lu
+513;3;2241;Zijing West Rd
+513;2;2242;shen xian shu bei lu
+513;3;2242;Shenxianshu North Rd
+513;2;2243;yu lin xi lu
+513;3;2243;Yulin West Rd
+513;2;2244;zi zhu bei jie
+513;3;2244;Zizhu North St
+513;2;2245;yu lin zhong lu
+513;3;2245;Yulin Middle Rd
+513;2;2246;xiao tian dong jie
+513;3;2246;Xiaotian East St
+513;2;2247;xiao tian bei jie
+513;3;2247;Xiaotian North St
+513;2;2248;ke yuan da dao
+513;3;2248;Keyuan Blvd
+513;2;2249;zi jing bei lu
+513;3;2249;Zijing North Rd
+513;2;2250;gao sheng qiao bei jie
+513;3;2250;Gaoshengqiao North St
+513;2;2251;wu hou ci heng jie
+513;3;2251;Wuhouci St
+513;2;2252;xi mian qiao heng jie
+513;3;2252;Ximianqiao St
+513;2;2253;ju le lu
+513;3;2253;Jule Rd
+513;2;2254;yun xia lu
+513;3;2254;Yunxia Rd
+513;2;2255;yi du lu
+513;3;2255;Yidu Rd
+513;2;2256;yun ying lu
+513;3;2256;Yunying Rd
+513;2;2257;zhi xin lu
+513;3;2257;Zhixin Rd
+513;2;2258;qing rong lu
+513;3;2258;Qingrong Rd
+513;2;2259;shao ling lu
+513;3;2259;Shaoling Rd
+513;2;2260;long hua nan lu
+513;3;2260;Longhua South Rd
+513;2;2261;chang yi lu
+513;3;2261;Changyi Rd
+513;2;2262;li du lu
+513;3;2262;Lidu Rd
+513;2;2263;zi jing dong lu
+513;3;2263;Zijing East Rd
+513;2;2266;cheng han bei lu
+513;3;2266;Chenghan North Rd
+513;2;2267;sheng he er lu
+513;3;2267;Shengheer Rd
+513;2;2268;tian ren lu
+513;3;2268;Tianren Rd
+513;2;2274;jin yue dong jie
+513;3;2274;Jinyue East St
+513;2;2282;wang jiang lu
+513;3;2282;Wangjiang Rd
+513;2;2283;guo jia qiao zheng jie
+513;3;2283;Guojiaqiaozheng St
+513;2;2284;guo jia qiao bei jie
+513;3;2284;Guojiaqiao North St
+513;2;2286;si guan lu
+513;3;2286;Siguan Rd
+513;2;2287;jiang tian lu
+513;3;2287;Jiangtian Rd
+513;2;2288;lin jiang zhong lu
+513;3;2288;Linjiang Middle Rd
+513;2;2289;lin jiang xi lu
+513;3;2289;Linjiang West Rd
+513;2;2290;nan pu dong lu
+513;3;2290;Nanpu East Rd
+513;2;2291;ran dian jie
+513;3;2291;Randian St
+513;2;2292;nan pu zhong lu
+513;3;2292;Nanpu Middle Rd
+513;2;2293;nan pu xi lu
+513;3;2293;Nanpu West Rd
+513;2;2294;bai hua xi lu
+513;3;2294;Baihua West Rd
+513;2;2295;huan hua nan lu
+513;3;2295;Huanhua South Rd
+513;2;2296;ke hua jie
+513;3;2296;Kehua St
+513;2;2297;lv you cun jie
+513;3;2297;Lvyoucun St
+513;2;2298;sheng li xin cun
+513;3;2298;Shenglixincun
+513;2;2299;nan tai lu
+513;3;2299;Nantai Rd
+513;2;2300;shi qi jie
+513;3;2300;Shiqi St
+513;2;2301;zhi min lu
+513;3;2301;Zhimin Rd
+513;2;2302;shi er bei jie
+513;3;2302;Shierbei St
+513;2;2303;zhi min dong lu
+513;3;2303;Zhimin East Rd
+513;2;2304;hong men jie
+513;3;2304;Hongmen St
+513;2;2305;guo xue xiang
+513;3;2305;Guoxue Ln
+513;2;2307;da xue lu
+513;3;2307;Daxue Rd
+513;2;2308;lao ma lu
+513;3;2308;Laoma Rd
+513;2;2309;zhi hui jie
+513;3;2309;Zhihui St
+513;2;2310;xi ding zi jie
+513;3;2310;W Dingzi St
+513;2;2311;yan dai xiang
+513;3;2311;Yandai Ln
+513;2;2312;xiao tian xi jie
+513;3;2312;Xiaotian West St
+513;2;2313;dian xin nan jie
+513;3;2313;Dianxin South St
+513;2;2314;dian xin hou jie
+513;3;2314;Dianxin Back St
+513;2;2315;dian xin lu
+513;3;2315;Dianxin Rd
+513;2;2317;hong men hou jie
+513;3;2317;Hongmen Back St
+513;2;2318;xi mian qiao dong er jie
+513;3;2318;Ximianqiaodonger St
+513;2;2319;heng shan xi jie
+513;3;2319;Hengshan West St
+513;2;2320;shan xi jie
+513;3;2320;Shanxi St
+513;2;2321;xi gou tou xiang
+513;3;2321;Xigoutou Ln
+513;2;2322;bai hui lu
+513;3;2322;Baihui Rd
+513;2;2323;huan jin bin he lu
+513;3;2323;Huanjinbinhe Rd
+513;2;2324;shang tong ren lu
+513;3;2324;Shangtongren Rd
+513;2;2325;da qing lu
+513;3;2325;Daqing Rd
+513;2;2326;bai shou lu
+513;3;2326;Baishou Rd
+513;2;2327;jin luo lu
+513;3;2327;Jinluo Rd
+513;2;2328;fu qin jie
+513;3;2328;Fuqin St
+513;2;2329;jin yu jie
+513;3;2329;Jinyu St
+513;2;2330;shi ren nan lu
+513;3;2330;Shiren South Rd
+513;2;2331;shi ren dong lu
+513;3;2331;Shiren East Rd
+513;2;2332;zhan qi dong lu
+513;3;2332;Zhanqi East Rd
+513;2;2333;shuang qing zhong lu
+513;3;2333;Shuangqing Middle Rd
+513;2;2334;qing xi xi lu
+513;3;2334;Qingxi West Rd
+513;2;2335;shuang qing bei lu
+513;3;2335;Shuangqing North Rd
+513;2;2336;tong shan qiao nan jie
+513;3;2336;Tongshanqiao South St
+513;2;2338;tong yu jie
+513;3;2338;Tongyu St
+513;2;2339;tong shan jie
+513;3;2339;Tongshan St
+513;2;2340;shu tong jie
+513;3;2340;Shutong St
+513;2;2341;shu xing zhong jie
+513;3;2341;Shuxing Middle St
+513;2;2342;ying kang xi lu
+513;3;2342;Yingkang West Rd
+513;2;2344;shu rong lu
+513;3;2344;Shurong Rd
+513;2;2345;wu li dun lu
+513;3;2345;Wulidun Rd
+513;2;2346;jin feng lu
+513;3;2346;Jinfeng Rd
+513;2;2347;jin yang lu
+513;3;2347;Jinyang Rd
+513;2;2348;huang zhong lu
+513;3;2348;Huangzhong Rd
+513;2;2349;huang yuan jie
+513;3;2349;Huangyuan St
+513;2;2350;shu xing xi jie
+513;3;2350;Shuxing West St
+513;2;2351;yu de lu
+513;3;2351;Yude Rd
+513;2;2352;jin fang yuan nan lu
+513;3;2352;Jinfangyuan South Rd
+513;2;2353;jin fang yuan dong lu
+513;3;2353;Jinfangyuan East Rd
+513;2;2356;yin sha xi jie
+513;3;2356;Yinsha West St
+513;2;2357;yin he bei jie
+513;3;2357;Yinhe North St
+513;2;2358;shu jin lu
+513;3;2358;Shujin Rd
+513;2;2359;jin xi lu
+513;3;2359;Jinxi Rd
+513;2;2360;shi ren xi lu
+513;3;2360;Shiren West Rd
+513;2;2361;tong sheng lu
+513;3;2361;Tongsheng Rd
+513;2;2362;qing yang dong yi lu
+513;3;2362;Qingyangdongyi Rd
+513;2;2365;shu xing dong jie
+513;3;2365;Shuxing East St
+513;2;2366;hua zhao bi shang heng jie
+513;3;2366;Huazhaobishang St
+513;2;2367;jin lv lu
+513;3;2367;Jinlv Rd
+513;2;2371;jin wa lu
+513;3;2371;Jinwa Rd
+513;2;2384;lei jia wan
+513;3;2384;Leijiawan
+513;2;2385;tan shen miao
+513;3;2385;Tanshenmiao
+513;2;2397;liang jing er lu
+513;3;2397;Liangjinger Rd
+513;2;2398;liang gang lu
+513;3;2398;Lianggang Rd
+513;2;2399;lao cu ma lu
+513;3;2399;Laocu Rd
+513;2;2400;jiang an bin he nan lu
+513;3;2400;Jiang'anbinhe South Rd
+513;2;2407;cheng shuang gong lu
+513;3;2407;Chengshuang Hwy
+513;2;2409;tian hang huo yun
+513;3;2409;Tianhang Huoyun
+513;2;2411;xin ye lu
+513;3;2411;Xinye Rd
+513;2;2412;xi yuan da dao
+513;3;2412;Xiyuan Blvd
+513;2;2413;xin da lu
+513;3;2413;Xinda Rd
+513;2;2415;tian hong lu
+513;3;2415;Tianhong Rd
+513;2;2416;bai cao lu
+513;3;2416;Baicao Rd
+513;2;2417;xi qu da dao
+513;3;2417;Xiqu Blvd
+513;2;2418;heng shan nan jie
+513;3;2418;Hengshan South St
+513;2;2419;shang jie
+513;3;2419;Shangjie
+513;2;2420;jin ke xi lu
+513;3;2420;Jinke West Rd
+513;2;2421;jin ke dong lu
+513;3;2421;Jinke East Rd
+513;2;2425;tian run lu
+513;3;2425;Tianrun Rd
+513;2;2426;he zuo lu
+513;3;2426;Hezuo Rd
+513;2;2427;nan bei da dao
+513;3;2427;Nanbei Blvd
+513;2;2429;he zuo lu zhi nan bei da dao
+513;3;2429;Hezuo Rd to Nanbei Blvd
+513;2;2430;da jiang lu
+513;3;2430;Dajiang Rd
+513;2;2431;jin xin lu
+513;3;2431;Jinxin Rd
+513;2;2433;mu lan jie
+513;3;2433;Mulan St
+513;2;2441;ma chao xi lu
+513;3;2441;Machao West Rd
+513;2;2442;du wen gao su gong lu
+513;3;2442;Duwen Hwy
+513;2;2451;wu gui cun
+513;3;2451;Wugui Village
+513;2;2452;xiang cheng da dao
+513;3;2452;Xiangcheng Blvd
+513;2;2453;bao guang da dao nan duan
+513;3;2453;Baoguang Blvd South Sect
+513;2;2454;dian zi lu
+513;3;2454;Dianzi Rd
+513;2;2456;zang wei lu nan si duan
+513;3;2456;Zangweilu'nansiduan
+513;2;2460;yu jia an
+513;3;2460;Yujiaan
+513;2;2479;hei zhu zhen
+513;3;2479;Heizhu Town
+513;2;2490;bai yi shang jie
+513;3;2490;Baiyishang St
+513;2;2491;lin quan nan jie
+513;3;2491;Linquan South St
+513;2;2494;shang sha he pu jie
+513;3;2494;Shangshahepu St
+513;2;2500;hong hua bei lu
+513;3;2500;Honghua North Rd
+513;2;2502;cao tang dong lu
+513;3;2502;Caotang East Rd
+513;2;2503;shuang liu guo ji ji chang xin hou ji lou
+513;3;2503;Shuangliuguojijichangxinhoujilou
+513;2;2511;da hua jie
+513;3;2511;Dahua St
+513;2;2514;shu yuan xi jie
+513;3;2514;Shuyuan West St
+513;2;2515;fu zi jie
+513;3;2515;Fuzi St
+513;2;2516;xi zi gong nan jie
+513;3;2516;Xizigong South St
+513;2;2517;shuang xin nan lu
+513;3;2517;Shuangxin South Rd
+513;2;2524;ma zhen jie
+513;3;2524;Mazhen St
+513;2;2525;dong jin jiang jie
+513;3;2525;E Jinjiang St
+513;2;2527;nan sha mao jie
+513;3;2527;S Shamao St
+513;2;2528;bei sha mao jie
+513;3;2528;N Shamao St
+513;2;2529;hua xing dong jie
+513;3;2529;Huaxing East St
+513;2;2530;bu hou jie
+513;3;2530;Buhou St
+513;2;2531;fu xing jie
+513;3;2531;Fuxing St
+513;2;2532;shuang zha zi jie
+513;3;2532;Shuangzhazi St
+513;2;2535;hua jing lu
+513;3;2535;Huajing Rd
+513;2;2536;bai yi zhong jie
+513;3;2536;Baiyi Middle St
+513;2;2540;jin jiang lu
+513;3;2540;Jinjiang Rd
+513;2;2542;xi da jie (qing yang qu)
+513;3;2542;Xida St (Qingyangqu)
+513;2;2543;xi da jie (pi xian)
+513;3;2543;Xida St (Pi County)
+513;2;2553;cheng du rao cheng gao su gong lu wai quan
+513;3;2553;Chengduraocheng Hwy Outside Ring
+513;2;2558;cheng du rao cheng gao su gong lu
+513;3;2558;Chengduraocheng Hwy
+513;2;2564;cheng du rao cheng gao su gong lu nei quan
+513;3;2564;Chengduraocheng Hwy Inside Ring
+513;2;2570;G108
+513;3;2570;G108
+513;2;2574;G108 zhong
+513;3;2574;G108 M
+513;2;2582;cheng du rao cheng gao su gong lu wai quan G108 zhong chu kou za dao
+513;3;2582;Chengduraocheng Hwy Outside Ring G108 M Exit Ramp
+513;2;2587;cheng du rao cheng gao su gong lu nan
+513;3;2587;Chengduraocheng Hwy S
+513;2;2589;cheng du rao cheng gao su gong lu zhong
+513;3;2589;Chengduraocheng Hwy M
+513;2;2591;cheng du rao cheng gao su gong lu bei
+513;3;2591;Chengduraocheng Hwy N
+513;2;2596;rong du da dao xi ce
+513;3;2596;Rongdu Blvd W
+513;2;2597;cheng du rao cheng gao su gong lu rong du da dao xi ce ru kou za dao
+513;3;2597;Chengduraocheng Hwy Rongdu Blvd W Entrance Ramp
+513;2;2598;cheng du rao cheng gao su gong lu bei rong du da dao xi ce ru kou za dao
+513;3;2598;Chengduraocheng Hwy N Rongdu Blvd W Entrance Ramp
+513;2;2604;cheng du rao cheng gao su gong lu nei quan za dao
+513;3;2604;Chengduraocheng Hwy Inside Ring Ramp
+513;2;2608;cheng du rao cheng gao su gong lu wai quan za dao
+513;3;2608;Chengduraocheng Hwy Outside Ring Ramp
+513;2;2609;rong du da dao dong ce za dao
+513;3;2609;Rongdu Blvd E Ramp
+513;2;2610;cheng du rao cheng gao su gong lu wai quan za dao rong du da dao dong ce za dao chu kou za dao
+513;3;2610;Chengduraocheng Hwy Outside Ring Ramp Rongdu Blvd E Ramp Exit Ramp
+513;2;2620;cheng du rao cheng gao su gong lu nei quan bei xin da dao chu kou za dao
+513;3;2620;Chengduraocheng Hwy Inside Ring Beixin Blvd Exit Ramp
+513;2;2621;bei xin da dao xi
+513;3;2621;Beixin Blvd W
+513;2;2622;cheng du rao cheng gao su gong lu nei quan bei xin da dao xi chu kou za dao
+513;3;2622;Chengduraocheng Hwy Inside Ring Beixin Blvd W Exit Ramp
+513;2;2623;bei xin da dao zhong
+513;3;2623;Beixin Blvd M
+513;2;2624;cheng du rao cheng gao su gong lu nei quan bei xin da dao zhong chu kou za dao
+513;3;2624;Chengduraocheng Hwy Inside Ring Beixin Blvd M Exit Ramp
+513;2;2625;bei xin da dao dong
+513;3;2625;Beixin Blvd E
+513;2;2626;cheng du rao cheng gao su gong lu nei quan bei xin da dao dong ru kou za dao
+513;3;2626;Chengduraocheng Hwy Inside Ring Beixin Blvd E Entrance Ramp
+513;2;2627;cheng du rao cheng gao su gong lu nei quan bei xin da dao ru kou za dao
+513;3;2627;Chengduraocheng Hwy Inside Ring Beixin Blvd Entrance Ramp
+513;2;2628;cheng du rao cheng gao su gong lu wai quan bei xin da dao chu kou za dao
+513;3;2628;Chengduraocheng Hwy Outside Ring Beixin Blvd Exit Ramp
+513;2;2629;cheng du rao cheng gao su gong lu wai quan bei xin da dao dong chu kou za dao
+513;3;2629;Chengduraocheng Hwy Outside Ring Beixin Blvd E Exit Ramp
+513;2;2630;cheng du rao cheng gao su gong lu wai quan bei xin da dao zhong chu kou za dao
+513;3;2630;Chengduraocheng Hwy Outside Ring Beixin Blvd M Exit Ramp
+513;2;2631;cheng du rao cheng gao su gong lu wai quan bei xin da dao xi ru kou za dao
+513;3;2631;Chengduraocheng Hwy Outside Ring Beixin Blvd W Entrance Ramp
+513;2;2633;cheng du rao cheng gao su gong lu wai quan bei xin da dao ru kou za dao
+513;3;2633;Chengduraocheng Hwy Outside Ring Beixin Blvd Entrance Ramp
+513;2;2634;bei xin da dao dong ce
+513;3;2634;Beixin Blvd E
+513;2;2635;cheng du rao cheng gao su gong lu bei xin da dao dong ce ru kou za dao
+513;3;2635;Chengduraocheng Hwy Beixin Blvd E Entrance Ramp
+513;2;2637;cheng du rao cheng gao su gong lu nan bei xin da dao dong ce ru kou za dao
+513;3;2637;Chengduraocheng Hwy S Beixin Blvd E Entrance Ramp
+513;2;2639;cheng du rao cheng gao su gong lu zhong bei xin da dao dong ce ru kou za dao
+513;3;2639;Chengduraocheng Hwy M Beixin Blvd E Entrance Ramp
+513;2;2641;cheng du rao cheng gao su gong lu bei xin da dao dong ce chu kou za dao
+513;3;2641;Chengduraocheng Hwy Beixin Blvd E Exit Ramp
+513;2;2642;bei xin da dao xi ce
+513;3;2642;Beixin Blvd W
+513;2;2643;cheng du rao cheng gao su gong lu bei xin da dao xi ce ru kou za dao
+513;3;2643;Chengduraocheng Hwy Beixin Blvd W Entrance Ramp
+513;2;2644;cheng du rao cheng gao su gong lu bei bei xin da dao xi ce ru kou za dao
+513;3;2644;Chengduraocheng Hwy N Beixin Blvd W Entrance Ramp
+513;2;2645;cheng du rao cheng gao su gong lu zhong bei xin da dao xi ce ru kou za dao
+513;3;2645;Chengduraocheng Hwy M Beixin Blvd W Entrance Ramp
+513;2;2646;cheng du rao cheng gao su gong lu nan bei xin da dao xi ce chu kou za dao
+513;3;2646;Chengduraocheng Hwy S Beixin Blvd W Exit Ramp
+513;2;2647;cheng du rao cheng gao su gong lu bei xin da dao xi ce chu kou za dao
+513;3;2647;Chengduraocheng Hwy Beixin Blvd W Exit Ramp
+513;2;2648;bei xin da dao dong ce za dao
+513;3;2648;Beixin Blvd E Ramp
+513;2;2649;cheng du rao cheng gao su gong lu nei quan za dao bei xin da dao dong ce za dao ru kou za dao
+513;3;2649;Chengduraocheng Hwy Inside Ring Ramp Beixin Blvd E Ramp Entrance Ramp
+513;2;2650;cheng du rao cheng gao su gong lu nei quan za dao bei xin da dao dong ce za dao chu kou za dao
+513;3;2650;Chengduraocheng Hwy Inside Ring Ramp Beixin Blvd E Ramp Exit Ramp
+513;2;2651;cheng du rao cheng gao su gong lu wai quan za dao bei xin da dao dong ce za dao chu kou za dao
+513;3;2651;Chengduraocheng Hwy Outside Ring Ramp Beixin Blvd E Ramp Exit Ramp
+513;2;2652;cheng du rao cheng gao su gong lu wai quan za dao bei xin da dao dong ce za dao ru kou za dao
+513;3;2652;Chengduraocheng Hwy Outside Ring Ramp Beixin Blvd E Ramp Entrance Ramp
+513;2;2653;bei xin da dao xi ce za dao
+513;3;2653;Beixin Blvd W Ramp
+513;2;2654;cheng du rao cheng gao su gong lu wai quan za dao bei xin da dao xi ce za dao ru kou za dao
+513;3;2654;Chengduraocheng Hwy Outside Ring Ramp Beixin Blvd W Ramp Entrance Ramp
+513;2;2655;cheng du rao cheng gao su gong lu wai quan za dao bei xin da dao xi ce za dao chu kou za dao
+513;3;2655;Chengduraocheng Hwy Outside Ring Ramp Beixin Blvd W Ramp Exit Ramp
+513;2;2656;cheng du rao cheng gao su gong lu nei quan za dao bei xin da dao xi ce za dao chu kou za dao
+513;3;2656;Chengduraocheng Hwy Inside Ring Ramp Beixin Blvd W Ramp Exit Ramp
+513;2;2657;cheng du rao cheng gao su gong lu nei quan za dao bei xin da dao xi ce za dao ru kou za dao
+513;3;2657;Chengduraocheng Hwy Inside Ring Ramp Beixin Blvd W Ramp Entrance Ramp
+513;2;2667;cheng du rao cheng gao su gong lu wai quan cheng guan gao su gong lu chu kou za dao
+513;3;2667;Chengduraocheng Hwy Outside Ring Chengguan Hwy Exit Ramp
+513;2;2669;cheng du rao cheng gao su gong lu wai quan cheng guan gao su gong lu dong chu kou za dao
+513;3;2669;Chengduraocheng Hwy Outside Ring Chengguan Hwy E Exit Ramp
+513;2;2670;cheng guan gao su gong lu dong
+513;3;2670;Chengguan Hwy E
+513;2;2671;cheng guan gao su gong lu zhong
+513;3;2671;Chengguan Hwy M
+513;2;2672;cheng du rao cheng gao su gong lu wai quan cheng guan gao su gong lu zhong chu kou za dao
+513;3;2672;Chengduraocheng Hwy Outside Ring Chengguan Hwy M Exit Ramp
+513;2;2673;cheng guan gao su gong lu xi
+513;3;2673;Chengguan Hwy W
+513;2;2674;cheng du rao cheng gao su gong lu wai quan cheng guan gao su gong lu xi ru kou za dao
+513;3;2674;Chengduraocheng Hwy Outside Ring Chengguan Hwy W Entrance Ramp
+513;2;2675;cheng du rao cheng gao su gong lu wai quan cheng guan gao su gong lu ru kou za dao
+513;3;2675;Chengduraocheng Hwy Outside Ring Chengguan Hwy Entrance Ramp
+513;2;2677;cheng du rao cheng gao su gong lu wai quan wu xing lu ru kou za dao
+513;3;2677;Chengduraocheng Hwy Outside Ring Wuxing Rd Entrance Ramp
+513;2;2678;cheng du rao cheng gao su gong lu wai quan xi
+513;3;2678;Chengduraocheng Hwy Outside Ring W
+513;2;2680;cheng du rao cheng gao su gong lu wai quan zhong
+513;3;2680;Chengduraocheng Hwy Outside Ring M
+513;2;2681;cheng du rao cheng gao su gong lu wai quan zhong wu xing lu ru kou za dao
+513;3;2681;Chengduraocheng Hwy Outside Ring M Wuxing Rd Entrance Ramp
+513;2;2682;cheng du rao cheng gao su gong lu nei quan dong
+513;3;2682;Chengduraocheng Hwy Inside Ring E
+513;2;2684;cheng du rao cheng gao su gong lu nei quan wu xing lu chu kou za dao
+513;3;2684;Chengduraocheng Hwy Inside Ring Wuxing Rd Exit Ramp
+513;2;2685;cheng du rao cheng gao su gong lu nei quan wu xing lu ru kou za dao
+513;3;2685;Chengduraocheng Hwy Inside Ring Wuxing Rd Entrance Ramp
+513;2;2687;cheng du rao cheng gao su gong lu nei quan zhong
+513;3;2687;Chengduraocheng Hwy Inside Ring M
+513;2;2688;cheng du rao cheng gao su gong lu nei quan zhong wu xing lu ru kou za dao
+513;3;2688;Chengduraocheng Hwy Inside Ring M Wuxing Rd Entrance Ramp
+513;2;2690;wu xing lu nan
+513;3;2690;Wuxing Rd S
+513;2;2692;wu xing lu zhong
+513;3;2692;Wuxing Rd M
+513;2;2694;wu xing lu bei
+513;3;2694;Wuxing Rd N
+513;2;2696;wu xing lu nan ce
+513;3;2696;Wuxing Rd S
+513;2;2704;wu xing lu bei ce
+513;3;2704;Wuxing Rd N
+513;2;2706;cheng du rao cheng gao su gong lu wai quan wu xing lu bei ce chu kou za dao
+513;3;2706;Chengduraocheng Hwy Outside Ring Wuxing Rd N Exit Ramp
+513;2;2713;wu xing lu nan ce za dao
+513;3;2713;Wuxing Rd S Ramp
+513;2;2714;cheng du rao cheng gao su gong lu wai quan za dao wu xing lu nan ce za dao ru kou za dao
+513;3;2714;Chengduraocheng Hwy Outside Ring Ramp Wuxing Rd S Ramp Entrance Ramp
+513;2;2715;cheng du rao cheng gao su gong lu nei quan za dao wu xing lu nan ce za dao chu kou za dao
+513;3;2715;Chengduraocheng Hwy Inside Ring Ramp Wuxing Rd S Ramp Exit Ramp
+513;2;2716;wu xing lu bei ce za dao
+513;3;2716;Wuxing Rd N Ramp
+513;2;2717;cheng du rao cheng gao su gong lu nei quan za dao wu xing lu bei ce za dao ru kou za dao
+513;3;2717;Chengduraocheng Hwy Inside Ring Ramp Wuxing Rd N Ramp Entrance Ramp
+513;2;2718;cheng du rao cheng gao su gong lu wai quan za dao wu xing lu bei ce za dao chu kou za dao
+513;3;2718;Chengduraocheng Hwy Outside Ring Ramp Wuxing Rd N Ramp Exit Ramp
+513;2;2719;cheng du rao cheng gao su gong lu wai quan za dao wu xing lu nan ce za dao chu kou za dao
+513;3;2719;Chengduraocheng Hwy Outside Ring Ramp Wuxing Rd S Ramp Exit Ramp
+513;2;2720;cheng du rao cheng gao su gong lu nei quan za dao wu xing lu nan ce za dao ru kou za dao
+513;3;2720;Chengduraocheng Hwy Inside Ring Ramp Wuxing Rd S Ramp Entrance Ramp
+513;2;2721;cheng du rao cheng gao su gong lu nei quan za dao wu xing lu bei ce za dao chu kou za dao
+513;3;2721;Chengduraocheng Hwy Inside Ring Ramp Wuxing Rd N Ramp Exit Ramp
+513;2;2722;cheng du rao cheng gao su gong lu wai quan za dao wu xing lu bei ce za dao ru kou za dao
+513;3;2722;Chengduraocheng Hwy Outside Ring Ramp Wuxing Rd N Ramp Entrance Ramp
+513;2;2724;cheng du rao cheng gao su gong lu wai quan ji chang gao su gong lu chu kou za dao
+513;3;2724;Chengduraocheng Hwy Outside Ring Jichang Hwy Exit Ramp
+513;2;2725;ji chang gao su gong lu zhong
+513;3;2725;Jichang Hwy M
+513;2;2731;ji chang gao su gong lu dong ce
+513;3;2731;Jichang Hwy E
+513;2;2732;cheng du rao cheng gao su gong lu wai quan ji chang gao su gong lu dong ce ru kou za dao
+513;3;2732;Chengduraocheng Hwy Outside Ring Jichang Hwy E Entrance Ramp
+513;2;2759;san huan lu nei quan
+513;3;2759;3rd Ring Rd Inside Ring
+513;2;2761;san huan lu wai quan
+513;3;2761;3rd Ring Rd Outside Ring
+513;2;2763;san huan lu wai quan bei xin da dao ru kou za dao
+513;3;2763;3rd Ring Rd Outside Ring Beixin Blvd Entrance Ramp
+513;2;2764;san huan lu
+513;3;2764;3rd Ring Rd
+513;2;2765;san huan lu bei xin da dao ru kou za dao
+513;3;2765;3rd Ring Rd Beixin Blvd Entrance Ramp
+513;2;2766;san huan lu nei quan bei xin da dao ru kou za dao
+513;3;2766;3rd Ring Rd Inside Ring Beixin Blvd Entrance Ramp
+513;2;2771;san huan lu nei quan shu han lu chu kou za dao
+513;3;2771;3rd Ring Rd Inside Ring Shuhan Rd Exit Ramp
+513;2;2773;san huan lu nei quan shu han lu ru kou za dao
+513;3;2773;3rd Ring Rd Inside Ring Shuhan Rd Entrance Ramp
+513;2;2774;ri yue da dao yi duan
+513;3;2774;Riyuedadaoyiduan
+513;2;2777;san huan lu wai quan su po dong lu ru kou za dao
+513;3;2777;3rd Ring Rd Outside Ring Supo East Rd Entrance Ramp
+513;2;2779;san huan lu wai quan su po dong lu chu kou za dao
+513;3;2779;3rd Ring Rd Outside Ring Supo East Rd Exit Ramp
+513;2;2780;san huan lu nei quan su po dong lu chu kou za dao
+513;3;2780;3rd Ring Rd Inside Ring Supo East Rd Exit Ramp
+513;2;2815;hang tian li jiao
+513;3;2815;Hangtian Jct
+513;2;2836;qing shi lu
+513;3;2836;Qingshi Rd
+513;2;2837;san huan lu wai quan qing shi lu shang za dao
+513;3;2837;3rd Ring Rd Outside Ring Qingshi Rd Entrance Ramp
+513;2;2838;qing long lu
+513;3;2838;Qinglong Rd
+513;2;2839;san huan lu nei quan qing long lu xia za dao
+513;3;2839;3rd Ring Rd Inside Ring Qinglong Rd Exit Ramp
+513;2;2848;bei xin gan dao
+513;3;2848;Beixin Belt
+513;2;2853;shen gou bian
+513;3;2853;Shen'goubian
+513;2;2854;san huan lu wai quan shen gou bian fang xiang xia za dao
+513;3;2854;3rd Ring Rd Outside Ring Shengoubianfangxiang Exit Ramp
+513;2;2863;jiao da lu
+513;3;2863;Jiaoda Rd
+513;2;2864;san huan lu nei quan jiao da lu shang za dao
+513;3;2864;3rd Ring Rd Inside Ring Jiaoda Rd Entrance Ramp
+513;2;2868;liu jia nian
+513;3;2868;Liujianian
+513;2;2869;san huan lu nei quan liu jia nian fang xiang shang za dao
+513;3;2869;3rd Ring Rd Inside Ring Liujianianfangxiang Entrance Ramp
+513;2;2874;san huan lu nei quan jiao da lu xia za dao
+513;3;2874;3rd Ring Rd Inside Ring Jiaoda Rd Exit Ramp
+513;2;2876;san huan lu wai quan jin niu ba lu xia za dao
+513;3;2876;3rd Ring Rd Outside Ring Jinniuba Rd Exit Ramp
+513;2;2879;san huan lu nei quan wan guan ji dian cheng fang xiang xia za dao
+513;3;2879;3rd Ring Rd Inside Ring Wanguanjidianchengfangxiang Exit Ramp
+513;2;2887;long zui cun
+513;3;2887;Longzui Village
+513;2;2889;san huan lu nei quan long zui cun fang xiang shang za dao
+513;3;2889;3rd Ring Rd Inside Ring Longzuicunfangxiang Entrance Ramp
+513;2;2903;huang jin lu
+513;3;2903;Huangjin Rd
+513;2;2908;san huan lu nei quan rui lian lu shang za dao
+513;3;2908;3rd Ring Rd Inside Ring Ruilian Rd Entrance Ramp
+513;2;2928;ke yuan nan lu
+513;3;2928;Keyuan South Rd
+513;2;2929;san huan lu nei quan ke yuan nan lu shang za dao
+513;3;2929;3rd Ring Rd Inside Ring Keyuan South Rd Entrance Ramp
+513;2;2930;xin ya zheng jie
+513;3;2930;Xinyazheng St
+513;2;2931;san huan lu wai quan xin ya zheng jie xia za dao
+513;3;2931;3rd Ring Rd Outside Ring Xinyazheng St Exit Ramp
+513;2;2932;san huan lu nei quan ke yuan nan lu xia za dao
+513;3;2932;3rd Ring Rd Inside Ring Keyuan South Rd Exit Ramp
+513;2;2933;shuang liu ji chang
+513;3;2933;Shuangliujichang
+513;2;2934;san huan lu wai quan shuang liu ji chang xia za dao
+513;3;2934;3rd Ring Rd Outside Ring Shuangliujichang Exit Ramp
+513;2;2935;wo dun gong yuan
+513;3;2935;Wodun Park
+513;2;2936;san huan lu wai quan wo dun gong yuan fang xiang shang za dao
+513;3;2936;3rd Ring Rd Outside Ring Wodungongyuanfangxiang Entrance Ramp
+513;2;2937;jian nan da dao bei duan
+513;3;2937;Jiannan Blvd North Sect
+513;2;2947;san huan lu nei quan ke hua nan lu shang za dao
+513;3;2947;3rd Ring Rd Inside Ring Kehua South Rd Entrance Ramp
+513;2;2949;san huan lu nei quan ke hua nan lu xia za dao
+513;3;2949;3rd Ring Rd Inside Ring Kehua South Rd Exit Ramp
+513;2;2950;jin shi lu
+513;3;2950;Jinshi Rd
+513;2;2952;liu li lu
+513;3;2952;Liuli Rd
+513;2;2975;cheng luo da dao
+513;3;2975;Chengluo Blvd
+513;2;2976;san huan lu wai quan cheng luo da dao xia za dao
+513;3;2976;3rd Ring Rd Outside Ring Chengluo Blvd Exit Ramp
+513;2;2979;san huan lu wai quan cheng luo da dao shang za dao
+513;3;2979;3rd Ring Rd Outside Ring Chengluo Blvd Entrance Ramp
+513;2;2981;nong ping lu
+513;3;2981;Nongping Rd
+513;2;2989;hang tian lu
+513;3;2989;Hangtian Rd
+513;2;2990;san huan lu wai quan hang tian lu xia za dao
+513;3;2990;3rd Ring Rd Outside Ring Hangtian Rd Exit Ramp
+513;2;3001;cheng du rao cheng gao su gong lu wai quan ji chang gao su gong lu zhong ru kou za dao
+513;3;3001;Chengduraocheng Hwy Outside Ring Jichang Hwy M Entrance Ramp
+513;2;3005;lan guang guan ling guo ji she qu
+513;3;3005;Languangguanlingguojishequ
+513;2;3006;san huan lu nei quan lan guang guan ling guo ji she qu chu kou za dao
+513;3;3006;3rd Ring Rd Inside Ring Languangguanlingguojishequ Exit Ramp
+513;2;3011;cheng du rao cheng gao su gong lu wai quan xi wu xing lu bei ce chu kou za dao
+513;3;3011;Chengduraocheng Hwy Outside Ring W Wuxing Rd N Exit Ramp
+513;2;3012;cheng du rao cheng gao su gong lu wai quan xi wu xing lu nan ce ru kou za dao
+513;3;3012;Chengduraocheng Hwy Outside Ring W Wuxing Rd S Entrance Ramp
+513;2;3013;cheng du rao cheng gao su gong lu nei quan dong wu xing lu nan ce chu kou za dao
+513;3;3013;Chengduraocheng Hwy Inside Ring E Wuxing Rd S Exit Ramp
+513;2;3014;cheng du rao cheng gao su gong lu nei quan dong wu xing lu bei ce ru kou za dao
+513;3;3014;Chengduraocheng Hwy Inside Ring E Wuxing Rd N Entrance Ramp
+513;2;3015;wu xing lu xi ce
+513;3;3015;Wuxing Rd W
+513;2;3016;cheng du rao cheng gao su gong lu wai quan wu xing lu xi ce chu kou za dao
+513;3;3016;Chengduraocheng Hwy Outside Ring Wuxing Rd W Exit Ramp
+513;2;3017;wu xing lu xi ce bei
+513;3;3017;Wuxing Rd W N
+513;2;3022;wu xing lu dong ce zhong
+513;3;3022;Wuxing Rd E M
+513;2;3023;wu xing lu dong ce
+513;3;3023;Wuxing Rd E
+513;2;3024;cheng du rao cheng gao su gong lu wai quan wu xing lu dong ce ru kou za dao
+513;3;3024;Chengduraocheng Hwy Outside Ring Wuxing Rd E Entrance Ramp
+513;2;3025;cheng du rao cheng gao su gong lu nei quan wu xing lu dong ce chu kou za dao
+513;3;3025;Chengduraocheng Hwy Inside Ring Wuxing Rd E Exit Ramp
+513;2;3026;cheng du rao cheng gao su gong lu nei quan wu xing lu dong ce nan chu kou za dao
+513;3;3026;Chengduraocheng Hwy Inside Ring Wuxing Rd E S Exit Ramp
+513;2;3027;wu xing lu dong ce nan
+513;3;3027;Wuxing Rd E S
+513;2;3028;cheng du rao cheng gao su gong lu nei quan wu xing lu dong ce zhong chu kou za dao
+513;3;3028;Chengduraocheng Hwy Inside Ring Wuxing Rd E M Exit Ramp
+513;2;3029;cheng du rao cheng gao su gong lu nei quan wu xing lu xi ce bei ru kou za dao
+513;3;3029;Chengduraocheng Hwy Inside Ring Wuxing Rd W N Entrance Ramp
+513;2;3030;cheng du rao cheng gao su gong lu nei quan wu xing lu xi ce ru kou za dao
+513;3;3030;Chengduraocheng Hwy Inside Ring Wuxing Rd W Entrance Ramp
+513;2;3031;cheng du rao cheng gao su gong lu wai quan wu xing lu dong ce nan ru kou za dao
+513;3;3031;Chengduraocheng Hwy Outside Ring Wuxing Rd E S Entrance Ramp
+513;2;3034;cheng du rao cheng gao su gong lu bei bei xin da dao dong ce chu kou za dao
+513;3;3034;Chengduraocheng Hwy N Beixin Blvd E Exit Ramp
+513;2;3035;san huan lu nei quan bei xin gan dao shang za dao
+513;3;3035;3rd Ring Rd Inside Ring Beixin Belt Entrance Ramp
+513;2;3037;cheng du rao cheng gao su gong lu wai quan wu xing lu bei chu kou za dao
+513;3;3037;Chengduraocheng Hwy Outside Ring Wuxing Rd N Exit Ramp
+513;2;3038;cheng du rao cheng gao su gong lu wai quan wu xing lu zhong chu kou za dao
+513;3;3038;Chengduraocheng Hwy Outside Ring Wuxing Rd M Exit Ramp
+513;2;3039;ji chang gao su gong lu dong
+513;3;3039;Jichang Hwy E
+513;2;3040;cheng du rao cheng gao su gong lu nei quan ji chang gao su gong lu dong chu kou za dao
+513;3;3040;Chengduraocheng Hwy Inside Ring Jichang Hwy E Exit Ramp
+513;2;3041;ji chang gao su gong lu xi
+513;3;3041;Jichang Hwy W
+513;2;3043;cheng du rao cheng gao su gong lu nei quan ji chang gao su gong lu zhong chu kou za dao
+513;3;3043;Chengduraocheng Hwy Inside Ring Jichang Hwy M Exit Ramp
+513;2;3051;huang jing lou xi lu
+513;3;3051;Huangjinglou West Rd
+513;2;3052;san huan lu wai quan huang jing lou xi lu xia za dao
+513;3;3052;3rd Ring Rd Outside Ring Huangjinglou West Rd Exit Ramp
+513;2;3055;jing tian zhong lu
+513;3;3055;Jingtian Middle Rd
+513;2;3056;san huan lu nei quan jing tian zhong lu shang za dao
+513;3;3056;3rd Ring Rd Inside Ring Jingtian Middle Rd Entrance Ramp
+513;2;3059;wang cong dong lu (cheng guan dong lu)
+513;3;3059;Wangcong East Rd (Chengguan East Rd)
+513;2;3061;dong xing da dao
+513;3;3061;Dongxing Blvd
+513;2;3065;yi du da dao
+513;3;3065;Yidu Blvd
+513;2;3069;bei kang shi jie
+513;3;3069;N Kangshi St
+513;2;3073;yong kang lu
+513;3;3073;Yongkang Rd
+513;2;3074;san huan lu wai quan yong kang lu shang za dao
+513;3;3074;3rd Ring Rd Outside Ring Yongkang Rd Entrance Ramp
+513;2;3075;cao jin jie
+513;3;3075;Caojin St
+513;2;3080;jing kun gao su gong lu
+513;3;3080;Jingkun Hwy
+513;2;3081;cheng jin qing kuai su tong dao
+513;3;3081;Chengjinqingkuaisutong Ave
+513;2;3082;hu rong gao su gong lu
+513;3;3082;Hurong Hwy
+513;2;3083;chuan xi fu wu qu
+513;3;3083;Chuanxi Service Area
+513;2;3084;zhuo jin nan lu
+513;3;3084;Zhuojin South Rd
+513;2;3085;cheng du rao cheng gao su gong lu jin yue dong jie chu kou za dao
+513;3;3085;Chengduraocheng Hwy Jinyue East St Exit Ramp
+513;2;3086;cheng du rao cheng gao su gong lu nei quan hu rong gao su gong lu chu kou za dao
+513;3;3086;Chengduraocheng Hwy Inside Ring Hurong Hwy Exit Ramp
+513;2;3087;hu rong gao su gong lu bei
+513;3;3087;Hurong Hwy N
+513;2;3088;cheng du rao cheng gao su gong lu nei quan hu rong gao su gong lu bei chu kou za dao
+513;3;3088;Chengduraocheng Hwy Inside Ring Hurong Hwy N Exit Ramp
+513;2;3089;hu rong gao su gong lu nan
+513;3;3089;Hurong Hwy S
+513;2;3090;cheng du rao cheng gao su gong lu nei quan hu rong gao su gong lu nan ru kou za dao
+513;3;3090;Chengduraocheng Hwy Inside Ring Hurong Hwy S Entrance Ramp
+513;2;3091;hu rong gao su gong lu zhong
+513;3;3091;Hurong Hwy M
+513;2;3092;cheng du rao cheng gao su gong lu nei quan hu rong gao su gong lu zhong chu kou za dao
+513;3;3092;Chengduraocheng Hwy Inside Ring Hurong Hwy M Exit Ramp
+513;2;3093;cheng du rao cheng gao su gong lu nei quan jing kun gao su gong lu chu kou za dao
+513;3;3093;Chengduraocheng Hwy Inside Ring Jingkun Hwy Exit Ramp
+513;2;3094;jing kun gao su gong lu dong
+513;3;3094;Jingkun Hwy E
+513;2;3095;cheng du rao cheng gao su gong lu nei quan jing kun gao su gong lu dong chu kou za dao
+513;3;3095;Chengduraocheng Hwy Inside Ring Jingkun Hwy E Exit Ramp
+513;2;3096;jing kun gao su gong lu xi
+513;3;3096;Jingkun Hwy W
+513;2;3097;cheng du rao cheng gao su gong lu nei quan jing kun gao su gong lu xi ru kou za dao
+513;3;3097;Chengduraocheng Hwy Inside Ring Jingkun Hwy W Entrance Ramp
+513;2;3098;jing kun gao su gong lu zhong
+513;3;3098;Jingkun Hwy M
+513;2;3099;cheng du rao cheng gao su gong lu nei quan jing kun gao su gong lu zhong chu kou za dao
+513;3;3099;Chengduraocheng Hwy Inside Ring Jingkun Hwy M Exit Ramp
+513;2;3100;cheng du rao cheng gao su gong lu nei quan jin yue dong jie chu kou za dao
+513;3;3100;Chengduraocheng Hwy Inside Ring Jinyue East St Exit Ramp
+513;2;3101;cheng du rao cheng gao su gong lu wai quan hu rong gao su gong lu chu kou za dao
+513;3;3101;Chengduraocheng Hwy Outside Ring Hurong Hwy Exit Ramp
+513;2;3102;cheng du rao cheng gao su gong lu wai quan hu rong gao su gong lu bei ru kou za dao
+513;3;3102;Chengduraocheng Hwy Outside Ring Hurong Hwy N Entrance Ramp
+513;2;3103;cheng du rao cheng gao su gong lu wai quan hu rong gao su gong lu nan chu kou za dao
+513;3;3103;Chengduraocheng Hwy Outside Ring Hurong Hwy S Exit Ramp
+513;2;3104;cheng du rao cheng gao su gong lu wai quan hu rong gao su gong lu zhong chu kou za dao
+513;3;3104;Chengduraocheng Hwy Outside Ring Hurong Hwy M Exit Ramp
+513;2;3105;cheng du rao cheng gao su gong lu wai quan jing kun gao su gong lu chu kou za dao
+513;3;3105;Chengduraocheng Hwy Outside Ring Jingkun Hwy Exit Ramp
+513;2;3106;cheng du rao cheng gao su gong lu wai quan jing kun gao su gong lu dong ru kou za dao
+513;3;3106;Chengduraocheng Hwy Outside Ring Jingkun Hwy E Entrance Ramp
+513;2;3107;cheng du rao cheng gao su gong lu wai quan jing kun gao su gong lu xi chu kou za dao
+513;3;3107;Chengduraocheng Hwy Outside Ring Jingkun Hwy W Exit Ramp
+513;2;3108;cheng du rao cheng gao su gong lu wai quan jing kun gao su gong lu zhong chu kou za dao
+513;3;3108;Chengduraocheng Hwy Outside Ring Jingkun Hwy M Exit Ramp
+513;2;3109;cheng du rao cheng gao su gong lu wai quan jin yue dong jie chu kou za dao
+513;3;3109;Chengduraocheng Hwy Outside Ring Jinyue East St Exit Ramp
+513;2;3112;dong hong lu zhong duan
+513;3;3112;Donghongluzhongduan
+513;2;3113;cheng du rao cheng gao su gong lu nei quan hu rong gao su gong lu ru kou za dao
+513;3;3113;Chengduraocheng Hwy Inside Ring Hurong Hwy Entrance Ramp
+513;2;3114;cheng du rao cheng gao su gong lu wai quan hu rong gao su gong lu ru kou za dao
+513;3;3114;Chengduraocheng Hwy Outside Ring Hurong Hwy Entrance Ramp
+513;2;3115;san huan lu wai quan hu rong gao su gong lu ru kou za dao
+513;3;3115;3rd Ring Rd Outside Ring Hurong Hwy Entrance Ramp
+513;2;3116;hu rong gao su gong lu cheng du duan
+513;3;3116;Hurong Hwy Chengdu Sect
+513;2;3117;yi he shou fei zhan
+513;3;3117;Yihe Tollgate
+513;2;3119;cheng du rao cheng gao su gong lu nei quan jing kun gao su gong lu ru kou za dao
+513;3;3119;Chengduraocheng Hwy Inside Ring Jingkun Hwy Entrance Ramp
+513;2;3120;cheng du rao cheng gao su gong lu wai quan jing kun gao su gong lu ru kou za dao
+513;3;3120;Chengduraocheng Hwy Outside Ring Jingkun Hwy Entrance Ramp
+513;2;3121;pu jiang fu wu qu
+513;3;3121;Pujiang Service Area
+513;2;3124;xia rong gao su gong lu cheng du duan
+513;3;3124;Xiarong Hwy Chengdu Sect
+513;2;3125;jing ming lu
+513;3;3125;Jingming Rd
+513;2;3126;hang tian li jiao you jing ming lu fang xiang zhi san huan lu fang xiang ru kou za dao
+513;3;3126;Hangtian Jct from Jingminglufangxiang to Sanhuanlufangxiang Entrance Ramp
+513;2;3127;san huan lu jing ming lu ru kou za dao
+513;3;3127;3th Ring Rd Jingming Rd Entrance Ramp
+513;2;3128;san huan lu nei quan jing ming lu ru kou za dao
+513;3;3128;3rd Ring Rd Inside Ring Jingming Rd Entrance Ramp
+513;2;3129;san huan lu wai quan jing ming lu ru kou za dao
+513;3;3129;3rd Ring Rd Outside Ring Jingming Rd Entrance Ramp
+513;2;3134;jing kang lu
+513;3;3134;Jingkang Rd
+513;2;3143;gu wo long qiao jie
+513;3;3143;Guwolongqiao St
+513;2;3149;fang cao xi er jie
+513;3;3149;Fangcaoxier St
+513;2;3150;tong xing dong lu
+513;3;3150;Tongxing East Rd
+513;2;3156;guang fu lu
+513;3;3156;Guangfu Rd
+513;2;3160;chang jiu yi xiang
+513;3;3160;Changjiuyi Ln
+513;2;3161;shuang hua lu
+513;3;3161;Shuanghua Rd
+513;2;3171;da tong lu yi duan
+513;3;3171;Datongluyiduan
+513;2;3172;yi gan qi bei jie
+513;3;3172;Yiganqi North St
+513;2;3177;ke xing bei lu
+513;3;3177;Kexing North Rd
+513;2;3178;jin ke nan er lu
+513;3;3178;Jinke'naner Rd
+513;2;3179;jin liang lu (quan xing lu)
+513;3;3179;Jinliang Rd (Quanxing Rd)
+513;2;3183;zhu yuan da dao
+513;3;3183;Zhuyuan Blvd
+513;2;3188;liu san lu
+513;3;3188;Liusan Rd
+513;2;3189;san huan lu nei quan liu san lu xia za dao
+513;3;3189;3rd Ring Rd Inside Ring Liusan Rd Exit Ramp
+513;2;3190;xin quan lu
+513;3;3190;Xinquan Rd
+513;2;3192;cheng du rao cheng gao su gong lu zhuo jin nan lu ru kou za dao
+513;3;3192;Chengduraocheng Hwy Zhuojin South Rd Entrance Ramp
+513;2;3193;cheng du rao cheng gao su gong lu nei quan zhuo jin nan lu ru kou za dao
+513;3;3193;Chengduraocheng Hwy Inside Ring Zhuojin South Rd Entrance Ramp
+513;2;3194;cheng du rao cheng gao su gong lu wai quan zhuo jin nan lu ru kou za dao
+513;3;3194;Chengduraocheng Hwy Outside Ring Zhuojin South Rd Entrance Ramp
+513;2;3203;xie jia jin zhu lin
+513;3;3203;Xiejiajinzhulin
+513;2;3204;san huan lu nei quan xie jia jin zhu lin fang xiang xia za dao
+513;3;3204;3rd Ring Rd Inside Ring Xiejiajinzhulinfangxiang Exit Ramp
+513;2;3219;san sheng xiang
+513;3;3219;Sansheng Town
+513;2;3221;san huan lu wai quan san sheng xiang fang xiang xia za dao
+513;3;3221;3rd Ring Rd Outside Ring Sanshengxiangfangxiang Exit Ramp
+513;2;3228;xia rong gao su gong lu
+513;3;3228;Xiarong Hwy
+513;2;3229;san huan lu nei quan jin yang lu xia za dao
+513;3;3229;3rd Ring Rd Inside Ring Jinyang Rd Exit Ramp
+513;2;3232;bai jia gu jing
+513;3;3232;Baijiagujing
+513;2;3233;san huan lu nei quan bai jia gu jing fang xiang shang za dao
+513;3;3233;3rd Ring Rd Inside Ring Baijiagujingfangxiang Entrance Ramp
+513;2;3236;gao zhu lin
+513;3;3236;Gaozhulin
+513;2;3237;san huan lu nei quan gao zhu lin shang za dao
+513;3;3237;3rd Ring Rd Inside Ring Gaozhulin Entrance Ramp
+513;2;3239;jing zhu ba
+513;3;3239;Jingzhuba
+513;2;3240;san huan lu nei quan jing zhu ba shang za dao
+513;3;3240;3rd Ring Rd Inside Ring Jingzhuba Entrance Ramp
+513;2;3243;qing gang lin
+513;3;3243;Qingganglin
+513;2;3244;san huan lu nei quan qing gang lin xia za dao
+513;3;3244;3rd Ring Rd Inside Ring Qingganglin Exit Ramp
+513;2;3246;hai tong jie
+513;3;3246;Haitong St
+513;2;3247;san huan lu nei quan hai tong jie shang za dao
+513;3;3247;3rd Ring Rd Inside Ring Haitong St Entrance Ramp
+513;2;3248;bao ping cun
+513;3;3248;Baoping Village
+513;2;3249;san huan lu nei quan bao ping cun fang xiang shang za dao
+513;3;3249;3rd Ring Rd Inside Ring Baopingcunfangxiang Entrance Ramp
+513;2;3258;san dao guai
+513;3;3258;Sandaoguai
+513;2;3259;san huan lu nei quan san dao guai fang xiang shang za dao
+513;3;3259;3rd Ring Rd Inside Ring Sandaoguaifangxiang Entrance Ramp
+513;2;3260;san huan lu wai quan jin hui lu chu kou xia za dao
+513;3;3260;3rd Ring Rd Outside Ring Jinhuiluchukou Exit Ramp
+513;2;3261;jin hui lu chu kou
+513;3;3261;Jinhuiluchukou
+513;2;3264;san huan lu wai quan hu rong gao su gong lu nan chu kou za dao
+513;3;3264;3rd Ring Rd Outside Ring Hurong Hwy S Exit Ramp
+513;2;3266;san huan lu wai quan xia rong gao su gong lu xia za dao
+513;3;3266;3rd Ring Rd Outside Ring Xiarong Hwy Exit Ramp
+513;2;3267;san huan lu wai quan jing ming lu chu kou za dao
+513;3;3267;3rd Ring Rd Outside Ring Jingming Rd Exit Ramp
+513;2;3271;san huan lu wai quan jin shi lu shang za dao
+513;3;3271;3rd Ring Rd Outside Ring Jinshi Rd Entrance Ramp
+513;2;3284;shi dian zi
+513;3;3284;Shidianzi
+513;2;3285;san huan lu wai quan shi dian zi fang xiang shang za dao
+513;3;3285;3rd Ring Rd Outside Ring Shidianzifangxiang Entrance Ramp
+513;2;3296;wu ke dong si lu
+513;3;3296;Wukedongsi Rd
+513;2;3297;san huan lu wai quan wu ke dong si lu shang za dao
+513;3;3297;3rd Ring Rd Outside Ring Wukedongsi Rd Entrance Ramp
+513;2;3298;xi an lu
+513;3;3298;Xi'an Rd
+513;2;3299;jing yuan shang jie
+513;3;3299;Jingyuanshang St
+513;2;3301;ma dao zi
+513;3;3301;Madaozi
+513;2;3302;san huan lu wai quan ma dao zi fang xiang xia za dao
+513;3;3302;3rd Ring Rd Outside Ring Madaozifangxiang Exit Ramp
+513;2;3303;huang jing lou lu
+513;3;3303;Huangjinglou Rd
+513;2;3307;yu xiu lu
+513;3;3307;Yuxiu Rd
+513;2;3319;san huan lu wai quan dong hong lu xia za dao
+513;3;3319;3rd Ring Rd Outside Ring Donghong Rd Exit Ramp
+513;2;3323;san huan lu nei quan hai tong jie xia za dao
+513;3;3323;3rd Ring Rd Inside Ring Haitong St Exit Ramp
+513;2;3326;guo sheng lu
+513;3;3326;Guosheng Rd
+513;2;3327;san huan lu nei quan guo sheng lu xia za dao
+513;3;3327;3rd Ring Rd Inside Ring Guosheng Rd Exit Ramp
+513;2;3333;yin sha lu
+513;3;3333;Yinsha Rd
+513;2;3334;wei min lu
+513;3;3334;Weimin Rd
+513;2;3335;guang rong bei lu
+513;3;3335;Guangrong North Rd
+513;2;3336;guang rong lu
+513;3;3336;Guangrong Rd
+513;2;3337;jian she nan xin lu
+513;3;3337;Jianshe'nanxin Rd
+513;2;3338;xin hong nan lu
+513;3;3338;Xinhong South Rd
+513;2;3342;hong ji zhong lu
+513;3;3342;Hongji Middle Rd
+513;2;3343;lian hua xi lu
+513;3;3343;Lianhua West Rd
+513;2;3347;jin ling heng lu
+513;3;3347;Jinling Rd
+513;2;3350;xiao jia he jie
+513;3;3350;Xiaojiahe St
+513;2;3351;xiao jia he bei jie
+513;3;3351;Xiaojiahe North St
+513;2;3352;qing yang bei lu
+513;3;3352;Qingyang North Rd
+513;2;3353;qing yang dong er lu
+513;3;3353;Qingyangdonger Rd
+513;2;3354;xi qing lu
+513;3;3354;Xiqing Rd
+513;2;3355;huan le gu
+513;3;3355;Happy Valley
+513;2;3356;san huan lu wai quan huan le gu fang xiang xia za dao
+513;3;3356;3rd Ring Rd Outside Ring Huanlegufangxiang Exit Ramp
+513;2;3357;jiu feng hua yuan
+513;3;3357;Jiufeng Garden
+513;2;3358;san huan lu nei quan jiu feng hua yuan fang xiang shang za dao
+513;3;3358;3rd Ring Rd Inside Ring Jiufenghuayuanfangxiang Entrance Ramp
+513;2;3359;san huan lu wai quan jin niu ba lu shang za dao
+513;3;3359;3rd Ring Rd Outside Ring Jinniuba Rd Entrance Ramp
+513;2;3360;bai ren cun
+513;3;3360;Bairen Village
+513;2;3361;san huan lu wai quan bai ren cun fang xiang shang za dao
+513;3;3361;3rd Ring Rd Outside Ring Bairencunfangxiang Entrance Ramp
+513;2;3362;san huan lu nei quan huang yuan jie xia za dao
+513;3;3362;3rd Ring Rd Inside Ring Huangyuan St Exit Ramp
+513;2;3363;san huan lu nei quan dong po lu chu kou za dao
+513;3;3363;3rd Ring Rd Inside Ring Dongpo Rd Exit Ramp
+513;2;3366;san huan lu wai quan yong kang lu chu kou za dao
+513;3;3366;3rd Ring Rd Outside Ring Yongkang Rd Exit Ramp
+513;2;3367;wu qing dong si lu
+513;3;3367;Wuqingdongsi Rd
+513;2;3368;san huan lu wai quan wu qing dong si lu xia za dao
+513;3;3368;3rd Ring Rd Outside Ring Wuqingdongsi Rd Exit Ramp
+513;2;3369;san huan lu nei quan guo sheng lu shang za dao
+513;3;3369;3rd Ring Rd Inside Ring Guosheng Rd Entrance Ramp
+513;2;3370;bai cao yuan xiao xue
+513;3;3370;Baicaoyuanxiaoxue
+513;2;3371;san huan lu wai quan bai cao yuan xiao xue fang xiang shang za dao
+513;3;3371;3rd Ring Rd Outside Ring Baicaoyuanxiaoxuefangxiang Entrance Ramp
+513;2;3372;zhu jia ci
+513;3;3372;Zhujiaci
+513;2;3373;san huan lu wai quan zhu jia ci fang xiang xia za dao
+513;3;3373;3rd Ring Rd Outside Ring Zhujiacifangxiang Exit Ramp
+513;2;3374;ke yuan nan yi lu
+513;3;3374;Keyuannanyi Rd
+513;2;3375;san huan lu nei quan ke yuan nan yi lu xia za dao
+513;3;3375;3rd Ring Rd Inside Ring Keyuannanyi Rd Exit Ramp
+513;2;3377;wan xiang bei lu
+513;3;3377;Wanxiang North Rd
+513;2;3378;san huan lu wai quan wan xiang bei lu xia za dao
+513;3;3378;3rd Ring Rd Outside Ring Wanxiang North Rd Exit Ramp
+513;2;3379;san huan lu nei quan cheng han bei lu shang za dao
+513;3;3379;3rd Ring Rd Inside Ring Chenghan North Rd Entrance Ramp
+513;2;3380;cheng han zhong lu
+513;3;3380;Chenghan Middle Rd
+513;2;3381;san huan lu wai quan cheng han zhong lu shang za dao
+513;3;3381;3rd Ring Rd Outside Ring Chenghan Middle Rd Entrance Ramp
+513;2;3382;san se lu
+513;3;3382;Sanse Rd
+513;2;3383;san huan lu wai quan san se lu xia za dao
+513;3;3383;3rd Ring Rd Outside Ring Sanse Rd Exit Ramp
+513;2;3385;san huan lu wai quan huang jing lou lu shang za dao
+513;3;3385;3rd Ring Rd Outside Ring Huangjinglou Rd Entrance Ramp
+513;2;3387;shi zhu yan
+513;3;3387;Shizhu Yan
+513;2;3388;san huan lu wai quan shi zhu yan fang xiang shang za dao
+513;3;3388;3rd Ring Rd Outside Ring Shizhuyanfangxiang Entrance Ramp
+513;2;3389;tian e cun
+513;3;3389;Tiane Village
+513;2;3390;san huan lu wai quan tian e cun fang xiang shang za dao
+513;3;3390;3rd Ring Rd Outside Ring Tianecunfangxiang Entrance Ramp
+513;2;3391;san huan lu nei quan san dao guai fang xiang xia za dao
+513;3;3391;3rd Ring Rd Inside Ring Sandaoguaifangxiang Exit Ramp
+513;2;3392;chen jia fang zi
+513;3;3392;Chenjiafangzi
+513;2;3393;san huan lu wai quan chen jia fang zi fang xiang xia za dao
+513;3;3393;3rd Ring Rd Outside Ring Chenjiafangzifangxiang Exit Ramp
+513;2;3394;san huan lu wai quan nong ping lu shang za dao
+513;3;3394;3rd Ring Rd Outside Ring Nongping Hwy Entrance Ramp
+513;2;3395;san huan lu nei quan xie jia jin zhu lin fang xiang shang za dao
+513;3;3395;3rd Ring Rd Inside Ring Xiejiajinzhulinfangxiang Entrance Ramp
+513;2;3400;san huan lu wai quan qing shi lu xia za dao
+513;3;3400;3rd Ring Rd Outside Ring Qingshi Rd Exit Ramp
+513;2;3401;san huan lu nei quan qing long lu shang za dao
+513;3;3401;3rd Ring Rd Inside Ring Qinglong Rd Entrance Ramp
+513;2;3402;dong jing lu
+513;3;3402;Dongjing Rd
+513;2;3403;san huan lu nei quan dong jing lu shang za dao
+513;3;3403;3rd Ring Rd Inside Ring Dongjing Rd Entrance Ramp
+513;2;3404;shi zi nian
+513;3;3404;Shizinian
+513;2;3405;san huan lu wai quan shi zi nian fang xiang shang za dao
+513;3;3405;3rd Ring Rd Outside Ring Shizinianfangxiang Entrance Ramp
+513;2;3406;qing gang bao
+513;3;3406;Qinggangbao
+513;2;3407;san huan lu nei quan qing gang bao fang xiang xia za dao
+513;3;3407;3rd Ring Rd Inside Ring Qinggangbaofangxiang Exit Ramp
+513;2;3408;san huan lu nei quan quan shui dong lu xia za dao
+513;3;3408;3rd Ring Rd Inside Ring Quanshui East Rd Exit Ramp
+513;2;3411;bei jie
+513;3;3411;Beijie
+513;2;3414;long ying lu
+513;3;3414;Longying Rd
+513;2;3415;hang ying dong lu
+513;3;3415;Hangying East Rd
+513;2;3417;cheng du rao cheng gao su gong lu nei quan ji chang gao su gong lu xi ru kou za dao
+513;3;3417;Chengduraocheng Hwy Inside Ring Jichang Hwy W Entrance Ramp
+513;2;3427;yi xin da dao
+513;3;3427;Yixin Blvd
+513;2;3428;dong cheng gen nan jie fu lu
+513;3;3428;Dongchenggen South St Side Rd
+513;2;3440;dong ding zi jie
+513;3;3440;E Dingzi St
+513;2;3444;quan shui lu
+513;3;3444;Quanshui Rd
+513;2;3452;tong de jie
+513;3;3452;Tongde St
+513;2;3461;wang jia fen ba
+513;3;3461;Wangjiafenba
+513;2;3462;san huan lu nei quan wang jia fen ba fang xiang xia za dao
+513;3;3462;3rd Ring Rd Inside Ring Wangjiafenbafangxiang Exit Ramp
+513;2;3463;bai jia wan
+513;3;3463;Baijiawan
+513;2;3464;san huan lu nei quan bai jia wan fang xiang shang za dao
+513;3;3464;3rd Ring Rd Inside Ring Baijiawanfangxiang Entrance Ramp
+513;2;3468;lv jia ci tang
+513;3;3468;Lvjiacitang
+513;2;3471;cheng du jia ju yuan long qiao zhan shou fei zhan
+513;3;3471;Chengdujiajuyuanlongqiaozhan Tollgate
+513;2;3472;cheng long da dao xi ce
+513;3;3472;Chenglong Blvd W
+513;2;3473;cheng du rao cheng gao su gong lu cheng long da dao xi ce ru kou za dao
+513;3;3473;Chengduraocheng Hwy Chenglong Blvd W Entrance Ramp
+513;2;3474;cheng du rao cheng gao su gong lu nei quan bei ce
+513;3;3474;Chengduraocheng Hwy Inside Ring N
+513;2;3475;cheng du rao cheng gao su gong lu nei quan bei ce cheng long da dao ru kou za dao
+513;3;3475;Chengduraocheng Hwy Inside Ring N Chenglong Blvd Entrance Ramp
+513;2;3476;cheng du rao cheng gao su gong lu wai quan cheng long da dao ru kou za dao
+513;3;3476;Chengduraocheng Hwy Outside Ring Chenglong Blvd Entrance Ramp
+513;2;3477;cheng du rao cheng gao su gong lu nei quan cheng long da dao chu kou za dao
+513;3;3477;Chengduraocheng Hwy Inside Ring Chenglong Blvd Exit Ramp
+513;2;3478;cheng long da dao dong ce
+513;3;3478;Chenglong Blvd E
+513;2;3479;cheng du rao cheng gao su gong lu nei quan cheng long da dao dong ce chu kou za dao
+513;3;3479;Chengduraocheng Hwy Inside Ring Chenglong Blvd E Exit Ramp
+513;2;3480;cheng du rao cheng gao su gong lu wai quan cheng long da dao chu kou za dao
+513;3;3480;Chengduraocheng Hwy Outside Ring Chenglong Blvd Exit Ramp
+513;2;3481;cheng du rao cheng gao su gong lu wai quan cheng jin qing kuai su tong dao ru kou za dao
+513;3;3481;Chengduraocheng Hwy Outside Ring Chengjinqingkuaisutong Ave Entrance Ramp
+513;2;3482;cheng du rao cheng gao su gong lu wai quan cheng jin qing kuai su tong dao chu kou za dao
+513;3;3482;Chengduraocheng Hwy Outside Ring Chengjinqingkuaisutong Ave Exit Ramp
+513;2;3483;cheng jin qing kuai su tong dao bei ce
+513;3;3483;Chengjinqingkuaisutong Ave N
+513;2;3484;cheng du rao cheng gao su gong lu wai quan cheng jin qing kuai su tong dao bei ce ru kou za dao
+513;3;3484;Chengduraocheng Hwy Outside Ring Chengjinqingkuaisutong Ave Entrance Ramp
+513;2;3485;cheng du rao cheng gao su gong lu nei quan cheng jin qing kuai su tong dao ru kou za dao
+513;3;3485;Chengduraocheng Hwy Inside Ring Chengjinqingkuaisutong Ave Entrance Ramp
+513;2;3486;cheng du rao cheng gao su gong lu wai quan dong ce
+513;3;3486;Chengduraocheng Hwy Outside Ring E
+513;2;3487;cheng du rao cheng gao su gong lu wai quan dong ce cheng jin qing kuai su tong dao chu kou za dao
+513;3;3487;Chengduraocheng Hwy Outside Ring E Chengjinqingkuaisutong Ave Exit Ramp
+513;2;3488;cheng du rao cheng gao su gong lu nei quan xi ce
+513;3;3488;Chengduraocheng Hwy Inside Ring W
+513;2;3489;cheng du rao cheng gao su gong lu nei quan xi ce cheng jin qing kuai su tong dao chu kou za dao
+513;3;3489;Chengduraocheng Hwy Inside Rd W Chengjinqingkuaisutong Ave Exit Ramp
+513;2;3490;cheng du rao cheng gao su gong lu nei quan cheng jin qing kuai su tong dao bei ce chu kou za dao
+513;3;3490;Chengduraocheng Hwy Inside Ring Chengjinqingkuaisutong Ave N Exit Ramp
+513;2;3491;cheng jin qing kuai su tong dao nan ce
+513;3;3491;Chengjinqingkuaisutong Ave S
+513;2;3492;cheng du rao cheng gao su gong lu nei quan cheng jin qing kuai su tong dao nan ce chu kou za dao
+513;3;3492;Chengduraocheng Hwy Inside Ring Chengjinqingkuaisutong Ave S Exit Ramp
+513;2;3495;cheng du rao cheng gao su gong lu wai quan cheng jin qing kuai su tong dao nan ce ru kou za dao
+513;3;3495;Chengduraocheng Hwy Outside Ring Chengjinqingkuaisutong Ave S Entrance Ramp
+513;2;3496;cheng du rao cheng gao su gong lu wai quan dong ce cheng jin qing kuai su tong dao bei ce chu kou za dao
+513;3;3496;Chengduraocheng Hwy Outside Ring E Chengjinqingkuaisutong Ave N Exit Ramp
+513;2;3517;hua xin xia jie
+513;3;3517;Huaxinxia St
+513;2;3518;hua xin zhong jie
+513;3;3518;Huaxin Middle St
+513;2;3520;cheng du you qu zhong xin ju you jian chu li zhong xin
+513;3;3520;Chengduyouquzhongxinjuyoujianchulizhongxin
+513;2;3523;fo sheng an
+513;3;3523;Fosheng'an
+513;2;3525;qiong ming gao su gong lu
+513;3;3525;Qiongming Hwy
+513;2;3529;chong qing lu
+513;3;3529;Chongqing Rd
+513;2;3530;chong jiang zhong lu
+513;3;3530;Chongjiang Middle Rd
+513;2;3532;hu bin lu
+513;3;3532;Hubin Rd
+513;2;3533;cheng du rao cheng gao su gong lu wai quan za dao cheng long da dao chu kou za dao
+513;3;3533;Chengduraocheng Hwy Outside Ring Ramp Chenglong Blvd Exit Ramp
+513;2;3534;cheng long da dao nan ce
+513;3;3534;Chenglong Blvd S
+513;2;3535;cheng du rao cheng gao su gong lu wai quan za dao cheng long da dao nan ce chu kou za dao
+513;3;3535;Chengduraocheng Hwy Outside Ring Ramp Chenglong Blvd S Exit Ramp
+513;2;3536;cheng du rao cheng gao su gong lu wai quan za dao dong ce
+513;3;3536;Chengduraocheng Hwy Outside Ring Ramp E
+513;2;3537;cheng du rao cheng gao su gong lu wai quan za dao dong ce cheng long da dao chu kou za dao
+513;3;3537;Chengduraocheng Hwy Outside Ring Ramp E Chenglong Blvd Exit Ramp
+513;2;3538;cheng du rao cheng gao su gong lu wai quan nan ce
+513;3;3538;Chengduraocheng Hwy Outside Ring S
+513;2;3539;cheng du rao cheng gao su gong lu wai quan nan ce cheng long da dao chu kou za dao
+513;3;3539;Chengduraocheng Hwy Outside Ring S Chenglong Blvd Exit Ramp
+513;2;3543;cheng du rao cheng gao su gong lu wai quan za dao dong ce cheng long da dao ru kou za dao
+513;3;3543;Chengduraocheng Hwy Outside Ring Ramp E Chenglong Blvd Entrance Ramp
+513;2;3544;cheng du rao cheng gao su gong lu nei quan cheng long da dao dong ce ru kou za dao
+513;3;3544;Chengduraocheng Hwy Inside Ring Chenglong Blvd E Entrance Ramp
+513;2;3545;cheng du rao cheng gao su gong lu nei quan cheng long da dao xi ce
+513;3;3545;Chengduraocheng Hwy Inside Ring Chenglong Blvd W
+513;2;3546;cheng du rao cheng gao su gong lu wai quan nan ce cheng long da dao xi ce ru kou za dao
+513;3;3546;Chengduraocheng Hwy Outside Ring S Chenglong Blvd W Entrance Ramp
+513;2;3554;long gang lu
+513;3;3554;Longgang Rd
+513;2;3555;san huan lu wai quan long gang lu chu kou za dao
+513;3;3555;3rd Ring Rd Outside Ring Longgang Rd Exit Ramp
+513;2;3561;san huan lu wai quan long gang lu ru kou za dao
+513;3;3561;3rd Ring Rd Outside Ring Longgang Rd Entrance Ramp
+513;2;3565;wan ke lu
+513;3;3565;Wanke Rd
+513;2;3566;san huan lu wai quan wan ke lu chu kou za dao
+513;3;3566;3rd Ring Rd Outside Ring Wanke Rd Exit Ramp
+513;2;3567;min jiang lu
+513;3;3567;Minjiang Rd
+513;2;3568;san huan lu nei quan min jiang lu ru kou za dao
+513;3;3568;3rd Ring Rd Inside Ring Minjiang Rd Entrance Ramp
+513;2;3569;san huan lu wai quan min jiang lu ru kou za dao
+513;3;3569;3rd Ring Rd Outside Ring Minjiang Rd Entrance Ramp
+513;2;3570;an ning he lu
+513;3;3570;Anninghe Rd
+513;2;3571;san huan lu nei quan an ning he lu chu kou za dao
+513;3;3571;3rd Ring Rd Inside Ring Anninghe Rd Exit Ramp
+513;2;3572;san huan lu wai quan an ning he lu chu kou za dao
+513;3;3572;3rd Ring Rd Outside Ring Anninghe Rd Exit Ramp
+513;2;3573;qiong lai shan lu
+513;3;3573;Qionglaishan Rd
+513;2;3574;san huan lu wai quan qiong lai shan lu chu kou za dao
+513;3;3574;3rd Ring Rd Outside Ring Qionglaishan Rd Exit Ramp
+513;2;3575;qing yi jiang lu
+513;3;3575;Qingyijiang Rd
+513;2;3577;san huan lu wai quan qing yi jiang lu ru kou za dao
+513;3;3577;3rd Ring Rd Outside Ring Qingyijiang Rd Entrance Ramp
+513;2;3580;cheng du rao cheng gao su gong lu nei quan rong du da dao ru kou za dao
+513;3;3580;Chengduraocheng Hwy Inside Ring Rongdu Blvd Entrance Ramp
+513;2;3581;cheng du rao cheng gao su gong lu wai quan rong du da dao ru kou za dao
+513;3;3581;Chengduraocheng Hwy Outside Ring Rongdu Blvd Entrance Ramp
+513;2;3583;xing chuan lu
+513;3;3583;Xingchuan Rd
+513;2;3584;chuan tian lu
+513;3;3584;Chuantian Rd
+513;2;3585;yin xing yuan lu
+513;3;3585;Yinxingyuan Rd
+513;2;3586;rong du da dao dong ce
+513;3;3586;Rongdu Blvd E
+513;2;3587;cheng du rao cheng gao su gong lu rong du da dao dong ce ru kou za dao
+513;3;3587;Chengduraocheng Hwy Rongdu Blvd E Entrance Ramp
+513;2;3588;cheng du rao cheng gao su gong lu bei rong du da dao dong ce chu kou za dao
+513;3;3588;Chengduraocheng Hwy N Rongdu Blvd E Exit Ramp
+513;2;3589;cheng du rao cheng gao su gong lu nan rong du da dao dong ce ru kou za dao
+513;3;3589;Chengduraocheng Hwy S Rongdu Blvd E Entrance Ramp
+513;2;3590;cheng du rao cheng gao su gong lu zhong rong du da dao dong ce ru kou za dao
+513;3;3590;Chengduraocheng Hwy M Rongdu Blvd E Entrance Ramp
+513;2;3592;cheng du rao cheng gao su gong lu nei quan za dao rong du da dao dong ce za dao ru kou za dao
+513;3;3592;Chengduraocheng Hwy Inside Ring Ramp Rongdu Blvd E Ramp Entrance Ramp
+513;2;3593;cheng du rao cheng gao su gong lu wai quan za dao rong du da dao dong ce za dao ru kou za dao
+513;3;3593;Chengduraocheng Hwy Outside Ring Ramp Rongdu Blvd E Ramp Entrance Ramp
+513;2;3594;rong du da dao dong ce
+513;3;3594;Rongdu Blvd E
+513;2;3595;rong du da dao xi
+513;3;3595;Rongdu Blvd W
+513;2;3596;cheng du rao cheng gao su gong lu wai quan rong du da dao xi ru kou za dao
+513;3;3596;Chengduraocheng Hwy Outside Ring Rongdu Blvd W Entrance Ramp
+513;2;3597;cheng du rao cheng gao su gong lu nan rong du da dao xi ce chu kou za dao
+513;3;3597;Chengduraocheng Hwy S Rongdu Blvd W Exit Ramp
+513;2;3598;cheng du rao cheng gao su gong lu zhong rong du da dao xi ce ru kou za dao
+513;3;3598;Chengduraocheng Hwy M Rongdu Blvd W Entrance Ramp
+513;2;3599;cheng du rao cheng gao su gong lu nei quan za dao rong du da dao xi ce za dao ru kou za dao
+513;3;3599;Chengduraocheng Hwy Inside Ring Ramp Rongdu Blvd W Ramp Entrance Ramp
+513;2;3600;rong du da dao xi ce za dao
+513;3;3600;Rongdu Blvd W Ramp
+513;2;3601;cheng du rao cheng gao su gong lu wai quan za dao rong du da dao xi ce za dao ru kou za dao
+513;3;3601;Chengduraocheng Hwy Outside Ring Ramp Rongdu Blvd W Ramp Entrance Ramp
+513;2;3602;yu fu lu
+513;3;3602;Yufu Rd
+513;2;3604;ju xing lu
+513;3;3604;Juxing Rd
+513;2;3606;dao hang lu
+513;3;3606;Daohang Rd
+513;2;3607;wu qing bei lu
+513;3;3607;Wuqing North Rd
+513;2;3608;san huan lu nei quan yi du da dao ru kou za dao
+513;3;3608;3rd Ring Rd Inside Ring Yidu Blvd Entrance Ramp
+513;2;3609;san huan lu wai quan yi du da dao ru kou za dao
+513;3;3609;3rd Ring Rd Outside Ring Yidu Blvd Entrance Ramp
+513;2;3612;ba yi da lu
+513;3;3612;Bayidalu
+513;2;3613;jin feng gao jia
+513;3;3613;Jinfeng Viad
+513;2;3614;zheng jie
+513;3;3614;Zhengjie
+513;2;3615;cheng shuang da dao
+513;3;3615;Chengshuang Blvd
+513;2;3616;bai he lu
+513;3;3616;Baihe Rd
+513;2;3617;shuang nan da dao
+513;3;3617;Shuangnan Blvd
+513;2;3618;jin peng jie
+513;3;3618;Jinpeng St
+513;2;3619;san huan lu nei quan jin peng jie xia za dao
+513;3;3619;3rd Ring Rd Inside Ring Jinpeng St Exit Ramp
+513;2;3620;yu ren xi lu
+513;3;3620;Yuren West Rd
+513;2;3621;san huan lu nei quan yu ren xi lu xia za dao
+513;3;3621;3rd Ring Rd Inside Ring Yuren West Rd Exit Ramp
+513;2;3622;qun zhong qiao
+513;3;3622;Qunzhong Brg
+513;2;3625;shi zi an
+513;3;3625;Shizian
+513;2;3626;san huan lu wai quan shi zi an xia za dao
+513;3;3626;3rd Ring Rd Outside Ring Shizian Exit Ramp
+513;2;3631;hang tian lu san huan lu wai quan shang za dao
+513;3;3631;Hangtian Rd 3rd Ring Rd Outside Ring Entrance Ramp
+513;2;3637;san huan lu wai quan nong ping lu xia za dao
+513;3;3637;3rd Ring Rd Outside Ring Nongping Rd Exit Ramp
+513;2;3644;xing cheng da dao
+513;3;3644;Xingcheng Blvd
+513;2;3645;cheng de da dao
+513;3;3645;Chengde Blvd
+513;2;3646;cheng du rao cheng gao su gong lu rong du da dao dong ce chu kou za dao
+513;3;3646;Chengduraocheng Hwy Rongdu Blvd E Exit Ramp
+513;2;3647;cheng du rao cheng gao su gong lu rong du da dao xi ce chu kou za dao
+513;3;3647;Chengduraocheng Hwy Rongdu Blvd W Exit Ramp
+513;2;3648;cheng du rao cheng gao su gong lu nei quan rong du da dao chu kou za dao
+513;3;3648;Chengduraocheng Hwy Inside Ring Rongdu Blvd Exit Ramp
+513;2;3649;cheng du rao cheng gao su gong lu nei quan rong du da dao dong ru kou za dao
+513;3;3649;Chengduraocheng Hwy Inside Ring Rongdu Blvd E Entrance Ramp
+513;2;3650;rong du da dao dong
+513;3;3650;Rongdu Blvd E
+513;2;3651;cheng du rao cheng gao su gong lu nei quan rong du da dao xi chu kou za dao
+513;3;3651;Chengduraocheng Hwy Inside Ring Rongdu Blvd W Exit Ramp
+513;2;3652;rong du da dao zhong
+513;3;3652;Rongdu Blvd M
+513;2;3653;cheng du rao cheng gao su gong lu nei quan rong du da dao zhong chu kou za dao
+513;3;3653;Chengduraocheng Hwy Inside Ring Rongdu Blvd M Exit Ramp
+513;2;3654;cheng du rao cheng gao su gong lu nei quan za dao rong du da dao dong ce za dao chu kou za dao
+513;3;3654;Chengduraocheng Hwy Inside Ring Ramp Rongdu Blvd E Ramp Exit Ramp
+513;2;3655;cheng du rao cheng gao su gong lu nei quan za dao rong du da dao xi ce za dao chu kou za dao
+513;3;3655;Chengduraocheng Hwy Inside Ring Ramp Rongdu Blvd W Ramp Exit Ramp
+513;2;3656;cheng du rao cheng gao su gong lu wai quan rong du da dao dong chu kou za dao
+513;3;3656;Chengduraocheng Hwy Outside Ring Rongdu Blvd E Exit Ramp
+513;2;3657;cheng du rao cheng gao su gong lu wai quan rong du da dao chu kou za dao
+513;3;3657;Chengduraocheng Hwy Outside Ring Rongdu Blvd Exit Ramp
+513;2;3658;cheng du rao cheng gao su gong lu wai quan za dao rong du da dao xi ce za dao chu kou za dao
+513;3;3658;Chengduraocheng Hwy Outside Ring Ramp Rongdu Blvd W Ramp Exit Ramp
+513;2;3660;san huan lu wai quan xi hua da dao xia za dao
+513;3;3660;3rd Ring Rd Outside Ring Xihua Blvd Exit Ramp
+513;2;3661;xi hua da dao
+513;3;3661;Xihua Blvd
+513;2;3666;wan nian lu
+513;3;3666;Wannian Rd
+513;2;3667;ji bu jie
+513;3;3667;Jibu St
+513;2;3668;duo bao si lu
+513;3;3668;Duobaosi Rd
+513;2;3671;xiang zhang da dao
+513;3;3671;Xiangzhang Blvd
+513;2;3672;tian peng da dao
+513;3;3672;Tianpeng Blvd
+513;2;3676;rong bei lu san duan dong ce
+513;3;3676;Rongbei Rd San Sect E
+513;2;3678;rong bei lu san duan xi ce
+513;3;3678;Rongbei Rd San Sect W
+513;2;3680;cheng du rao cheng gao su gong lu nei quan rong bei lu san duan xi ce chu kou za dao
+513;3;3680;Chengduraocheng Hwy Inside Ring Rongbei Rd San Sect W Exit Ramp
+513;2;3681;cheng du rao cheng gao su gong lu nei quan rong bei lu san duan dong ce chu kou za dao
+513;3;3681;Chengduraocheng Hwy Inside Ring Rongbei Rd San Sect E Exit Ramp
+513;2;3684;cheng tong lu
+513;3;3684;Chengtong Rd
+513;2;3686;xi hang gang da dao yi duan
+513;3;3686;Xihanggangdadaoyiduan
+513;2;3687;shuang yong lu
+513;3;3687;Shuangyong Rd
+513;2;3689;wu ming xiang
+513;3;3689;Wuming Ln
+513;2;3691;tian fu yi jie
+513;3;3691;Tianfuyi St
+513;2;3692;shi ji cheng lu
+513;3;3692;Shijicheng Rd
+513;2;3695;san huan lu yi du da dao ru kou za dao
+513;3;3695;3rd Ring Rd Yidu Blvd Entrance Ramp
+513;2;3696;san huan lu nei quan yi du da dao chu kou za dao
+513;3;3696;3rd Ring Rd Inside Ring Yidu Blvd Exit Ramp
+513;2;3697;san huan lu wai quan zhao jue si nan lu chu kou za dao
+513;3;3697;3rd Ring Rd Outside Ring Zhaojuesi South Rd Exit Ramp
+513;2;3699;fu yuan lu
+513;3;3699;Fuyuan Rd
+513;2;3702;pei feng lu
+513;3;3702;Peifeng Rd
+513;2;3703;guo ning jie
+513;3;3703;Guoning St
+513;2;3704;xin gui cun si wu jie
+513;3;3704;Xinguicunsiwu St
+513;2;3705;yan meng lu
+513;3;3705;Yanmeng Rd
+513;2;3706;cao jin lu xi yan xian
+513;3;3706;Caojinluxiyan Line
+513;2;3707;san huan lu nei quan an ning he lu shang za dao
+513;3;3707;3rd Ring Rd Inside Ring Anninghe Rd Entrance Ramp
+513;2;3709;wu qing nan lu
+513;3;3709;Wuqing South Rd
+513;2;3710;da tong lu er duan
+513;3;3710;Datongluerduan
+513;2;3711;gao pan dong lu
+513;3;3711;Gaopan East Rd
+513;2;3712;jin sha lu
+513;3;3712;Jinsha Rd
+513;2;3714;shu long lu
+513;3;3714;Shulong Rd
+513;2;3715;rao cheng da dao
+513;3;3715;Raocheng Blvd
+513;2;3716;jin yue dong lu
+513;3;3716;Jinyue East Rd
+513;2;3717;jin yue xi lu
+513;3;3717;Jinyue West Rd
+513;2;3718;jin cheng da dao
+513;3;3718;Jincheng Blvd
+513;2;3720;min jiang da dao
+513;3;3720;Minjiang Blvd
+513;2;3721;huang jing lu dong yan xian
+513;3;3721;Huangjingludongyan Line
+513;2;3723;ling ke lu
+513;3;3723;Lingke Rd
+513;2;3726;li jin jie
+513;3;3726;Lijin St
+513;2;3728;liang gang er lu
+513;3;3728;Liangganger Rd
+513;2;3729;cu ma lu san duan
+513;3;3729;Cumalusanduan
+513;2;3730;cu ma lu yi duan
+513;3;3730;Cumaluyiduan
+513;2;3731;cu ma lu er duan
+513;3;3731;Cumaluerduan
+513;2;3732;si zhu lu
+513;3;3732;Sizhu Rd
+513;2;3733;bai ri hong xi lu
+513;3;3733;Bairihong West Rd
+513;2;3734;san huan lu wai quan bai ri hong xi lu shang za dao
+513;3;3734;3rd Ring Rd Outside Ring Bairihong West Rd Entrance Ramp
+513;2;3735;shi er zhong jie
+513;3;3735;Shierzhong St
+513;2;3736;san huan lu nei quan cheng long da dao ru kou za dao
+513;3;3736;3rd Ring Rd Inside Ring Chenglong Blvd Entrance Ramp
+513;2;3737;ma chao dong lu
+513;3;3737;Machao East Rd
+513;2;3739;qing shi qiao zhong jie
+513;3;3739;Qingshiqiao Middle St
+513;2;3740;xiang yang jie
+513;3;3740;Xiangyang St
+513;2;3741;xue dao jie
+513;3;3741;Xuedao St
+513;2;3742;san huan lu nei quan jin yang lu shang za dao
+513;3;3742;3rd Ring Rd Inside Ring Jinyang Rd Entrance Ramp
+513;2;3743;qing yun bei jie
+513;3;3743;Qingyun North St
+513;2;3745;xing hui xi bin he lu
+513;3;3745;Xinghuixibinhe Rd
+513;2;3746;fu ning lu
+513;3;3746;Funing Rd
+513;2;3748;meng zhui wan bin he lu
+513;3;3748;Mengzhuiwanbinhe Rd
+513;2;3749;sha xi xian
+513;3;3749;Shaxi Line
+513;2;3750;hou luo lu
+513;3;3750;Houluo Rd
+513;2;3751;xia sha he pu jie
+513;3;3751;Xiashahepu St
+513;2;3752;sheng li cun
+513;3;3752;Shengli Village
+513;2;3753;kun hua lu
+513;3;3753;Kunhua Rd
+513;2;3754;jin jiang da dao
+513;3;3754;Jinjiang Blvd
+513;2;3755;zong fu jie
+513;3;3755;Zongfu St
+513;2;3756;shuang huang lu
+513;3;3756;Shuanghuang Rd
+513;2;3757;tong you lu
+513;3;3757;Tongyou Rd
+513;2;3758;cheng guan dong lu
+513;3;3758;Chengguan East Rd
+513;2;3760;wan xing lu
+513;3;3760;Wanxing Rd
+513;2;3761;qi xia lu
+513;3;3761;Qixia Rd
+513;2;3762;jin rui lu
+513;3;3762;Jinrui Rd
+513;2;3763;xing rong lu
+513;3;3763;Xingrong Rd
+513;2;3764;san huan lu nei quan xin jin feng gao jia ru kou za dao
+513;3;3764;3rd Ring Rd Inside Ring Xinjinfeng Viad Entrance Ramp
+513;2;3765;san huan lu wai quan jin feng gao jia chu kou za dao
+513;3;3765;3rd Ring Rd Outside Ring Jinfeng Viad Exit Ramp
+513;2;3766;san huan lu nei quan jin feng gao jia chu kou za dao
+513;3;3766;3rd Ring Rd Inside Ring Jinfeng Viad Exit Ramp
+513;2;3767;san huan lu wai quan jin feng gao jia xi ce ru kou za dao
+513;3;3767;3rd Ring Rd Outside Ring Jinfeng Viad W Entrance Ramp
+513;2;3768;jin feng gao jia xi ce
+513;3;3768;Jinfeng Viad W
+513;2;3771;yi gan qi dong jie
+513;3;3771;Yiganqi East St
+513;2;3772;yi xin qiao heng jie
+513;3;3772;Yixinqiao St
+513;2;3773;tian fu er jie
+513;3;3773;Tianfuer St
+513;2;3774;yin sha bei jie
+513;3;3774;Yinsha North St
+513;2;3775;yu lin jie
+513;3;3775;Yulin St
+513;2;3777;xi cheng lu
+513;3;3777;Xicheng Rd
+513;2;3778;shou mei lu
+513;3;3778;Shoumei Rd
+513;2;3779;shu ling lu
+513;3;3779;Shuling Rd
+513;2;3780;zheng xi xia jie
+513;3;3780;Zhengxixia St
+513;2;3781;heng shan bei jie (guo ning jie)
+513;3;3781;Hengshan North St (Guoning St)
+513;2;3783;shuang bai lu (gao dian lu xi duan)
+513;3;3783;Shuangbai Rd (Gaodian Rd West Sect)
+513;2;3785;bai ba lu
+513;3;3785;Baiba Rd
+513;2;3788;wang xian chang jie
+513;3;3788;Wangxianchang St
+513;2;3789;xin shi lu
+513;3;3789;Xinshi Rd
+513;2;3790;tai ping lu
+513;3;3790;Taiping Rd
+513;2;3791;qi li lu
+513;3;3791;Qili Rd
+513;2;3792;hang kong bin guan
+513;3;3792;Hangkongbinguan
+513;2;3793;cui jia dian bei yi lu
+513;3;3793;Cuijiadianbeiyi Rd
+513;2;3794;mu hua lu
+513;3;3794;Muhua Rd
+513;2;3795;guang yao san lu
+513;3;3795;Guangyaosan Rd
+513;2;3796;lian hua bei lu
+513;3;3796;Lianhua North Rd
+513;2;3799;tian fu si jie
+513;3;3799;Tianfusi St
+513;2;3801;hua zhao bi dong jie
+513;3;3801;Huazhaobi East St
+513;2;3802;san huan lu wai quan xi hua da dao shang za dao
+513;3;3802;3rd Ring Rd Outside Ring Xihua Blvd Entrance Ramp
+513;2;3803;jin xiu da dao
+513;3;3803;Jinxiu Blvd
+513;2;3806;jiang ling lu
+513;3;3806;Jiangling Rd
+513;2;3809;dong si jie
+513;3;3809;Dongsi St
+513;2;3810;jin liang lu
+513;3;3810;Jinliang Rd
+513;2;3812;shu hui lu
+513;3;3812;Shuhui Rd
+513;2;3813;yu miao nan lu
+513;3;3813;Yumiao South Rd
+513;2;3814;yu ren dong lu
+513;3;3814;Yuren East Rd
+513;2;3816;yin sha xiang
+513;3;3816;Yinsha Ln
+513;2;3819;hong pai lou lu
+513;3;3819;Hongpailou Rd
+513;2;3822;da tong lu er duan zhi tian fu yi jie
+513;3;3822;Datong Rd Er Sect to Tianfuyi St
+513;2;3823;cheng han nan lu
+513;3;3823;Chenghan South Rd
+513;2;3825;jiao zi nan yi lu
+513;3;3825;Jiaozi'nanyi Rd
+513;2;3826;jiao zi bei yi lu
+513;3;3826;Jiaozibeiyi Rd
+513;2;3827;tian hui lu
+513;3;3827;Tianhui Rd
+513;2;3828;he shuo xi jie
+513;3;3828;Heshuo West St
+513;2;3829;he shuo dong jie
+513;3;3829;Heshuo East St
+513;2;3830;tian yi jie
+513;3;3830;Tianyi St
+513;2;3831;ming du lu
+513;3;3831;Mingdu Rd
+513;2;3832;tian shun lu
+513;3;3832;Tianshun Rd
+513;2;3833;gui xi lu
+513;3;3833;Guixi Rd
+513;2;3834;hui quan nan lu
+513;3;3834;Huiquan South Rd
+513;2;3836;shuang cheng er lu
+513;3;3836;Shuangchenger Rd
+513;2;3837;shuang fu er lu
+513;3;3837;Shuangfuer Rd
+513;2;3840;hua xing zheng jie
+513;3;3840;Huaxingzheng St
+513;2;3841;si sheng ci bei jie
+513;3;3841;Sishengci North St
+513;2;3842;zhong dao jie
+513;3;3842;Zhongdao St
+513;2;3843;chang cheng jin yuan
+513;3;3843;Changchengjinyuan
+513;2;3844;cheng zhi lu
+513;3;3844;Chengzhi Rd
+513;2;3845;hua guan lu
+513;3;3845;Huaguan Rd
+513;2;3846;hua han lu
+513;3;3846;Huahan Rd
+513;2;3847;hua sheng lu
+513;3;3847;Huasheng Rd
+513;2;3848;cheng hong lu
+513;3;3848;Chenghong Rd
+513;2;3849;shuang long lu
+513;3;3849;Shuanglong Rd
+513;2;3850;tai shan da dao (guo ning jie)
+513;3;3850;Taishan Blvd (Guoning St)
+513;2;3851;cheng de da dao zhi XA37
+513;3;3851;Chengde Blvd to XA37
+513;2;3853;huang jin lu dong yan xian
+513;3;3853;Huangjinludongyan Line
+513;2;3854;hong guang cun
+513;3;3854;Hongguang Village
+513;2;3855;hu zhu gong yu
+513;3;3855;Huzhugongyu
+513;2;3856;wu liu da dao
+513;3;3856;Wuliu Blvd
+513;2;3857;yun xiang gong yu
+513;3;3857;Yunxianggongyu
+513;2;3858;jin ma shou fei zhan
+513;3;3858;Jinma Tollgate
+513;2;3859;wen jiang shou fei zhan
+513;3;3859;Wenjiang Tollgate
+513;2;3860;du jiang yan xi shou fei zhan
+513;3;3860;Dujiangyan West Tollgate
+513;2;3861;tai ping shou fei zhan
+513;3;3861;Taiping Tollgate
+513;2;3862;jia guan shou fei zhan
+513;3;3862;Jiaguan Tollgate
+513;2;3863;qiong lai xi shou fei zhan
+513;3;3863;Qionglai Xi Tollgate
+513;2;3866;hong ji shang lu
+513;3;3866;Hongjishang Rd
+513;2;3867;feng huang nan da jie
+513;3;3867;Fenghuang South Ave
+513;2;3868;hua tu lu
+513;3;3868;Huatu Rd
+513;2;3871;ke xin lu
+513;3;3871;Kexin Rd
+513;2;3873;yun huo da dao
+513;3;3873;Yunhuo Blvd
+513;2;3876;hui quan xi lu
+513;3;3876;Huiquan West Rd
+513;2;3877;tong bao jie xi
+513;3;3877;Tongbao St W
+513;2;3878;si chuan da jin qi che you xian gong si
+513;3;3878;Sichuandajinqicheyouxiangongsi
+513;2;3879;cha dian zi cun
+513;3;3879;Chadianzi Village
+513;2;3884;wu ke xi si lu
+513;3;3884;Wukexisi Rd
+513;2;3885;yong shun lu
+513;3;3885;Yongshun Rd
+513;2;3886;wu yang da dao
+513;3;3886;Wuyang Blvd
+513;2;3887;dong po bei yi lu
+513;3;3887;Dongpobeiyi Rd
+513;2;3888;jiu li di dong lu
+513;3;3888;Jiulidi East Rd
+513;2;3889;shou gao lu
+513;3;3889;Shougao Rd
+513;2;3890;da wan cun
+513;3;3890;Dawan Village
+513;2;3891;er huan lu
+513;3;3891;2nd Ring Rd
+513;2;3892;ren min nan lu
+513;3;3892;Renmin South Rd
+513;2;3893;hong xing lu
+513;3;3893;Hongxing Rd
+513;2;3894;dong shan da dao
+513;3;3894;Dongshan Blvd
+513;2;3895;hua yang da dao
+513;3;3895;Huayang Blvd
+513;2;3897;hua yang da dao (tian fu da dao)
+513;3;3897;Huayang Blvd (Tianfu Blvd)
+513;2;3898;hua fu da dao
+513;3;3898;Huafu Blvd
+513;2;3899;jin hua lu
+513;3;3899;Jinhua Rd
+513;2;3900;peng wen lu
+513;3;3900;Pengwen Rd
+513;2;3901;xiang feng lu (cai hong da dao)
+513;3;3901;Xiangfeng Rd (Caihong Blvd)
+513;2;3902;guan wen lu (cai hong da dao)
+513;3;3902;Guanwen Rd (Caihong Blvd)
+513;2;3903;cai hong da dao
+513;3;3903;Caihong Blvd
+513;2;3904;ji chang lu
+513;3;3904;Jichang Rd
+513;2;3905;xue fu lu
+513;3;3905;Xuefu Rd
+513;2;3906;yin yu lu
+513;3;3906;Yinyu Rd
+513;2;3907;tian e xi hu nan lu
+513;3;3907;Tianexihu South Rd
+513;2;3908;shu du da dao
+513;3;3908;Shudu Blvd
+513;2;3909;ren min bei lu
+513;3;3909;Renmin North Rd
+513;2;3910;jie fang lu
+513;3;3910;Jiefang Rd
+513;2;3911;fu qing lu
+513;3;3911;Fuqing Rd
+513;2;3912;jian she bei lu
+513;3;3912;Jianshe North Rd
+513;2;3913;cheng hua da dao
+513;3;3913;Chenghua Blvd
+513;2;3914;xin hua da dao
+513;3;3914;Xinhua Blvd
+513;2;3916;da jian lu
+513;3;3916;Dajian Rd
+513;2;3917;huang he zhong lu
+513;3;3917;Huanghe Middle Rd
+513;2;3918;xi hang gang da dao
+513;3;3918;Xihanggang Blvd
+513;2;3919;cheng yu huan xian gao su gong lu
+513;3;3919;Chengyuhuanxian Hwy
+513;2;3920;cheng peng gao su gong lu (nan jie)
+513;3;3920;Chengpeng Hwy (Nanjie)
+513;2;3921;qing tai lu
+513;3;3921;Qingtai Rd
+513;2;3922;ying chun lu
+513;3;3922;Yingchun Rd
+513;2;3923;san qiang bei lu
+513;3;3923;Sanqiang North Rd
+513;2;3924;cu jin jia yuan
+513;3;3924;Cujinjiayuan
+513;2;3925;wu hou da dao
+513;3;3925;Wuhou Blvd
+513;2;3926;yu jia ba
+513;3;3926;Yujiaba
+513;2;3927;ren min zhong lu
+513;3;3927;Renmin Middle Rd
+513;2;3928;dong cheng gen jie
+513;3;3928;Dongchenggen St
+513;2;3929;wu hou da dao
+513;3;3929;Wuhou Blvd
+513;2;3930;rong du da dao (tian xin lu)
+513;3;3930;Rongdu Blvd (Tianxin Rd)
+513;2;3931;wu gui li jiao
+513;3;3931;Wugui Jct
+513;2;3932;jian cao jie
+513;3;3932;Jiancao St
+513;2;3933;dian shi ta lu
+513;3;3933;Dianshita Rd
+513;2;3934;tang hu nan lu
+513;3;3934;Tanghu South Rd
+513;2;3935;xi an lu
+513;3;3935;Xi'an Rd
+513;2;3936;guan jia she qu
+513;3;3936;Guanjiashequ
+513;2;3937;cao jin lu nan duan
+513;3;3937;Caojinlu'nanduan
+513;2;3938;chuan da lu
+513;3;3938;Chuandalu
+513;2;3939;chang cheng lu
+513;3;3939;Changcheng Rd
+513;2;3940;bei xin li jiao qiao
+513;3;3940;Beixin Jct
+513;2;3941;zhu yi lu
+513;3;3941;Zhuyi Rd
+513;2;3942;fu cheng da dao
+513;3;3942;Fucheng Blvd
+513;2;3943;jiao zi da dao
+513;3;3943;Jiaozi Blvd
+513;2;3944;xin gong da dao
+513;3;3944;Xingong Blvd
+513;2;3945;kai yuan nan lu
+513;3;3945;Kaiyuan South Rd
+513;2;3946;xiao xue lu
+513;3;3946;Xiaoxue Rd
+513;2;3947;hui quan bei lu
+513;3;3947;Huiquan North Rd
+513;2;3948;rong bei lu
+513;3;3948;Rongbei Rd
+513;2;3949;rong bei shang mao da dao
+513;3;3949;Rongbeishangmao Blvd
+513;2;3950;guang hua da dao
+513;3;3950;Guanghua Blvd
+513;2;3951;yi zhou da dao
+513;3;3951;Yizhou Blvd
+513;2;3952;tian fu da dao
+513;3;3952;Tianfu Blvd
+513;2;3953;nan xun da dao
+513;3;3953;Nanxun Blvd
+513;2;3954;lao ma yan
+513;3;3954;Laomayan
+513;2;3955;hua xin lu qiao
+513;3;3955;Huaxinlu Brg
+513;2;3956;guang du zhong jie
+513;3;3956;Guangdu Middle St
+513;2;3957;jin jiang lu
+513;3;3957;Jinjiang Rd
+513;2;3958;an gong lu
+513;3;3958;Angonglu
+513;2;3959;chang jiang lu
+513;3;3959;Changjiang Rd
+513;2;3960;ji chang lu fu lu
+513;3;3960;Jichang Rd Side Rd
+513;2;3961;jian nan da dao
+513;3;3961;Jiannan Blvd
+513;2;3962;lin gang lu
+513;3;3962;Lin'gang Rd
+513;2;3963;shu long da dao
+513;3;3963;Shulong Blvd
+513;2;3964;long xing da dao
+513;3;3964;Longxing Blvd
+513;2;3966;xi pu zhen li jiao qiao
+513;3;3966;Xipuzhen Jct
+513;2;3967;ran deng si
+513;3;3967;Randengsi
+513;2;3968;lin gang lu zhi cheng shuang gong lu
+513;3;3968;Lin'gang Rd to Chengshuang Hwy
+513;2;3971;rao cheng da dao nan yi duan
+513;3;3971;Raochengdadaonanyiduan
+513;2;3972;jiao chang ba zhong jie
+513;3;3972;Jiaochangba Middle St
+513;2;3973;su po xi lu
+513;3;3973;Supo West Rd
+513;2;3974;huan hua xi qiao
+513;3;3974;Huanhuaxi Brg
+513;2;3976;san huan lu nei quan su po dong lu ru kou za dao
+513;3;3976;3rd Ring Rd Inside Ring Supo East Rd Entrance Ramp
+513;2;3977;da feng zhen li jiao
+513;3;3977;Dafengzhen Jct
+513;2;3978;rong bei lu xi ce
+513;3;3978;Rongbei Rd W
+513;2;3979;cheng du rao cheng gao su gong lu nei quan rong bei lu xi ce ru kou za dao
+513;3;3979;Chengduraocheng Hwy Inside Ring Rongbei Rd W Entrance Ramp
+513;2;3980;rong bei lu dong ce
+513;3;3980;Rongbei Rd E
+513;2;3981;cheng du rao cheng gao su gong lu nei quan rong bei lu dong ce ru kou za dao
+513;3;3981;Chengduraocheng Hwy Inside Ring Rongbei Rd E Entrance Ramp
+513;2;3982;san huan lu nei quan rong bei shang mao da dao shang za dao
+513;3;3982;3rd Ring Rd Inside Ring Rongbeishangmao Blvd Entrance Ramp
+513;2;3983;yu ju an xi lu
+513;3;3983;Yuju'an West Rd
+513;2;3984;wan sheng lu
+513;3;3984;Wansheng Rd
+513;2;3985;chun xi lu
+513;3;3985;Chunxi Rd
+513;2;3987;yuan hua lu
+513;3;3987;Yuanhua Rd
+513;2;3989;shuang hua lu zhi da jian lu
+513;3;3989;Shuanghua Rd to Dajian Rd
+513;2;3990;si ma qiao
+513;3;3990;Sima Brg
+513;2;3991;tian fu da dao fu lu
+513;3;3991;Tianfu Blvd Side Rd
+513;2;3992;jin ma jie
+513;3;3992;Jinma St
+513;2;3993;pei feng dong lu
+513;3;3993;Peifeng East Rd
+513;2;3994;fu rong da dao
+513;3;3994;Furong Blvd
+513;2;3995;yi gan qi nan jie
+513;3;3995;Yiganqi South St
+513;2;3996;tang zhong lu
+513;3;3996;Tangzhong Rd
+513;2;3997;jie dai si li jiao qiao
+513;3;3997;Jiedaisi Jct
+513;2;3998;yong ning fu wu qu
+513;3;3998;Yongning Service Area
+513;2;3999;jia qing lu
+513;3;3999;Jiaqing Rd
+513;2;4000;pi hua lu
+513;3;4000;Pihua Rd
+513;2;4001;cheng mian ( fu xian ) gao su gong lu
+513;3;4001;Chengmian(fuxian) Hwy
+513;2;4002;long hu cun
+513;3;4002;Longhu Village
+513;2;4003;jin le lu
+513;3;4003;Jinle Rd
+513;2;4004;xin pu lu
+513;3;4004;Xinpu Rd
+513;2;4005;yi yuan san lu
+513;3;4005;Yiyuansan Rd
+513;2;4006;an chu lu
+513;3;4006;Anchu Rd
+513;2;4007;da xin lu
+513;3;4007;Daxin Rd
+513;2;4008;qiong lai fu wu qu
+513;3;4008;Qionglai Service Area
+513;2;4009;san huan lu wai quan jin rui lu shang za dao
+513;3;4009;3rd Ring Rd Outside Ring Jinrui Rd Entrance Ramp
+513;2;4010;san huan lu nei quan yu ren xi lu shang za dao
+513;3;4010;3rd Ring Rd Inside Ring Yuren West Rd Entrance Ramp
+513;2;4011;san huan lu wai quan jin rui lu xia za dao
+513;3;4011;3rd Ring Rd Outside Ring Jinrui Rd Exit Ramp
+513;2;4013;san huan lu jin niu ba lu shang za dao
+513;3;4013;3rd Ring Rd Jinniuba Rd Entrance Ramp
+513;2;4014;san huan lu xi hua da dao shang za dao
+513;3;4014;3rd Ring Rd Xihua Blvd Entrance Ramp
+513;2;4015;wan guan ji dian cheng fang xiang
+513;3;4015;Wanguanjidianchengfangxiang
+513;2;4016;san huan lu wai quan quan shui lu shang za dao
+513;3;4016;3rd Ring Rd Outside Ring Quanshui Rd Entrance Ramp
+513;2;4017;san huan lu nei quan rong bei shang mao da dao xia za dao
+513;3;4017;3rd Ring Rd Inside Ring Rongbeishangmao Blvd Exit Ramp
+513;2;4018;san huan lu nei quan bei xin gan dao xia za dao
+513;3;4018;3rd Ring Rd Inside Ring Beixin Belt Exit Ramp
+513;2;4019;san huan lu wai quan yong jun lu shang za dao
+513;3;4019;3rd Ring Rd Outside Ring Yongjun Rd Entrance Ramp
+513;2;4020;yong jun lu
+513;3;4020;Yongjun Rd
+513;2;4021;san huan lu wai quan bei xin da dao xia za dao
+513;3;4021;3rd Ring Rd Outside Ring Beixin Blvd Exit Ramp
+513;2;4022;san huan lu nei quan rong du da dao chu kou za dao
+513;3;4022;3rd Ring Rd Inside Ring Rongdu Blvd Exit Ramp
+513;2;4023;san huan lu wai quan wang jia yuan zi shang za dao
+513;3;4023;3rd Ring Rd Outside Ring Wangjiayuanzi Entrance Ramp
+513;2;4024;wang jia yuan zi
+513;3;4024;Wangjiayuanzi
+513;2;4025;san huan lu nei quan dong jing lu xia za dao
+513;3;4025;3rd Ring Rd Inside Ring Dongjing Rd Exit Ramp
+513;2;4026;san huan lu wai quan dong jing lu xia za dao
+513;3;4026;3rd Ring Rd Outside Ring Dongjing Rd Exit Ramp
+513;2;4027;san huan lu wai quan shu long lu shang za dao
+513;3;4027;3rd Ring Rd Outside Ring Shulong Rd Entrance Ramp
+513;2;4028;san huan lu nei quan shu long lu xia za dao
+513;3;4028;3rd Ring Rd Inside Ring Shulong Rd Exit Ramp
+513;2;4029;san huan lu wai quan shu long lu xia za dao
+513;3;4029;3rd Ring Rd Outside Ring Shulong Rd Exit Ramp
+513;2;4030;san huan lu wai quan cheng hua da dao ru kou za dao
+513;3;4030;3rd Ring Rd Outside Ring Chenghua Blvd Entrance Ramp
+513;2;4031;san huan lu wai quan cheng jin qing kuai su tong dao ru kou za dao
+513;3;4031;3rd Ring Rd Outside Ring Chengjinqing Fwy Entrance Ramp
+513;2;4032;san huan lu nei quan cheng hua da dao ru kou za dao
+513;3;4032;3rd Ring Rd Inside Ring Chenghua Blvd Entrance Ramp
+513;2;4033;san huan lu nei quan cheng hua da dao nan ce ru kou za dao
+513;3;4033;3rd Ring Rd Inside Ring Chenghua Blvd S Entrance Ramp
+513;2;4034;cheng hua da dao nan ce
+513;3;4034;Chenghua Blvd S
+513;2;4036;san huan lu wai quan cheng hua da dao chu kou za dao
+513;3;4036;3rd Ring Rd Outside Ring Chenghua Blvd Exit Ramp
+513;2;4037;san huan lu wai quan cheng jin qing kuai su tong dao chu kou za dao
+513;3;4037;3rd Ring Rd Outside Ring Chengjinqing Fwy Exit Ramp
+513;2;4038;san huan lu wai quan cheng hua da dao bei ce chu kou za dao
+513;3;4038;3rd Ring Rd Outside Ring Chenghua Blvd N Exit Ramp
+513;2;4039;cheng hua da dao bei ce
+513;3;4039;Chenghua Blvd N
+513;2;4040;san huan lu nei quan cheng hua da dao chu kou za dao
+513;3;4040;3rd Ring Rd Inside Ring Chenghua Blvd Exit Ramp
+513;2;4041;san huan lu nei quan cheng hua da dao bei chu kou za dao
+513;3;4041;3rd Ring Rd Inside Ring Chenghua Blvd N Exit Ramp
+513;2;4042;cheng hua da dao bei
+513;3;4042;Chenghua Blvd N
+513;2;4043;san huan lu nei quan cheng hua da dao zhong chu kou za dao
+513;3;4043;3rd Ring Rd Inside Ring Chenghua Blvd M Exit Ramp
+513;2;4044;cheng hua da dao zhong
+513;3;4044;Chenghua Blvd M
+513;2;4045;san huan lu nei quan cheng hua da dao nan ru kou za dao
+513;3;4045;3rd Ring Rd Inside Ring Chenghua Blvd S Entrance Ramp
+513;2;4046;cheng hua da dao nan
+513;3;4046;Chenghua Blvd S
+513;2;4047;san huan lu nei quan cheng jin qing kuai su tong dao ru kou za dao
+513;3;4047;3rd Ring Rd Inside Ring Chengjinqing Fwy Entrance Ramp
+513;2;4048;san huan lu wai quan cheng zhi lu xia za dao
+513;3;4048;3rd Ring Rd Outside Ring Chengzhi Rd Exit Ramp
+513;2;4049;lu jia da yuan
+513;3;4049;Lujiadayuan
+513;2;4050;lu jia da yuan san huan lu nei quan shang za dao
+513;3;4050;Lujiadayuan 3rd Ring Rd Inside Ring Entrance Ramp
+513;2;4051;san huan lu nei quan cheng luo da dao xia za dao
+513;3;4051;3rd Ring Rd Inside Ring Chengluo Blvd Exit Ramp
+513;2;4052;san huan lu nei quan cheng luo da dao shang za dao
+513;3;4052;3rd Ring Rd Inside Ring Chengluo Blvd Entrance Ramp
+513;2;4053;san huan lu nei quan qing yi jiang lu xia za dao
+513;3;4053;3rd Ring Rd Inside Ring Qingyijiang Rd Exit Ramp
+513;2;4054;san huan lu wai quan wan ke lu ru kou za dao
+513;3;4054;3rd Ring Rd Outside Ring Wanke Rd Entrance Ramp
+513;2;4055;san huan lu dong hong lu xia za dao
+513;3;4055;3rd Ring Rd Donghong Rd Exit Ramp
+513;2;4058;san huan lu nei quan qiong lai shan lu ru kou za dao
+513;3;4058;3rd Ring Rd Inside Ring Qionglaishan Rd Entrance Ramp
+513;2;4059;san huan lu wai quan jin jiang qu wei dang xiao xia za dao
+513;3;4059;3rd Ring Rd Outside Ring Jinjiangquweidangxiao Exit Ramp
+513;2;4060;jin jiang qu wei dang xiao
+513;3;4060;Jinjiangquweidangxiao
+513;2;4061;san huan lu nei quan ke chuang lu xia za dao
+513;3;4061;3rd Ring Rd Inside Ring Kechuang Rd Exit Ramp
+513;2;4062;ke chuang lu
+513;3;4062;Kechuang Rd
+513;2;4063;san huan lu nei quan ke chuang lu shang za dao
+513;3;4063;3rd Ring Rd Inside Ring Kechuang Rd Entrance Ramp
+513;2;4064;san huan lu wai quan ke hua nan lu shang za dao
+513;3;4064;3rd Ring Rd Outside Ring Kehua South Rd Entrance Ramp
+513;2;4065;san huan lu wai quan ke hua nan lu xia za dao
+513;3;4065;3rd Ring Rd Outside Ring Kehua South Rd Exit Ramp
+513;2;4066;san huan lu nei quan tian fu da dao chu kou za dao
+513;3;4066;3rd Ring Rd Inside Ring Tianfu Blvd Exit Ramp
+513;2;4067;tian fu da dao dong ce
+513;3;4067;Tianfu Blvd E
+513;2;4068;san huan lu nei quan tian fu da dao xi ce chu kou za dao
+513;3;4068;3rd Ring Rd Inside Ring Tianfu Blvd W Exit Ramp
+513;2;4069;tian fu da dao xi ce
+513;3;4069;Tianfu Blvd W
+513;2;4070;san huan lu nei quan tian fu da dao dong ce ru kou za dao
+513;3;4070;3rd Ring Rd Inside Ring Tianfudadao E Entrance Ramp
+513;2;4071;san huan lu nei quan tian fu da dao ru kou za dao
+513;3;4071;3rd Ring Rd Inside Ring Tianfu Blvd Entrance Ramp
+513;2;4072;san huan lu wai quan tian fu da dao xi ce ru kou za dao
+513;3;4072;3rd Ring Rd Outside Ring Tianfu Blvd W Entrance Ramp
+513;2;4073;san huan lu wai quan tian fu da dao chu kou za dao
+513;3;4073;3rd Ring Rd Outside Ring Tianfu Blvd Exit Ramp
+513;2;4074;san huan lu wai quan tian fu da dao ru kou za dao
+513;3;4074;3rd Ring Rd Outside Ring Tianfu Blvd Entrance Ramp
+513;2;4075;san huan lu nei quan tian fu da dao dong ce chu kou za dao
+513;3;4075;3rd Ring Rd Inside Ring Tianfu Blvd E Exit Ramp
+513;2;4076;san huan lu nei quan yi zhou da dao xia za dao
+513;3;4076;3rd Ring Rd Inside Ring Yizhou Blvd Exit Ramp
+513;2;4077;san huan lu nei quan yi zhou da dao shang za dao
+513;3;4077;3rd Ring Rd Inside Ring Yizhou Blvd Entrance Ramp
+513;2;4078;san huan lu wai quan yi zhou da dao xia za dao
+513;3;4078;3rd Ring Rd Outside Ring Yizhou Blvd Exit Ramp
+513;2;4079;san huan lu wai quan yi zhou da dao shang za dao
+513;3;4079;3rd Ring Rd Outside Ring Yizhou Blvd Entrance Ramp
+513;2;4080;san huan lu wai quan cheng yu huan xian gao su gong lu shang za dao
+513;3;4080;3rd Ring Rd Outside Ring Chengyuhuanxian Hwy Entrance Ramp
+513;2;4081;san huan lu wai quan cheng shuang da dao shang za dao
+513;3;4081;3rd Ring Rd Outside Ring Chengshuang Blvd Entrance Ramp
+513;2;4082;san huan lu wai quan tai ping yuan xi lu xia za dao
+513;3;4082;3rd Ring Rd Outside Ring Taipingyuan West Rd Exit Ramp
+513;2;4083;tai ping yuan xi lu
+513;3;4083;Taipingyuan West Rd
+513;2;4084;san huan lu wai quan bai cao yuan xiao xue xia za dao
+513;3;4084;3rd Ring Rd Outside Ring Baicaoyuanxiaoxue Exit Ramp
+513;2;4085;san huan lu nei quan xing shi lu shang za dao
+513;3;4085;3rd Ring Rd Inside Ring Xingshi Rd Entrance Ramp
+513;2;4086;xing shi lu
+513;3;4086;Xingshi Rd
+513;2;4087;san huan lu wai quan wu hou da dao chu kou za dao
+513;3;4087;3rd Ring Rd Outside Ring Wuhou Blvd Exit Ramp
+513;2;4088;san huan lu nei quan wu hou da dao chu kou za dao
+513;3;4088;3rd Ring Rd Inside Ring Wuhou Blvd Exit Ramp
+513;2;4089;san huan lu nei quan wu hou da dao ru kou za dao
+513;3;4089;3rd Ring Rd Inside Ring Wuhou Blvd Entrance Ramp
+513;2;4091;san huan lu wai quan wu hou da dao ru kou za dao
+513;3;4091;3rd Ring Rd Outside Ring Wuhou Blvd Entrance Ramp
+513;2;4092;san huan lu nei quan jin yang lu ru kou za dao
+513;3;4092;3rd Ring Rd Inside Ring Jinyang Rd Entrance Ramp
+513;2;4093;san huan lu wai quan pei feng dong lu ru kou za dao
+513;3;4093;3rd Ring Rd Outside Ring Peifeng East Rd Entrance Ramp
+513;2;4094;san huan lu wai quan guang hua da dao xia za dao
+513;3;4094;3rd Ring Rd Outside Ring Guanghua Blvd Exit Ramp
+513;2;4095;san huan lu wai quan su po xi lu chu kou za dao
+513;3;4095;3rd Ring Rd Outside Ring Supo West Rd Exit Ramp
+513;2;4096;san huan lu nei quan su po xi lu chu kou za dao
+513;3;4096;3rd Ring Rd Inside Ring Supo West Rd Exit Ramp
+513;2;4097;san huan lu wai quan jin hui lu shang za dao
+513;3;4097;3rd Ring Rd Outside Ring Jinhui Rd Entrance Ramp
+513;2;4098;san huan lu wai quan jin hui lu xia za dao
+513;3;4098;3rd Ring Rd Outside Ring Jinhui Rd Exit Ramp
+513;2;4099;san huan lu wai quan qing bo lu shang za dao
+513;3;4099;3rd Ring Rd Outside Ring Qingbo Rd Entrance Ramp
+513;2;4100;qing bo lu
+513;3;4100;Qingbo Rd
+513;2;4102;dong jie
+513;3;4102;Dongjie
+513;2;4103;su po li jiao
+513;3;4103;Supo Jct
+513;2;4104;fu qing lu er huan lu li jiao qiao
+513;3;4104;Fuqingluerhuanlu Junction
+513;2;4105;dong cheng gen xia jie di xia dao
+513;3;4105;Dongchenggenxiajie Tunl
+513;2;4106;bin sheng jie
+513;3;4106;Binsheng St
+513;2;4107;bei jiao chang xi lu di xia dao
+513;3;4107;Beijiaochang West Rd Tunl
+513;2;4108;wang jia tang jie
+513;3;4108;Wangjiatang St
+513;2;4109;liu yuan
+513;3;4109;Liuyuan
+513;2;4110;zhao hui lu
+513;3;4110;Zhaohui Rd
+513;2;4112;tai ping nan xin jie
+513;3;4112;Taiping South St
+513;2;4113;rao cheng da dao dong yi duan
+513;3;4113;Raochengdadaodongyiduan
+513;2;4114;liu yin lu
+513;3;4114;Liuyin Rd
+513;2;4115;liang shui jing jie
+513;3;4115;Liangshuijing St
+513;2;4116;zhong tan bao
+513;3;4116;Zhongtanbao
+513;2;4117;da yan cun
+513;3;4117;Dayan Village
+513;2;4118;zhao jia yuan zi
+513;3;4118;Zhaojiayuanzi
+513;2;4120;cheng shuang gong lu zhi ran deng si
+513;3;4120;Chengshuang Hwy to Randengsi
+513;2;4121;sui yuan hua yuan can ting
+513;3;4121;Suiyuanhuayuancanting
+513;2;4123;huang hua jie
+513;3;4123;Huanghua St
+513;2;4124;mei zhou xi lu
+513;3;4124;Meizhou West Rd

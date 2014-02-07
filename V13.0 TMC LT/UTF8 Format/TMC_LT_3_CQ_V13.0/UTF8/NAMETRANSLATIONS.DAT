@@ -1,0 +1,2203 @@
+﻿CID;LID;NID;NTRANSLATION
+493;2;1;ya zhou
+493;3;1;Asia
+493;2;2;zhong guo
+493;3;2;China
+493;2;3;chong qing
+493;3;3;Chongqing
+493;2;4;chong qing shi
+493;3;4;CHONGQING
+493;2;9;G212
+493;3;9;G212
+493;2;10;G319
+493;3;10;G319
+493;2;12;bai he lu
+493;3;12;Baihe Rd
+493;2;13;bei bin yi lu
+493;3;13;Beibinyi Rd
+493;2;14;bei qu lu
+493;3;14;Beiqu Rd
+493;2;15;cai yuan lu
+493;3;15;Caiyuan Rd
+493;2;16;cang bai lu
+493;3;16;Cangbai Rd
+493;2;20;chang jiang yi lu
+493;3;20;Changjiangyi Rd
+493;2;22;chao dong lu
+493;3;22;Chaodong Rd
+493;2;26;chuang xin da dao
+493;3;26;Chuangxin Blvd
+493;2;27;chuang ye da dao
+493;3;27;Chuangye Blvd
+493;2;29;chun hui lu
+493;3;29;Chunhui Rd
+493;2;33;da tong jie
+493;3;33;Datong St
+493;2;34;da ping zheng jie
+493;3;34;Dapingzheng St
+493;2;36;da xi gou jie
+493;3;36;Daxigou St
+493;2;37;dan hui lu
+493;3;37;Danhui Rd
+493;2;39;dan guang lu
+493;3;39;Danguang Rd
+493;2;40;dan zi shi xin jie
+493;3;40;Danzishi St
+493;2;42;e gong yan da qiao
+493;3;42;Egongyan Brg
+493;2;43;feng lin lu
+493;3;43;Fenglin Rd
+493;2;44;feng tian da dao
+493;3;44;Fengtian Blvd
+493;2;45;feng zhong lu
+493;3;45;Fengzhong Rd
+493;2;47;guang dian lu
+493;3;47;Guangdian Rd
+493;2;48;hai er lu
+493;3;48;Haier Rd
+493;2;51;han yu lu
+493;3;51;Hanyu Rd
+493;2;52;he ping lu
+493;3;52;Heping Rd
+493;2;54;hong huang lu
+493;3;54;Honghuang Rd
+493;2;55;hong jin da dao
+493;3;55;Hongjin Blvd
+493;2;57;hong shi da dao
+493;3;57;Hongshi Blvd
+493;2;58;hong shi xi lu
+493;3;58;Hongshi West Rd
+493;2;59;hong shi lu
+493;3;59;Hongshi Rd
+493;2;60;hong yan lu
+493;3;60;Hongyan Rd
+493;2;62;hua long da dao
+493;3;62;Hualong Blvd
+493;2;63;hua tang lu
+493;3;63;Huatang Rd
+493;2;66;huang hua yuan da qiao
+493;3;66;Huanghuayuan Brg
+493;2;67;huang jue ping jie
+493;3;67;Huangjueping St
+493;2;68;huang jue ping zheng jie
+493;3;68;Huangjuepingzheng St
+493;2;72;jia hua sui dao
+493;3;72;Jiahua Tunl
+493;2;74;jia ling jiang da qiao
+493;3;74;Jialingjiang Brg
+493;2;76;jian xin dong lu
+493;3;76;Jianxin East Rd
+493;2;77;jian xin nan lu
+493;3;77;Jianxin South Rd
+493;2;79;jian long bei lu
+493;3;79;Jianlong North Rd
+493;2;80;jian long lu
+493;3;80;Jianlong Rd
+493;2;81;jiang nan da dao
+493;3;81;Jiangnan Blvd
+493;2;84;jin kai da dao
+493;3;84;Jinkai Blvd
+493;2;85;jin kai da dao xi duan
+493;3;85;Jinkai Blvd West Sect
+493;2;90;jin yuan lu
+493;3;90;Jinyuan Rd
+493;2;91;jin long lu
+493;3;91;Jinlong Rd
+493;2;97;ke yuan liu lu
+493;3;97;Keyuanliu Rd
+493;2;98;ke yuan si lu
+493;3;98;Keyuansi Rd
+493;2;99;li zi ba zheng jie
+493;3;99;Lizibazheng St
+493;2;101;lin jiang zhi lu
+493;3;101;Linjiang Byp
+493;2;102;long hua da dao
+493;3;102;Longhua Blvd
+493;2;103;long quan lu
+493;3;103;Longquan Rd
+493;2;105;long teng da dao
+493;3;105;Longteng Blvd
+493;2;106;long yin lu
+493;3;106;Longyin Rd
+493;2;107;min an da dao
+493;3;107;Min'an Blvd
+493;2;108;min quan lu
+493;3;108;Minquan Rd
+493;2;109;min sheng lu
+493;3;109;Minsheng Rd
+493;2;113;nan bin lu
+493;3;113;Nanbin Rd
+493;2;115;nan ping dong lu
+493;3;115;Nanping East Rd
+493;2;116;nan ping xi lu
+493;3;116;Nanping West Rd
+493;2;126;sha ping ba zhan xi lu
+493;3;126;Shapingbazhan West Rd
+493;2;128;shang qing si lu
+493;3;128;Shangqingsi Rd
+493;2;129;shi huang sui dao
+493;3;129;Shihuang Tunl
+493;2;135;shi xin lu
+493;3;135;Shixin Rd
+493;2;143;song shi da dao
+493;3;143;Songshi Blvd
+493;2;144;tai shan da dao dong duan
+493;3;144;Taishan Blvd East Sect
+493;2;146;tian chen lu
+493;3;146;Tianchen Rd
+493;2;156;xin hua lu
+493;3;156;Xinhua Rd
+493;2;158;xin nan lu
+493;3;158;Xinnan Rd
+493;2;162;xing sheng lu
+493;3;162;Xingsheng Rd
+493;2;165;xue fu da dao
+493;3;165;Xuefu Blvd
+493;2;167;yang jia ping heng jie
+493;3;167;Yangjiaping St
+493;2;170;yu ao da dao
+493;3;170;Yuao Blvd
+493;2;175;yu nan da dao
+493;3;175;Yu'nan Blvd
+493;2;183;zhi gang da dao
+493;3;183;Zhigang Blvd
+493;2;184;zhong shan er lu
+493;3;184;Zhongshaner Rd
+493;2;190;zou rong lu
+493;3;190;Zourong Rd
+493;2;200;shi xiao lu
+493;3;200;Shixiao Rd
+493;2;203;wang xing lu
+493;3;203;Wangxing Rd
+493;2;204;xiang fu lu
+493;3;204;Xiangfu Rd
+493;2;206;jian qiao da dao
+493;3;206;Jianqiao Blvd
+493;2;211;ci tong lu
+493;3;211;Citong Rd
+493;2;224;dan long lu
+493;3;224;Danlong Rd
+493;2;225;tao yuan lu
+493;3;225;Taoyuan Rd
+493;2;226;da shi lu
+493;3;226;Dashi Rd
+493;2;227;nan hu lu
+493;3;227;Nanhu Rd
+493;2;228;pan xi lu
+493;3;228;Panxi Rd
+493;2;230;xing zhu lu
+493;3;230;Xingzhu Rd
+493;2;234;wu jian lu
+493;3;234;Wujian Rd
+493;2;236;ren min lu
+493;3;236;Renmin Rd
+493;2;238;lin jiang lu
+493;3;238;Linjiang Rd
+493;2;239;chang jiang er lu
+493;3;239;Changjianger Rd
+493;2;241;chang jiang bin jiang lu
+493;3;241;Changjiangbinjiang Rd
+493;2;245;chu qi men hang jie
+493;3;245;Chuqimenhang St
+493;2;246;jia ling jiang bin jiang lu
+493;3;246;Jialingjiangbinjiang Rd
+493;2;248;shan xi lu
+493;3;248;Shanxi Rd
+493;2;252;xie jia wan zheng jie
+493;3;252;Xiejiawanzheng St
+493;2;263;chao qian lu
+493;3;263;Chaoqian Rd
+493;2;267;ba qiao jie
+493;3;267;Baqiao St
+493;2;268;yi long lu
+493;3;268;Yilong Rd
+493;2;271;song jia gou fu wu qu
+493;3;271;Songjiagou Service Area
+493;2;276;huo ju da dao
+493;3;276;Huoju Blvd
+493;2;277;ke ji da dao
+493;3;277;Keji Blvd
+493;2;278;ke cheng lu
+493;3;278;Kecheng Rd
+493;2;279;xin qu da dao
+493;3;279;Xinqu Blvd
+493;2;280;jin qiao lu
+493;3;280;Jinqiao Rd
+493;2;285;song qing lu
+493;3;285;Songqing Rd
+493;2;286;jin xia jie
+493;3;286;Jinxia St
+493;2;287;rong hua jie
+493;3;287;Ronghua St
+493;2;288;cui yuan lu
+493;3;288;Cuiyuan Rd
+493;2;289;wen ti lu
+493;3;289;Wenti Rd
+493;2;298;gang hua lu
+493;3;298;Ganghua Rd
+493;2;301;yu zhou lu
+493;3;301;Yuzhou Rd
+493;2;302;shi you lu
+493;3;302;Shiyou Rd
+493;2;305;hai xia lu
+493;3;305;Haixia Rd
+493;2;306;jin shan lu
+493;3;306;Jinshan Rd
+493;2;310;lan hua lu
+493;3;310;Lanhua Rd
+493;2;311;shuang long lu
+493;3;311;Shuanglong Rd
+493;2;315;tao yuan yi lu
+493;3;315;Taoyuanyi Rd
+493;2;319;tu shan lu
+493;3;319;Tushan Rd
+493;2;321;wei guo lu
+493;3;321;Weiguo Rd
+493;2;328;rong qiao lu
+493;3;328;Rongqiao Rd
+493;2;332;tian ma lu
+493;3;332;Tianmalu
+493;2;339;wen xing jie
+493;3;339;Wenxing St
+493;2;340;shuang shan lu
+493;3;340;Shuangshan Rd
+493;2;341;xing long lu
+493;3;341;Xinglong Rd
+493;2;344;ming jia lu
+493;3;344;Mingjia Rd
+493;2;345;hua yuan lu
+493;3;345;Huayuan Rd
+493;2;346;yu lu da dao
+493;3;346;Yulu Blvd
+493;2;348;jin yu da dao
+493;3;348;Jinyu Blvd
+493;2;351;gang cheng nan lu
+493;3;351;Gangcheng South Rd
+493;2;352;dong liang yi lu
+493;3;352;Dongliangyi Rd
+493;2;355;shuang feng shan lu
+493;3;355;Shuangfengshan Rd
+493;2;361;xiao long kan xin jie
+493;3;361;Xiaolongkan St
+493;2;364;zhong shan yi lu
+493;3;364;Zhongshanyi Rd
+493;2;372;zi jing lu
+493;3;372;Zijing Rd
+493;2;373;huang long lu
+493;3;373;Huanglong Rd
+493;2;375;jian xin bei lu
+493;3;375;Jianxin North Rd
+493;2;376;xin gai da dao
+493;3;376;Xin'gai Blvd
+493;2;381;ying bin da dao
+493;3;381;Yingbin Blvd
+493;2;394;hua yu lu
+493;3;394;Huayu Rd
+493;2;401;tian ba zheng jie
+493;3;401;Tianbazheng St
+493;2;402;yu xian lu
+493;3;402;Yuxian Rd
+493;2;403;hua yan si lu
+493;3;403;Huayansi Rd
+493;2;412;long jiang lu
+493;3;412;Longjiang Rd
+493;2;413;tian xing lu
+493;3;413;Tianxing Rd
+493;2;414;hong guang da dao
+493;3;414;Hongguang Blvd
+493;2;415;you dian lu
+493;3;415;Youdian Rd
+493;2;416;long yin zhi lu
+493;3;416;Longyin Byp
+493;2;428;bao shi lu
+493;3;428;Baoshi Rd
+493;2;432;jian xin xi lu
+493;3;432;Jianxin West Rd
+493;2;434;jiang du yi yuan
+493;3;434;Jiangduyiyuan
+493;2;441;bei cheng tian jie
+493;3;441;Beichengtian St
+493;2;444;xing ta lu
+493;3;444;Xingta Rd
+493;2;445;wu jiang zhi lu
+493;3;445;Wujiang Byp
+493;2;446;wu hong lu
+493;3;446;Wuhong Rd
+493;2;450;li jia ping li jiao qiao
+493;3;450;Lijiaping Jct
+493;2;467;nan qu lu
+493;3;467;Nanqu Rd
+493;2;468;xiang shui qiao
+493;3;468;Xiangshui Brg
+493;2;469;kai xuan lu
+493;3;469;Kaixuan Rd
+493;2;470;ren he da dao
+493;3;470;Renhe Blvd
+493;2;471;jin fu lu
+493;3;471;Jinfu Rd
+493;2;473;long fan lu
+493;3;473;Longfan Rd
+493;2;474;tian shan da dao dong duan
+493;3;474;Tianshan Blvd East Sect
+493;2;475;xing guang da dao
+493;3;475;Xingguang Blvd
+493;2;481;nan xing lu
+493;3;481;Nanxing Rd
+493;2;491;wan xing lu
+493;3;491;Wanxing Rd
+493;2;495;xi jiao lu
+493;3;495;Xijiao Rd
+493;2;505;pan long da dao
+493;3;505;Panlong Blvd
+493;2;511;ke yuan er jie
+493;3;511;Keyuaner St
+493;2;514;ke yuan san jie
+493;3;514;Keyuansan St
+493;2;524;min zu lu
+493;3;524;Minzu Rd
+493;2;526;song pai lu
+493;3;526;Songpai Rd
+493;2;527;long shan lu
+493;3;527;Longshan Rd
+493;2;532;yu song lu
+493;3;532;Yusong Rd
+493;2;535;xie chen lu
+493;3;535;Xiechen Rd
+493;2;542;tai shan da dao zhong duan
+493;3;542;Taishan Blvd Middle Sect
+493;2;548;ye cheng hua yuan lu
+493;3;548;Yechenghuayuan Rd
+493;2;550;qing nian lu
+493;3;550;Qingnian Rd
+493;2;566;yu sui gao su gong lu
+493;3;566;Yusui Hwy
+493;2;575;yu ma lu
+493;3;575;Yuma Rd
+493;2;576;jun min lu
+493;3;576;Junmin Rd
+493;2;578;yan yu lu
+493;3;578;Yanyu Rd
+493;2;579;long men lu
+493;3;579;Longmen Rd
+493;2;584;da tian ba jie
+493;3;584;Datianba St
+493;2;587;xiang shui lu
+493;3;587;Xiangshui Rd
+493;2;589;xiao yue lu
+493;3;589;Xiaoyue Rd
+493;2;590;hai tang xi xin jie
+493;3;590;Haitangxi St
+493;2;604;shi ping qiao heng jie
+493;3;604;Shipingqiao St
+493;2;608;dong hu nan lu
+493;3;608;Donghu South Rd
+493;2;612;zhong shan san lu
+493;3;612;Zhongshansan Rd
+493;2;613;pu cao tian
+493;3;613;Pucaotian
+493;2;619;yang li lu
+493;3;619;Yangli Rd
+493;2;621;jie fang dong lu
+493;3;621;Jiefang East Rd
+493;2;632;shi yang lu
+493;3;632;Shiyang Rd
+493;2;636;shi ping qiao zheng jie
+493;3;636;Shipingqiaozheng St
+493;2;661;qian xi hua yuan
+493;3;661;Qianxi Garden
+493;2;675;nan cheng da dao
+493;3;675;Nancheng Blvd
+493;2;678;yu bei lu
+493;3;678;Yubei Rd
+493;2;679;tian li lu
+493;3;679;Tianli Rd
+493;2;690;wan feng lu
+493;3;690;Wanfeng Rd
+493;2;693;xi jiao zhi lu
+493;3;693;Xijiao Byp
+493;2;702;xing sheng da dao
+493;3;702;Xingsheng Blvd
+493;2;704;zhong xing lu
+493;3;704;Zhongxing Rd
+493;2;708;xin yi jie
+493;3;708;Xinyi St
+493;2;713;song shi zhi lu
+493;3;713;Songshi Byp
+493;2;731;hong hu dong lu
+493;3;731;Honghu East Rd
+493;2;732;huang shan da dao dong duan
+493;3;732;Huangshan Blvd East Sect
+493;2;735;er tang jie
+493;3;735;Ertang St
+493;2;738;xiang jia po
+493;3;738;Xiangjiapo
+493;2;768;G210
+493;3;768;G210
+493;2;769;long hai da dao
+493;3;769;Longhai Blvd
+493;2;771;min zhu xin jie
+493;3;771;Minzhu St
+493;2;773;ba nan da dao
+493;3;773;Ba'nan Blvd
+493;2;774;qun le lu
+493;3;774;Qunle Rd
+493;2;802;zhong shan zhi lu
+493;3;802;Zhongshan Byp
+493;2;823;shi men jie
+493;3;823;Shimen St
+493;2;824;hua fu lu
+493;3;824;Huafu Rd
+493;2;825;chang xing lu
+493;3;825;Changxing Rd
+493;2;827;shi ban po li jiao qiao
+493;3;827;Shibanpo Jct
+493;2;829;chao tian men chang tu qi che zong zhan
+493;3;829;Chaotianmenchangtuqichezongzhan
+493;2;831;cui bai lu
+493;3;831;Cuibai Rd
+493;2;832;xie jia wan li jiao qiao
+493;3;832;Xiejiawan Jct
+493;2;833;qing shui xi zhi lu
+493;3;833;Qingshuixi Byp
+493;2;839;yang he dong lu
+493;3;839;Yanghe East Rd
+493;2;841;jian jia cao
+493;3;841;Jianjiacao
+493;2;844;jie fang xi lu
+493;3;844;Jiefang West Rd
+493;2;845;tian chang lu
+493;3;845;Tianchang Rd
+493;2;849;liu jia shi pan
+493;3;849;Liujiashipan
+493;2;854;wu tong lu
+493;3;854;Wutong Rd
+493;2;857;liang ting zi
+493;3;857;Liangtingzi
+493;2;858;yang he bei lu
+493;3;858;Yanghe North Rd
+493;2;863;xing gang lu
+493;3;863;Xinggang Rd
+493;2;864;jia qin lu
+493;3;864;Jiaqin Rd
+493;2;865;jing xi lu
+493;3;865;Jingxi Rd
+493;2;868;cheng ba lu
+493;3;868;Chengba Rd
+493;2;872;lin gang da dao
+493;3;872;Lin'gang Blvd
+493;2;874;sha cao lu
+493;3;874;Shacao Rd
+493;2;875;yi wan shui
+493;3;875;Yiwanshui
+493;2;877;jin tu di
+493;3;877;Jintudi
+493;2;881;lai bai lu
+493;3;881;Laibai Rd
+493;2;883;qing bei lu
+493;3;883;Qingbei Rd
+493;2;889;gao tan yan zheng jie
+493;3;889;Gaotanyanzheng St
+493;2;890;du shi hua yuan xi lu
+493;3;890;Dushihuayuan West Rd
+493;2;891;tian xing qiao zheng jie
+493;3;891;Tianxingqiaozheng St
+493;2;894;sha zhong lu
+493;3;894;Shazhong Rd
+493;2;895;sha yang lu
+493;3;895;Shayang Rd
+493;2;898;rong long shou fei zhan
+493;3;898;Ronglong Tollgate
+493;2;899;rong chang fu wu qu
+493;3;899;Rongchang Service Area
+493;2;900;shuang long wu liu yuan qu fu wu qu
+493;3;900;Shuanglong Logistics Service Area
+493;2;902;you ting shou fei zhan
+493;3;902;Youting Tollgate
+493;2;904;yong chuan fu wu qu
+493;3;904;Yongchuan Service Area
+493;2;905;da an shou fei zhan
+493;3;905;Daan Tollgate
+493;2;906;yu long lu
+493;3;906;Yulong Rd
+493;2;907;qing gang fu wu qu
+493;3;907;Qinggang Service Area
+493;2;908;S107
+493;3;908;S107
+493;2;909;qing shan lu
+493;3;909;Qingshan Rd
+493;2;911;qian tai lu
+493;3;911;Qiantai Rd
+493;2;913;yi wan shui chu kou
+493;3;913;Yiwanshui Exit Ramp
+493;2;917;xing ke da dao
+493;3;917;Xingke Blvd
+493;2;925;song bei zhi lu
+493;3;925;Songbei Byp
+493;2;926;zhong hua lu
+493;3;926;Zhonghua Rd
+493;2;928;hui gong lu
+493;3;928;Huigong Rd
+493;2;929;wang jia shou fei zhan
+493;3;929;Wangjia Tollgate
+493;2;930;gu lu fu wu qu
+493;3;930;Gulu Service Area
+493;2;932;gao zui shou fei zhan
+493;3;932;Gaozui Tollgate
+493;2;933;da wan shou fei zhan
+493;3;933;Dawan Tollgate
+493;2;936;tuan xie lu
+493;3;936;Tuanxie Rd
+493;2;937;fu ba lu
+493;3;937;Fuba Rd
+493;2;939;da lu shou fei zhan
+493;3;939;Dalu Tollgate
+493;2;940;long tang
+493;3;940;Longtang
+493;2;941;pu lv shou fei zhan
+493;3;941;Pulv Tollgate
+493;2;942;tong he lu
+493;3;942;Tonghe Rd
+493;2;943;S205
+493;3;943;S205
+493;2;944;shuang jiang shou fei zhan
+493;3;944;Shuangjiang Tollgate
+493;2;947;shao yun shou fei zhan
+493;3;947;Shaoyun Tollgate
+493;2;951;dong yang shou fei zhan
+493;3;951;Dongyang Tollgate
+493;2;952;cao jie shou fei zhan
+493;3;952;Caojie Tollgate
+493;2;954;shang shi zi nan lu
+493;3;954;Shangshizi South Rd
+493;2;956;yun men shou fei zhan
+493;3;956;Yunmen Tollgate
+493;2;957;qian tang shou fei zhan
+493;3;957;Qiantang Tollgate
+493;2;958;han yu lu
+493;3;958;Hanyu Rd
+493;2;961;jian tuo wan shou fei zhan
+493;3;961;Jiantuowan Tollgate
+493;2;962;luo zhang lu
+493;3;962;Luozhang Rd
+493;2;966;S302
+493;3;966;S302
+493;2;967;dian jiang fu wu qu
+493;3;967;Dianjiang Service Area
+493;2;969;chang fu gao su gong lu
+493;3;969;Changfu Hwy
+493;2;973;jin tong da dao
+493;3;973;Jintong Blvd
+493;2;975;hong fan lu
+493;3;975;Hongfan Rd
+493;2;977;huang shan da dao zhong duan
+493;3;977;Huangshan Blvd Middle Sect
+493;2;978;qiao hong lu
+493;3;978;Qiaohong Rd
+493;2;982;hua hui yuan dong lu
+493;3;982;Huahuiyuan East Rd
+493;2;983;li yu chi lu
+493;3;983;Liyuchi Rd
+493;2;984;wu si lu
+493;3;984;Wusi Rd
+493;2;985;ba yi lu
+493;3;985;Bayi Rd
+493;2;986;wu yi lu
+493;3;986;Wuyi Rd
+493;2;987;xin min jie
+493;3;987;Xinmin St
+493;2;988;da tong lu
+493;3;988;Datong Rd
+493;2;989;mian hua jie
+493;3;989;Mianhua St
+493;2;990;ci qi jie
+493;3;990;Ciqi St
+493;2;991;shang xin jie
+493;3;991;Shangxin St
+493;2;992;long huang gong lu
+493;3;992;Longhuang Hwy
+493;2;993;chong wen lu
+493;3;993;Chongwen Rd
+493;2;994;qing long lu
+493;3;994;Qinglong Rd
+493;2;995;guang qian lu
+493;3;995;Guangqian Rd
+493;2;996;fu shou lu
+493;3;996;Fushou Rd
+493;2;997;nan shan lu
+493;3;997;Nanshan Rd
+493;2;998;huang ming lu
+493;3;998;Huangming Rd
+493;2;1004;cui yun jie
+493;3;1004;Cuiyun St
+493;2;1005;hu rong lu
+493;3;1005;Hurong Rd
+493;2;1006;wen ti zhi lu
+493;3;1006;Wenti Byp
+493;2;1007;sha ping ba zhan dong lu
+493;3;1007;Shapingbazhan East Rd
+493;2;1008;sha ping ba zhan bei lu
+493;3;1008;Shapingbazhan North Rd
+493;2;1011;ba xian da dao
+493;3;1011;Baxian Blvd
+493;2;1012;xia he lu
+493;3;1012;Xiahe Rd
+493;2;1013;S104
+493;3;1013;S104
+493;2;1014;jie nan jie
+493;3;1014;Jienan St
+493;2;1015;bao tong lu
+493;3;1015;Baotong Rd
+493;2;1017;kai ge lu
+493;3;1017;Kaige Rd
+493;2;1018;shuang long da dao
+493;3;1018;Shuanglong Blvd
+493;2;1020;qi wan gao su gong lu
+493;3;1020;Qiwan Hwy
+493;2;1021;jiu long da dao
+493;3;1021;Jiulong Blvd
+493;2;1022;yi pin nan lu
+493;3;1022;Yipin South Rd
+493;2;1026;S303
+493;3;1026;S303
+493;2;1027;nan ling lu
+493;3;1027;Nanling Rd
+493;2;1033;lei yuan lu
+493;3;1033;Leiyuan Rd
+493;2;1034;chang dian lu
+493;3;1034;Changdian Rd
+493;2;1035;qing shui xi cun
+493;3;1035;Qingshuixi Village
+493;2;1036;dong xi shou fei zhan
+493;3;1036;Dongxi Tollgate
+493;2;1038;an wen shou fei zhan
+493;3;1038;Anwen Tollgate
+493;2;1039;jie shi ting che qu
+493;3;1039;Jieshi Parking Area
+493;2;1042;tong hui shou fei zhan
+493;3;1042;Tonghui Tollgate
+493;2;1043;yong cheng shou fei zhan
+493;3;1043;Yongcheng Tollgate
+493;2;1044;dang xiao lu
+493;3;1044;Dangxiao Rd
+493;2;1046;yun tai shou fei zhan
+493;3;1046;Yuntai Tollgate
+493;2;1048;jin se jia yuan
+493;3;1048;Jinsejiayuan
+493;2;1051;si fang jie
+493;3;1051;Sifang St
+493;2;1060;xin qiao yi yuan (xin qiao zheng jie)
+493;3;1060;Xinqiaoyiyuan (Xinqiaozheng St)
+493;2;1064;yu qian gong lu
+493;3;1064;Yuqian Hwy
+493;2;1065;xiang yang sui dao
+493;3;1065;Xiangyang Tunl
+493;2;1080;chong qing rao cheng gao su gong lu
+493;3;1080;Chongqingraocheng Hwy
+493;2;1085;huang yang lu
+493;3;1085;Huangyang Rd
+493;2;1089;teng long da dao
+493;3;1089;Tenglong Blvd
+493;2;1102;yang jia ping zheng jie
+493;3;1102;Yangjiapingzheng St
+493;2;1109;jin long lu
+493;3;1109;Jinlong Rd
+493;2;1119;shuang hu lu
+493;3;1119;Shuanghu Rd
+493;2;1127;da shi zhi lu
+493;3;1127;Dashi Byp
+493;2;1131;hui long lu
+493;3;1131;Huilong Rd
+493;2;1132;ling long ya ju
+493;3;1132;Linglongyaju
+493;2;1133;ta shan lu
+493;3;1133;Tashan Rd
+493;2;1135;sha ping gong yuan
+493;3;1135;Shaping Park
+493;2;1141;jiang nan hua yuan
+493;3;1141;Jiangnanhuayuan
+493;2;1143;gang tie zhi lu
+493;3;1143;Gangtie Byp
+493;2;1144;xiao long kan zheng jie
+493;3;1144;Xiaolongkanzheng St
+493;2;1148;wang jia ba lu
+493;3;1148;Wangjiaba Rd
+493;2;1151;diao yu zui
+493;3;1151;Diaoyuzui
+493;2;1153;tuan shan bao fu wu qu
+493;3;1153;Tuanshanbao Service Area
+493;2;1154;shang shi zi xi lu
+493;3;1154;Shangshizi West Rd
+493;2;1158;yun long shou fei zhan
+493;3;1158;Yunlong Tollgate
+493;2;1159;da he lu
+493;3;1159;Dahe Rd
+493;2;1160;liang ping fu wu qu
+493;3;1160;Liangping Service Area
+493;2;1163;hu rong gao su gong lu
+493;3;1163;Hurong Hwy
+493;2;1166;jian he lu
+493;3;1166;Jianhe Rd
+493;2;1168;S304
+493;3;1168;S304
+493;2;1169;S203
+493;3;1169;S203
+493;2;1170;xin li jie
+493;3;1170;Xinli St
+493;2;1171;xin li fu wu qu
+493;3;1171;Xinli Service Area
+493;2;1172;chao yang lu
+493;3;1172;Chaoyang Rd
+493;2;1173;S103
+493;3;1173;S103
+493;2;1174;hu cheng da dao
+493;3;1174;Hucheng Blvd
+493;2;1175;tang fang da dao
+493;3;1175;Tangfang Blvd
+493;2;1176;wan zhou fu wu qu
+493;3;1176;Wanzhou Service Area
+493;2;1177;wan kai gao su gong lu
+493;3;1177;Wankai Hwy
+493;2;1179;zhong yuan cun
+493;3;1179;Zhongyuan Village
+493;2;1180;S202
+493;3;1180;S202
+493;2;1181;nan shan zhong lu
+493;3;1181;Nanshan Middle Rd
+493;2;1182;ying hua lu
+493;3;1182;Yinghua Rd
+493;2;1183;jin tang jie
+493;3;1183;Jintang St
+493;2;1191;juan dong qiao
+493;3;1191;Juandong Brg
+493;2;1193;song qing lu zhi cui bai lu
+493;3;1193;Songqing Rd to Cuibai Rd
+493;2;1194;feng xiang lu
+493;3;1194;Fengxiang Rd
+493;2;1201;gang hua zhi lu
+493;3;1201;Ganghua Byp
+493;2;1203;yun hu lu
+493;3;1203;Yunhu Rd
+493;2;1204;mu lan lu
+493;3;1204;Mulan Rd
+493;2;1205;lan mei lu
+493;3;1205;Lanmei Rd
+493;2;1206;lan hua wu xiao qu
+493;3;1206;Lanhuawu Community
+493;2;1212;sha ping ba nan jie
+493;3;1212;Shapingba South St
+493;2;1213;jin gang da sha
+493;3;1213;Jingangdasha
+493;2;1215;sha ping ba bei jie
+493;3;1215;Shapingba North St
+493;2;1216;lao dong lu
+493;3;1216;Laodong Rd
+493;2;1219;jiao yuan lu
+493;3;1219;Jiaoyuan Rd
+493;2;1222;jin sha zheng jie
+493;3;1222;Jinshazheng St
+493;2;1223;ye jin lu
+493;3;1223;Yejin Rd
+493;2;1224;qian ye lu
+493;3;1224;Qianye Rd
+493;2;1226;chong qing qi shi jiu zhong
+493;3;1226;Chongqing Qishi Jiuzhong
+493;2;1227;xi zi lu
+493;3;1227;Xizi Rd
+493;2;1230;run an da sha
+493;3;1230;Runandasha
+493;2;1233;ke yuan er lu
+493;3;1233;Keyuaner Rd
+493;2;1237;ke yuan san lu
+493;3;1237;Keyuansan Rd
+493;2;1238;yi xue yuan lu
+493;3;1238;Yixueyuan Rd
+493;2;1239;you yi lu
+493;3;1239;Youyi Rd
+493;2;1240;ao ti lu
+493;3;1240;Aoti Rd
+493;2;1241;ma wang ping zheng jie
+493;3;1241;Mawangpingzheng St
+493;2;1242;li jia tuo zheng jie
+493;3;1242;Lijiatuozheng St
+493;2;1243;hui long lu
+493;3;1243;Huilong Rd
+493;2;1249;lan hu tian
+493;3;1249;Lanhutian
+493;2;1251;qing long lu zhi bai he lu
+493;3;1251;Qinglong Rd to Baihe Rd
+493;2;1253;wan shou lu
+493;3;1253;Wanshou Rd
+493;2;1254;hong sheng lu
+493;3;1254;Hongsheng Rd
+493;2;1255;zhong ye bin guan
+493;3;1255;Zhongyebinguan
+493;2;1260;jiang jia xiang
+493;3;1260;Jiangjia Ln
+493;2;1263;da wan
+493;3;1263;Dawan
+493;2;1266;wu jiang lu
+493;3;1266;Wujiang Rd
+493;2;1268;wu li dian li jiao qiao
+493;3;1268;Wulidian Jct
+493;2;1269;guan yin qiao xi huan lu
+493;3;1269;Guanyinqiao West Ring
+493;2;1270;jian bei er zhi lu
+493;3;1270;Jianbeier Byp
+493;2;1271;guan yin qiao dong huan lu
+493;3;1271;Guanyinqiao East Ring
+493;2;1273;jian bei yi zhi lu
+493;3;1273;Jianbeiyi Byp
+493;2;1275;xing long lu
+493;3;1275;Xinglong Rd
+493;2;1276;yang he yi lu
+493;3;1276;Yangheyi Rd
+493;2;1277;tian lun hai yuan
+493;3;1277;Tianlunhaiyuan
+493;2;1281;yang he ti yu chang
+493;3;1281;Yanghe Stadium
+493;2;1284;zi yuan lu
+493;3;1284;Ziyuan Rd
+493;2;1285;lv se kong jian
+493;3;1285;Lvsekongjian
+493;2;1286;qing feng nan lu
+493;3;1286;Qingfeng South Rd
+493;2;1287;hong hu xi lu
+493;3;1287;Honghu West Rd
+493;2;1290;long hu dong lu
+493;3;1290;Longhu East Rd
+493;2;1291;yun shan nan lu
+493;3;1291;Yunshan South Rd
+493;2;1292;yun shan bei lu
+493;3;1292;Yunshan North Rd
+493;2;1293;xing hu lu
+493;3;1293;Xinghu Rd
+493;2;1297;ding xiang lu
+493;3;1297;Dingxiang Rd
+493;2;1298;kun lun da dao
+493;3;1298;Kunlun Blvd
+493;2;1299;chong qing bei zhan
+493;3;1299;Chongqing North Train Station
+493;2;1300;da fang zi
+493;3;1300;Dafangzi
+493;2;1301;tai shan da dao zhong duan zhi kun lun da dao
+493;3;1301;Taishan Blvd Middle Sect to Kunlun Blvd
+493;2;1304;qun hui lu
+493;3;1304;Qunhui Rd
+493;2;1305;lan xin da dao
+493;3;1305;Lanxin Blvd
+493;2;1306;sheng li lu
+493;3;1306;Shengli Rd
+493;2;1307;yi xue lu
+493;3;1307;Yixue Rd
+493;2;1308;yu hang lu
+493;3;1308;Yuhang Rd
+493;2;1309;shuang feng lu
+493;3;1309;Shuangfeng Rd
+493;2;1310;hu bin dong lu
+493;3;1310;Hubin East Rd
+493;2;1311;lv cheng da dao
+493;3;1311;Lvcheng Blvd
+493;2;1312;mao he cun
+493;3;1312;Maohe Village
+493;2;1313;hua fu gong lu
+493;3;1313;Huafu Hwy
+493;2;1316;jin yi lu
+493;3;1316;Jinyi Rd
+493;2;1317;nong ke da dao
+493;3;1317;Nongke Blvd
+493;2;1318;yi mao jie
+493;3;1318;Yimao St
+493;2;1320;bai shi yi zheng jie
+493;3;1320;Baishiyizheng St
+493;2;1321;bai long lu
+493;3;1321;Bailong Rd
+493;2;1322;tian ci lu
+493;3;1322;Tianci Rd
+493;2;1324;long hua lu
+493;3;1324;Longhua Rd
+493;2;1325;xi yuan er lu
+493;3;1325;Xiyuaner Rd
+493;2;1326;xi yong da dao
+493;3;1326;Xiyong Blvd
+493;2;1331;di shui cun
+493;3;1331;Dishui Village
+493;2;1333;han long lu
+493;3;1333;Hanlong Rd
+493;2;1334;jian wei lu
+493;3;1334;Jianwei Rd
+493;2;1335;hai han lu
+493;3;1335;Haihan Rd
+493;2;1336;jin feng zhen zheng fu
+493;3;1336;Jinfeng Town Government
+493;2;1339;xi peng shou fei zhan
+493;3;1339;Xipeng Tollgate
+493;2;1340;shuang fu shou fei zhan
+493;3;1340;Shuangfu Tollgate
+493;2;1341;zeng jia shou fei zhan
+493;3;1341;Zengjia Tollgate
+493;2;1345;gong mao da sha
+493;3;1345;Gongmaodasha
+493;2;1346;lan jia wan
+493;3;1346;Lanjiawan
+493;2;1350;G319 (xin qiao zheng jie)
+493;3;1350;G319 (Xinqiaozheng St)
+493;2;1351;shuang fu
+493;3;1351;Shuangfu
+493;2;1352;chong qing rao cheng gao su gong lu dong ce shuang fu chu kou za dao
+493;3;1352;Chongqingraocheng Hwy E Shuangfu Exit Ramp
+493;2;1353;chong qing rao cheng gao su gong lu dong ce
+493;3;1353;Chongqingraocheng Hwy E
+493;2;1354;chong qing rao cheng gao su gong lu shuang fu chu kou za dao
+493;3;1354;Chongqingraocheng Hwy Shuangfu Exit Ramp
+493;2;1355;chong qing rao cheng gao su gong lu xi ce shuang fu chu kou za dao
+493;3;1355;Chongqingraocheng Hwy W Shuangfu Exit Ramp
+493;2;1356;chong qing rao cheng gao su gong lu xi ce
+493;3;1356;Chongqingraocheng Hwy W
+493;2;1357;chong qing rao cheng gao su gong lu shuang fu ru kou za dao
+493;3;1357;Chongqingraocheng Hwy Shuangfu Entrance Ramp
+493;2;1358;chong qing rao cheng gao su gong lu dong ce shuang fu ru kou za dao
+493;3;1358;Chongqingraocheng Hwy E Shuangfu Entrance Ramp
+493;2;1359;chong qing rao cheng gao su gong lu xi ce shuang fu ru kou za dao
+493;3;1359;Chongqingraocheng Hwy W Shuangfu Entrance Ramp
+493;2;1360;chong qing rao cheng gao su gong lu dong ce han long lu chu kou za dao
+493;3;1360;Chongqingraocheng Hwy E Hanlong Rd Exit Ramp
+493;2;1361;chong qing rao cheng gao su gong lu han long lu chu kou za dao
+493;3;1361;Chongqingraocheng Hwy Hanlong Rd Exit Ramp
+493;2;1362;chong qing rao cheng gao su gong lu xi ce han long lu chu kou za dao
+493;3;1362;Chongqingraocheng Hwy W Hanlong Rd Exit Ramp
+493;2;1363;chong qing rao cheng gao su gong lu han long lu ru kou za dao
+493;3;1363;Chongqingraocheng Hwy Hanlong Rd Entrance Ramp
+493;2;1364;chong qing rao cheng gao su gong lu dong ce han long lu ru kou za dao
+493;3;1364;Chongqingraocheng Hwy E Hanlong Rd Entrance Ramp
+493;2;1365;chong qing rao cheng gao su gong lu xi ce han long lu ru kou za dao
+493;3;1365;Chongqingraocheng Hwy W Hanlong Rd Entrance Ramp
+493;2;1366;da xue cheng
+493;3;1366;Daxuecheng
+493;2;1367;chong qing rao cheng gao su gong lu dong ce da xue cheng chu kou za dao
+493;3;1367;Chongqingraocheng Hwy E Daxuecheng Exit Ramp
+493;2;1368;chong qing rao cheng gao su gong lu da xue cheng chu kou za dao
+493;3;1368;Chongqingraocheng Hwy Daxuecheng Exit Ramp
+493;2;1369;chong qing rao cheng gao su gong lu xi ce da xue cheng chu kou za dao
+493;3;1369;Chongqingraocheng Hwy W Daxuecheng Exit Ramp
+493;2;1370;chong qing rao cheng gao su gong lu xi ce da xue cheng ru kou za dao
+493;3;1370;Chongqingraocheng Hwy W Daxuecheng Entrance Ramp
+493;2;1371;chong qing rao cheng gao su gong lu da xue cheng ru kou za dao
+493;3;1371;Chongqingraocheng Hwy Daxuecheng Entrance Ramp
+493;2;1372;chong qing rao cheng gao su gong lu dong ce da xue cheng ru kou za dao
+493;3;1372;Chongqingraocheng Hwy E Daxuecheng Entrance Ramp
+493;2;1373;chong qing rao cheng gao su gong lu xi ce G319 chu kou za dao
+493;3;1373;Chongqingraocheng Hwy W G319 Exit Ramp
+493;2;1374;chong qing rao cheng gao su gong lu G319 chu kou za dao
+493;3;1374;Chongqingraocheng Hwy G319 Exit Ramp
+493;2;1377;chong qing rao cheng gao su gong lu G319 ru kou za dao
+493;3;1377;Chongqingraocheng Hwy G319 Entrance Ramp
+493;2;1378;chong qing rao cheng gao su gong lu dong ce G319 ru kou za dao
+493;3;1378;Chongqingraocheng Hwy E G319 Entrance Ramp
+493;2;1379;chong qing rao cheng gao su gong lu xi ce G319 ru kou za dao
+493;3;1379;Chongqingraocheng Hwy W G319 Entrance Ramp
+493;2;1380;chong qing rao cheng gao su gong lu xi ce qing bei lu chu kou za dao
+493;3;1380;Chongqingraocheng Hwy W Qingbei Rd Exit Ramp
+493;2;1381;chong qing rao cheng gao su gong lu qing bei lu chu kou za dao
+493;3;1381;Chongqingraocheng Hwy Qingbei Rd Exit Ramp
+493;2;1382;chong qing rao cheng gao su gong lu dong ce qing bei lu chu kou za dao
+493;3;1382;Chongqingraocheng Hwy E Qingbei Rd Exit Ramp
+493;2;1383;chong qing rao cheng gao su gong lu qing bei lu ru kou za dao
+493;3;1383;Chongqingraocheng Hwy Qingbei Rd Entrance Ramp
+493;2;1384;chong qing rao cheng gao su gong lu dong ce qing bei lu ru kou za dao
+493;3;1384;Chongqingraocheng Hwy E Qingbei Rd Entrance Ramp
+493;2;1385;chong qing rao cheng gao su gong lu xi ce qing bei lu ru kou za dao
+493;3;1385;Chongqingraocheng Hwy W Qingbei Rd Entrance Ramp
+493;2;1390;chong qing rao cheng gao su gong lu dong ce G319 chu kou za dao
+493;3;1390;Chongqingraocheng Hwy E G319 Exit Ramp
+493;2;1392;zhong tian yang guang mei di
+493;3;1392;Zhongtianyangguangmeidi
+493;2;1393;yang he hua yuan
+493;3;1393;Yanghe Garden
+493;2;1397;hua yuan cun
+493;3;1397;Huayuan Village
+493;2;1405;X357
+493;3;1405;X357
+493;2;1406;cao jia wan (shang shi zi xi lu)
+493;3;1406;Caojiawan (Shangshizi West Rd)
+493;2;1410;long men jie (ying bin lu)
+493;3;1410;Longmen St (Yingbin Rd)
+493;2;1411;tao da lu
+493;3;1411;Taoda Rd
+493;2;1413;chong qing rao cheng gao su gong lu G319 nan chu ru kou za dao
+493;3;1413;Chongqingraocheng Hwy G319 S Exit and Entrance Ramp
+493;2;1414;G319 nan
+493;3;1414;G319 S
+493;2;1415;chong qing rao cheng gao su gong lu G319 bei chu ru kou za dao
+493;3;1415;Chongqingraocheng Hwy G319 N Exit and Entrance Ramp
+493;2;1416;G319 bei
+493;3;1416;G319 N
+493;2;1417;hua cheng lu
+493;3;1417;Huacheng Rd
+493;2;1418;rong chang da dao dong duan
+493;3;1418;Rongchang Blvd East Sect
+493;2;1424;jiu long po qu e gong yan xiao xue xiao
+493;3;1424;Jiulongpoquegongyanxiaoxuexiao
+493;2;1425;jin xing da dao
+493;3;1425;Jinxing Blvd
+493;2;1426;chang fu xi lu
+493;3;1426;Changfu West Rd
+493;2;1427;gao yan lu
+493;3;1427;Gaoyan Rd
+493;2;1428;ming xiao lian he wai yu xiao xue
+493;3;1428;Mingxiaolianhewaiyuxiaoxue
+493;2;1429;zhong guo shi ba ye kan cha she ji yuan
+493;3;1429;Zhongguoshibayekanchashejiyuan
+493;2;1430;pan long shan
+493;3;1430;Panlongshan
+493;2;1431;hu tou yan sui dao
+493;3;1431;Hutouyan Tunl
+493;2;1433;tong xing bei lu
+493;3;1433;Tongxing North Rd
+493;2;1440;ji chang kuai su lu nan ce
+493;3;1440;Jichang Expy S
+493;2;1451;jin yu da dao xi ce
+493;3;1451;Jinyu Blvd W
+493;2;1454;jin yu da dao dong ce
+493;3;1454;Jinyu Blvd E
+493;2;1464;bao shi lu xi ce
+493;3;1464;Baoshi Rd W
+493;2;1466;bao shi lu nan ce
+493;3;1466;Baoshi Rd S
+493;2;1469;bao shi lu bei ce
+493;3;1469;Baoshi Rd N
+493;2;1471;bao shi lu dong ce
+493;3;1471;Baoshi Rd E
+493;2;1478;fu zhuang cheng da dao bei ce
+493;3;1478;Fuzhuangcheng Blvd N
+493;2;1481;bao sheng dong lu bei ce
+493;3;1481;Baosheng East Rd N
+493;2;1483;fu zhuang cheng da dao
+493;3;1483;Fuzhuangcheng Blvd
+493;2;1486;fu zhuang cheng da dao xi ce
+493;3;1486;Fuzhuangcheng Blvd W
+493;2;1488;bao sheng dong lu nan ce
+493;3;1488;Baosheng East Rd S
+493;2;1491;hong sha gou fang xiang
+493;3;1491;Hongshagoufangxiang
+493;2;1498;ji chang kuai su lu xi ce kai ge lu shang za dao
+493;3;1498;Jichang Expy W Kaige Rd Entrance Ramp
+493;2;1500;jiang bei ji chang
+493;3;1500;Chongqing Jiangbei Int'l Airport
+493;2;1502;bin gang lu
+493;3;1502;Bin'gang Rd
+493;2;1528;ba jiao yuan
+493;3;1528;Bajiaoyuan
+493;2;1530;S106
+493;3;1530;S106
+493;2;1531;cheng yu huan xian gao su gong lu
+493;3;1531;Chengyuhuanxian Hwy
+493;2;1534;chong qing rao cheng gao su gong lu xi duan
+493;3;1534;Chongqingraocheng Hwy West Sect
+493;2;1535;chong qing rao cheng gao su gong lu nan duan
+493;3;1535;Chongqingraocheng Hwy South Sect
+493;2;1536;chong qing rao cheng gao su gong lu bei duan
+493;3;1536;Chongqingraocheng Hwy North Sect
+493;2;1537;chong qing rao cheng gao su gong lu dong duan
+493;3;1537;Chongqingraocheng Hwy East Sect
+493;2;1540;nei huan kuai su lu
+493;3;1540;Inner Ring Expy
+493;2;1541;nei huan kuai su lu nan duan
+493;3;1541;Inner Ring Expy South Sect
+493;2;1542;nei huan kuai su lu xi duan
+493;3;1542;Inner Ring Expy West Sect
+493;2;1543;nei huan kuai su lu bei duan
+493;3;1543;Inner Ring Expy North Sect
+493;2;1544;nei huan kuai su lu dong duan
+493;3;1544;Inner Ring Expy East Sect
+493;2;1548;yi da qiu
+493;3;1548;Yidaqiu
+493;2;1549;nei huan kuai su lu wai quan gang hua lu chu kou za dao
+493;3;1549;Inner Ring Expy Outside Ring Ganghua Rd Exit Ramp
+493;2;1550;nei huan kuai su lu wai quan gang hua lu ru kou za dao
+493;3;1550;Inner Ring Expy Outside Ring Ganghua Rd Entrance Ramp
+493;2;1551;nei huan kuai su lu wai quan
+493;3;1551;Inner Ring Expy Outside Ring
+493;2;1553;nei huan kuai su lu gang hua lu chu kou za dao
+493;3;1553;Inner Ring Expy Ganghua Rd Exit Ramp
+493;2;1554;nei huan kuai su lu gang hua lu ru kou za dao
+493;3;1554;Inner Ring Expy Ganghua Rd Entrance Ramp
+493;2;1555;nei huan kuai su lu nei quan gang hua lu ru kou za dao
+493;3;1555;Inner Ring Expy Inside Ring Ganghua Rd Entrance Ramp
+493;2;1556;nei huan kuai su lu nei quan
+493;3;1556;Inner Ring Expy Inside Ring
+493;2;1557;nei huan kuai su lu nei quan gang hua lu chu kou za dao
+493;3;1557;Inner Ring Expy Inside Ring Ganghua Rd Exit Ramp
+493;2;1559;nei huan kuai su lu hua yu lu ru kou za dao
+493;3;1559;Inner Ring Expy Huayu Rd Entrance Ramp
+493;2;1560;nei huan kuai su lu hua yu lu chu kou za dao
+493;3;1560;Inner Ring Expy Huayu Rd Exit Ramp
+493;2;1561;nei huan kuai su lu wai quan hua yu lu chu kou za dao
+493;3;1561;Inner Ring Expy Outside Ring Huayu Rd Exit Ramp
+493;2;1562;nei huan kuai su lu wai quan hua yu lu ru kou za dao
+493;3;1562;Inner Ring Expy Outside Ring Huayu Rd Entrance Ramp
+493;2;1563;nei huan kuai su lu nei quan hua yu lu ru kou za dao
+493;3;1563;Inner Ring Expy Outside Ring Huayu Rd Exit Ramp
+493;2;1567;nei huan kuai su lu G212 ru kou za dao
+493;3;1567;Inner Ring Expy G212 Entrance Ramp
+493;2;1568;nei huan kuai su lu G212 chu kou za dao
+493;3;1568;Inner Ring Expy G212 Exit Ramp
+493;2;1569;nei huan kuai su lu yu bei lu chu kou za dao
+493;3;1569;Inner Ring Expy Yubei Rd Exit Ramp
+493;2;1572;nei huan kuai su lu ren he da dao ru kou za dao
+493;3;1572;Inner Ring Expy Renhe Blvd Entrance Ramp
+493;2;1574;nei huan kuai su lu wai quan ren he da dao ru kou za dao
+493;3;1574;Inner Ring Expy Outside Ring Renhe Blvd Entrance Ramp
+493;2;1575;ji chang kuai su lu
+493;3;1575;Jichang Expy
+493;2;1576;nei huan kuai su lu ji chang kuai su lu chu kou za dao
+493;3;1576;Inner Ring Expy Jichang Expy Exit Ramp
+493;2;1586;hu yu gao su gong lu
+493;3;1586;Huyu Hwy
+493;2;1587;nei huan kuai su lu hu yu gao su gong lu ru kou za dao
+493;3;1587;Inner Ring Expy Huyu Hwy Entrance Ramp
+493;2;1588;nei huan kuai su lu hu yu gao su gong lu chu kou za dao
+493;3;1588;Inner Ring Expy Huyu Hwy Exit Ramp
+493;2;1591;nei huan kuai su lu ji chang kuai su lu nan ce chu kou za dao
+493;3;1591;Inner Ring Expy Jichang Expy S Exit Ramp
+493;2;1592;nei huan kuai su lu nei quan ji chang kuai su lu nan ce chu kou za dao
+493;3;1592;Inner Ring Expy Inside Ring Jichang Expy S Exit Ramp
+493;2;1595;bao sheng sui dao
+493;3;1595;Baosheng Tunl
+493;2;1598;ji chang kuai su lu xi ce
+493;3;1598;Jichang Expy W
+493;2;1601;bao sheng sui dao nan ce
+493;3;1601;Baosheng Tunl S
+493;2;1603;nei huan kuai su lu yu lu da dao ru kou za dao
+493;3;1603;Inner Ring Expy Yulu Blvd Entrance Ramp
+493;2;1604;nei huan kuai su lu hai er lu chu kou za dao
+493;3;1604;Inner Ring Expy Haier Rd Exit Ramp
+493;2;1605;nei huan kuai su lu wai quan hai er lu chu kou za dao
+493;3;1605;Inner Ring Expy Outside Ring Haier Rd Exit Ramp
+493;2;1606;nei huan kuai su lu nei quan hai er lu chu kou za dao
+493;3;1606;Inner Ring Expy Inside Ring Haier Rd Exit Ramp
+493;2;1607;nei huan kuai su lu hai er lu ru kou za dao
+493;3;1607;Inner Ring Expy Haier Rd Entrance Ramp
+493;2;1608;nei huan kuai su lu nei quan hai er lu ru kou za dao
+493;3;1608;Inner Ring Expy Inside Ring Haier Rd Entrance Ramp
+493;2;1609;nei huan kuai su lu wai quan hai er lu ru kou za dao
+493;3;1609;Inner Ring Expy Outside Ring Haier Rd Entrance Ramp
+493;2;1610;nei huan kuai su lu dan guang lu ru kou za dao
+493;3;1610;Inner Ring Expy Danguang Rd Entrance Ramp
+493;2;1611;nei huan kuai su lu wai quan dan guang lu ru kou za dao
+493;3;1611;Inner Ring Expy Outside Ring Danguang Rd Entrance Ramp
+493;2;1613;nei huan kuai su lu nei quan dan guang lu chu kou za dao
+493;3;1613;Inner Ring Expy Inside Ring Danguang Rd Exit Ramp
+493;2;1615;nei huan kuai su lu nei quan dan guang lu ru kou za dao
+493;3;1615;Inner Ring Expy Inside Ring Danguang Rd Entrance Ramp
+493;2;1616;nei huan kuai su lu dan guang lu chu ru kou za dao
+493;3;1616;Inner Ring Expy Danguang Rd Exit and Entrance Ramp
+493;2;1617;nei huan kuai su lu wai quan dan guang lu chu ru kou za dao
+493;3;1617;Inner Ring Expy Outside Ring Danguang Rd Exit and Entrance Ramp
+493;2;1618;nei huan kuai su lu nei wai quan
+493;3;1618;Inner Ring Expy Inside and Outside Ring
+493;2;1619;nei huan kuai su lu nei wai quan dan guang lu chu ru kou za dao
+493;3;1619;Inner Ring Expy Inside and Outside Ring Danguang Rd Exit and Entrance Ramp
+493;2;1620;dan guang lu nan ce
+493;3;1620;Danguang Rd S
+493;2;1621;nei huan kuai su lu dan guang lu nan ce chu kou za dao
+493;3;1621;Inner Ring Expy Danguang Rd S Exit Ramp
+493;2;1622;nei huan kuai su lu nei quan long huang gong lu ru kou za dao
+493;3;1622;Inner Ring Expy Inside Ring Longhuang Hwy Entrance Ramp
+493;2;1623;nei huan kuai su lu wai quan long huang gong lu ru kou za dao
+493;3;1623;Inner Ring Expy Outside Ring Longhuang Hwy Entrance Ramp
+493;2;1624;nei huan kuai su lu long huang gong lu ru kou za dao
+493;3;1624;Inner Ring Expy Longhuang Hwy Entrance Ramp
+493;2;1625;long huang gong lu nan ce
+493;3;1625;Longhuang Hwy S
+493;2;1626;nei huan kuai su lu long huang gong lu nan ce ru kou za dao
+493;3;1626;Inner Ring Expy Longhuang Hwy S Entrance Ramp
+493;2;1627;long huang gong lu bei ce
+493;3;1627;Longhuang Hwy N
+493;2;1628;nei huan kuai su lu long huang gong lu bei ce ru kou za dao
+493;3;1628;Inner Ring Expy Longhuang Hwy N Entrance Ramp
+493;2;1629;nei huan kuai su lu wai quan long huang gong lu chu kou za dao
+493;3;1629;Inner Ring Expy Outside Ring Longhuang Hwy Exit Ramp
+493;2;1630;nei huan kuai su lu nei quan long huang gong lu chu kou za dao
+493;3;1630;Inner Ring Expy Inside Ring Longhuang Hwy Exit Ramp
+493;2;1631;nei huan kuai su lu long huang gong lu chu kou za dao
+493;3;1631;Inner Ring Expy Longhuang Hwy Exit Ramp
+493;2;1632;nei huan kuai su lu long huang gong lu bei ce chu kou za dao
+493;3;1632;Inner Ring Expy Longhuang Hwy N Exit Ramp
+493;2;1633;nei huan kuai su lu long huang gong lu nan ce chu kou za dao
+493;3;1633;Inner Ring Expy Longhuang Hwy S Exit Ramp
+493;2;1634;nei huan kuai su lu hai xia lu ru kou za dao
+493;3;1634;Inner Ring Expy Haixia Rd Entrance Ramp
+493;2;1635;nei huan kuai su lu nei quan hai xia lu ru kou za dao
+493;3;1635;Inner Ring Expy Inside Ring Haixia Rd Entrance Ramp
+493;2;1636;nei huan kuai su lu wai quan hai xia lu ru kou za dao
+493;3;1636;Inner Ring Expy Outside Ring Haixia Rd Entrance Ramp
+493;2;1637;nei huan kuai su lu nei quan hai xia lu chu kou za dao
+493;3;1637;Inner Ring Expy Inside Ring Haixia Rd Exit Ramp
+493;2;1638;nei huan kuai su lu wai quan hai xia lu chu kou za dao
+493;3;1638;Inner Ring Expy Outside Ring Haixia Rd Exit Ramp
+493;2;1639;nei huan kuai su lu hai xia lu chu kou za dao
+493;3;1639;Inner Ring Expy Haixia Rd Exit Ramp
+493;2;1643;tang jia gou
+493;3;1643;Tangjiagou
+493;2;1644;nei huan kuai su lu tang jia gou chu kou za dao
+493;3;1644;Inner Ring Expy Tangjiagou Exit Ramp
+493;2;1645;nei huan kuai su lu tang jia gou ru kou za dao
+493;3;1645;Inner Ring Expy Tangjiagou Entrance Ramp
+493;2;1647;nei huan kuai su lu wai quan jun min lu chu kou za dao
+493;3;1647;Inner Ring Expy Outside Ring Junmin Rd Exit Ramp
+493;2;1648;nei huan kuai su lu nei quan jun min lu chu kou za dao
+493;3;1648;Inner Ring Expy Inside Ring Junmin Rd Exit Ramp
+493;2;1649;nei huan kuai su lu jun min lu chu kou za dao
+493;3;1649;Inner Ring Expy Junmin Rd Exit Ramp
+493;2;1650;nei huan kuai su lu nei quan jun min lu ru kou za dao
+493;3;1650;Inner Ring Expy Inside Ring Junmin Rd Entrance Ramp
+493;2;1651;nei huan kuai su lu wai quan jun min lu ru kou za dao
+493;3;1651;Inner Ring Expy Outside Ring Junmin Rd Entrance Ramp
+493;2;1652;nei huan kuai su lu jun min lu ru kou za dao
+493;3;1652;Inner Ring Expy Junmin Rd Entrance Ramp
+493;2;1653;fu cheng lu
+493;3;1653;Fucheng Rd
+493;2;1654;nei huan kuai su lu fu cheng lu chu kou za dao
+493;3;1654;Inner Ring Expy Fucheng Rd Exit Ramp
+493;2;1655;nei huan kuai su lu fu cheng lu ru kou za dao
+493;3;1655;Inner Ring Expy Fucheng Rd Entrance Ramp
+493;2;1656;nei huan kuai su lu nei quan zhi nei huan kuai su lu wai quan diao tou za dao
+493;3;1656;Inner Ring Expy Inside Ring to Inner Ring Expy Outside Ring Diaotou Ramp
+493;2;1659;hua yu lu xi ce
+493;3;1659;Huayu Rd W
+493;2;1660;nei huan kuai su lu hua yu lu xi ce chu kou za dao
+493;3;1660;Inner Ring Expy Huayu Rd W Exit Ramp
+493;2;1661;nei huan kuai su lu nei quan yu nan da dao chu kou za dao
+493;3;1661;Inner Ring Expy Inside Ring Yunan Blvd Exit Ramp
+493;2;1662;nei huan kuai su lu yu nan da dao chu kou za dao
+493;3;1662;Inner Ring Expy Yunan Blvd Exit Ramp
+493;2;1663;yu nan da dao xi ce
+493;3;1663;Yunan Blvd W
+493;2;1664;nei huan kuai su lu yu nan da dao xi ce chu kou za dao
+493;3;1664;Inner Ring Expy Yunan Blvd W Exit Ramp
+493;2;1665;yu nan da dao dong ce
+493;3;1665;Yunan Blvd E
+493;2;1666;nei huan kuai su lu yu nan da dao dong ce chu kou za dao
+493;3;1666;Inner Ring Expy Yunan Blvd E Exit Ramp
+493;2;1667;nei huan kuai su lu wai quan yu nan da dao chu kou za dao
+493;3;1667;Inner Ring Expy Outside Ring Yunan Blvd Exit Ramp
+493;2;1668;nei huan kuai su lu wai quan yu nan da dao ru kou za dao
+493;3;1668;Inner Ring Expy Outside Ring Yunan Blvd Entrance Ramp
+493;2;1669;nei huan kuai su lu nei quan yu nan da dao ru kou za dao
+493;3;1669;Inner Ring Expy Inside Ring Yunan Blvd Entrance Ramp
+493;2;1670;nei huan kuai su lu yu nan da dao ru kou za dao
+493;3;1670;Inner Ring Expy Yunan Blvd Entrance Ramp
+493;2;1671;yu nan da dao xi ce nei huan kuai su lu ru kou za dao
+493;3;1671;Yunan Blvd W Inner Ring Expy Entrance Ramp
+493;2;1676;song shi da dao bei ce
+493;3;1676;Songshi Blvd N
+493;2;1679;nei huan kuai su lu wai quan song shi da dao ru kou za dao
+493;3;1679;Inner Ring Expy Outside Ring Songshi Blvd Entrance Ramp
+493;2;1682;nei huan kuai su lu nei quan song shi da dao chu kou za dao
+493;3;1682;Inner Ring Expy Inside Ring Songshi Blvd Exit Ramp
+493;2;1683;song shi da dao nan ce
+493;3;1683;Songshi Blvd S
+493;2;1688;nei huan kuai su lu song shi da dao nan ce chu kou za dao
+493;3;1688;Inner Ring Expy Songshi Blvd S Exit Ramp
+493;2;1689;nei huan kuai su lu nei quan song shi da dao nan ce chu kou za dao
+493;3;1689;Inner Ring Expy Inside Ring Songshi Blvd S Exit Ramp
+493;2;1702;nei huan kuai su lu nei quan song shi da dao bei ce ru kou za dao
+493;3;1702;Inner Ring Expy Inside Ring Songshi Blvd N Entrance Ramp
+493;2;1725;nei huan kuai su lu nei
+493;3;1725;Inner Ring Expy Inner
+493;2;1726;nei huan kuai su lu zhong
+493;3;1726;Inner Ring Expy M
+493;2;1727;nei huan kuai su lu wai
+493;3;1727;Inner Ring Expy Outer
+493;2;1728;nei huan kuai su lu wai quan lin yu qian gao su gong lu fu jin
+493;3;1728;Inner Ring Expy Outside Ring Lin Yuqian Hwy Fujin
+493;2;1735;song shi da dao nei huan kuai su lu ru kou za dao
+493;3;1735;Songshi Blvd Inner Ring Expy Entrance Ramp
+493;2;1736;nei huan kuai su lu nei song shi da dao ru kou za dao
+493;3;1736;Inner Ring Expy Inside Songshi Blvd Entrance Ramp
+493;2;1738;nei huan kuai su lu zhong song shi da dao ru kou za dao
+493;3;1738;Inner Ring Expy M Songshi Blvd Entrance Ramp
+493;2;1739;nei huan kuai su lu wai quan song shi da dao chu kou za dao
+493;3;1739;Inner Ring Expy Outside Ring Songshi Blvd Exit Ramp
+493;2;1741;nei huan kuai su lu zhong song shi da dao chu kou za dao
+493;3;1741;Inner Ring Expy M Songshi Blvd Exit Ramp
+493;2;1742;nei huan kuai su lu wai song shi da dao chu kou za dao
+493;3;1742;Inner Ring Expy Outside Songshi Blvd Exit Ramp
+493;2;1743;nei huan kuai su lu wai song shi da dao ru kou za dao
+493;3;1743;Inner Ring Expy Outside Songshi Blvd Entrance Ramp
+493;2;1744;nei huan kuai su lu nei song shi da dao chu kou za dao
+493;3;1744;Inner Ring Expy Inner Songshi Blvd Exit Ramp
+493;2;1745;nei huan kuai su lu nei quan song shi da dao ru kou za dao
+493;3;1745;Inner Ring Expy Inside Ring Songshi Blvd Entrance Ramp
+493;2;1751;nei huan kuai su lu hong jin da dao fu lu chu kou za dao
+493;3;1751;Inner Ring Expy Hongjin Blvd Side Rd Exit Ramp
+493;2;1752;hong jin da dao fu lu
+493;3;1752;Hongjin Blvd Side Rd
+493;2;1753;hu yu gao su gong lu zhong
+493;3;1753;Huyu Hwy M
+493;2;1754;nei huan kuai su lu nei quan hu yu gao su gong lu zhong ru kou za dao
+493;3;1754;Inner Ring Expy Inside Ring Huyu Hwy M Entrance Ramp
+493;2;1755;hu yu gao su gong lu nan
+493;3;1755;Huyu Hwy S
+493;2;1756;nei huan kuai su lu nei quan hu yu gao su gong lu nan ru kou za dao
+493;3;1756;Inner Ring Expy Inside Ring Huyu Hwy S Entrance Ramp
+493;2;1762;nei huan kuai su lu wai quan ren he da dao chu kou za dao
+493;3;1762;Inner Ring Expy Outside Ring Renhe Blvd Exit Ramp
+493;2;1763;lan hai gao su gong lu
+493;3;1763;Lanhai Hwy
+493;2;1764;yang liu wan
+493;3;1764;Yangliuwan
+493;2;1771;chen qing lu
+493;3;1771;Chenqing Rd
+493;2;1776;chong qing da ju yuan
+493;3;1776;Chongqing Theater
+493;2;1777;yang he lu
+493;3;1777;Yanghe Rd
+493;2;1778;ren he jie
+493;3;1778;Renhe St
+493;2;1779;huang hua yuan li jiao qiao
+493;3;1779;Huanghuayuan Jct
+493;2;1780;cai jiu lu
+493;3;1780;Caijiu Rd
+493;2;1781;dan du shou fei zhan
+493;3;1781;Dandu Tollgate
+493;2;1782;jing wei da dao
+493;3;1782;Jingwei Blvd
+493;2;1787;hua yi lu
+493;3;1787;Huayi Rd
+493;2;1788;hong ya dong da jiu dian
+493;3;1788;Chongqing Hongyadong Hotel
+493;2;1789;long chang yu jian shou fei zhan
+493;3;1789;Longchangyujian Tollgate
+493;2;1790;yu kun gao su gong lu
+493;3;1790;Yukun Hwy
+493;2;1794;jiu long po zhan fu wu dian ( nan ) ting che qu
+493;3;1794;Jiulongpozhan Fuwudian Parking Area
+493;2;1795;diao jia shou fei zhan
+493;3;1795;Diaojia Tollgate
+493;2;1796;jiang jin shou fei zhan
+493;3;1796;Jiangjin Tollgate
+493;2;1797;tong liang fu wu qu
+493;3;1797;Tongliang Service Area
+493;2;1798;tong nan fu wu qu
+493;3;1798;Tongnan Service Area
+493;2;1799;lou fang gou ting che qu
+493;3;1799;Loufanggou Parking Area
+493;2;1814;man fang ting hua yuan hui suo
+493;3;1814;Manfangtinghuayuanhuisuo
+493;2;1817;zhou jia shou fei zhan
+493;3;1817;Zhoujia Tollgate
+493;2;1819;liu shui cun
+493;3;1819;Liushui Village
+493;2;1823;yun yang ting che qu
+493;3;1823;Yunyang Paking Area
+493;2;1824;bi jia ba ting che qu
+493;3;1824;Bijiaba Parking Area
+493;2;1826;huang jin gong lu
+493;3;1826;Huangjin Hwy
+493;2;1828;qian qu lu
+493;3;1828;Qianqu Rd
+493;2;1831;li jia wan
+493;3;1831;Lijiawan
+493;2;1835;fei lang zi
+493;3;1835;Feilangzi
+493;2;1839;chong qing yu ao jia ling jiang da qiao
+493;3;1839;Chongqingyuaojialingjiang Brg
+493;2;1843;huang long zhi lu
+493;3;1843;Huanglong Byp
+493;2;1848;bai yang tan
+493;3;1848;Baiyangtan
+493;2;1849;ao te lai si lu
+493;3;1849;Aotelaisi Rd
+493;2;1857;jiang zhou lu
+493;3;1857;Jiangzhou Rd
+493;2;1858;fu ren da dao
+493;3;1858;Furen Blvd
+493;2;1863;ban zhu lu
+493;3;1863;Banzhu Rd
+493;2;1865;cheng nan shi jia
+493;3;1865;Chengnanshijia
+493;2;1867;li ren jie
+493;3;1867;Liren St
+493;2;1872;lan mei lu zhi jing wei da dao
+493;3;1872;Lanmei Rd to Jingwei Blvd
+493;2;1874;bai nian shi jia
+493;3;1874;Bainian Shijia
+493;2;1876;jia ling jiang jia hua da qiao
+493;3;1876;Jialingjiangjiahua Brg
+493;2;1877;jin long zhi lu
+493;3;1877;Jinlong Byp
+493;2;1881;long shan da dao
+493;3;1881;Longshan Blvd
+493;2;1885;luo han si
+493;3;1885;Luohansi
+493;2;1886;nei huan kuai su lu zhi hong guang da dao lu
+493;3;1886;Inner Ring Expy to Hongguang Blvd Rd
+493;2;1888;wu jia gou
+493;3;1888;Wujiagou
+493;2;1889;shuang yuan da dao
+493;3;1889;Shuangyuan Blvd
+493;2;1890;bao mao gao su gong lu
+493;3;1890;Baomao Hwy
+493;2;1893;da guan fu wu qu
+493;3;1893;Daguan Service Area
+493;2;1895;shui jiang ting che qu
+493;3;1895;Shuijiang Parking Area
+493;2;1897;bai yang lu
+493;3;1897;Baiyang Rd
+493;2;1898;gao gu ting che qu
+493;3;1898;Gaogu Parking Area
+493;2;1899;peng shui xi shou fei zhan
+493;3;1899;Pengshui W Tollgate
+493;2;1900;peng shui dong shou fei zhan
+493;3;1900;Pengshui E Tollgate
+493;2;1901;yu jiang guan jing tai
+493;3;1901;Yujiang Guanjingtai
+493;2;1902;bao jia shou fei zhan
+493;3;1902;Baojia Tollgate
+493;2;1903;peng shui ting che qu
+493;3;1903;Pengshui Parking Area
+493;2;1904;qian jiang xi shou fei zhan
+493;3;1904;Qianjiang W Tollgate
+493;2;1905;qian jiang nan shou fei zhan
+493;3;1905;Qianjiang S Tollgate
+493;2;1913;zhong zhou shou fei zhan
+493;3;1913;Zhongzhou Tollgate
+493;2;1914;mo zi shou fei zhan
+493;3;1914;Mozi Tollgate
+493;2;1915;da xie shou fei zhan
+493;3;1915;Daxie Tollgate
+493;2;1916;shi zhu shou fei zhan
+493;3;1916;Shizhu Tollgate
+493;2;1917;san dian ting che qu
+493;3;1917;Sandian Parking Area
+493;2;1918;can xi he guan jing tai
+493;3;1918;Canxihe Guanjingtai
+493;2;1919;sha zi shou fei zhan
+493;3;1919;Shazi Tollgate
+493;2;1920;leng shui shou fei zhan
+493;3;1920;Lengshui Tollgate
+493;2;1921;leng shui fu wu qu
+493;3;1921;Lengshui Service Area
+493;2;1922;shu lan lu
+493;3;1922;Shulan Rd
+493;2;1923;feng lin lu
+493;3;1923;Fenglin Rd
+493;2;1924;luo huang fu wu qu
+493;3;1924;Luohuang Service Area
+493;2;1925;guan yin yan guan yin tai
+493;3;1925;Guanyinyanguanyintai
+493;2;1927;zeng jia fu wu qu
+493;3;1927;Zengjia Service Area
+493;2;1928;shui tu shou fei zhan
+493;3;1928;Shuitu Tollgate
+493;2;1929;fu xing fu wu qu
+493;3;1929;Fuxing Service Area
+493;2;1930;long xing shou fei zhan
+493;3;1930;Longxing Tollgate
+493;2;1931;long xing ting che qu
+493;3;1931;Longxing Parking Area
+493;2;1932;ying long shou fei zhan
+493;3;1932;Yinglong Tollgate
+493;2;1933;ying long ting che qu
+493;3;1933;Yinglong Parking Area
+493;2;1935;ji an yuan yi qu
+493;3;1935;Jianyuanyiqu
+493;2;1953;tuan jie lu
+493;3;1953;Tuanjie Rd
+493;2;1957;tian bao lu
+493;3;1957;Tianbao Rd
+493;2;1959;tian bao lu zhi tian xing lu
+493;3;1959;Tianbao Rd to Tianxing Rd
+493;2;1960;xu jia wan
+493;3;1960;Xujiawan
+493;2;1961;xin xing you er yuan
+493;3;1961;Xinxing Kindergarten
+493;2;1962;hao jing ya yuan
+493;3;1962;Haojingyayuan
+493;2;1964;yang he lu zhi li yu chi lu
+493;3;1964;Yanghe Rd to Liyuchi Rd
+493;2;1965;hong jin lu
+493;3;1965;Hongjin Rd
+493;2;1966;zi jing zhi lu
+493;3;1966;Zijing Byp
+493;2;1975;long shan san lu
+493;3;1975;Longshansan Rd
+493;2;1979;pi pa shan zheng jie
+493;3;1979;Pipashanzheng St
+493;2;1980;xing long jie
+493;3;1980;Xinglong St
+493;2;1982;han wei lu
+493;3;1982;Hanwei Rd
+493;2;1983;lin hua lu
+493;3;1983;Linhua Rd
+493;2;1984;zao zi lan ya zheng jie
+493;3;1984;Zaozilanyazheng St
+493;2;1985;hua fu xiang
+493;3;1985;Huafu Ln
+493;2;1986;zhang jia hua yuan sui dao
+493;3;1986;Zhangjiahuayuan Tunl
+493;2;1989;yun song lu
+493;3;1989;Yunsong Rd
+493;2;1994;shuang long xi lu
+493;3;1994;Shuanglong West Rd
+493;2;1995;long chang jie
+493;3;1995;Longchang St
+493;2;1996;wu xing lu
+493;3;1996;Wuxing Rd
+493;2;1997;bei hu lu
+493;3;1997;Beihu Rd
+493;2;1998;teng fang da dao
+493;3;1998;Tengfang Blvd
+493;2;1999;jin yu lu
+493;3;1999;Jinyu Rd
+493;2;2000;bai guo lu
+493;3;2000;Baiguo Rd
+493;2;2001;jin shan zhi lu
+493;3;2001;Jinshan Byp
+493;2;2002;nan guo jia yuan
+493;3;2002;Nanguojiayuan
+493;2;2003;hu bin lu
+493;3;2003;Hubin Rd
+493;2;2004;hua yuan yi cun
+493;3;2004;Huayuanyi Village
+493;2;2005;shan hu zhong xue
+493;3;2005;Shanhuzhongxue
+493;2;2007;wan shou hua yuan
+493;3;2007;Wanshouhuayuan
+493;2;2008;ji chang kuai su lu nan ce ao te lai si lu ru kou za dao
+493;3;2008;Jichang Expy S Aotelaisi Rd Entrance Ramp
+493;2;2010;nei huan kuai su lu yu ma lu chu kou za dao
+493;3;2010;Inner Ring Expy Yu Rd Exit Ramp
+493;2;2011;nei huan kuai su lu yu ma lu ru kou za dao
+493;3;2011;Inner Ring Expy Yu Rd Entrance Ramp
+493;2;2017;tao jia ping guan jing tai
+493;3;2017;Taojiaping Guanjingtai
+493;2;2022;fen shui dong lu
+493;3;2022;Fenshui East Rd
+493;2;2023;yan jiang lu
+493;3;2023;Yanjiang Rd
+493;2;2024;hui xing yi yuan
+493;3;2024;Huixing Hospital
+493;2;2025;bao sheng dong lu
+493;3;2025;Baosheng East Rd
+493;2;2027;xiao sha cun
+493;3;2027;Xiaosha Village
+493;2;2029;lu gao ba
+493;3;2029;Lugaoba
+493;2;2043;yu rong shou fei zhan
+493;3;2043;Yurong Tollgate
+493;2;2045;qi jiang fu wu qu
+493;3;2045;Qijiang Service Area
+493;2;2047;ji chang kuai su lu nei huan kuai su lu nei quan ru kou za dao
+493;3;2047;Jichang Expy Inner Ring Expy Inside Ring Entrance Ramp
+493;2;2048;nei huan kuai su lu nei quan G212 ru kou za dao
+493;3;2048;Inner Ring Expy Inside Ring G212 Entrance Ramp
+493;2;2056;huan hu lu
+493;3;2056;Huanhu Rd
+493;2;2059;xiang xie jie
+493;3;2059;Xiangxie St
+493;2;2062;nan hai da dao
+493;3;2062;Nanhai Blvd
+493;2;2068;qi qiu cun
+493;3;2068;Qiqiu Village
+493;2;2069;zhu yi zhen
+493;3;2069;Zhuyi Town
+493;2;2070;S201
+493;3;2070;S201
+493;2;2071;tong zi ping
+493;3;2071;Tongziping
+493;2;2072;tang bei hou
+493;3;2072;Tangbeihou
+493;2;2073;xin qiao cun
+493;3;2073;Xinqiao Village
+493;2;2074;da ping cun
+493;3;2074;Daping Village
+493;2;2075;ran jia bao
+493;3;2075;Ranjiabao
+493;2;2076;fu jia zhai
+493;3;2076;Fujiazhai
+493;2;2077;ban zhu cun
+493;3;2077;Banzhu Village
+493;2;2078;hong xing cun
+493;3;2078;Hongxing Village
+493;2;2079;bai yan tou cun
+493;3;2079;Baiyantou Village
+493;2;2082;su jia wan
+493;3;2082;Sujiawan
+493;2;2084;gao qi cun
+493;3;2084;Gaoqi Village
+493;2;2085;gan zi cun
+493;3;2085;Ganzi Village
+493;2;2086;xi cheng da dao
+493;3;2086;Xicheng Blvd
+493;2;2087;tao yuan da dao
+493;3;2087;Taoyuan Blvd
+493;2;2089;da he gou zhi lu
+493;3;2089;Dahegou Byp
+493;2;2090;lan hai gao su gong lu (tong xing bei lu)
+493;3;2090;Lanhai Hwy (Tongxing North Rd)
+493;2;2092;yun kai lu
+493;3;2092;Yunkai Rd
+493;2;2093;X617
+493;3;2093;X617
+493;2;2096;shi qing lu
+493;3;2096;Shiqing Rd
+493;2;2100;sha ping ba qu xin qiao xiao xue xiao
+493;3;2100;Shapingba District Xinqiao Pri Sch
+493;2;2102;shan feng lu (xin shan lu)
+493;3;2102;Shanfeng Rd (Xinshan Rd)
+493;2;2103;xin nong lu
+493;3;2103;Xinnong Rd
+493;2;2105;ai jia wan
+493;3;2105;Aijiawan
+493;2;2106;X767
+493;3;2106;X767
+493;2;2107;S204
+493;3;2107;S204
+493;2;2108;jin shan da dao
+493;3;2108;Jinshan Blvd
+493;2;2109;yin he da dao
+493;3;2109;Yinhe Blvd
+493;2;2110;ya da lu
+493;3;2110;Yada Rd
+493;2;2111;xiu shan shou fei zhan
+493;3;2111;Xiushan Tollgate
+493;2;2112;hong an shou fei zhan
+493;3;2112;Hongan Tollgate
+493;2;2114;qian tang ting che qu
+493;3;2114;Qiantang Parking Area
+493;2;2115;nan ping zhong xue
+493;3;2115;Nanpingzhongxue
+493;2;2118;e ling zheng jie
+493;3;2118;Elingzheng St
+493;2;2119;ge li lu
+493;3;2119;Geli Rd
+493;2;2121;sha bin lu
+493;3;2121;Shabin Rd
+493;2;2124;hai tong lu
+493;3;2124;Haitong Rd
+493;2;2125;tong yuan ju zheng jie
+493;3;2125;Tongyuanjuzheng St
+493;2;2126;teng huang lu
+493;3;2126;Tenghuang Rd
+493;2;2129;hua jian lu
+493;3;2129;Huajian Rd
+493;2;2131;X723
+493;3;2131;X723
+493;2;2132;hai tong lu zhi jiang nan da dao
+493;3;2132;Haitong Rd to Jiangnan Blvd
+493;2;2133;jia ling jiang shi men da qiao
+493;3;2133;Jialingjiangshimen Brg
+493;2;2134;lao mu ding
+493;3;2134;Laomuding
+493;2;2135;mu dan da dao
+493;3;2135;Mudan Blvd
+493;2;2136;kai li lu
+493;3;2136;Kaili Rd
+493;2;2137;sheng an lu
+493;3;2137;Sheng'an Rd
+493;2;2138;chang shou hu gao su gong lu
+493;3;2138;Changshouhu Hwy
+493;2;2139;xing xing lu
+493;3;2139;Xingxing Rd
+493;2;2140;hua fu da dao
+493;3;2140;Huafu Blvd
+493;2;2141;jing xin lu
+493;3;2141;Jingxin Rd
+493;2;2142;huang hua zhi lu
+493;3;2142;Huanghua Byp
+493;2;2143;ban shan huan dao
+493;3;2143;Banshan Ring
+493;2;2144;shuang yuan lu
+493;3;2144;Shuangyuan Rd
+493;2;2145;jiang bei cheng xi da jie
+493;3;2145;Jiangbeicheng West Ave
+493;2;2146;du shi tao yuan
+493;3;2146;Dushitaoyuan
+493;2;2147;hong shan lu
+493;3;2147;Hongshan Rd
+493;2;2150;jin xing da dao zhi lan hai gao su gong lu
+493;3;2150;Jinxing Blvd to Lanhai Hwy
+493;2;2151;hua cun li jiao qiao
+493;3;2151;Huacun Jct
+493;2;2152;si xin lu
+493;3;2152;Sixin Rd
+493;2;2154;he mu lu
+493;3;2154;Hemu Rd
+493;2;2155;jin zi jie
+493;3;2155;Jinzi St
+493;2;2158;qi long lu
+493;3;2158;Qilong Rd
+493;2;2159;tian zhu lu
+493;3;2159;Tianzhu Rd
+493;2;2160;wu jiang dong lu
+493;3;2160;Wujiang East Rd
+493;2;2161;long de jing yuan
+493;3;2161;Longdejingyuan
+493;2;2162;gao tan yan ting che qu
+493;3;2162;Gaotanyan Parking Area
+493;2;2163;bei huan li jiao
+493;3;2163;N Ring Jct
+493;2;2164;si hai da dao
+493;3;2164;Sihai Blvd
+493;2;2167;pan long zheng jie
+493;3;2167;Panlongzheng St
+493;2;2168;jing bo xi lu
+493;3;2168;Jingbo West Rd
+493;2;2169;sha ping ba zheng jie
+493;3;2169;Shapingbazheng St
+493;2;2170;shi ping qiao hou jie
+493;3;2170;Shipingqiao Back St
+493;2;2171;gong yuan zhi lu
+493;3;2171;Gongyuan Byp
+493;2;2172;han xing lu
+493;3;2172;Hanxing Rd
+493;2;2174;wu jian er zhi lu
+493;3;2174;Wujianer Byp
+493;2;2175;kai ge san zhi lu
+493;3;2175;Kaigesan Byp
+493;2;2176;qing xi lu
+493;3;2176;Qingxi Rd
+493;2;2177;yu chang lu
+493;3;2177;Yuchang Rd
+493;2;2179;xing long da dao
+493;3;2179;Xinglong Blvd
+493;2;2180;song shi bei lu
+493;3;2180;Songshi North Rd
+493;2;2181;long yin lu
+493;3;2181;Longyin Rd
+493;2;2183;nei huan kuai su lu nei quan jian she da dao ru kou za dao
+493;3;2183;Inner Ring Expy Inside Ring Jianshe Blvd Entrance Ramp
+493;2;2184;jian she da dao
+493;3;2184;Jianshe Blvd
+493;2;2185;nei huan kuai su lu wai quan jian she da dao chu kou za dao
+493;3;2185;Inner Ring Expy Outside Ring Jianshe Blvd Exit Ramp
+493;2;2188;nei huan kuai su lu nei quan hua jian lu chu kou za dao
+493;3;2188;Inner Ring Expy Inside Ring Huajian Rd Exit Ramp
+493;2;2189;nei huan kuai su lu nei quan hua jian lu ru kou za dao
+493;3;2189;Inner Ring Expy Inside Ring Huajian Rd Entrance Ramp
+493;2;2190;nei huan kuai su lu wai quan hua jian lu chu kou za dao
+493;3;2190;Inner Ring Expy Outside Ring Huajian Rd Exit Ramp
+493;2;2191;nei huan kuai su lu wai quan hua jian lu ru kou za dao
+493;3;2191;Inner Ring Expy Outside Ring Huajian Rd Entrance Ramp
+493;2;2195;yang li lu bei ce
+493;3;2195;Yangli Rd N
+493;2;2196;nei huan kuai su lu yang li lu bei ce ru kou za dao
+493;3;2196;Inner Ring Expy Yangli Rd N Entrance Ramp
+493;2;2197;nei huan kuai su lu yang li lu bei ce chu kou za dao
+493;3;2197;Inner Ring Expy Yangli Rd N Exit Ramp
+493;2;2199;nei huan kuai su lu nei quan yang li lu bei ce ru kou za dao
+493;3;2199;Inner Ring Expy Inside Ring Yangli Rd N Entrance Ramp
+493;2;2200;nei huan kuai su lu nei quan hu yu gao su gong lu chu kou za dao
+493;3;2200;Inner Ring Expy Inside Ring Huyu Hwy Exit Ramp
+493;2;2201;hu yu gao su gong lu nan ce
+493;3;2201;Huyu Hwy S
+493;2;2202;nei huan kuai su lu nei quan hu yu gao su gong lu nan ce chu kou za dao
+493;3;2202;Inner Ring Expy Inside Ring Huyu Hwy S Exit Ramp
+493;2;2204;shuang hu lu bei ce
+493;3;2204;Shuanghu Rd N
+493;2;2206;xiao wu ji
+493;3;2206;Xiaowuji
+493;2;2207;bai ma zhi lu
+493;3;2207;Baima Byp
+493;2;2208;yu xin lu
+493;3;2208;Yuxin Rd
+493;2;2209;feng dan lu
+493;3;2209;Fengdan Rd
+493;2;2210;yu zhou zhi lu
+493;3;2210;Yuzhou Byp
+493;2;2214;jin yin wan
+493;3;2214;Jinyinwan
+493;2;2215;mi cheng
+493;3;2215;Micheng
+493;2;2218;pan xi si zhi lu
+493;3;2218;Panxisi Byp
+493;2;2219;ding jia yuan
+493;3;2219;Dingjiayuan
+493;2;2220;bai ling lu
+493;3;2220;Bailing Rd
+493;2;2221;yin hua lu
+493;3;2221;Yinhua Rd
+493;2;2222;yin shan lu
+493;3;2222;Yinshan Rd
+493;2;2223;du song lu
+493;3;2223;Dusong Rd
+493;2;2224;jin cheng lu
+493;3;2224;Jincheng Rd
+493;2;2225;xi hu lu
+493;3;2225;Xihu Rd
+493;2;2226;xin pai fang san lu
+493;3;2226;Xinpaifangsan Rd
+493;2;2227;song qiao lu
+493;3;2227;Songqiao Rd
+493;2;2228;wu ling lu
+493;3;2228;Wuling Rd
+493;2;2231;jia yuan lu
+493;3;2231;Jiayuan Rd
+493;2;2232;tai shan da dao xi duan
+493;3;2232;Taishan Blvd West Sect
+493;2;2233;mi fang wan
+493;3;2233;Mifangwan
+493;2;2234;he mu bei lu
+493;3;2234;Hemu North Rd
+493;2;2235;jin zhou da dao
+493;3;2235;Jinzhou Blvd
+493;2;2236;long shou lu
+493;3;2236;Longshou Rd
+493;2;2237;zhong zui
+493;3;2237;Zhongzui
+493;2;2238;ren xing lu
+493;3;2238;Renxing Rd
+493;2;2239;wan nian lu
+493;3;2239;Wannian Rd
+493;2;2240;jin tong lu
+493;3;2240;Jintong Rd
+493;2;2241;min xin lu
+493;3;2241;Minxin Rd
+493;2;2242;jin guo da dao
+493;3;2242;Jinguo Blvd
+493;2;2243;hui min lu
+493;3;2243;Huimin Rd
+493;2;2244;chang wu jian
+493;3;2244;Changwujian
+493;2;2245;hu yun jie
+493;3;2245;Huyun St
+493;2;2246;hu ying jie
+493;3;2246;Huying St
+493;2;2247;cui gu jie
+493;3;2247;Cuigu St
+493;2;2248;chang fu nan lu
+493;3;2248;Changfu South Rd
+493;2;2251;shang guo lu
+493;3;2251;Shangguo Rd
+493;2;2252;bao sheng da dao
+493;3;2252;Baosheng Blvd
+493;2;2253;yun hu jing yuan
+493;3;2253;Yunhujingyuan
+493;2;2254;hu bin xi lu
+493;3;2254;Hubin West Rd
+493;2;2255;shi pin cheng da dao
+493;3;2255;Shipincheng Blvd
+493;2;2256;ni shang da dao
+493;3;2256;Nishang Blvd
+493;2;2257;shang wan lu
+493;3;2257;Shangwan Rd
+493;2;2258;jin ding lu
+493;3;2258;Jinding Rd
+493;2;2259;yu lan lu
+493;3;2259;Yulan Rd
+493;2;2260;bao hua da dao
+493;3;2260;Baohua Blvd
+493;2;2261;guan hong da dao
+493;3;2261;Guanhong Blvd
+493;2;2262;hong en dong lu
+493;3;2262;Hongen East Rd
+493;2;2263;hong fei lu
+493;3;2263;Hongfei Rd
+493;2;2264;liao jia shan lin
+493;3;2264;Liaojiashanlin
+493;2;2265;san wan lu
+493;3;2265;Sanwan Rd
+493;2;2269;xi lou shang sha
+493;3;2269;Xiloushangsha
+493;2;2272;bin jiang lu yi xian
+493;3;2272;Binjiangluyi Line
+493;2;2273;huang guan lu
+493;3;2273;Huangguan Rd
+493;2;2278;gui hua jie
+493;3;2278;Guihua St
+493;2;2279;chong qing ke ji guan
+493;3;2279;Chongqingkejiguan
+493;2;2280;jiang bei zheng jie
+493;3;2280;Jiangbeizheng St
+493;2;2281;wu jiang lu zhi bei bin yi lu
+493;3;2281;Wujiang Rd to Beibinyi Rd
+493;2;2282;bei bin er lu
+493;3;2282;Beibiner Rd
+493;2;2283;xie jia gou
+493;3;2283;Xiejiagou
+493;2;2285;yu lu da dao zhi bei bin er lu
+493;3;2285;Yulu Blvd to Beibiner Rd
+493;2;2288;chao tian men chang jiang da qiao
+493;3;2288;Chaotianmenchangjiang Brg
+493;2;2290;nan bin lu zhi teng long da dao
+493;3;2290;Nanbin Rd to Tenglong Blvd
+493;2;2291;fei hu lu
+493;3;2291;Feihu Rd
+493;2;2292;shuang long dong lu
+493;3;2292;Shuanglong East Rd
+493;2;2293;jin hu lu
+493;3;2293;Jinhu Rd
+493;2;2294;jin hang lu
+493;3;2294;Jinhang Rd
+493;2;2295;yu hang lu si xiang
+493;3;2295;Yuhanglusi Ln
+493;2;2299;pan gui lu
+493;3;2299;Pangui Rd
+493;2;2300;ping tan wan
+493;3;2300;Pingtanwan
+493;2;2301;cao ping jie
+493;3;2301;Caoping St
+493;2;2302;S105
+493;3;2302;S105
+493;2;2303;X239
+493;3;2303;X239
+493;2;2306;yu nan da dao xi
+493;3;2306;Yu'nan Blvd W
+493;2;2307;yu nan da dao xi nei huan kuai su lu ru kou za dao
+493;3;2307;Yu'nan Blvd W Inner Ring Expy Entrance Ramp
+493;2;2308;nei huan kuai su lu hong fan lu ru kou za dao
+493;3;2308;Inner Ring Expy Hongfan Rd Entrance Ramp
+493;2;2309;nei huan kuai su lu hong fan lu chu kou za dao
+493;3;2309;Inner Ring Expy Hongfan Rd Exit Ramp
+493;2;2310;nei huan kuai su lu wai quan hong fan lu ru kou za dao
+493;3;2310;Inner Ring Expy Outside Ring Hongfan Rd Entrance Ramp
+493;2;2311;nei huan kuai su lu wai quan hong fan lu chu kou za dao
+493;3;2311;Inner Ring Expy Outside Ring Hongfan Rd Exit Ramp
+493;2;2312;nei huan kuai su lu nei quan hong fan lu ru kou za dao
+493;3;2312;Inner Ring Expy Inside Ring Hongfan Rd Entrance Ramp
+493;2;2313;hong fan lu dong ce
+493;3;2313;Hongfan Rd E
+493;2;2314;nei huan kuai su lu nei quan hong fan lu dong ce chu kou za dao
+493;3;2314;Inner Ring Expy Inside Ring Hongfan Rd E Exit Ramp
+493;2;2315;hong fan lu xi ce
+493;3;2315;Hongfan Rd W
+493;2;2316;nei huan kuai su lu hong fan lu xi ce ru kou za dao
+493;3;2316;Inner Ring Expy Hongfan Rd W Entrance Ramp
+493;2;2317;nei huan kuai su lu hong fan lu dong ce chu kou za dao
+493;3;2317;Inner Ring Expy Hongfan Rd E Exit Ramp
+493;2;2318;jin yin wan zhi jing wei da dao
+493;3;2318;Jinyinwan to Jingwei Blvd
+493;2;2321;jian bei si zhi lu
+493;3;2321;Jianbeisi Byp
+493;2;2322;nan hua jie
+493;3;2322;Nanhua St
+493;2;2323;chun hui lu xi ce
+493;3;2323;Chunhui Rd W
+493;2;2329;yu song lu dong
+493;3;2329;Yusong Rd E
+493;2;2331;hua bei lu
+493;3;2331;Huabei Rd
+493;2;2332;qing hua lu
+493;3;2332;Qinghua Rd
+493;2;2333;wu shui lu
+493;3;2333;Wushui Rd
+493;2;2334;qing gan qiao
+493;3;2334;Qingganqiao
+493;2;2335;hong an ting che qu
+493;3;2335;Hongan Parking Area
+493;2;2337;da wan gou
+493;3;2337;Dawan'gou
+493;2;2338;ji chang lu
+493;3;2338;Jichang Rd
+493;2;2339;ci da lu
+493;3;2339;Cidalu
+493;2;2343;du shi hua yuan lu
+493;3;2343;Dushihuayuan Rd
+493;2;2345;chun hui nan lu
+493;3;2345;Chunhui South Rd
+493;2;2346;di du guang chang
+493;3;2346;Didu Plz
+493;2;2347;bai hua jie
+493;3;2347;Baihua St
+493;2;2348;bao huan lu
+493;3;2348;Baohuanlu
+493;2;2349;bei cheng lu
+493;3;2349;Beicheng Rd
+493;2;2350;feng xi lu
+493;3;2350;Fengxi Rd
+493;2;2351;jiu zhong lu
+493;3;2351;Jiuzhong Rd
+493;2;2352;fu hong lu
+493;3;2352;Fuhong Rd
+493;2;2353;gang tie lu
+493;3;2353;Gangtie Rd
+493;2;2354;ya tai lu
+493;3;2354;Yatai Rd
+493;2;2355;he jia liang li jiao
+493;3;2355;Hejialiang Jct
+493;2;2356;xia tu wan lu
+493;3;2356;Xiatuwan Rd
+493;2;2357;tian shan da dao
+493;3;2357;Tianshan Blvd
+493;2;2361;min xin lu
+493;3;2361;Minxin Rd
+493;2;2362;hong en si nan bu li jiao
+493;3;2362;Hongensinanbu Jct
+493;2;2365;huo ju yi lu
+493;3;2365;Huojuyi Rd
+493;2;2366;guo tang lu
+493;3;2366;Guotang Rd
+493;2;2371;yang jia ping huan dao
+493;3;2371;Yangjiapinghuan Ave
+493;2;2374;kai bang zhi lu
+493;3;2374;Kaibang Byp
+493;2;2375;jiang zhou li jiao
+493;3;2375;Jiangzhou Jct
+493;2;2376;dui shan li jiao
+493;3;2376;Duishan Jct
+493;2;2380;chong qing 110 zhong xue
+493;3;2380;Chongqing110zhongxue
+493;2;2384;chang xin lu
+493;3;2384;Changxin Rd
+493;2;2385;ban shan gong guan
+493;3;2385;Banshan Residence
+493;2;2387;kang de da sha
+493;3;2387;Kangdedasha
+493;2;2388;feng ming lu
+493;3;2388;Fengming Rd
+493;2;2389;xi nan da xue (long xi lu)
+493;3;2389;Xinandaxue (Longxi Rd)
+493;2;2391;cheng yu huan xian gao su gong lu (xi yong da dao)
+493;3;2391;Chengyu Loop Hwy (Xiyong Blvd)
+493;2;2392;yong shun lu (xi yuan er lu)
+493;3;2392;Yongshun Rd (Xiyuaner Rd)
+493;2;2394;lai bai lu (xue cheng da dao)
+493;3;2394;Laibai Rd (Xuecheng Blvd)
+493;2;2395;xue cheng da dao
+493;3;2395;Xuecheng Blvd
+493;2;2397;bi yu lu
+493;3;2397;Biyu Rd
+493;2;2398;lei jia wan (bi tong lu)
+493;3;2398;Leijiawan (Bitong Rd)
+493;2;2399;huang sha xi li jiao qiao
+493;3;2399;Huangshaxi Jct
+493;2;2400;cai yuan ba li jiao qiao
+493;3;2400;Caiyuanba Jct
+493;2;2401;sen di da dao
+493;3;2401;Sendi Blvd
+493;2;2402;da shi kan li jiao qiao
+493;3;2402;Dashikan Jct
+493;2;2403;xiao wan
+493;3;2403;Xiaowan
+493;2;2404;shang tu wan lu
+493;3;2404;Shangtuwan Rd
+493;2;2405;you quan shan zhuang
+493;3;2405;Youquanshanzhuang
+493;2;2406;ma huang liang li jiao
+493;3;2406;Mahuangliang Jct
+493;2;2407;zhong yi zhi lu
+493;3;2407;Zhongyi Byp
+493;2;2408;chang jiang da qiao
+493;3;2408;Changjiang Brg
+493;2;2411;kong gang dong li jiao
+493;3;2411;Konggang East Jct
+493;2;2412;tong kang lu
+493;3;2412;Tongkang Rd
+493;2;2413;long pan cun
+493;3;2413;Longpan Village
+493;2;2414;ji chang lu bao sheng sui dao nan ce chu kou za dao
+493;3;2414;Jichang Rd Baosheng Tunl S Exit Ramp
+493;2;2415;ji chang lu ren he da dao chu kou za dao
+493;3;2415;Jichang Rd Renhe Blvd Exit Ramp
+493;2;2416;ji chang lu fu zhuang cheng da dao xi ce chu kou za dao
+493;3;2416;Jichang Rd Fuzhuangcheng Blvd W Exit Ramp
+493;2;2417;ji chang lu bei ce
+493;3;2417;Jichang Rd N
+493;2;2418;ji chang lu bei ce jin yu da dao dong ce chu kou za dao
+493;3;2418;Jichang Rd N Jinyu Blvd E Exit Ramp
+493;2;2419;ji chang lu bei ce jin yu da dao xi ce chu kou za dao
+493;3;2419;Jichang Rd N Jinyu Blvd W Exit Ramp
+493;2;2420;nei huan kuai su lu nei quan ji chang lu bei ce ru kou za dao
+493;3;2420;Inner Ring Expy Inside Ring Jichang Rd N Entrance Ramp
+493;2;2421;ji chang lu dong ce bao sheng sui dao chu kou za dao
+493;3;2421;Jichang Rd E Baosheng Tunl Exit Ramp
+493;2;2422;ji chang lu dong ce
+493;3;2422;Jichang Rd E
+493;2;2423;ji chang lu dong ce bao shi lu nan ce chu kou za dao
+493;3;2423;Jichang Rd E Baoshi Rd S Exit Ramp
+493;2;2424;ji chang lu dong ce jiang bei ji chang chu kou za dao
+493;3;2424;Jichang Rd E Jiangbei Airport Exit Ramp
+493;2;2425;ji chang lu dong ce kai ge lu xia za dao
+493;3;2425;Jichang Rd E Kaige Rd Exit Ramp
+493;2;2426;ji chang lu nan ce ao te lai si lu chu kou za dao
+493;3;2426;Jichang Rd S Aotelaisi Rd Exit Ramp
+493;2;2427;ji chang lu nan ce
+493;3;2427;Jichang Rd S
+493;2;2428;ji chang lu nan ce bao sheng dong lu nan ce chu kou za dao
+493;3;2428;Jichang Rd S Baosheng East Rd S Exit Ramp
+493;2;2429;ji chang lu nan ce fu zhuang cheng da dao chu kou za dao
+493;3;2429;Jichang Rd S Fuzhuangcheng Blvd Exit Ramp
+493;2;2430;ji chang lu nan ce fu zhuang cheng da dao xi ce xia za dao
+493;3;2430;Jichang Rd S Fuzhuangcheng Blvd W Exit Ramp
+493;2;2431;ji chang lu nan ce hong sha gou fang xiang chu kou za dao
+493;3;2431;Jichang Rd S Hongshagoufangxiang Exit Ramp
+493;2;2432;ji chang lu nan ce jin yu da dao dong ce chu kou za dao
+493;3;2432;Jichang Rd S Jinyu Blvd E Exit Ramp
+493;2;2433;ji chang lu nan ce jin yu da dao xi ce chu kou za dao
+493;3;2433;Jichang Rd S Jinyu Blvd W Exit Ramp
+493;2;2434;nei huan kuai su lu nei quan ji chang lu nan ce ru kou za dao
+493;3;2434;Inner Ring Expy Inside Ring Jichang Rd S Entrance Ramp 
+493;2;2435;ji chang lu xi ce bao sheng sui dao chu kou za dao
+493;3;2435;Jichang Rd W Baosheng Tunl Exit Ramp
+493;2;2436;ji chang lu xi ce
+493;3;2436;Jichang Rd W
+493;2;2437;ji chang lu xi ce bao shi lu dong ce chu kou za dao
+493;3;2437;Jichang Rd W Baoshi Rd E Exit Ramp
+493;2;2438;ji chang lu nan ce bao sheng dong lu bei ce ru kou za dao
+493;3;2438;Jichang Rd S Baosheng Eest Rd N Entrance Ramp
+493;2;2439;ji chang lu bao sheng sui dao ru kou za dao
+493;3;2439;Jichang Rd Baosheng Tunl Entrance Ramp
+493;2;2440;ji chang lu xi ce bao sheng sui dao ru kou za dao
+493;3;2440;Jichang Rd W Baosheng Tunl Entrance Ramp
+493;2;2441;ji chang lu dong ce bao shi lu bei ce ru kou za dao
+493;3;2441;Jichang Rd E Baoshi Rd N Entrance Ramp
+493;2;2442;ji chang lu dong ce bao shi lu dong ce ru kou za dao
+493;3;2442;Jichang Rd E Baoshi Rd E Entrance Ramp
+493;2;2443;ji chang lu xi ce bao shi lu dong ce ru kou za dao
+493;3;2443;Jichang Rd W Baoshi Rd E Entrance Ramp
+493;2;2444;ji chang lu xi ce bao shi lu xi ce ru kou za dao
+493;3;2444;Jichang Rd W Baoshi Rd W Entrance Ramp
+493;2;2445;ji chang lu dong ce bin gang lu shang za dao
+493;3;2445;Jichang Rd E Bingang Rd Entrance Ramp
+493;2;2446;ji chang lu xi ce bin gang lu shang za dao
+493;3;2446;Jichang Rd W Bingang Rd Entrance Ramp
+493;2;2447;ji chang lu bei ce jin yu da dao dong ce ru kou za dao
+493;3;2447;Jichang Rd N Jinyu Blvd E Entrance Ramp
+493;2;2448;ji chang lu nan ce jin yu da dao dong ce ru kou za dao
+493;3;2448;Jichang Rd S Jinyu Blvd E Entrance Ramp
+493;2;2449;ji chang lu bei ce jin yu da dao xi ce ru kou za dao
+493;3;2449;Jichang Rd N Jinyu Blvd W Entrance Ramp
+493;2;2450;ji chang lu nan ce jin yu da dao xi ce ru kou za dao
+493;3;2450;Jichang Rd S Jinyu Blvd W Entrance Ramp
+493;2;2451;ji chang lu min an da dao ru kou za dao
+493;3;2451;Jichang Rd Min'an Blvd Entrance Ramp
+493;2;2452;ji chang lu nei huan kuai su lu wai quan ru kou za dao
+493;3;2452;Jichang Rd Inner Ring Expy Outside Ring Entrance Ramp
+493;2;2453;ji chang lu bei ce shuang hu lu bei ce ru kou za dao
+493;3;2453;Jichang Rd N Shuanghu Rd N Entrance Ramp
+493;2;2456;cai yuan ba chang jiang da qiao (hai tong lu)
+493;3;2456;Caiyuanbachangjiang Brg (Haitong Rd)
+493;2;2457;nan cheng sui dao (nan cheng da dao)
+493;3;2457;Nancheng Tunl (Nancheng Blvd)
+493;2;2458;bei qiao tou li jiao qiao
+493;3;2458;Beiqiaotou Jct
+493;2;2460;ju heng tian he yuan
+493;3;2460;Juhengtianheyuan
+493;2;2463;jiang bei cheng li jiao
+493;3;2463;Jiangbeicheng Jct
+493;2;2464;jiang bei cheng li jiao zhi dui shan li jiao
+493;3;2464;Jiangbeicheng Jct to Duishan Jct
+493;2;2465;tian chen lu zhi xiao long kan xin jie
+493;3;2465;Tianchen Rd to Xiaolongkan St
+493;2;2466;ji chang jia you zhan
+493;3;2466;Jichangjiayouzhan
+493;2;2467;shuang long da dao zhi ji chang jia you zhan
+493;3;2467;Shuanglong Blvd to Jichangjiayouzhan
+493;2;2468;he bai lu
+493;3;2468;Hebai Rd
+493;2;2469;chong qing dong wu yuan
+493;3;2469;Chongqing Zoo
+493;2;2470;chong qing bei zhan dong
+493;3;2470;Chongqingbeizhan E
+493;2;2471;tai shan da dao zhong duan nan
+493;3;2471;Taishandadao Middle Sect S
+493;2;2472;cui hua jie
+493;3;2472;Cuihua St
+493;2;2473;er lang li jiao qiao
+493;3;2473;Erlang Jct
+493;2;2474;shi long lu (yu chang dong jie)
+493;3;2474;Shilong Rd (Yuchang East St)
+493;2;2475;guan yin qiao bu xing jie
+493;3;2475;Guanyinqiao St

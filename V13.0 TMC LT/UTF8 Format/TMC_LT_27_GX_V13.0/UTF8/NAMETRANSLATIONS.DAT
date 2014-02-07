@@ -1,0 +1,681 @@
+﻿CID;LID;NID;NTRANSLATION
+517;2;4;nan ning shi
+517;3;4;Nanning
+517;2;5;fu sui fu wu qu
+517;3;5;Fusui Service Area
+517;2;7;nan you gao su gong lu
+517;3;7;Nanyou Hwy
+517;2;10;zhuang jin da dao
+517;3;10;Zhuangjin Blvd
+517;2;11;X001
+517;3;11;X001
+517;2;16;dong ping
+517;3;16;Dongping
+517;2;17;wu xiang da dao
+517;3;17;Wuxiang Blvd
+517;2;19;an ji da dao
+517;3;19;Anji Blvd
+517;2;20;du an ting che qu
+517;3;20;Du'an Parking Area
+517;2;21;yi ling yan ting che qu
+517;3;21;Yilingyan Parking Area
+517;2;22;Y056
+517;3;22;Y056
+517;2;24;wu ming fu wu qu
+517;3;24;Wuming Service Area
+517;2;25;X034
+517;3;25;X034
+517;2;26;S314
+517;3;26;S314
+517;2;27;ma shan fu wu qu
+517;3;27;Mashan Service Area
+517;2;29;G324
+517;3;29;G324
+517;2;31;die cheng lu
+517;3;31;Diecheng Rd
+517;2;33;xiao lin ting che qu
+517;3;33;Xiaolin Parking Area
+517;2;34;X036
+517;3;34;X036
+517;2;36;G322
+517;3;36;G322
+517;2;37;gao ling fu wu qu
+517;3;37;Gaoling Service Area
+517;2;38;min zu da dao
+517;3;38;Minzu Blvd
+517;2;39;X064
+517;3;39;X064
+517;2;40;san an fu wu qu
+517;3;40;San'an Service Area
+517;2;41;X029
+517;3;41;X029
+517;2;42;X024
+517;3;42;X024
+517;2;43;ling li fu wu qu
+517;3;43;Lingli Service Area
+517;2;46;X487
+517;3;46;X487
+517;2;47;wang ling fu wu qu
+517;3;47;Wangling Service Area
+517;2;49;heng xian fu wu qu
+517;3;49;Hengxian County Service Area
+517;2;50;X470
+517;3;50;X470
+517;2;51;yun biao ting che qu
+517;3;51;Yunbiao Parking Area
+517;2;52;G209
+517;3;52;G209
+517;2;54;X002
+517;3;54;X002
+517;2;55;you yi lu
+517;3;55;Youyi Rd
+517;2;56;bai sha da dao
+517;3;56;Baisha Blvd
+517;2;57;jin kai lu
+517;3;57;Jinkai Rd
+517;2;58;nan jian lu
+517;3;58;Nanjian Rd
+517;2;60;ting hong lu
+517;3;60;Tinghong Rd
+517;2;61;yong he da qiao
+517;3;61;Yonghe Brg
+517;2;62;jiang bei da dao
+517;3;62;Jiangbei Blvd
+517;2;63;yong he lu
+517;3;63;Yonghe Rd
+517;2;64;bei da nan lu
+517;3;64;Beida South Rd
+517;2;65;zhong hua lu
+517;3;65;Zhonghua Rd
+517;2;66;yuan hu bei lu
+517;3;66;Yuanhu North Rd
+517;2;67;di dong kou lu
+517;3;67;Didongkou Rd
+517;2;68;chao yang lu
+517;3;68;Chaoyang Rd
+517;2;69;you ai nan lu
+517;3;69;Youai South Rd
+517;2;70;gong yuan lu
+517;3;70;Gongyuan Rd
+517;2;71;wang zhou lu
+517;3;71;Wangzhou Rd
+517;2;72;nan wu lu
+517;3;72;Nanwu Rd
+517;2;73;wang zhou nan lu
+517;3;73;Wangzhou South Rd
+517;2;75;yong wu lu
+517;3;75;Yongwu Rd
+517;2;77;xiu xiang da dao
+517;3;77;Xiuxiang Blvd
+517;2;79;yin hai da dao
+517;3;79;Yinhai Blvd
+517;2;80;ying kai lu
+517;3;80;Yingkai Rd
+517;2;81;jian she lu
+517;3;81;Jianshe Rd
+517;2;82;xing guang da dao
+517;3;82;Xingguang Blvd
+517;2;83;fu jian lu
+517;3;83;Fujian Rd
+517;2;84;fu ju lu
+517;3;84;Fuju Rd
+517;2;85;jiang nan da dao
+517;3;85;Jiangnan Blvd
+517;2;86;min quan lu
+517;3;86;Minquan Rd
+517;2;87;ren min dong lu
+517;3;87;Renmin East Rd
+517;2;89;ming xiu xi lu
+517;3;89;Mingxiu West Rd
+517;2;90;xin yang lu
+517;3;90;Xinyang Rd
+517;2;91;da xue dong lu
+517;3;91;Daxue East Rd
+517;2;92;xiu ling lu
+517;3;92;Xiuling Rd
+517;2;93;bei hu nan lu
+517;3;93;Beihu South Rd
+517;2;94;xiang zhu da dao
+517;3;94;Xiangzhu Blvd
+517;2;96;sha jing da dao
+517;3;96;Shajing Blvd
+517;2;97;nan zhan da dao
+517;3;97;Nanzhan Blvd
+517;2;98;wu yi xi lu
+517;3;98;Wuyi West Rd
+517;2;99;ding jin lu
+517;3;99;Dingjin Rd
+517;2;100;qing chuan da dao
+517;3;100;Qingchuan Blvd
+517;2;101;gao xin wu lu
+517;3;101;Gaoxinwu Rd
+517;2;102;ke yuan da dao
+517;3;102;Keyuan Blvd
+517;2;103;lu ban lu
+517;3;103;Luban Rd
+517;2;104;you ai bei lu
+517;3;104;Youai North Rd
+517;2;105;bei hu bei lu
+517;3;105;Beihu North Rd
+517;2;106;pu jin lu
+517;3;106;Pujin Rd
+517;2;107;jin xiang da dao
+517;3;107;Jinxiang Blvd
+517;2;108;yin sha da dao
+517;3;108;Yinsha Blvd
+517;2;109;liu sha lu
+517;3;109;Liusha Rd
+517;2;110;ting jiang lu
+517;3;110;Tingjiang Rd
+517;2;111;jiao yu lu
+517;3;111;Jiaoyu Rd
+517;2;112;bai sha da dao fu lu
+517;3;112;Baisha Blvd Side Rd
+517;2;113;shuang yong lu
+517;3;113;Shuangyong Rd
+517;2;114;xing hu lu
+517;3;114;Xinghu Rd
+517;2;116;gu cheng lu
+517;3;116;Gucheng Rd
+517;2;117;min zhu lu
+517;3;117;Minzhu Rd
+517;2;118;dong ge lu
+517;3;118;Dongge Rd
+517;2;119;zhu xi da dao
+517;3;119;Zhuxi Blvd
+517;2;120;qing shan lu
+517;3;120;Qingshan Rd
+517;2;121;jin chun lu
+517;3;121;Jinchun Rd
+517;2;122;yue xiu lu
+517;3;122;Yuexiu Rd
+517;2;123;chang hu lu
+517;3;123;Changhu Rd
+517;2;124;fo zi ling lu
+517;3;124;Foziling Rd
+517;2;126;wu yi lu bei si li
+517;3;126;Wuyilubeisili
+517;2;127;wu yi lu bei er li
+517;3;127;Wuyilubeierli
+517;2;128;bai sha nan er li
+517;3;128;Baisha'nanerli
+517;2;132;jiang bin lu
+517;3;132;Jiangbin Rd
+517;2;134;dang yang jie
+517;3;134;Dangyang St
+517;2;135;nan huan lu
+517;3;135;S Ring Rd
+517;2;136;zhong shan lu
+517;3;136;Zhongshan Rd
+517;2;137;zhi wu lu
+517;3;137;Zhiwu Rd
+517;2;140;ying hua lu
+517;3;140;Yinghua Rd
+517;2;143;da xue xi lu
+517;3;143;Daxue West Rd
+517;2;144;shen yang lu
+517;3;144;Shenyang Rd
+517;2;145;bei da bei lu
+517;3;145;Beida North Rd
+517;2;146;qi xing lu
+517;3;146;Qixing Rd
+517;2;147;tao yuan lu
+517;3;147;Taoyuan Rd
+517;2;148;tian tao lu
+517;3;148;Tiantao Rd
+517;2;149;gui chun lu
+517;3;149;Guichun Rd
+517;2;150;bin hu lu
+517;3;150;Binhu Rd
+517;2;152;jia bin lu
+517;3;152;Jiabin Rd
+517;2;153;xiang bin lu
+517;3;153;Xiangbin Rd
+517;2;156;min sheng lu
+517;3;156;Minsheng Rd
+517;2;157;ming xiu dong lu
+517;3;157;Mingxiu East Rd
+517;2;158;min le lu
+517;3;158;Minle Rd
+517;2;159;heng yang dong lu
+517;3;159;Hengyang East Rd
+517;2;162;qing huan lu
+517;3;162;Qinghuan Rd
+517;2;163;xin min lu
+517;3;163;Xinmin Rd
+517;2;164;yuan hu nan lu
+517;3;164;Yuanhu South Rd
+517;2;165;cha hua yuan lu
+517;3;165;Chahuayuan Rd
+517;2;166;jin zhou lu
+517;3;166;Jinzhou Rd
+517;2;167;jin hu bei lu
+517;3;167;Jinhu North Rd
+517;2;168;jin pu lu
+517;3;168;Jinpu Rd
+517;2;169;feng huang ling lu
+517;3;169;Fenghuangling Rd
+517;2;171;chang gang lu liu li
+517;3;171;Changgangluliuli
+517;2;172;yue bin lu
+517;3;172;Yuebin Rd
+517;2;173;X013
+517;3;173;X013
+517;2;177;gao xin da dao
+517;3;177;Gaoxin Blvd
+517;2;179;chuang xin lu
+517;3;179;Chuangxin Rd
+517;2;180;ke yuan xi shi lu
+517;3;180;Keyuanxishi Rd
+517;2;181;ke yuan dong shi san lu
+517;3;181;Keyuandongshisan Rd
+517;2;182;bin he lu
+517;3;182;Binhe Rd
+517;2;183;ke yuan dong shi lu
+517;3;183;Keyuandongshi Rd
+517;2;184;gao xin san lu
+517;3;184;Gaoxinsan Rd
+517;2;185;gao xin qi lu
+517;3;185;Gaoxinqi Rd
+517;2;186;ren min xi lu
+517;3;186;Renmin West Rd
+517;2;187;long teng lu
+517;3;187;Longteng Rd
+517;2;188;yong ning jie
+517;3;188;Yongning St
+517;2;189;jie fang lu
+517;3;189;Jiefang Rd
+517;2;190;ren min zhong lu
+517;3;190;Renmin Middle Rd
+517;2;191;yuan yi lu
+517;3;191;Yuanyi Rd
+517;2;194;heng yang xi lu
+517;3;194;Hengyang West Rd
+517;2;195;wang zhou lu bei er li
+517;3;195;Wangzhoulubeierli
+517;2;196;xin hua lu
+517;3;196;Xinhua Rd
+517;2;200;gong he lu
+517;3;200;Gonghe Rd
+517;2;202;chang gang lu
+517;3;202;Changgang Rd
+517;2;205;chang gang lu san li
+517;3;205;Changganglusanli
+517;2;207;dong feng nan lu
+517;3;207;Dongfeng South Rd
+517;2;208;lei gong tang
+517;3;208;Leigongtang
+517;2;209;xian hu da dao
+517;3;209;Xianhu Blvd
+517;2;211;qing xiu shan guo ji gao er fu qiu hui
+517;3;211;Greenville International Golf Club
+517;2;213;qing lin lu
+517;3;213;Qinglin Rd
+517;2;215;wang yuan lu
+517;3;215;Wangyuan Rd
+517;2;216;lang xi xiao xue
+517;3;216;Langxixiaoxue
+517;2;217;hui chun lu
+517;3;217;Huichun Rd
+517;2;218;jin zhou lu nan er li
+517;3;218;Jinzhoulu'nanerli
+517;2;219;jia hu xiang
+517;3;219;Jiahu Ln
+517;2;220;jin hu nan lu
+517;3;220;Jinhu South Rd
+517;2;222;jin pu er zhi lu
+517;3;222;Jinpuer Byp
+517;2;224;jin pu lu san zhi lu
+517;3;224;Jinpulusan Byp
+517;2;225;qing xiu lu
+517;3;225;Qingxiu Rd
+517;2;226;hui zhan lu
+517;3;226;Huizhan Rd
+517;2;227;wen pu lu
+517;3;227;Wenpu Rd
+517;2;230;yun jing lu
+517;3;230;Yunjing Rd
+517;2;231;sha jing da dao fu lu
+517;3;231;Shajing Blvd Side Rd
+517;2;234;xiu xiang da dao fu lu
+517;3;234;Xiuxiang Blvd Side Rd
+517;2;235;nan zhan da dao fu lu
+517;3;235;Nanzhan Blvd Side Rd
+517;2;245;bai sha xiao xue
+517;3;245;Baisha Primary School
+517;2;256;da tang fu wu qu
+517;3;256;Datang Service Area
+517;2;258;zhu xi da dao fu lu
+517;3;258;Zhuxi Blvd Side Rd
+517;2;260;jian ye lu
+517;3;260;Jianye Rd
+517;2;262;xiang zhu da dao fu lu
+517;3;262;Xiangzhu Blvd Side Rd
+517;2;263;lan hai gao su gong lu
+517;3;263;Lanhai Hwy
+517;2;265;X003
+517;3;265;X003
+517;2;267;nan ning rao cheng gao su gong lu
+517;3;267;Nanningraocheng Hwy
+517;2;272;bai sha da qiao
+517;3;272;Baisha Brg
+517;2;274;yong bin lu
+517;3;274;Yongbin Rd
+517;2;275;feng xiang lu
+517;3;275;Fengxiang Rd
+517;2;276;yue wan lu
+517;3;276;Yuewan Rd
+517;2;277;feng da lu
+517;3;277;Fengda Rd
+517;2;278;peng fei lu
+517;3;278;Pengfei Rd
+517;2;279;luo wen da dao
+517;3;279;Luowen Blvd
+517;2;281;wu hua da dao
+517;3;281;Wuhua Blvd
+517;2;283;nan ning wu xu guo ji ji chang
+517;3;283;Nanning Wuxu Int'L Airport
+517;2;286;he zhou
+517;3;286;Hezhou
+517;2;288;quan nan gao su gong lu
+517;3;288;Quannan Hwy
+517;2;289;guang kun gao su gong lu
+517;3;289;Guangkun Hwy
+517;2;290;long an fu wu qu
+517;3;290;Longan Service Area
+517;2;291;tan luo fu wu qu
+517;3;291;Tanluo Service Area
+517;2;292;tong gu ling lu
+517;3;292;Tongguling Rd
+517;2;294;X037
+517;3;294;X037
+517;2;297;ping guo yuan
+517;3;297;Pingguoyuan
+517;2;305;ke li da dao
+517;3;305;Keli Blvd
+517;2;306;xin xu lu
+517;3;306;Xinxu Rd
+517;2;308;di yuan lu
+517;3;308;Diyuan Rd
+517;2;309;X004
+517;3;309;X004
+517;2;310;dan cun lu
+517;3;310;Dancun Rd
+517;2;311;nan ning rao cheng gao su gong lu bei duan
+517;3;311;Nanningraocheng Hwy North Sect
+517;2;312;nan ning rao cheng gao su gong lu dong duan
+517;3;312;Nanningraocheng Hwy East Sect
+517;2;313;nan ning rao cheng gao su gong lu nan duan
+517;3;313;Nanningraocheng Hwy South Sect
+517;2;314;nan ning rao cheng gao su gong lu xi duan
+517;3;314;Nanningraocheng Hwy West Sect
+517;2;315;kun lun da dao
+517;3;315;Kunlun Blvd
+517;2;318;nan ning wu xu guo ji ji chang zhi nan you gao su gong lu
+517;3;318;Nanningwuxuguojijichang to Nanyou Hwy
+517;2;319;ming xiu lu nan yi li
+517;3;319;Mingxiulu'nanyili
+517;2;320;hua xi lu
+517;3;320;Huaxi Rd
+517;2;321;hua qiang lu
+517;3;321;Huaqiang Rd
+517;2;322;hua dong lu
+517;3;322;Huadong Rd
+517;2;323;xi guan lu
+517;3;323;Xiguan Rd
+517;2;326;xin zhu lu
+517;3;326;Xinzhu Rd
+517;2;327;si xian lu
+517;3;327;Sixian Rd
+517;2;328;ge cun lu
+517;3;328;Gecun Rd
+517;2;329;jian zheng lu
+517;3;329;Jianzheng Rd
+517;2;330;jian zheng dong lu
+517;3;330;Jianzheng East Rd
+517;2;331;jia bin lu nan yi li
+517;3;331;Jiabinlu'nanyili
+517;2;332;gui jing xiang
+517;3;332;Guijing Ln
+517;2;333;yi bin lu
+517;3;333;Yibin Rd
+517;2;334;jing xiu lu
+517;3;334;Jingxiu Rd
+517;2;335;zhong jian lu
+517;3;335;Zhongjian Rd
+517;2;336;he zuo lu
+517;3;336;Hezuo Rd
+517;2;337;gui ya lu
+517;3;337;Guiya Rd
+517;2;338;gui hua lu
+517;3;338;Guihua Rd
+517;2;339;feng ling nan lu
+517;3;339;Fengling South Rd
+517;2;340;de zheng lu
+517;3;340;Dezheng Rd
+517;2;341;liu yuan lu
+517;3;341;Liuyuan Rd
+517;2;344;pan ling lu
+517;3;344;Panling Rd
+517;2;345;hu lu ding da qiao
+517;3;345;Huluding Brg
+517;2;346;X510
+517;3;346;X510
+517;2;355;gui gang chu ru kou
+517;3;355;Guigang Exit and Entrance Ramp
+517;2;356;xin xing jie
+517;3;356;Xinxing St
+517;2;358;guang kun gao su gong lu nan ning duan
+517;3;358;Guangkun Hwy Nanning Sect
+517;2;361;song bai lu
+517;3;361;Songbai Rd
+517;2;362;xin cun da dao
+517;3;362;Xincun Blvd
+517;2;363;xiang si hu xi lu
+517;3;363;Xiangsihu West Rd
+517;2;365;ping le da dao
+517;3;365;Pingle Blvd
+517;2;366;tao yuan da qiao
+517;3;366;Taoyuan Brg
+517;2;370;li bin da dao
+517;3;370;Libin Blvd
+517;2;372;ke de lu
+517;3;372;Kede Rd
+517;2;373;na hong da dao
+517;3;373;Nahong Blvd
+517;2;374;na li lu
+517;3;374;Nali Rd
+517;2;375;zhong ma lu
+517;3;375;Zhongma Rd
+517;2;376;zhong xin lu
+517;3;376;Zhongxin Rd
+517;2;377;zhong tai lu
+517;3;377;Zhongtai Rd
+517;2;378;zhong yue lu
+517;3;378;Zhongyue Rd
+517;2;379;jing zhou da dao
+517;3;379;Jingzhou Blvd
+517;2;380;yan dun lu
+517;3;380;Yandun Rd
+517;2;381;san die shi lu
+517;3;381;Sandieshi Rd
+517;2;385;wu yi xi lu bei er li
+517;3;385;Wuyi West Rd Beierli
+517;2;387;fu kang lu
+517;3;387;Fukang Rd
+517;2;389;xin xing yuan nan qu
+517;3;389;Xinxingyuan South Area
+517;2;392;qing chuan da dao fu lu
+517;3;392;Qingchuan Blvd Side Rd
+517;2;393;G210
+517;3;393;G210
+517;2;413;xian bin lu
+517;3;413;Xianbin Rd
+517;2;414;xiu ling bei lu
+517;3;414;Xiuling North Rd
+517;2;415;an ji da dao xi yi li
+517;3;415;Anjidadaoxiyili
+517;2;416;tong le lu
+517;3;416;Tongle Rd
+517;2;417;jin ji lu
+517;3;417;Jinji Rd
+517;2;418;xin yang lu nan yi li
+517;3;418;Xinyanglu'nanyili
+517;2;419;nan ning shi tong xing you er yuan
+517;3;419;Nanningshitongxingyoueryuan
+517;2;420;yao tou ling si xiang
+517;3;420;Yaotoulingsi Ln
+517;2;421;jin yang lu
+517;3;421;Jinyang Rd
+517;2;422;tong yuan lu
+517;3;422;Tongyuan Rd
+517;2;423;peng zhan lu
+517;3;423;Pengzhan Rd
+517;2;424;chang zhou tian ran yao ye gong si
+517;3;424;Changzhoutianranyaoyegongsi
+517;2;425;tong xin yi shu you er yuan
+517;3;425;Tongxinyishuyoueryuan
+517;2;426;gui bei lu
+517;3;426;Guibei Rd
+517;2;427;feng jiang lu
+517;3;427;Fengjiang Rd
+517;2;428;bin hu bei lu
+517;3;428;Binhu North Rd
+517;2;429;qing hu lu
+517;3;429;Qinghu Rd
+517;2;431;hui xiu lu
+517;3;431;Huixiu Rd
+517;2;432;zhu xiu lu
+517;3;432;Zhuxiu Rd
+517;2;433;bai yun lu
+517;3;433;Baiyun Rd
+517;2;434;hang jing xiang
+517;3;434;Hangjing Ln
+517;2;435;feng lin lu
+517;3;435;Fenglin Rd
+517;2;436;pan gu lu
+517;3;436;Pangu Rd
+517;2;437;kai tai lu
+517;3;437;Kaitai Rd
+517;2;438;rong mo da dao
+517;3;438;Rongmo Blvd
+517;2;439;shang zhou cun yi dui xiao qu
+517;3;439;Shangzhoucunyiduixiaoqu
+517;2;440;wu he da dao
+517;3;440;Wuhe Blvd
+517;2;441;cai hong lu
+517;3;441;Caihong Rd
+517;2;442;jun tang lu
+517;3;442;Juntang Rd
+517;2;443;tong fu lu
+517;3;443;Tongfu Rd
+517;2;445;guang xi jing guan gao deng zhuan ke xue xiao xian hu xiao qu
+517;3;445;Guangxijingguangaodengzhuankexuexiaoxianhuxiaoqu
+517;2;446;feng qi lu
+517;3;446;Fengqi Rd
+517;2;447;long gang da dao
+517;3;447;Longgang Blvd
+517;2;448;yue xiu li jiao
+517;3;448;Yuexiu Jct
+517;2;449;tan luo hu tong
+517;3;449;Tanluohutong
+517;2;450;bao an cun
+517;3;450;Baoan Village
+517;2;451;wu he hu tong
+517;3;451;Wuhehutong
+517;2;452;wu yi lu
+517;3;452;Wuyi Rd
+517;2;453;ba li lu (han lin jie)
+517;3;453;Bali Rd (Hanlin St)
+517;2;457;cui hu lu
+517;3;457;Cuihu Rd
+517;2;461;gao xin dong san lu
+517;3;461;Gaoxindongsan Rd
+517;2;462;shi bu zhong xin xiao xue
+517;3;462;Shibuzhongxinxiaoxue
+517;2;463;dan guan ling
+517;3;463;Danguanling
+517;2;465;ming xiu xiao qu nan qu
+517;3;465;Mingxiuxiaoqunanqu
+517;2;466;hu wu ling
+517;3;466;Huwuling
+517;2;467;wu xiang da dao (ping le da dao)
+517;3;467;Wuxiang Blvd (Pingle Blvd)
+517;2;468;nan ning da qiao
+517;3;468;Nanning Brg
+517;2;469;qing xiu shan
+517;3;469;Qingxiu Mountain
+517;2;470;bei da qiao
+517;3;470;Beidaqiao
+517;2;471;zuan shi guang chang
+517;3;471;Zuanshi Plz
+517;2;473;yun ju lu
+517;3;473;Yunju Rd
+517;2;474;feng ling er tong gong yuan
+517;3;474;Fengling Ertong Park
+517;2;476;G324 (jiu)
+517;3;476;G324(Former)
+517;2;477;ban tian
+517;3;477;Bantian
+517;2;478;guang xi she hui fu li yuan
+517;3;478;Guangxishehuifuliyuan
+517;2;479;jiang bei da dao zhi G324 (jiu)
+517;3;479;Jiangbei Blvd to G324 (Former)
+517;2;480;qing shan lu (nan hu sui dao)
+517;3;480;Qingshan Rd (Nanhu Tunl)
+517;2;481;ya zhou
+517;3;481;Asia
+517;2;482;zhong guo
+517;3;482;China
+517;2;483;guang xi zhuang zu zi zhi qu
+517;3;483;GUANGXI ZHUANGZU AUT. REG.
+517;2;494;G325
+517;3;494;G325
+517;2;875;lan hai gao su gong lu bei hai duan
+517;3;875;Lanhai Hwy Beihai Sect
+517;2;876;tie shan fu wu qu
+517;3;876;Tieshan Service Area
+517;2;877;shi zi lu shou fei zhan
+517;3;877;Shizilu Tollgate
+517;2;878;san bei gao su gong lu
+517;3;878;Sanbei Hwy
+517;2;879;shi wan fu wu qu
+517;3;879;Shiwan Service Area
+517;2;880;xing dao hu shou fei zhan
+517;3;880;Xingdaohu Tollgate
+517;2;881;shi tan fu wu qu
+517;3;881;Shitan Service Area
+517;2;882;bei hai shi
+517;3;882;Beihai
+517;2;883;qin zhou shi
+517;3;883;Qinzhou
+517;2;884;lan hai gao su gong lu qin zhou duan
+517;3;884;Lanhai Hwy Qinzhou Sect
+517;2;885;na li shou fei zhan
+517;3;885;Nali Tollgate
+517;2;886;qin zhou jin gang yi ji gong lu
+517;3;886;Qinzhoujin'gangyiji Hwy
+517;2;887;jin hai wan xi da dao
+517;3;887;Jinhaiwan West Blvd
+517;2;888;qin fang gao su gong lu
+517;3;888;Qinfang Hwy
+517;2;889;huang wu tun fu wu qu
+517;3;889;Huangwutun Service Area
+517;2;890;S218
+517;3;890;S218
+517;2;891;bai sha shou fei zhan
+517;3;891;Baisha Tollgate
+517;2;892;he chi shi
+517;3;892;Hechi
+517;2;893;lan hai gao su gong lu he chi duan
+517;3;893;Lanhai Hwy Hechi Sect
+517;2;894;G050
+517;3;894;G050
+517;2;895;liu qin gao su gong lu nan ning duan
+517;3;895;Liuqin Hwy Nanning Sect
+517;2;896;X581
+517;3;896;X581
+517;2;897;fu wu qu
+517;3;897;Service Area
+517;2;898;S101
+517;3;898;S101

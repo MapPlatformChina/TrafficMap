@@ -1,0 +1,3999 @@
+﻿CID;LID;NID;NTRANSLATION
+496;2;1;ya zhou
+496;3;1;Asia
+496;2;2;zhong guo
+496;3;2;China
+496;2;10;dong feng xi lu
+496;3;10;Dongfeng West Rd
+496;2;12;dong feng dong lu
+496;3;12;Dongfeng East Rd
+496;2;14;huang pu da dao zhong
+496;3;14;Huangpu Blvd M
+496;2;15;huang pu da dao dong
+496;3;15;Huangpu Blvd E
+496;2;16;jin sha zhou lu
+496;3;16;Jinshazhou Rd
+496;2;17;song nan lu
+496;3;17;Songnan Rd
+496;2;18;guang qing gao su gong lu
+496;3;18;Guangqing Hwy
+496;2;21;huan shi dong lu
+496;3;21;Huanshi East Rd
+496;2;23;zhong shan da dao xi
+496;3;23;Zhongshan Blvd W
+496;2;24;zhong shan da dao zhong
+496;3;24;Zhongshan Blvd M
+496;2;25;zhong shan da dao dong
+496;3;25;Zhongshan Blvd E
+496;2;26;G107
+496;3;26;G107
+496;2;27;guang zhou da dao nan
+496;3;27;Guangzhou Blvd S
+496;2;31;guang yuan zhong lu
+496;3;31;Guangyuan Middle Rd
+496;2;32;guang yuan xi lu
+496;3;32;Guangyuan West Rd
+496;2;33;san yuan li da dao
+496;3;33;Sanyuanli Blvd
+496;2;36;zhong shan liu lu
+496;3;36;Zhongshanliu Rd
+496;2;38;zhong shan si lu
+496;3;38;Zhongshansi Rd
+496;2;43;lu hu lu
+496;3;43;Luhu Rd
+496;2;45;xian lie zhong lu
+496;3;45;Xianlie Middle Rd
+496;2;54;G324
+496;3;54;G324
+496;2;55;da guan nan lu
+496;3;55;Daguan South Rd
+496;2;61;jie fang bei lu
+496;3;61;Jiefang North Rd
+496;2;64;S114
+496;3;64;S114
+496;2;66;li wan lu
+496;3;66;Liwan Rd
+496;2;67;bao hua lu
+496;3;67;Baohua Rd
+496;2;68;long jin zhong lu
+496;3;68;Longjin Middle Rd
+496;2;73;wen ming lu
+496;3;73;Wenming Rd
+496;2;75;dong hua dong lu
+496;3;75;Donghua East Rd
+496;2;77;chang shou dong lu
+496;3;77;Changshou East Rd
+496;2;79;shang jiu lu
+496;3;79;Shangjiu Rd
+496;2;80;da de lu
+496;3;80;Dade Rd
+496;2;81;he ping zhong lu
+496;3;81;Heping Middle Rd
+496;2;82;he ping dong lu
+496;3;82;Heping East Rd
+496;2;83;yi de lu
+496;3;83;Yide Rd
+496;2;85;bei jing lu
+496;3;85;Beijing Rd
+496;2;93;shi ba fu bei lu
+496;3;93;Shibafu North Rd
+496;2;99;ren min nan lu
+496;3;99;Renmin South Rd
+496;2;101;kang wang bei lu
+496;3;101;Kangwang North Rd
+496;2;104;tong qing lu
+496;3;104;Tongqing Rd
+496;2;105;jie fang nan lu
+496;3;105;Jiefang South Rd
+496;2;110;wen de lu
+496;3;110;Wende Rd
+496;2;114;bin jiang dong lu
+496;3;114;Binjiang East Rd
+496;2;117;guang jiu da ma lu
+496;3;117;Guangjiuda Rd
+496;2;118;bai yun lu
+496;3;118;Baiyun Rd
+496;2;121;da tong lu
+496;3;121;Datong Rd
+496;2;123;jiang nan da dao nan
+496;3;123;Jiangnan Blvd S
+496;2;125;jiang nan da dao bei
+496;3;125;Jiangnan Blvd N
+496;2;133;cang bian lu
+496;3;133;Cangbian Rd
+496;2;138;da jin zhong lu
+496;3;138;Dajinzhong Rd
+496;2;140;da dao lu
+496;3;140;Dadao Rd
+496;2;141;si you xin ma lu
+496;3;141;Siyouxin Rd
+496;2;148;ti yu dong lu
+496;3;148;Tiyu East Rd
+496;2;152;bao gang da dao
+496;3;152;Baogang Blvd
+496;2;155;gong ye da dao zhong
+496;3;155;Gongye Blvd M
+496;2;156;gong ye da dao nan
+496;3;156;Gongye Blvd S
+496;2;159;xin gang xi lu
+496;3;159;Xin'gang West Rd
+496;2;165;dong hu lu
+496;3;165;Donghu Rd
+496;2;167;ju de dong lu
+496;3;167;Jude East Rd
+496;2;168;jiang hai da dao
+496;3;168;Jianghai Blvd
+496;2;171;he dong lu
+496;3;171;Hedong Rd
+496;2;172;chang gang xi lu
+496;3;172;Changgang West Rd
+496;2;174;chang gang dong lu
+496;3;174;Changgang East Rd
+496;2;177;G106
+496;3;177;G106
+496;2;179;hua di da dao zhong
+496;3;179;Huadi Blvd M
+496;2;180;hua di da dao bei
+496;3;180;Huadi Blvd N
+496;2;181;zhu jiang sui dao
+496;3;181;Zhujiang Tunl
+496;2;200;xi cha lu
+496;3;200;Xicha Rd
+496;2;203;bao ye lu
+496;3;203;Baoye Rd
+496;2;205;fang cun da dao dong
+496;3;205;Fangcun Blvd E
+496;2;212;guang zhou huo che zhan
+496;3;212;Guangzhou Train Station
+496;2;214;heng an lu
+496;3;214;Heng'an Rd
+496;2;221;da sha tou er ma lu
+496;3;221;Dashatouer Rd
+496;2;223;fang zhi lu
+496;3;223;Fangzhi Rd
+496;2;230;ren min qiao
+496;3;230;Renmin Brg
+496;2;233;G321
+496;3;233;G321
+496;2;234;huang cun li jiao
+496;3;234;Huangcun Jct
+496;2;235;dong pu li jiao
+496;3;235;Dongpu Jct
+496;2;236;xin zhou li jiao
+496;3;236;Xinzhou Jct
+496;2;239;san jiao li jiao
+496;3;239;Sanjiao Jct
+496;2;241;hai nan li jiao
+496;3;241;Hainan Jct
+496;2;243;huang qi li jiao
+496;3;243;Huangqi Jct
+496;2;244;xun feng zhou li jiao
+496;3;244;Xunfengzhou Jct
+496;2;245;sha bei li jiao
+496;3;245;Shabei Jct
+496;2;249;sha he li jiao
+496;3;249;Shahe Jct
+496;2;250;cen cun li jiao
+496;3;250;Cencun Jct
+496;2;252;ying bin da dao
+496;3;252;Yingbin Blvd
+496;2;255;tu hua li jiao
+496;3;255;Tuhua Jct
+496;2;264;guang yuan dong lu
+496;3;264;Guangyuan East Rd
+496;2;266;tian shou lu
+496;3;266;Tianshou Rd
+496;2;267;wu shan lu
+496;3;267;Wushan Rd
+496;2;270;che bei lu
+496;3;270;Chebei Rd
+496;2;282;ren min bei lu
+496;3;282;Renmin North Rd
+496;2;285;lian xin lu
+496;3;285;Lianxin Rd
+496;2;286;ji xiang lu
+496;3;286;Jixiang Rd
+496;2;287;xiao bei lu
+496;3;287;Xiaobei Rd
+496;2;288;de zheng bei lu
+496;3;288;Dezheng North Rd
+496;2;289;yue xiu bei lu
+496;3;289;Yuexiu North Rd
+496;2;290;jian she da ma lu
+496;3;290;Jiansheda Rd
+496;2;292;xian lie nan lu
+496;3;292;Xianlie South Rd
+496;2;293;nong lin xia lu
+496;3;293;Nonglinxia Rd
+496;2;294;mei dong lu
+496;3;294;Meidong Rd
+496;2;295;guang zhou da dao zhong
+496;3;295;Guangzhou Blvd M
+496;2;296;zhong shan yi lu li jiao qiao
+496;3;296;Zhongshanyilu Jct
+496;2;297;hua xia lu
+496;3;297;Huaxia Rd
+496;2;299;tian he dong lu
+496;3;299;Tianhe East Rd
+496;2;303;tian fu lu
+496;3;303;Tianfu Rd
+496;2;304;ke yun lu
+496;3;304;Keyun Rd
+496;2;308;hui cai lu
+496;3;308;Huicai Rd
+496;2;316;zeng cha lu
+496;3;316;Zengcha Rd
+496;2;320;ya gang da dao
+496;3;320;Yagang Blvd
+496;2;321;jiang shi xi lu
+496;3;321;Jiangshi West Rd
+496;2;324;shen shan da dao xi
+496;3;324;Shenshan Blvd W
+496;2;325;nong xin lu
+496;3;325;Nongxin Rd
+496;2;326;ping bu da dao zhong
+496;3;326;Pingbu Blvd M
+496;2;331;hui qiao nan lu
+496;3;331;Huiqiao South Rd
+496;2;332;he nan zhong lu
+496;3;332;He'nan Middle Rd
+496;2;336;ji chang da dao dong
+496;3;336;Jichang Blvd E
+496;2;339;tong xin lu
+496;3;339;Tongxin Rd
+496;2;344;mei hua lu
+496;3;344;Meihua Rd
+496;2;346;ti yu xi lu
+496;3;346;Tiyu West Rd
+496;2;349;shi pai xi lu
+496;3;349;Shipai West Rd
+496;2;351;shi pai dong lu
+496;3;351;Shipai East Rd
+496;2;357;huang cun xi lu
+496;3;357;Huangcun West Rd
+496;2;363;mao gang lu
+496;3;363;Maogang Rd
+496;2;365;feng le zhong lu
+496;3;365;Fengle Middle Rd
+496;2;366;shi hua lu
+496;3;366;Shihua Rd
+496;2;369;feng le bei lu
+496;3;369;Fengle North Rd
+496;2;370;kai fa da dao
+496;3;370;Kaifa Blvd
+496;2;372;hou jiao xi da jie
+496;3;372;Houjiao West Ave
+496;2;374;yi jing lu
+496;3;374;Yijing Rd
+496;2;376;jin ju lu
+496;3;376;Jinju Rd
+496;2;380;hua cheng da dao
+496;3;380;Huacheng Blvd
+496;2;381;dong xing bei lu
+496;3;381;Dongxing North Rd
+496;2;383;tian he lu
+496;3;383;Tianhe Rd
+496;2;384;tian he bei lu
+496;3;384;Tianhe North Rd
+496;2;385;lin he xi heng lu
+496;3;385;Linhe West Rd
+496;2;386;xian lie dong lu
+496;3;386;Xianlie East Rd
+496;2;389;xing hua lu
+496;3;389;Xinghua Rd
+496;2;390;jing xi lu
+496;3;390;Jingxi Rd
+496;2;391;tong tai lu
+496;3;391;Tongtai Rd
+496;2;397;xia tang xi lu
+496;3;397;Xiatang West Rd
+496;2;400;huan shi xi lu
+496;3;400;Huanshi West Rd
+496;2;405;yao hua jie
+496;3;405;Yaohua St
+496;2;415;hai zhu bei lu
+496;3;415;Haizhu North Rd
+496;2;423;de zheng zhong lu
+496;3;423;Dezheng Middle Rd
+496;2;426;ling yuan xi lu
+496;3;426;Lingyuan West Rd
+496;2;430;cai yuan xi
+496;3;430;Caiyuan W
+496;2;437;hao xian lu
+496;3;437;Haoxian Rd
+496;2;438;fa zheng lu
+496;3;438;Fazheng Rd
+496;2;439;huan shi zhong lu
+496;3;439;Huanshi Middle Rd
+496;2;441;heng fu lu
+496;3;441;Hengfu Rd
+496;2;442;lu jing lu
+496;3;442;Lujing Rd
+496;2;447;tai he gang lu
+496;3;447;Taihegang Rd
+496;2;448;yun he bei jie
+496;3;448;Yunhe North St
+496;2;451;shui yin lu
+496;3;451;Shuiyin Rd
+496;2;453;lian quan lu
+496;3;453;Lianquan Rd
+496;2;457;shou gou ling lu
+496;3;457;Shougouling Rd
+496;2;464;sha tai nan lu
+496;3;464;Shatai South Rd
+496;2;473;G105
+496;3;473;G105
+496;2;480;tian lu bei lu
+496;3;480;Tianlu North Rd
+496;2;483;kang ping lu
+496;3;483;Kangping Rd
+496;2;488;guang yuan kuai su lu
+496;3;488;Guangyuan Expy
+496;2;490;yan ling lu
+496;3;490;Yanling Rd
+496;2;491;chang xing lu
+496;3;491;Changxing Rd
+496;2;497;tian lu nan lu
+496;3;497;Tianlu South Rd
+496;2;499;X274
+496;3;499;X274
+496;2;503;ao ti lu
+496;3;503;Aoti Rd
+496;2;504;da guan zhong lu
+496;3;504;Daguan Middle Rd
+496;2;507;guang pu xi lu
+496;3;507;Guangpu West Rd
+496;2;512;pan tang lu
+496;3;512;Pantang Rd
+496;2;516;peng lai lu
+496;3;516;Penglai Rd
+496;2;520;zhan qian lu
+496;3;520;Zhanqian Rd
+496;2;521;zhan qian heng lu
+496;3;521;Zhanqian Rd
+496;2;526;pan fu lu
+496;3;526;Panfu Rd
+496;2;527;liu hua lu
+496;3;527;Liuhua Rd
+496;2;532;wen chang xi jie
+496;3;532;Wenchang West St
+496;2;533;le jia lu
+496;3;533;Lejia Rd
+496;2;534;yuan jing lu
+496;3;534;Yuanjing Rd
+496;2;535;gang bei lu
+496;3;535;Gangbei Rd
+496;2;539;huang shi dong lu
+496;3;539;Huangshi East Rd
+496;2;542;xia mao da dao
+496;3;542;Xiamao Blvd
+496;2;544;xin shi lu
+496;3;544;Xinshi Rd
+496;2;548;yuan bian bei jie
+496;3;548;Yuanbian North St
+496;2;552;jing hu da dao nan
+496;3;552;Jinghu Blvd S
+496;2;553;X264
+496;3;553;X264
+496;2;554;ya yao zhong lu
+496;3;554;Yayao Middle Rd
+496;2;555;huan hu lu
+496;3;555;Huanhu Rd
+496;2;558;kai chuang da dao
+496;3;558;Kaichuang Blvd
+496;2;561;zhong shan ba lu
+496;3;561;Zhongshanba Rd
+496;2;562;zhou men lu
+496;3;562;Zhoumen Rd
+496;2;565;di shi fu lu
+496;3;565;Dishifu Rd
+496;2;566;chang shou xi lu
+496;3;566;Changshou West Rd
+496;2;567;duo bao lu
+496;3;567;Duobao Rd
+496;2;568;bao yuan lu
+496;3;568;Baoyuan Rd
+496;2;572;wen chang bei lu
+496;3;572;Wenchang North Rd
+496;2;575;guang fu zhong lu
+496;3;575;Guangfu Middle Rd
+496;2;578;shi shu lu
+496;3;578;Shishu Rd
+496;2;580;mi shi lu
+496;3;580;Mishi Rd
+496;2;584;jiao yu lu
+496;3;584;Jiaoyu Rd
+496;2;593;yue xiu zhong lu
+496;3;593;Yuexiu Middle Rd
+496;2;596;jiao chang xi lu
+496;3;596;Jiaochang West Rd
+496;2;606;de xing lu
+496;3;606;Dexing Rd
+496;2;609;en ning lu
+496;3;609;Enning Rd
+496;2;612;xia jiu lu
+496;3;612;Xiajiu Rd
+496;2;615;ren min zhong lu
+496;3;615;Renmin Middle Rd
+496;2;616;tian cheng lu
+496;3;616;Tiancheng Rd
+496;2;617;hai zhu zhong lu
+496;3;617;Haizhu Middle Rd
+496;2;618;jie fang zhong lu
+496;3;618;Jiefang Middle Rd
+496;2;619;guang zhou qi yi lu
+496;3;619;Guangzhouqiyi Rd
+496;2;620;shi ba fu nan lu
+496;3;620;Shibafu South Rd
+496;2;621;kang wang nan lu
+496;3;621;Kangwang South Rd
+496;2;623;chang le lu
+496;3;623;Changle Rd
+496;2;624;xing long bei lu
+496;3;624;Xinglong North Rd
+496;2;625;zhuang mao jie
+496;3;625;Zhuangmao St
+496;2;629;ren ji lu
+496;3;629;Renji Rd
+496;2;631;hai zhu nan lu
+496;3;631;Haizhu South Rd
+496;2;632;jing hai lu
+496;3;632;Jinghai Rd
+496;2;634;qiao guang xi lu
+496;3;634;Qiaoguang West Rd
+496;2;637;hui long lu
+496;3;637;Huilong Rd
+496;2;639;yan jiang zhong lu
+496;3;639;Yanjiang Middle Rd
+496;2;640;nan di er ma lu
+496;3;640;Nandier Rd
+496;2;641;zhu guang lu
+496;3;641;Zhuguang Rd
+496;2;642;wan fu lu
+496;3;642;Wanfu Rd
+496;2;643;da nan lu
+496;3;643;Da'nan Rd
+496;2;644;hui fu dong lu
+496;3;644;Huifu East Rd
+496;2;645;huang sha da dao
+496;3;645;Huangsha Blvd
+496;2;646;li zhi wan lu
+496;3;646;Lizhiwan Rd
+496;2;647;chang hua heng jie
+496;3;647;Changhua St
+496;2;652;chong bian yi ma lu
+496;3;652;Chongbianyi Rd
+496;2;660;wen chang nan lu
+496;3;660;Wenchang South Rd
+496;2;665;shi san fu lu
+496;3;665;Shisanfu Rd
+496;2;667;liu er san lu
+496;3;667;Liuersan Rd
+496;2;668;ti yun dong lu
+496;3;668;Tiyun East Rd
+496;2;671;shi ba fu xi lu
+496;3;671;Shibafu West Rd
+496;2;673;long jin xi lu
+496;3;673;Longjin West Rd
+496;2;674;feng yuan lu
+496;3;674;Fengyuan Rd
+496;2;677;huang sha hou dao
+496;3;677;Huangsha Back Ave
+496;2;683;ren min gao jia lu
+496;3;683;Renmin Viad
+496;2;685;zhan nan lu
+496;3;685;Zhannan Rd
+496;2;694;shi san hang lu
+496;3;694;Shisanhang Rd
+496;2;698;shan mu lan lu
+496;3;698;Shanmulan Rd
+496;2;703;zhong shan qi lu
+496;3;703;Zhongshanqi Rd
+496;2;704;xi hua lu
+496;3;704;Xihua Rd
+496;2;709;si ma jie
+496;3;709;Sima St
+496;2;710;guang fu bei lu
+496;3;710;Guangfu North Rd
+496;2;714;da xin lu
+496;3;714;Daxin Rd
+496;2;716;guang ta lu
+496;3;716;Guangta Rd
+496;2;719;tong fu dong lu
+496;3;719;Tongfu East Rd
+496;2;723;yan jiang xi lu
+496;3;723;Yanjiang West Rd
+496;2;730;de xing lu
+496;3;730;Dexing Rd
+496;2;732;chang di da ma lu
+496;3;732;Changdida Rd
+496;2;739;de zheng nan lu
+496;3;739;Dezheng South Rd
+496;2;740;yi cui lu
+496;3;740;Yicui Rd
+496;2;741;dong sha jiao lu
+496;3;741;Dongshajiao Rd
+496;2;743;ba qi er ma lu
+496;3;743;Baqier Rd
+496;2;750;wen de nan lu
+496;3;750;Wende South Rd
+496;2;752;zhan tang lu
+496;3;752;Zhantang Rd
+496;2;753;yue xiu nan lu
+496;3;753;Yuexiu South Rd
+496;2;754;zhou zui lu
+496;3;754;Zhouzui Rd
+496;2;755;zhou zui da jie
+496;3;755;Zhouzui Ave
+496;2;756;hong de lu
+496;3;756;Hongde Rd
+496;2;758;jie fang da qiao
+496;3;758;Jiefang Brg
+496;2;759;bin jiang zhong lu
+496;3;759;Binjiang Middle Rd
+496;2;761;bin jiang heng lu
+496;3;761;Binjiang Rd
+496;2;762;cao fang wei
+496;3;762;Caofangwei
+496;2;764;yuan an lu
+496;3;764;Yuanan Rd
+496;2;765;dong xiao lu
+496;3;765;Dongxiao Rd
+496;2;767;yi le lu
+496;3;767;Yile Rd
+496;2;768;yi qu jie
+496;3;768;Yiqu St
+496;2;769;shang du lu
+496;3;769;Shangdu Rd
+496;2;770;cui zhu lu
+496;3;770;Cuizhu Rd
+496;2;771;yi zhou lu
+496;3;771;Yizhou Rd
+496;2;783;dong chuan lu
+496;3;783;Dongchuan Rd
+496;2;784;dong hua nan lu
+496;3;784;Donghua South Rd
+496;2;786;dong hua xi lu
+496;3;786;Donghua West Rd
+496;2;787;zhong shan er lu
+496;3;787;Zhongshaner Rd
+496;2;789;da sha tou lu
+496;3;789;Dashatou Rd
+496;2;790;da sha tou san ma lu
+496;3;790;Dashatousan Rd
+496;2;794;yan jiang dong lu
+496;3;794;Yanjiang East Rd
+496;2;795;di zhu jie
+496;3;795;Dizhu St
+496;2;796;yan yu lu
+496;3;796;Yanyu Rd
+496;2;797;song tao jie
+496;3;797;Songtao St
+496;2;798;pa zhou jie
+496;3;798;Pazhou St
+496;2;799;yu yu jie
+496;3;799;Yuyu St
+496;2;807;jiang tai lu
+496;3;807;Jiangtai Rd
+496;2;812;jiang nan dong lu
+496;3;812;Jiangnan East Rd
+496;2;813;jiang wan lu
+496;3;813;Jiangwan Rd
+496;2;815;xiao gang lu
+496;3;815;Xiaogang Rd
+496;2;817;nan hua dong lu
+496;3;817;Nanhua East Rd
+496;2;818;tai kang lu
+496;3;818;Taikang Rd
+496;2;819;hai zhu qiao
+496;3;819;Haizhu Brg
+496;2;822;hui fu xi lu
+496;3;822;Huifu West Rd
+496;2;823;xi hu lu
+496;3;823;Xihu Rd
+496;2;824;zhong shan wu lu
+496;3;824;Zhongshanwu Rd
+496;2;826;fu qian lu
+496;3;826;Fuqian Rd
+496;2;835;guang wei lu
+496;3;835;Guangwei Rd
+496;2;838;ying yuan lu
+496;3;838;Yingyuan Rd
+496;2;840;yue hua lu
+496;3;840;Yuehua Rd
+496;2;841;dong feng zhong lu
+496;3;841;Dongfeng Middle Rd
+496;2;843;zhen hai lu
+496;3;843;Zhenhai Rd
+496;2;844;bei jiao chang lu
+496;3;844;Beijiaochang Rd
+496;2;847;xi sheng jie
+496;3;847;Xisheng St
+496;2;849;lu jing xi lu
+496;3;849;Lujing West Rd
+496;2;850;zheng tong lu
+496;3;850;Zhengtong Rd
+496;2;857;jian peng lu
+496;3;857;Jianpeng Rd
+496;2;858;dong ping da dao
+496;3;858;Dongping Blvd
+496;2;859;long xing zhong lu
+496;3;859;Longxing Middle Rd
+496;2;860;long he xi lu
+496;3;860;Longhe West Rd
+496;2;863;da li lu
+496;3;863;Dali Rd
+496;2;864;tai he bei lu
+496;3;864;Taihe North Rd
+496;2;865;X272
+496;3;865;X272
+496;2;867;wu xi lu
+496;3;867;Wuxi Rd
+496;2;869;zhu liao da dao dong
+496;3;869;Zhuliao Blvd E
+496;2;871;jing yun lu
+496;3;871;Jingyun Rd
+496;2;874;zhong shan san lu
+496;3;874;Zhongshansan Rd
+496;2;875;mei hua bei lu
+496;3;875;Meihua North Rd
+496;2;876;da dao xi lu
+496;3;876;Dadao West Rd
+496;2;877;bao an qian jie
+496;3;877;Baoan Front St
+496;2;878;xi yuan gang
+496;3;878;Xiyuangang
+496;2;879;zhong shan yi lu
+496;3;879;Zhongshanyi Rd
+496;2;881;si you yi ma lu
+496;3;881;Siyouyi Rd
+496;2;882;si you er ma lu
+496;3;882;Siyouer Rd
+496;2;887;hua sui lu
+496;3;887;Huasui Rd
+496;2;888;zhu jiang xi lu
+496;3;888;Zhujiang West Rd
+496;2;889;xian cun lu
+496;3;889;Xiancun Rd
+496;2;890;lie de da dao
+496;3;890;Liede Blvd
+496;2;891;ma chang lu
+496;3;891;Machang Rd
+496;2;892;ping jiang lu
+496;3;892;Pingjiang Rd
+496;2;893;lin jiang da dao
+496;3;893;Linjiang Blvd
+496;2;895;jin sui lu
+496;3;895;Jinsui Rd
+496;2;896;huang pu da dao xi
+496;3;896;Huangpu Blvd W
+496;2;906;tian he nan yi lu
+496;3;906;Tianhe'nanyi Rd
+496;2;914;tian he nan er lu
+496;3;914;Tianhe'naner Rd
+496;2;918;lin le lu
+496;3;918;Linle Rd
+496;2;920;bin jiang xi lu
+496;3;920;Binjiang West Rd
+496;2;921;nan hua zhong lu
+496;3;921;Nanhua Middle Rd
+496;2;922;tong fu zhong lu
+496;3;922;Tongfu Middle Rd
+496;2;923;nan tian lu
+496;3;923;Nantian Rd
+496;2;924;xing tan da jie
+496;3;924;Xingtan Ave
+496;2;925;jiang nan xi lu
+496;3;925;Jiangnan West Rd
+496;2;926;chang gang zhong lu
+496;3;926;Changgang Middle Rd
+496;2;927;nan tai lu
+496;3;927;Nantai Rd
+496;2;929;yan zi gang lu
+496;3;929;Yanzigang Rd
+496;2;931;li gang lu
+496;3;931;Ligang Rd
+496;2;939;shi gang lu
+496;3;939;Shigang Rd
+496;2;945;li jiao da dao
+496;3;945;Lijiao Blvd
+496;2;951;yi xian lu
+496;3;951;Yixian Rd
+496;2;955;yi yuan lu
+496;3;955;Yiyuan Rd
+496;2;956;chi gang bei lu
+496;3;956;Chigang North Rd
+496;2;961;hui zhan xi lu
+496;3;961;Huizhan West Rd
+496;2;962;zhan chang zhong lu
+496;3;962;Zhanchang Middle Rd
+496;2;966;nan zhou lu
+496;3;966;Nanzhou Rd
+496;2;970;qian jin lu
+496;3;970;Qianjin Rd
+496;2;971;zhong kai lu
+496;3;971;Zhongkai Rd
+496;2;972;hai yin da qiao
+496;3;972;Haiyin Brg
+496;2;977;dong hua bei lu
+496;3;977;Donghua North Rd
+496;2;978;jiang yan lu
+496;3;978;Jiangyan Rd
+496;2;981;guang ming bei lu
+496;3;981;Guangming North Rd
+496;2;982;xin guang kuai su lu
+496;3;982;Xinguang Expy
+496;2;985;ju de bei lu
+496;3;985;Jude North Rd
+496;2;986;shi liu gang lu
+496;3;986;Shiliugang Rd
+496;2;987;xin gang zhong lu
+496;3;987;Xin'gang Middle Rd
+496;2;989;shu gang lu
+496;3;989;Shugang Rd
+496;2;995;hua di da dao nan
+496;3;995;Huadi Blvd S
+496;2;1002;jiang nan da dao zhong
+496;3;1002;Jiangnan Blvd M
+496;2;1003;xiao gang zhong ma lu
+496;3;1003;Xiaogang Middle Rd
+496;2;1004;dong xiao nan lu
+496;3;1004;Dongxiao South Rd
+496;2;1020;guang hua yi lu
+496;3;1020;Guanghuayi Rd
+496;2;1021;bai hua ling bei jie
+496;3;1021;Baihualing North St
+496;2;1022;S116
+496;3;1022;S116
+496;2;1024;fang hua gong lu
+496;3;1024;Fanghua Hwy
+496;2;1025;ji chang gao su gong lu
+496;3;1025;Jichang Hwy
+496;2;1028;shang ye da dao
+496;3;1028;Shangye Blvd
+496;2;1032;yong kang lu
+496;3;1032;Yongkang Rd
+496;2;1035;long xi da dao
+496;3;1035;Longxi Blvd
+496;2;1037;huan hua lu
+496;3;1037;Huanhua Rd
+496;2;1038;hua lei lu
+496;3;1038;Hualei Rd
+496;2;1039;rong xing lu
+496;3;1039;Rongxing Rd
+496;2;1128;he yi jie
+496;3;1128;Heyi St
+496;2;1130;tang an lu
+496;3;1130;Tang'an Rd
+496;2;1135;yong fu lu
+496;3;1135;Yongfu Rd
+496;2;1136;guang zhou da dao bei
+496;3;1136;Guangzhou Blvd N
+496;2;1137;yu dong xi lu
+496;3;1137;Yudong West Rd
+496;2;1138;xi wan lu
+496;3;1138;Xiwan Rd
+496;2;1140;shi cha lu
+496;3;1140;Shicha Rd
+496;2;1151;gong ye da dao bei
+496;3;1151;Gongye Blvd N
+496;2;1158;ke xue da dao
+496;3;1158;Kexue Blvd
+496;2;1161;nan sha gang kuai su lu
+496;3;1161;Nanshagang Expy
+496;2;1162;xin jiao dong lu
+496;3;1162;Xinjiao East Rd
+496;2;1163;xin gang dong lu
+496;3;1163;Xin'gang East Rd
+496;2;1164;pa zhou da dao dong
+496;3;1164;Pazhou Blvd E
+496;2;1170;he ping xi lu
+496;3;1170;Heping West Rd
+496;2;1171;cong gui lu
+496;3;1171;Conggui Rd
+496;2;1172;da tong lu
+496;3;1172;Datong Rd
+496;2;1174;zhu ji lu
+496;3;1174;Zhuji Rd
+496;2;1178;guang dong sheng
+496;3;1178;GUANGDONG
+496;2;1179;guang zhou shi
+496;3;1179;Guangzhou
+496;2;1180;X265
+496;3;1180;X265
+496;2;1183;hua gui lu
+496;3;1183;Huagui Rd
+496;2;1186;bai yun da dao nan
+496;3;1186;Baiyun Blvd S
+496;2;1187;he qun yi ma lu
+496;3;1187;Hequnyi Rd
+496;2;1188;xin jiao xi lu
+496;3;1188;Xinjiao West Rd
+496;2;1189;hou de lu
+496;3;1189;Houde Rd
+496;2;1191;xiao yuan bei lu
+496;3;1191;Xiaoyuan North Rd
+496;2;1192;huan zhou san lu
+496;3;1192;Huanzhousan Rd
+496;2;1193;tu xing xiang
+496;3;1193;Tuxing Ln
+496;2;1194;kang wang zhong lu
+496;3;1194;Kangwang Middle Rd
+496;2;1195;zhen an lu
+496;3;1195;Zhen'an Rd
+496;2;1206;jing hui lu
+496;3;1206;Jinghui Rd
+496;2;1208;feng jing lu
+496;3;1208;Fengjing Rd
+496;2;1211;fang cun da dao zhong
+496;3;1211;Fangcun Blvd M
+496;2;1212;fang cun da dao xi
+496;3;1212;Fangcun Blvd W
+496;2;1213;dong jiao bei lu
+496;3;1213;Dongjiao North Rd
+496;2;1214;jiao kou da jie
+496;3;1214;Jiaokou Ave
+496;2;1215;xing dong lu
+496;3;1215;Xingdong Rd
+496;2;1216;lin he zhong lu
+496;3;1216;Linhe Middle Rd
+496;2;1217;zhi hang lu
+496;3;1217;Zhihang Rd
+496;2;1218;guang xiao lu
+496;3;1218;Guangxiao Rd
+496;2;1219;bin fen da dao
+496;3;1219;Binfen Blvd
+496;2;1220;zeng nan lu
+496;3;1220;Zengnan Rd
+496;2;1221;de kang lu
+496;3;1221;Dekang Rd
+496;2;1222;shi sha lu
+496;3;1222;Shisha Rd
+496;2;1223;bai yun da dao bei
+496;3;1223;Baiyun Blvd N
+496;2;1224;jiang xia dong er lu bei
+496;3;1224;Jiangxiadonger Rd N
+496;2;1225;huang shi xi lu
+496;3;1225;Huangshi West Rd
+496;2;1226;xiao ping dong lu
+496;3;1226;Xiaoping East Rd
+496;2;1227;lin he xi lu
+496;3;1227;Linhe West Rd
+496;2;1233;feng le nan lu
+496;3;1233;Fengle South Rd
+496;2;1234;gang qian lu
+496;3;1234;Gangqian Rd
+496;2;1235;da sha di dong
+496;3;1235;Dashadi E
+496;2;1236;hu lin lu
+496;3;1236;Hulin Rd
+496;2;1237;yu mao lu
+496;3;1237;Yumao Rd
+496;2;1238;huang cun da dao
+496;3;1238;Huangcun Blvd
+496;2;1240;da ling shan
+496;3;1240;Dalingshan
+496;2;1241;yue jiang xi lu
+496;3;1241;Yuejiang West Rd
+496;2;1242;guang zhou zhu jiang pi jiu gong si
+496;3;1242;Guangzhouzhujiangpijiugongsi
+496;2;1244;yue jiang zhong lu
+496;3;1244;Yuejiang Middle Rd
+496;2;1246;san dong da dao xi
+496;3;1246;Sandong Blvd W
+496;2;1247;he pan dong lu
+496;3;1247;Hepan East Rd
+496;2;1248;jian she bei lu
+496;3;1248;Jianshe North Rd
+496;2;1249;tian gui lu
+496;3;1249;Tiangui Rd
+496;2;1250;feng huang bei lu
+496;3;1250;Fenghuang North Rd
+496;2;1251;feng shen da dao
+496;3;1251;Fengshen Blvd
+496;2;1252;chi ni da dao nan
+496;3;1252;Chini Blvd S
+496;2;1253;ping bu da dao xi
+496;3;1253;Pingbu Blvd W
+496;2;1254;hong mian da dao bei
+496;3;1254;Hongmian Blvd N
+496;2;1255;li hong bei lu
+496;3;1255;Lihong North Rd
+496;2;1257;xin jie da dao
+496;3;1257;Xinjie Blvd
+496;2;1258;yun shan da dao
+496;3;1258;Yunshan Blvd
+496;2;1259;hua cheng lu
+496;3;1259;Huacheng Rd
+496;2;1260;tian mei lu
+496;3;1260;Tianmei Rd
+496;2;1261;xin hua lu
+496;3;1261;Xinhua Rd
+496;2;1262;hua cheng nan lu
+496;3;1262;Huacheng South Rd
+496;2;1263;xiu quan da dao
+496;3;1263;Xiuquan Blvd
+496;2;1264;bin hu lu
+496;3;1264;Binhu Rd
+496;2;1265;hu pan lu
+496;3;1265;Hupan Rd
+496;2;1266;jian she lu
+496;3;1266;Jianshe Rd
+496;2;1268;da chong lu
+496;3;1268;Dachong Rd
+496;2;1269;pan fu da jie
+496;3;1269;Panfu Ave
+496;2;1270;yuan cun er heng lu
+496;3;1270;Yuancuner Rd
+496;2;1271;tong fu xi lu
+496;3;1271;Tongfu West Rd
+496;2;1272;dong jiao nan lu
+496;3;1272;Dongjiao South Rd
+496;2;1273;dong fang san lu
+496;3;1273;Dongfangsan Rd
+496;2;1274;ying zhou lu
+496;3;1274;Yingzhou Rd
+496;2;1276;hai shan jie
+496;3;1276;Haishan St
+496;2;1277;huang hua lu
+496;3;1277;Huanghua Rd
+496;2;1279;dong hao chong gao jia
+496;3;1279;Donghaochong Viad
+496;2;1282;long xing xi lu
+496;3;1282;Longxing West Rd
+496;2;1286;wei xian
+496;3;1286;Weixian
+496;2;1290;hua wan lu
+496;3;1290;Huawan Rd
+496;2;1292;yu lan lu
+496;3;1292;Yulan Rd
+496;2;1293;dong shan da jie
+496;3;1293;Dongshan Ave
+496;2;1296;mu yuan
+496;3;1296;Muyuan
+496;2;1300;qing he dong lu
+496;3;1300;Qinghe East Rd
+496;2;1301;shi nan lu
+496;3;1301;Shinan Rd
+496;2;1304;S111
+496;3;1304;S111
+496;2;1305;su shi qing shou fei zhan
+496;3;1305;Sushiqing Tollgate
+496;2;1306;X298
+496;3;1306;X298
+496;2;1307;li xin shou fei zhan
+496;3;1307;Lixin Tollgate
+496;2;1308;wan huan xi lu
+496;3;1308;Wanhuan West Rd
+496;2;1309;hai gang da dao
+496;3;1309;Haigang Blvd
+496;2;1314;cao tang shou fei zhan
+496;3;1314;Caotang Tollgate
+496;2;1328;xin tang shou fei zhan
+496;3;1328;Xintang Tollgate
+496;2;1329;xin xin shou fei zhan
+496;3;1329;Xinxin Tollgate
+496;2;1330;S118
+496;3;1330;S118
+496;2;1331;li xin gong lu
+496;3;1331;Lixin Hwy
+496;2;1332;X291
+496;3;1332;X291
+496;2;1333;xin sha da dao bei
+496;3;1333;Xinsha Blvd N
+496;2;1334;sha pu shou fei zhan
+496;3;1334;Shapu Tollgate
+496;2;1335;xian cun fu wu qu
+496;3;1335;Xiancun Service Area
+496;2;1336;xian cun shou fei zhan
+496;3;1336;Xiancun Tollgate
+496;2;1365;S358
+496;3;1365;S358
+496;2;1377;xing ye lu
+496;3;1377;Xingye Rd
+496;2;1399;tong bao lu (sha tai bei lu)
+496;3;1399;Tongbao Rd (Shatai North Rd)
+496;2;1402;S116 (tai he nan lu)
+496;3;1402;S116 (Taihe South Rd)
+496;2;1403;G105 (tai ying lu)
+496;3;1403;G105 (Taiying Rd)
+496;2;1409;shi ling fu wu qu
+496;3;1409;Shiling Service Area
+496;2;1411;fu wu qu
+496;3;1411;Service Area
+496;2;1414;wa yao gang fu wu qu
+496;3;1414;Wayaogang Service Area
+496;2;1418;lun tou lu
+496;3;1418;Luntou Rd
+496;2;1420;nei huan lu
+496;3;1420;Inner Ring Rd
+496;2;1425;S256
+496;3;1425;S256
+496;2;1426;sha pu fu wu qu
+496;3;1426;Shapu Service Area
+496;2;1434;xia du lu
+496;3;1434;Xiadu Rd
+496;2;1435;ju de xi lu
+496;3;1435;Jude West Rd
+496;2;1436;chi gang xi lu
+496;3;1436;Chigang West Rd
+496;2;1437;chi gang lu
+496;3;1437;Chigang Rd
+496;2;1439;cha jiao lu
+496;3;1439;Chajiao Rd
+496;2;1441;feng xi cun
+496;3;1441;Fengxi Village
+496;2;1442;kui peng lu
+496;3;1442;Kuipeng Rd
+496;2;1444;feng chi lu
+496;3;1444;Fengchi Rd
+496;2;1446;long xi xi lu
+496;3;1446;Longxi West Rd
+496;2;1449;long xi zhong lu
+496;3;1449;Longxi Middle Rd
+496;2;1450;long xi dong lu
+496;3;1450;Longxi East Rd
+496;2;1451;dong jiao jie
+496;3;1451;Dongjiao St
+496;2;1453;huan cui xi lu
+496;3;1453;Huancui West Rd
+496;2;1454;dong xi lu
+496;3;1454;Dongxi Rd
+496;2;1455;he jing lu
+496;3;1455;Hejing Rd
+496;2;1456;dong sha da dao
+496;3;1456;Dongsha Blvd
+496;2;1457;huan cui nan lu
+496;3;1457;Huancui South Rd
+496;2;1458;huan cui bei lu
+496;3;1458;Huancui North Rd
+496;2;1459;fang cun da dao nan
+496;3;1459;Fangcun Blvd S
+496;2;1460;qian gui da jie
+496;3;1460;Qiangui Ave
+496;2;1461;xi di er ma lu
+496;3;1461;Xidier Rd
+496;2;1462;yang xiang lu
+496;3;1462;Yangxiang Rd
+496;2;1463;bai ling lu
+496;3;1463;Bailing Rd
+496;2;1464;zheng nan lu
+496;3;1464;Zhengnan Rd
+496;2;1465;dong yuan lu
+496;3;1465;Dongyuan Rd
+496;2;1466;guang wu tai er ma lu
+496;3;1466;Guangwutaier Rd
+496;2;1467;dong di er ma lu
+496;3;1467;Dongdier Rd
+496;2;1468;dong tie qiao er ma lu
+496;3;1468;Dongtieqiaoer Rd
+496;2;1469;jian she liu ma lu
+496;3;1469;Jiansheliu Rd
+496;2;1470;jian she heng ma lu
+496;3;1470;Jiansheheng Rd
+496;2;1471;zhi xin nan lu
+496;3;1471;Zhixin South Rd
+496;2;1472;dong hu xi lu
+496;3;1472;Donghu West Rd
+496;2;1473;lv yin lu
+496;3;1473;Lvyin Rd
+496;2;1474;tan yue jie
+496;3;1474;Tanyue St
+496;2;1475;qing bo lu
+496;3;1475;Qingbo Rd
+496;2;1476;yi jing lu
+496;3;1476;Yijing Rd
+496;2;1477;jin an yuan
+496;3;1477;Jinanyuan
+496;2;1479;yi jing lu zhi yi zhou lu
+496;3;1479;Yijing Rd to Yizhou Rd
+496;2;1482;he qun zhong lu
+496;3;1482;Hequn Middle Rd
+496;2;1483;he qun xi lu
+496;3;1483;Hequn West Rd
+496;2;1484;xin he pu lu
+496;3;1484;Xinhepu Rd
+496;2;1486;gui gang da ma lu
+496;3;1486;Guigangda Rd
+496;2;1487;miao qian zhi jie
+496;3;1487;Miaoqian St
+496;2;1488;jun yi lu
+496;3;1488;Junyi Rd
+496;2;1489;miao qian xi jie
+496;3;1489;Miaoqian West St
+496;2;1490;si bei tong jin
+496;3;1490;Sibeitongjin
+496;2;1491;yan dun lu
+496;3;1491;Yandun Rd
+496;2;1493;yun he nan jie
+496;3;1493;Yunhe South St
+496;2;1496;guang zhou dong zhan
+496;3;1496;Guangzhou East Railway Station
+496;2;1498;dong zhan guang chang
+496;3;1498;East Station Plaza
+496;2;1499;lin he dong lu
+496;3;1499;Linhe East Rd
+496;2;1501;lin he xi lu zhi lin he zhong lu
+496;3;1501;Linhe West Rd to Linhe Middle Rd
+496;2;1502;zhan yi zhi jie
+496;3;1502;Zhanyi St
+496;2;1503;yue ken lu
+496;3;1503;Yueken Rd
+496;2;1504;guang yuan kuai su lu fu lu
+496;3;1504;Guangyuan Expy Side Rd
+496;2;1505;dong guan zhuang lu
+496;3;1505;Dongguanzhuang Rd
+496;2;1506;neng yuan lu
+496;3;1506;Nengyuan Rd
+496;2;1507;chang fu lu
+496;3;1507;Changfu Rd
+496;2;1508;chang yuan lu
+496;3;1508;Changyuan Rd
+496;2;1509;jiang yue lu
+496;3;1509;Jiangyue Rd
+496;2;1510;ming yue er lu
+496;3;1510;Mingyueer Rd
+496;2;1512;dong xing nan lu
+496;3;1512;Dongxing South Rd
+496;2;1513;jin sui lu sui dao
+496;3;1513;Jinsuilu Tunl
+496;2;1514;wu shan ke ji guang chang
+496;3;1514;Wushankeji Plz
+496;2;1515;han jing lu
+496;3;1515;Hanjing Rd
+496;2;1516;hua jing lu
+496;3;1516;Huajing Rd
+496;2;1517;hua jing bei lu
+496;3;1517;Huajing North Rd
+496;2;1518;feng ye lu
+496;3;1518;Fengye Rd
+496;2;1519;dong pu er ma lu
+496;3;1519;Dongpuer Rd
+496;2;1520;dong pu da ma lu
+496;3;1520;Dongpuda Rd
+496;2;1521;huan xi xi lu
+496;3;1521;Huanxi West Rd
+496;2;1528;xin tang da jie
+496;3;1528;Xintang Ave
+496;2;1529;zhu si xin cun
+496;3;1529;Zhusixincun
+496;2;1531;niu ru ji
+496;3;1531;Niuruji
+496;2;1532;yun xiao lu
+496;3;1532;Yunxiao Rd
+496;2;1533;yun cheng xi lu
+496;3;1533;Yuncheng West Rd
+496;2;1537;huan zhen dong lu
+496;3;1537;Huanzhen East Rd
+496;2;1538;jin sha bei lu
+496;3;1538;Jinsha North Rd
+496;2;1539;xia hua san lu
+496;3;1539;Xiahuasan Rd
+496;2;1540;jiang ren yi lu
+496;3;1540;Jiangrenyi Rd
+496;2;1542;kong gang qi lu
+496;3;1542;Konggangqi Rd
+496;2;1543;heng wu lu
+496;3;1543;Hengwu Rd
+496;2;1544;heng ba lu
+496;3;1544;Hengba Rd
+496;2;1545;heng qi lu
+496;3;1545;Hengqi Rd
+496;2;1546;kong gang wu lu
+496;3;1546;Konggangwu Rd
+496;2;1547;ji chang da dao xi
+496;3;1547;Jichang Blvd W
+496;2;1548;kong gang si lu
+496;3;1548;Konggangsi Rd
+496;2;1549;heng yi lu
+496;3;1549;Hengyi Rd
+496;2;1550;heng san lu
+496;3;1550;Hengsan Rd
+496;2;1552;fang hua gong lu zhi heng yi lu
+496;3;1552;Fanghua Hwy to Hengyi Rd
+496;2;1553;kong gang yi lu
+496;3;1553;Konggangyi Rd
+496;2;1554;X280
+496;3;1554;X280
+496;2;1555;Y143
+496;3;1555;Y143
+496;2;1557;ji chang da dao
+496;3;1557;Jichang Blvd
+496;2;1558;heng shi er lu
+496;3;1558;Hengshier Rd
+496;2;1559;jiang cheng lu
+496;3;1559;Jiangcheng Rd
+496;2;1565;dong huan lu
+496;3;1565;E Ring Rd
+496;2;1571;huang bian cun song bai lu
+496;3;1571;Huangbiancunsongbai Rd
+496;2;1572;S257
+496;3;1572;S257
+496;2;1573;da bei lu
+496;3;1573;Dabei Rd
+496;2;1585;xin guang kuai su lu nan ce
+496;3;1585;Xinguang Expy S
+496;2;1588;xin guang kuai su lu ying bin da dao dong ce chu kou za dao
+496;3;1588;Xinguang Expy Yingbin Blvd E Exit Ramp
+496;2;1592;xin guang kuai su lu ying bin da dao xi ce chu kou za dao
+496;3;1592;Xinguang Expy Yingbin Blvd W Exit Ramp
+496;2;1593;ying bin da dao dong ce
+496;3;1593;Yingbin Blvd E
+496;2;1643;xian lie dong heng lu
+496;3;1643;Xianlie East Rd
+496;2;1697;peng cheng lu
+496;3;1697;Pengcheng Rd
+496;2;1699;hei shan san jie
+496;3;1699;Heishansan St
+496;2;1705;nong lin dong lu
+496;3;1705;Nonglin East Rd
+496;2;1714;tao jin bei lu
+496;3;1714;Taojin North Rd
+496;2;1720;xin guang kuai su lu bei ce
+496;3;1720;Xinguang Expy N
+496;2;1722;xin guang kuai su lu dong ce
+496;3;1722;Xinguang Expy E
+496;2;1730;xin guang kuai su lu xi ce
+496;3;1730;Xinguang Expy W
+496;2;1732;xin guang kuai su lu diao tou za dao
+496;3;1732;Xinguang Expy Diaotou Ramp
+496;2;1741;nan an lu
+496;3;1741;Nan'an Rd
+496;2;1751;zhong shan ba lu dong ce
+496;3;1751;Zhongshanba Rd E
+496;2;1765;dong hao yong gao jia dong ce
+496;3;1765;Donghaoyong Viad E
+496;2;1767;dong hao yong gao jia xi ce
+496;3;1767;Donghaoyong Viad W
+496;2;1773;yue xiu bei lu dong ce
+496;3;1773;Yuexiu North Rd E
+496;2;1775;yue xiu bei lu xi ce
+496;3;1775;Yuexiu North Rd W
+496;2;1778;dong hao yong gao jia yue xiu bei lu dong ce ru kou za dao
+496;3;1778;Donghaoyong Viad Yuexiu North Rd E Entrance Ramp
+496;2;1781;dong hao yong gao jia dong ce guang jiu da ma lu ru kou za dao
+496;3;1781;Donghaoyong Viad E Guangjiuda Rd Entrance Ramp
+496;2;1796;dong hao yong gao jia nan ce
+496;3;1796;Donghaoyong Viad S
+496;2;1797;dong hao yong gao jia bei ce
+496;3;1797;Donghaoyong Viad N
+496;2;1800;ke yun lu dong ce
+496;3;1800;Keyun Rd E
+496;2;1801;ke yun lu dong ce lun tou lu ru kou za dao
+496;3;1801;Keyun Rd E Luntou Rd Entrance Ramp
+496;2;1802;ke yun lu xi ce
+496;3;1802;Keyun Rd W
+496;2;1803;ke yun lu xi ce lun tou lu shang za dao
+496;3;1803;Keyun Rd W Luntou Rd Entrance Ramp
+496;2;1809;xin jiao dong lu dong ce
+496;3;1809;Xinjiao East Rd E
+496;2;1815;xin jiao dong lu xi ce
+496;3;1815;Xinjiao East Rd W
+496;2;1819;ke yun lu dong ce zhi ke yun lu xi ce diao tou za dao
+496;3;1819;Keyun Rd E to Keyun Rd W U-turn Ramp
+496;2;1820;ke yun lu xi ce zhi ke yun lu dong ce diao tou za dao
+496;3;1820;Keyun Rd W to Keyun Rd E U-turn Ramp
+496;2;1824;xin gang dong lu xi ce
+496;3;1824;Xin'gang East Rd W
+496;2;1830;ke yun lu dong ce xin gang dong lu ru kou za dao
+496;3;1830;Keyun Rd E Xin'gang East Rd Entrance Ramp
+496;2;1833;xin gang dong lu bei ce
+496;3;1833;Xin'gang East Rd N
+496;2;1836;ke yun lu pa zhou da dao dong shang za dao
+496;3;1836;Keyun Rd Pazhou Blvd E Entrance Ramp
+496;2;1844;ke yun lu yan xin gang dong lu fang xiang
+496;3;1844;Keyun Rd Yanxin'gang E Fangxiang
+496;2;1845;ke yun lu yan xin gang dong lu fang xiang zhi ke yun lu diao tou za dao
+496;3;1845;Keyun Rd Along Xingang East Rd Fangxiang to Keyun Rd U-turn Ramp
+496;2;1847;ke yun lu huang pu da dao zhong ru kou za dao
+496;3;1847;Keyun Rd Huangpu Blvd M Entrance Ramp
+496;2;1856;zhu jiang xin cheng
+496;3;1856;Zhujiang Xincheng
+496;2;1859;ying bin da dao xi ce
+496;3;1859;Yingbin Blvd W
+496;2;1860;xin guang kuai su lu ying bin da dao bei ce ru kou za dao
+496;3;1860;Xinguang Expy Yingbin Blvd N Entrance Ramp
+496;2;1861;xin guang kuai su lu xi ce ying bin da dao chu kou za dao
+496;3;1861;Xinguang Expy W Yingbin Blvd Exit Ramp
+496;2;1862;ying bin da dao bei ce
+496;3;1862;Yingbin Blvd N
+496;2;1864;ying bin da dao nan ce
+496;3;1864;Yingbin Blvd S
+496;2;1866;xin guang kuai su lu ying bin da dao nan ce ru kou za dao
+496;3;1866;Xinguang Expy Yingbin Blvd S Entrance Ramp
+496;2;1868;xin guang kuai su lu xi ce ying bin da dao ru kou za dao
+496;3;1868;Xinguang Expy W Yingbin Blvd Entrance Ramp
+496;2;1872;dong hao yong gao jia dong ce yue xiu bei lu xi ce ru kou za dao
+496;3;1872;Donghaoyong Viad E Yuexiu North Rd W Entrance Ramp
+496;2;1881;ke yun lu dong ce huang pu da dao zhong shang za dao
+496;3;1881;Keyun Rd E Huangpu Blvd M Entrance Ramp
+496;2;1882;ke yun lu xi ce huang pu da dao zhong shang za dao
+496;3;1882;Keyun Rd W Huangpu Blvd M Entrance Ramp
+496;2;1884;ke yun lu zhu jiang xin cheng fang xiang xia za dao
+496;3;1884;Keyun Rd Zhujiangxinchengfangxiang Exit Ramp
+496;2;1903;nei huan lu nei quan
+496;3;1903;Inner Ring Rd Inside Ring
+496;2;1908;chao liang zhong lu (tai he zhong lu)
+496;3;1908;Chaoliang Middle Rd (Taihe Middle Rd)
+496;2;1910;tai he nan lu (tai he zhong lu)
+496;3;1910;Taihe South Rd (Taihe Middle Rd)
+496;2;1915;nei huan lu nei quan bai yun lu xia za dao
+496;3;1915;Inner Ring Rd Inside Ring Baiyun Rd Exit Ramp
+496;2;1919;nei huan lu wai quan
+496;3;1919;Inner Ring Rd Outside Ring
+496;2;1922;nei huan lu wai quan da sha tou er ma lu shang za dao
+496;3;1922;Inner Ring Rd Outside Ring Dashatouer Rd Entrance Ramp
+496;2;1924;nei huan lu wai quan dong feng dong lu ru kou za dao
+496;3;1924;Inner Ring Rd Outside Ring Dongfeng East Rd Entrance Ramp
+496;2;1925;nei huan lu nei quan dong feng xi lu ru kou za dao
+496;3;1925;Inner Ring Rd Inside Ring Dongfeng West Rd Entrance Ramp
+496;2;1926;nei huan lu wai quan dong feng xi lu ru kou za dao
+496;3;1926;Inner Ring Rd Outside Ring Dongfeng West Rd Entrance Ramp
+496;2;1927;dong hao yong gao jia dong feng dong lu chu kou za dao
+496;3;1927;Donghaoyong Viad Dongfeng East Rd Exit Ramp
+496;2;1929;dong hao yong gao jia yue xiu bei lu chu kou za dao
+496;3;1929;Donghaoyong Viad Yuexiu North Rd Exit Ramp
+496;2;1930;dong hao yong gao jia dong feng zhong lu chu kou za dao
+496;3;1930;Donghaoyong Viad Dongfeng Middle Rd Exit Ramp
+496;2;1931;dong hao yong gao jia bei ce huan shi zhong lu chu kou za dao
+496;3;1931;Donghaoyong Viad N Huanshi Middle Rd Exit Ramp
+496;2;1932;dong hao yong gao jia xi ce dong feng zhong lu chu kou za dao
+496;3;1932;Donghaoyong Viad W Dongfeng Middle Rd Exit Ramp
+496;2;1933;dong hao yong gao jia nan ce huan shi dong lu chu kou za dao
+496;3;1933;Donghaoyong Viad S Huanshi East Rd Exit Ramp
+496;2;1934;dong hao yong gao jia xi ce dong di er ma lu chu kou za dao
+496;3;1934;Donghaoyong Viad W Dongdier Rd Exit Ramp
+496;2;1935;dong hao yong gao jia xi ce fa zheng lu xia za dao
+496;3;1935;Donghaoyong Viad W Fazheng Rd Exit Ramp
+496;2;1936;dong hao yong gao jia xi ce hao xian lu xia za dao
+496;3;1936;Donghaoyong Viad W Haoxian Rd Exit Ramp
+496;2;1937;dong hao yong gao jia xi ce yue xiu bei lu chu kou za dao
+496;3;1937;Donghaoyong Viad W Yuexiu North Rd Exit Ramp
+496;2;1938;nei huan lu wai quan dong hu lu ru kou
+496;3;1938;Inner Ring Rd Outside Ring Donghu Rd Entrance Ramp
+496;2;1939;nei huan lu nei quan dong hu xi lu shang za dao
+496;3;1939;Inner Ring Rd Inside Ring Donghu West Rd Entrance Ramp
+496;2;1940;nei huan lu wai quan dong hua bei lu shang za dao
+496;3;1940;Inner Ring Rd Outside Ring Donghua North Rd Entrance Ramp
+496;2;1941;nei huan lu wai quan dong hua nan lu ru kou za dao
+496;3;1941;Inner Ring Rd Outside Ring Donghua South Rd Entrance Ramp
+496;2;1942;bei dong lu
+496;3;1942;Beidong Rd
+496;2;1943;dong hao yong gao jia xi ce fa zheng lu shang za dao
+496;3;1943;Donghaoyong Viad W Fazheng Rd Entrance Ramp
+496;2;1944;nei huan lu nei quan gong ye da dao bei ru kou za dao
+496;3;1944;Inner Ring Rd Inside Ring Gongye Blvd N Entrance Ramp
+496;2;1949;ji shan xin lu jie
+496;3;1949;Jishanxinlu St
+496;2;1950;da yuan zhong lu
+496;3;1950;Dayuan Middle Rd
+496;2;1955;nei huan lu wai quan heng an lu ru kou za dao
+496;3;1955;Inner Ring Rd Outside Ring Heng'an Rd Entrance Ramp
+496;2;1956;nei huan lu nei quan heng fu lu shang za dao
+496;3;1956;Inner Ring Rd Inside Ring Hengfu Rd Entrance Ramp
+496;2;1957;tian yuan lu
+496;3;1957;Tianyuan Rd
+496;2;1958;nei huan lu wai quan huan shi xi lu shang za dao
+496;3;1958;Inner Ring Rd Outside Ring Huanshi West Rd Entrance Ramp
+496;2;1959;nei huan lu wai quan huan shi zhong lu shang za dao
+496;3;1959;Inner Ring Rd Outside Ring Huanshi Middle Rd Entrance Ramp
+496;2;1960;nei huan lu nei quan huang sha da dao shang za dao
+496;3;1960;Inner Ring Rd Inside Ring Huangsha Blvd Entrance Ramp
+496;2;1961;nei huan lu wai quan huang sha da dao ru kou za dao
+496;3;1961;Inner Ring Rd Outside Ring Huangsha Blvd Entrance Ramp
+496;2;1963;nei huan lu wai quan jiang wan lu shang za dao
+496;3;1963;Inner Ring Rd Outside Ring Jiangwan Rd Entrance Ramp
+496;2;1964;nei huan lu nei quan jiang wan lu shang za dao
+496;3;1964;Inner Ring Rd Inside Ring Jiangwan Rd Entrance Ramp
+496;2;1966;ke yun lu huang pu da dao zhong chu kou za dao
+496;3;1966;Keyun Rd Huangpu Blvd M Exit Ramp
+496;2;1967;ke yun lu lin jiang da dao xia za dao
+496;3;1967;Keyun Rd Linjiang Blvd Exit Ramp
+496;2;1971;ke yun lu xin jiao dong lu dong ce chu kou za dao
+496;3;1971;Keyun Rd Xinjiao East Rd E Exit Ramp
+496;2;1972;ke yun lu yue jiang zhong lu chu kou za dao
+496;3;1972;Keyun Rd Yuejiang Middle Rd Exit Ramp
+496;2;1973;ke yun lu zhong shan da dao xi xia za dao
+496;3;1973;Keyun Rd Zhongshan Blvd W Exit Ramp
+496;2;1974;ke yun lu dong ce huang pu da dao zhong chu kou za dao
+496;3;1974;Keyun Rd E Huangpu Blvd M Exit Ramp
+496;2;1977;ke yun lu xi ce huang pu da dao zhong chu kou za dao
+496;3;1977;Keyun Rd W Huangpu Blvd M Exit Ramp
+496;2;1978;ke yun lu xi ce lun tou lu chu kou za dao
+496;3;1978;Keyun Rd W Luntou Rd Exit Ramp
+496;2;1979;ke yun lu xi ce xin gang dong lu chu kou za dao
+496;3;1979;Keyun Rd W Xin'gang East Rd Exit Ramp
+496;2;1980;ke yun lu xi ce xin gang dong lu bei ce xia za dao
+496;3;1980;Keyun Rd W Xin'gang East Rd N Exit Ramp
+496;2;1981;nei huan lu wai quan liu er san lu chu kou za dao
+496;3;1981;Inner Ring Rd Outside Ring Liuersan Rd Exit Ramp
+496;2;1982;nei huan lu wai quan lv yin lu shang za dao
+496;3;1982;Inner Ring Rd Outside Ring Lvyin Rd Entrance Ramp
+496;2;1983;nei huan lu nei quan mei dong lu shang za dao
+496;3;1983;Inner Ring Rd Inside Ring Meidong Rd Entrance Ramp
+496;2;1984;nei huan lu wai quan da dao lu chu kou za dao
+496;3;1984;Inner Ring Rd Outside Ring Dadao Rd Exit Ramp
+496;2;1986;nei huan lu wai quan gong ye da dao bei chu kou za dao
+496;3;1986;Inner Ring Rd Outside Ring Gongye Blvd N Exit Ramp
+496;2;1987;nei huan lu wai quan G321 chu kou za dao
+496;3;1987;Inner Ring Rd Outside Ring G321 Exit Ramp
+496;2;1989;nei huan lu nei quan dong feng xi lu chu kou za dao
+496;3;1989;Inner Ring Rd Inside Ring Dongfeng West Rd Exit Ramp
+496;2;1991;nei huan lu zhong shan ba lu dong ce chu kou za dao
+496;3;1991;Inner Ring Rd Zhongshanba Rd E Exit Ramp
+496;2;1992;nei huan lu wai quan zhan qian lu xia za dao
+496;3;1992;Inner Ring Rd Outside Ring Zhanqian Rd Exit Ramp
+496;2;1993;nei huan lu wai quan xian lie dong heng lu chu kou za dao
+496;3;1993;Inner Ring Rd Outside Ring Xianlie East Rd Exit Ramp
+496;2;1994;nei huan lu nei quan ren min gao jia lu chu kou za dao
+496;3;1994;Inner Ring Rd Inside Ring Renmin Viad Exit Ramp
+496;2;1995;nei huan lu wai quan qian jin lu chu kou za dao
+496;3;1995;Inner Ring Rd Outside Ring Qianjin Rd Exit Ramp
+496;2;1996;nei huan lu wai quan peng cheng lu xia za dao
+496;3;1996;Inner Ring Rd Outside Ring Pengcheng Rd Exit Ramp
+496;2;1997;nei huan lu wai quan nan tian lu xia za dao
+496;3;1997;Inner Ring Rd Outside Ring Nantian Rd Exit Ramp
+496;2;1998;nei huan lu wai quan lv yin lu xia za dao
+496;3;1998;Inner Ring Rd Outside Ring Lvyin Rd Exit Ramp
+496;2;1999;nei huan lu nei quan lu hu lu chu kou za dao
+496;3;1999;Inner Ring Rd Inside Ring Luhu Rd Exit Ramp
+496;2;2000;nei huan lu wai quan jie fang bei lu xia za dao
+496;3;2000;Inner Ring Rd Outside Ring Jiefang North Rd Exit Ramp
+496;2;2001;nei huan lu nei quan jiang wan lu xia za dao
+496;3;2001;Inner Ring Rd Inside Ring Jiangwan Rd Exit Ramp
+496;2;2002;nei huan lu nei quan jiang nan da dao zhong chu kou za dao
+496;3;2002;Inner Ring Rd Inside Ring Jiangnandadaozhong Exit Ramp
+496;2;2003;nei huan lu nei quan huan shi zhong lu xia za dao
+496;3;2003;Inner Ring Rd Inside Ring Huanshi Middle Rd Exit Ramp
+496;2;2004;nei huan lu nei quan huan shi dong lu chu kou za dao
+496;3;2004;Inner Ring Rd Inside Ring Huanshi East Rd Exit Ramp
+496;2;2005;nei huan lu wai quan heng fu lu chu kou za dao
+496;3;2005;Inner Ring Rd Outside Ring Hengfu Rd Exit Ramp
+496;2;2006;nei huan lu nei quan hei shan san jie chu kou za dao
+496;3;2006;Inner Ring Rd Inside Ring Heishansan St Exit Ramp
+496;2;2008;nei huan lu nei quan fang zhi lu chu kou za dao
+496;3;2008;Inner Ring Rd Inside Ring Fangzhi Rd Exit Ramp
+496;2;2009;nei huan lu nei quan dong hua nan lu chu kou za dao
+496;3;2009;Inner Ring Rd Inside Ring Donghua South Rd Exit Ramp
+496;2;2010;nei huan lu nei quan dong hua bei lu xia za dao
+496;3;2010;Inner Ring Rd Inside Ring Donghua North Rd Exit Ramp
+496;2;2011;nei huan lu wai quan dong hu xi lu xia za dao
+496;3;2011;Inner Ring Rd Outside Ring Donghu West Rd Exit Ramp
+496;2;2012;nei huan lu nei quan dong hu lu chu kou za dao
+496;3;2012;Inner Ring Rd Inside Ring Donghu Rd Exit Ramp
+496;2;2013;nei huan lu dong feng xi lu chu kou za dao
+496;3;2013;Inner Ring Rd Dongfeng West Rd Exit Ramp
+496;2;2015;nei huan lu wai quan zhu jiang sui dao chu kou za dao
+496;3;2015;Inner Ring Rd Outside Ring Zhujiang Tunl Exit Ramp
+496;2;2017;nei huan lu wai quan nan an lu ru kou za dao
+496;3;2017;Inner Ring Rd Outside Ring Nan'an Rd Entrance Ramp
+496;2;2018;nei huan lu nei quan nan tian lu shang za dao
+496;3;2018;Inner Ring Rd Inside Ring Nantian Rd Entrance Ramp
+496;2;2019;nei huan lu wai quan nan tian lu shang za dao
+496;3;2019;Inner Ring Rd Outside Ring Nantian Rd Entrance Ramp
+496;2;2020;nei huan lu nei quan nong lin dong lu shang za dao
+496;3;2020;Inner Ring Rd Inside Ring Nonglin East Rd Entrance Ramp
+496;2;2022;nei huan lu nei quan ren min bei lu shang za dao
+496;3;2022;Inner Ring Rd Inside Ring Renmin North Rd Entrance Ramp
+496;2;2023;rui kang lu
+496;3;2023;Ruikang Rd
+496;2;2024;nei huan lu nei quan tao jin bei lu xia za dao
+496;3;2024;Inner Ring Rd Inside Ring Taojin North Rd Exit Ramp
+496;2;2027;nei huan lu wai quan xian lie dong lu ru kou za dao
+496;3;2027;Inner Ring Rd Outside Ring Xianlie East Rd Entrance Ramp
+496;2;2029;ke yun lu xin gang dong lu xi ce ru kou za dao
+496;3;2029;Keyun Rd Xin'gang East Rd W Entrance Ramp
+496;2;2030;xin guang kuai su lu S257 chu kou za dao
+496;3;2030;Xin'guang Expy S257 Exit Ramp
+496;2;2033;xin guang kuai su lu ying bin da dao bei ce chu kou za dao
+496;3;2033;Xinguang Expy Yingbin Blvd N Exit Ramp
+496;2;2035;xin jiao dong lu nan ce
+496;3;2035;Xinjiao East Rd S
+496;2;2036;ke yun lu xin jiao dong lu nan ce ru kou za dao
+496;3;2036;Keyun Rd Xinjiao East Rd S Entrance Ramp
+496;2;2041;xin guang kuai su lu dong ce ying bin da dao ru kou za dao
+496;3;2041;Xinguang Expy E Yingbin Blvd Entrance Ramp
+496;2;2043;xin guang kuai su lu xi ce ying bin da dao nan ce ru kou za dao
+496;3;2043;Xinguang Expy W Yingbin Blvd S Entrance Ramp
+496;2;2045;xin guang kuai su lu dong ce ying bin da dao nan ce ru kou za dao
+496;3;2045;Xinguang Expy E Yingbin Blvd S Entrance Ramp
+496;2;2046;xin guang kuai su lu xi ce ying bin da dao nan ce chu kou za dao
+496;3;2046;Xinguang Expy W Yingbin Blvd S Exit Ramp
+496;2;2048;nei huan lu nei quan yong fu lu shang za dao
+496;3;2048;Inner Ring Rd Inside Ring Yongfu Rd Entrance Ramp
+496;2;2049;dong hao yong gao jia yue xiu bei lu ru kou za dao
+496;3;2049;Donghaoyong Viad Yuexiu North Rd Entrance Ramp
+496;2;2051;dong hao yong gao jia xi ce yue xiu bei lu dong ce shang za dao
+496;3;2051;Donghaoyong Viad W Yuexiu North Rd E Entrance Ramp
+496;2;2052;nei huan lu nei quan zhan nan lu ru kou za dao
+496;3;2052;Inner Ring Rd Inside Ring Zhannan Rd Entrance Ramp
+496;2;2054;nei huan lu nei quan zhong shan ba lu shang za dao
+496;3;2054;Inner Ring Rd Inside Ring Zhongshanba Rd Entrance Ramp
+496;2;2056;bai yun lu nan ce
+496;3;2056;Baiyun Rd S
+496;2;2057;nei huan lu nei quan bai yun lu nan ce shang za dao
+496;3;2057;Inner Ring Rd Inside Ring Baiyun Rd S Entrance Ramp
+496;2;2058;nei huan lu nei quan bao gang da dao xia za dao
+496;3;2058;Inner Ring Rd Inside Ring Baogang Blvd Exit Ramp
+496;2;2062;ke yun lu dong ce xin gang dong lu bei ce ru kou za dao
+496;3;2062;Keyun Rd E Xin'gang East Rd N Entrance Ramp
+496;2;2066;nei huan lu dong xiao lu ru kou za dao
+496;3;2066;Inner Ring Rd Dongxiao Rd Entrance Ramp
+496;2;2067;nei huan lu zhong kai lu xia za dao
+496;3;2067;Inner Ring Rd Zhongkai Rd Exit Ramp
+496;2;2068;zhong kai lu bei ce
+496;3;2068;Zhongkai Rd N
+496;2;2069;nei huan lu zhong kai lu bei ce shang za dao
+496;3;2069;Inner Ring Rd Zhongkai Rd N Entrance Ramp
+496;2;2070;dong xiao lu xi ce
+496;3;2070;Dongxiao Rd W
+496;2;2071;nei huan lu dong xiao lu xi ce ru kou za dao
+496;3;2071;Inner Ring Rd Dongxiao Rd W Entrance Ramp
+496;2;2072;dong xiao lu dong ce
+496;3;2072;Dongxiao Rd E
+496;2;2074;nei huan lu dong xiao lu dong ce ru kou za dao
+496;3;2074;Inner Ring Rd Dongxiao Rd E Entrance Ramp
+496;2;2075;nei huan lu nei quan G321 ru kou za dao
+496;3;2075;Inner Ring Rd Inside Ring G321 Entrance Ramp
+496;2;2079;ke yun lu zhi ke yun lu dong ce diao tou za dao
+496;3;2079;Keyun Rd to Keyun Rd E U-turn Ramp
+496;2;2080;fu nan lu
+496;3;2080;Funan Rd
+496;2;2081;shui xi lu
+496;3;2081;Shuixi Rd
+496;2;2085;zhu ji lu
+496;3;2085;Zhuji Rd
+496;2;2086;ke lin lu
+496;3;2086;Kelin Rd
+496;2;2087;ke zhu lu
+496;3;2087;Kezhu Rd
+496;2;2088;nan xiang er lu
+496;3;2088;Nanxianger Rd
+496;2;2090;guang yuan xi lu zhi yun cheng xi lu
+496;3;2090;Guangyuan West Rd to Yuncheng West Rd
+496;2;2091;yun cheng dong lu
+496;3;2091;Yuncheng East Rd
+496;2;2093;huang gang feng huang da dao
+496;3;2093;Huanggangfenghuang Blvd
+496;2;2094;feng ming lu
+496;3;2094;Fengming Rd
+496;2;2097;che bei bei lu
+496;3;2097;Chebei North Rd
+496;2;2099;lu jing dong lu
+496;3;2099;Lujing East Rd
+496;2;2100;qiao guang lu
+496;3;2100;Qiaoguang Rd
+496;2;2102;shuang qiao lu nan ce
+496;3;2102;Shuangqiao Rd S
+496;2;2105;nei huan lu nei quan zhong shan yi lu chu kou za dao
+496;3;2105;Inner Ring Rd Inside Ring Zhongshanyi Rd Exit Ramp
+496;2;2106;xin gang dong lu nan ce
+496;3;2106;Xin'gang East Rd S
+496;2;2108;ke yun lu xin gang dong lu bei ce chu kou za dao
+496;3;2108;Keyun Rd Xin'gang East Rd N Exit Ramp
+496;2;2121;ke yun lu dong ce xin jiao dong lu dong ce chu kou za dao
+496;3;2121;Keyun Rd E Xinjiao East Rd E Exit Ramp
+496;2;2122;ke yun lu dong ce xin jiao dong lu xi ce chu kou za dao
+496;3;2122;Keyun Rd E Xinjiao East Rd W Exit Ramp
+496;2;2123;ke yun lu dong ce lin jiang da dao shang za dao
+496;3;2123;Keyun Rd E Linjiang Blvd Entrance Ramp
+496;2;2124;xin guang kuai su lu dong ce ying bin da dao chu kou za dao
+496;3;2124;Xinguang Expy E Yingbin Blvd Exit Ramp
+496;2;2126;xin guang kuai su lu dong ce ying bin da dao bei ce ru kou za dao
+496;3;2126;Xinguang Expy E Yingbin Blvd N Entrance Ramp
+496;2;2127;dong hua bei lu fu lu
+496;3;2127;Donghua North Rd Side Rd
+496;2;2128;dong hua nan lu fu lu
+496;3;2128;Donghua South Rd Side Rd
+496;2;2129;nei huan lu wai quan shuang qiao lu nan ce shang za dao
+496;3;2129;Inner Ring Rd Outside Ring Shuangqiao Rd S Entrance Ramp
+496;2;2130;ke yun lu dong ce xin gang dong lu nan ce chu kou za dao
+496;3;2130;Keyun Rd E Xin'gang East Rd S Exit Ramp
+496;2;2131;ke yun lu dong ce xin gang dong lu chu kou za dao
+496;3;2131;Keyun Rd E Xin'gang East Rd Exit Ramp
+496;2;2132;lun tou lu bei ce
+496;3;2132;Luntou Rd N
+496;2;2133;ke yun lu xi ce lun tou lu bei ce chu kou za dao
+496;3;2133;Keyun Rd W Luntou Rd N Exit Ramp
+496;2;2134;ke yun lu dong ce lun tou lu bei ce ru kou za dao
+496;3;2134;Keyun Rd E Luntou Rd N Entrance Ramp
+496;2;2139;guang zhou da dao zhong fu lu
+496;3;2139;Guangzhou Blvd M Side Rd
+496;2;2144;cheng shi zhi ye xue yuan
+496;3;2144;Guangzhou City Polytechnic
+496;2;2145;nan ya zhong he guang chang
+496;3;2145;Nanyazhonghe Plz
+496;2;2154;xi huan lu
+496;3;2154;Xihuan Rd
+496;2;2156;yu shan da dao
+496;3;2156;Yushan Blvd
+496;2;2157;guang ming nan lu
+496;3;2157;Guangming South Rd
+496;2;2158;qing he xi lu
+496;3;2158;Qinghe West Rd
+496;2;2159;da xi lu
+496;3;2159;Daxi Rd
+496;2;2160;qing he zhong lu
+496;3;2160;Qinghe Middle Rd
+496;2;2161;huan cheng dong lu
+496;3;2161;Huancheng East Rd
+496;2;2164;shi qing gong lu
+496;3;2164;Shiqing Hwy
+496;2;2166;dong chong lu
+496;3;2166;Dongchong Rd
+496;2;2167;qiao dong lu
+496;3;2167;Qiaodong Rd
+496;2;2168;ping kang lu
+496;3;2168;Pingkang Rd
+496;2;2170;shi lian lu
+496;3;2170;Shilian Rd
+496;2;2171;cheng qu da dao
+496;3;2171;Chengqu Blvd
+496;2;2172;chang sha lu
+496;3;2172;Changsha Rd
+496;2;2174;hua shan lu
+496;3;2174;Huashan Rd
+496;2;2180;hua shan lu zhi shi qing gong lu
+496;3;2180;Huashan Rd to Shiqing Hwy
+496;2;2183;hai bang zhan a kou
+496;3;2183;Haibang Station A
+496;2;2188;qian feng nan lu
+496;3;2188;Qianfeng South Rd
+496;2;2189;jin hai an da dao
+496;3;2189;Jinhaian Blvd
+496;2;2190;de xing nan lu
+496;3;2190;Dexing South Rd
+496;2;7196;X495
+496;3;7196;X495
+496;2;7204;da yan shan chu kou
+496;3;7204;Dayanshan Exit Ramp
+496;2;7206;S269
+496;3;7206;S269
+496;2;7207;ji li da dao xi
+496;3;7207;Jili Blvd W
+496;2;7208;nan zhuang da dao dong
+496;3;7208;Nanzhuang Blvd E
+496;2;7209;zhang cha er lu
+496;3;7209;Zhangchaer Rd
+496;2;7210;gui dan lu
+496;3;7210;Guidan Rd
+496;2;7215;nan hai lu
+496;3;7215;Nanhai Rd
+496;2;7222;jin li da dao
+496;3;7222;Jinli Blvd
+496;2;7226;qin chong
+496;3;7226;Qinchong
+496;2;7228;X497
+496;3;7228;X497
+496;2;7229;tan bu fu wu qu
+496;3;7229;Tanbu Service Area
+496;2;7235;ya gang nan da dao
+496;3;7235;Yagang South Blvd
+496;2;7236;tai hang lu
+496;3;7236;Taihang Rd
+496;2;7237;guang fo lu
+496;3;7237;Guangfo Rd
+496;2;7239;fo chen gong lu
+496;3;7239;Fochen Hwy
+496;2;7240;hua hui da dao
+496;3;7240;Huahui Blvd
+496;2;7243;dong bei da jie
+496;3;7243;Dongbei Ave
+496;2;7244;nan zhuang da dao zhong
+496;3;7244;Nanzhuang Blvd M
+496;2;7245;luo wu gong lu
+496;3;7245;Luowu Hwy
+496;2;7246;xia bai gong ye da dao zhong
+496;3;7246;Xiabaigongye Blvd M
+496;2;7247;S113
+496;3;7247;S113
+496;2;7248;X503
+496;3;7248;X503
+496;2;7250;jian li bao bei lu
+496;3;7250;Jianlibao North Rd
+496;2;7253;chang hong lu
+496;3;7253;Changhong Rd
+496;2;7257;yong an da dao
+496;3;7257;Yongan Blvd
+496;2;7259;li he lu
+496;3;7259;Lihe Rd
+496;2;7261;yan bu da dao
+496;3;7261;Yanbu Blvd
+496;2;7262;gong ye da dao
+496;3;7262;Gongye Blvd
+496;2;7265;jin sha da dao
+496;3;7265;Jinsha Blvd
+496;2;7266;hai ba xi lu
+496;3;7266;Haiba West Rd
+496;2;7267;fen jiang bei lu
+496;3;7267;Fenjiang North Rd
+496;2;7268;wen hua bei lu
+496;3;7268;Wenhua North Rd
+496;2;7269;gui lan lu
+496;3;7269;Guilan Rd
+496;2;7270;nan yi lu
+496;3;7270;Nanyi Rd
+496;2;7272;ji hua yi lu
+496;3;7272;Jihuayi Rd
+496;2;7274;ji hua er lu
+496;3;7274;Jihuaer Rd
+496;2;7275;lian da nan lu
+496;3;7275;Lianda South Rd
+496;2;7277;ji hua san lu
+496;3;7277;Jihuasan Rd
+496;2;7278;jiang wan san lu
+496;3;7278;Jiangwansan Rd
+496;2;7279;ji hua si lu
+496;3;7279;Jihuasi Rd
+496;2;7282;ji hua wu lu
+496;3;7282;Jihuawu Rd
+496;2;7283;fen jiang zhong lu
+496;3;7283;Fenjiang Middle Rd
+496;2;7284;ji hua liu lu
+496;3;7284;Jihualiu Rd
+496;2;7285;wen hua zhong lu
+496;3;7285;Wenhua Middle Rd
+496;2;7286;chao an nan lu
+496;3;7286;Chaoan South Rd
+496;2;7287;zhen an dong lu
+496;3;7287;Zhen'an East Rd
+496;2;7288;ji hua qi lu
+496;3;7288;Jihuaqi Rd
+496;2;7291;ji li da dao
+496;3;7291;Jili Blvd
+496;2;7293;rong zhou dong lu
+496;3;7293;Rongzhou East Rd
+496;2;7294;kui qi xi lu
+496;3;7294;Kuiqi West Rd
+496;2;7296;zhen zhong lu
+496;3;7296;Zhenzhong Rd
+496;2;7297;kui qi yi lu
+496;3;7297;Kuiqiyi Rd
+496;2;7298;fen jiang nan lu
+496;3;7298;Fenjiang South Rd
+496;2;7300;kui qi er lu
+496;3;7300;Kuiqier Rd
+496;2;7303;hai wu lu
+496;3;7303;Haiwu Rd
+496;2;7304;long jin dong lu
+496;3;7304;Longjin East Rd
+496;2;7305;xing ji lu
+496;3;7305;Xingji Rd
+496;2;7306;ji li da dao dong
+496;3;7306;Jili Blvd E
+496;2;7307;le cong da dao
+496;3;7307;Lecong Blvd
+496;2;7308;le de lu
+496;3;7308;Lede Rd
+496;2;7309;xin gui lu
+496;3;7309;Xingui Rd
+496;2;7310;san le xi lu
+496;3;7310;Sanle West Rd
+496;2;7311;ji chang nan lu
+496;3;7311;Jichang South Rd
+496;2;7312;fo luo lu
+496;3;7312;Foluo Rd
+496;2;7313;fo shan da dao bei
+496;3;7313;Foshan Blvd N
+496;2;7314;wen chang xi lu
+496;3;7314;Wenchang West Rd
+496;2;7316;wen chang lu
+496;3;7316;Wenchang Rd
+496;2;7317;die jiao xin lu
+496;3;7317;Diejiaoxin Rd
+496;2;7319;hai san lu
+496;3;7319;Haisan Rd
+496;2;7320;nan hai da dao bei
+496;3;7320;Nanhai Blvd N
+496;2;7321;nan ping xi lu
+496;3;7321;Nanping West Rd
+496;2;7322;gong ye qu da jie
+496;3;7322;Gongyequ Ave
+496;2;7323;fo ping lu
+496;3;7323;Foping Rd
+496;2;7324;shi dong shang lu
+496;3;7324;Shidongshang Rd
+496;2;7325;ping gui jie
+496;3;7325;Pinggui St
+496;2;7326;yong an lu
+496;3;7326;Yongan Rd
+496;2;7327;gang kou lu
+496;3;7327;Gangkou Rd
+496;2;7328;fo ping er lu
+496;3;7328;Fopinger Rd
+496;2;7329;hua cui nan lu
+496;3;7329;Huacui South Rd
+496;2;7330;shen hai lu
+496;3;7330;Shenhai Rd
+496;2;7331;fo ping si lu
+496;3;7331;Fopingsi Rd
+496;2;7332;shi long nan lu
+496;3;7332;Shilong South Rd
+496;2;7333;fo ping wu lu
+496;3;7333;Fopingwu Rd
+496;2;7334;nan gang lu
+496;3;7334;Nan'gang Rd
+496;2;7335;ming de lu
+496;3;7335;Mingde Rd
+496;2;7336;nan gui xi lu
+496;3;7336;Nangui West Rd
+496;2;7337;shi dong xia lu
+496;3;7337;Shidongxia Rd
+496;2;7338;chao an bei lu
+496;3;7338;Chaoan North Rd
+496;2;7339;nan gui dong lu
+496;3;7339;Nangui East Rd
+496;2;7340;tian you liu lu
+496;3;7340;Tianyouliu Rd
+496;2;7345;he dong zhong xin lu
+496;3;7345;Hedongzhongxin Rd
+496;2;7346;da ling da dao
+496;3;7346;Daling Blvd
+496;2;7350;tong ji xi lu
+496;3;7350;Tongji West Rd
+496;2;7351;tong ji lu
+496;3;7351;Tongji Rd
+496;2;7352;pu lan yi lu
+496;3;7352;Pulanyi Rd
+496;2;7353;tong ji dong lu
+496;3;7353;Tongji East Rd
+496;2;7354;ling nan da dao bei
+496;3;7354;Lingnan Blvd N
+496;2;7356;gui ping dong lu
+496;3;7356;Guiping East Rd
+496;2;7357;li xin lu
+496;3;7357;Lixin Rd
+496;2;7358;yong an nan lu
+496;3;7358;Yongan South Rd
+496;2;7359;wen deng lu
+496;3;7359;Wendeng Rd
+496;2;7360;chen cun da dao
+496;3;7360;Chencun Blvd
+496;2;7362;san da gong lu
+496;3;7362;Sanda Hwy
+496;2;7365;ma long da dao
+496;3;7365;Malong Blvd
+496;2;7367;huang chong da dao
+496;3;7367;Huangchong Blvd
+496;2;7368;bi gui lu
+496;3;7368;Bigui Rd
+496;2;7372;xiang ji lu
+496;3;7372;Xiangji Rd
+496;2;7373;lv jing san lu
+496;3;7373;Lvjingsan Rd
+496;2;7374;zhao xiang lu
+496;3;7374;Zhaoxiang Rd
+496;2;7375;ling nan da dao nan
+496;3;7375;Lingnan Blvd S
+496;2;7376;fu hua lu
+496;3;7376;Fuhua Rd
+496;2;7377;lv jing er lu
+496;3;7377;Lvjinger Rd
+496;2;7378;pu jun xi lu
+496;3;7378;Pujun West Rd
+496;2;7379;wen sha nan lu
+496;3;7379;Wensha South Rd
+496;2;7382;cheng men tou xi lu
+496;3;7382;Chengmentou West Rd
+496;2;7383;qin ren lu
+496;3;7383;Qinren Rd
+496;2;7384;shang sha jie
+496;3;7384;Shangsha St
+496;2;7385;S112
+496;3;7385;S112
+496;2;7386;bai an gong lu
+496;3;7386;Baian Hwy
+496;2;7391;nan guo dong lu
+496;3;7391;Nanguo East Rd
+496;2;7392;dong le lu
+496;3;7392;Dongle Rd
+496;2;7393;feng shan dong lu
+496;3;7393;Fengshan East Rd
+496;2;7400;wen hai xi lu
+496;3;7400;Wenhai West Rd
+496;2;7402;xing shun lu
+496;3;7402;Xingshun Rd
+496;2;7406;bi gui gong lu
+496;3;7406;Bigui Hwy
+496;2;7407;chang bao dong lu
+496;3;7407;Changbao East Rd
+496;2;7409;de min lu
+496;3;7409;Demin Rd
+496;2;7410;S362
+496;3;7410;S362
+496;2;7415;sheng li da dao
+496;3;7415;Shengli Blvd
+496;2;7416;shui teng da dao
+496;3;7416;Shuiteng Blvd
+496;2;7417;tian you nan lu
+496;3;7417;Tianyou South Rd
+496;2;7418;xi xian lu
+496;3;7418;Xixian Rd
+496;2;7420;song shi lu
+496;3;7420;Songshi Rd
+496;2;7421;tao yuan xi lu
+496;3;7421;Taoyuan West Rd
+496;2;7422;san huan dong lu
+496;3;7422;3rd Ring East Rd
+496;2;7423;san huan zhong lu
+496;3;7423;3rd Ring Middle Rd
+496;2;7426;hong gang lu
+496;3;7426;Honggang Rd
+496;2;7427;deng hu xi lu
+496;3;7427;Denghu West Rd
+496;2;7429;xin sheng lu
+496;3;7429;Xinsheng Rd
+496;2;7430;wei guo xi lu
+496;3;7430;Weiguo West Rd
+496;2;7431;fen jiang xi lu
+496;3;7431;Fenjiang West Rd
+496;2;7432;zu miao lu
+496;3;7432;Zumiao Rd
+496;2;7433;wei guo lu
+496;3;7433;Weiguo Rd
+496;2;7434;fu ning lu
+496;3;7434;Funing Rd
+496;2;7435;pu jun nan lu
+496;3;7435;Pujun South Rd
+496;2;7436;pu jun bei lu
+496;3;7436;Pujun North Rd
+496;2;7437;wen qing lu
+496;3;7437;Wenqing Rd
+496;2;7438;lv jing yi lu
+496;3;7438;Lvjingyi Rd
+496;2;7439;hua yuan dong lu
+496;3;7439;Huayuan East Rd
+496;2;7440;hu jing lu
+496;3;7440;Hujing Rd
+496;2;7441;pu lan er lu
+496;3;7441;Pulaner Rd
+496;2;7442;yu dai lu
+496;3;7442;Yudai Rd
+496;2;7444;jian xin lu
+496;3;7444;Jianxin Rd
+496;2;7445;he ping lu
+496;3;7445;Heping Rd
+496;2;7446;jiang bin lu
+496;3;7446;Jiangbin Rd
+496;2;7447;jiang wan er lu
+496;3;7447;Jiangwaner Rd
+496;2;7450;wu feng er lu
+496;3;7450;Wufenger Rd
+496;2;7453;wu feng san lu
+496;3;7453;Wufengsan Rd
+496;2;7454;bi tang lu
+496;3;7454;Bitang Rd
+496;2;7455;wu feng si lu
+496;3;7455;Wufengsi Rd
+496;2;7456;cheng men tou lu
+496;3;7456;Chengmentou Rd
+496;2;7457;nan xin san lu
+496;3;7457;Nanxinsan Rd
+496;2;7458;dong ping lu
+496;3;7458;Dongping Rd
+496;2;7459;jian ping lu
+496;3;7459;Jianping Rd
+496;2;7461;lang bao xi lu
+496;3;7461;Langbao West Rd
+496;2;7464;lang sha san lu
+496;3;7464;Langshasan Rd
+496;2;7467;si zhi lu
+496;3;7467;Sizhi Rd
+496;2;7468;hai bin dong lu
+496;3;7468;Haibin East Rd
+496;2;7469;qu long jiao
+496;3;7469;Qulongjiao
+496;2;7470;jian guo lu
+496;3;7470;Jianguo Rd
+496;2;7471;feng huang lu
+496;3;7471;Fenghuang Rd
+496;2;7472;zhong xin lu
+496;3;7472;Zhongxin Rd
+496;2;7473;X507
+496;3;7473;X507
+496;2;7474;X506
+496;3;7474;X506
+496;2;7475;bao li lu
+496;3;7475;Baoli Rd
+496;2;7476;zhang cha yi lu
+496;3;7476;Zhangchayi Rd
+496;2;7477;zhang cha san lu
+496;3;7477;Zhangchasan Rd
+496;2;7478;dong po nan lu
+496;3;7478;Dongpo South Rd
+496;2;7479;zhang cha si lu
+496;3;7479;Zhangchasi Rd
+496;2;7480;lian hua lu
+496;3;7480;Lianhua Rd
+496;2;7481;ren min lu
+496;3;7481;Renmin Rd
+496;2;7482;fu xian lu
+496;3;7482;Fuxian Rd
+496;2;7484;yi hai lu
+496;3;7484;Yihai Rd
+496;2;7487;xin gui nan lu
+496;3;7487;Xingui South Rd
+496;2;7509;chao yang
+496;3;7509;Chaoyang
+496;2;7511;nan di lu
+496;3;7511;Nandi Rd
+496;2;7512;ju bian gong ye lu
+496;3;7512;Jubiangongye Rd
+496;2;7520;ji chang lu
+496;3;7520;Jichang Rd
+496;2;7521;lian he da dao
+496;3;7521;Lianhe Blvd
+496;2;7523;fo shan shi
+496;3;7523;Foshan
+496;2;7525;long zhou gong lu
+496;3;7525;Longzhou Hwy
+496;2;7526;xiao bu cun cun gong shang ye da dao
+496;3;7526;Xiaobucuncungongshangye Blvd
+496;2;7541;G321 fo shan duan
+496;3;7541;G321 Foshan Sect
+496;2;7546;G325 fo shan duan
+496;3;7546;G325 Foshan Sect
+496;2;7550;G105 fo shan duan
+496;3;7550;G105 Foshan Sect
+496;2;7553;shi ji da dao
+496;3;7553;Shiji Blvd
+496;2;7558;shi ping da dao
+496;3;7558;Shiping Blvd
+496;2;7559;hua bao bei lu
+496;3;7559;Huabao North Rd
+496;2;7560;xi er huan nan duan dan zao fu wu qu
+496;3;7560;W 2nd Ring South Sect Danzao Service Area
+496;2;7563;cai hong lu
+496;3;7563;Caihong Rd
+496;2;7564;huo zhan lu
+496;3;7564;Huozhan Rd
+496;2;7566;jin lan bei lu
+496;3;7566;Jinlan North Rd
+496;2;7567;xin chong lu
+496;3;7567;Xinchong Rd
+496;2;7570;gui lan bei lu
+496;3;7570;Guilan North Rd
+496;2;7572;yu he lu
+496;3;7572;Yuhe Rd
+496;2;7573;ying yin lu
+496;3;7573;Yingyin Rd
+496;2;7574;song feng lu
+496;3;7574;Songfeng Rd
+496;2;7578;fo shan da dao zhong
+496;3;7578;Foshan Blvd M
+496;2;7579;jin lan nan lu
+496;3;7579;Jinlan South Rd
+496;2;7582;qing shui lu
+496;3;7582;Qingshui Rd
+496;2;7583;qing ke jie
+496;3;7583;Qingke St
+496;2;7584;wu gang lu
+496;3;7584;Wugang Rd
+496;2;7585;gu xin lu
+496;3;7585;Guxin Rd
+496;2;7586;hua bao nan lu
+496;3;7586;Huabao South Rd
+496;2;7587;deng hu dong lu
+496;3;7587;Denghu East Rd
+496;2;7589;shi long bei lu
+496;3;7589;Shilong North Rd
+496;2;7590;lan shi yi lu
+496;3;7590;Lanshiyi Rd
+496;2;7591;ping xi da dao
+496;3;7591;Pingxi Blvd
+496;2;7592;si cun hua long lu
+496;3;7592;Sicunhualong Rd
+496;2;7593;xia ping xi lu
+496;3;7593;Xiaping West Rd
+496;2;7594;san shui da dao nan
+496;3;7594;Sanshui Blvd S
+496;2;7597;guang hai da dao dong
+496;3;7597;Guanghai Blvd E
+496;2;7598;ke ji da dao dong
+496;3;7598;Keji Blvd E
+496;2;7600;tao yuan dong lu
+496;3;7600;Taoyuan East Rd
+496;2;7601;ma cun xi jie
+496;3;7601;Macun West St
+496;2;7602;li guan lu
+496;3;7602;Liguan Rd
+496;2;7604;guang fo xin gan xian
+496;3;7604;Guangfoxin Line
+496;2;7605;gong yuan lu
+496;3;7605;Gongyuan Rd
+496;2;7607;tian you yi lu
+496;3;7607;Tianyouyi Rd
+496;2;7608;huan dao xi lu
+496;3;7608;Huandao West Rd
+496;2;7609;zhong shan lu
+496;3;7609;Zhongshan Rd
+496;2;7610;hui jin lu
+496;3;7610;Huijin Rd
+496;2;7611;huan shan da dao
+496;3;7611;Huanshan Blvd
+496;2;7612;feng hua bei lu
+496;3;7612;Fenghua North Rd
+496;2;7615;jian she xi lu
+496;3;7615;Jianshe West Rd
+496;2;7616;cheng xi lu
+496;3;7616;Chengxi Rd
+496;2;7617;hai cheng lu
+496;3;7617;Haicheng Rd
+496;2;7618;cheng zhong lu
+496;3;7618;Chengzhong Rd
+496;2;7619;yin cheng lu
+496;3;7619;Yincheng Rd
+496;2;7620;zheng he zhong lu
+496;3;7620;Zhenghe Middle Rd
+496;2;7621;X494
+496;3;7621;X494
+496;2;7622;long wan gong lu
+496;3;7622;Longwan Hwy
+496;2;7623;X783
+496;3;7623;X783
+496;2;7626;nan zhuang er ma lu
+496;3;7626;Nanzhuanger Rd
+496;2;7632;cheng nan lu
+496;3;7632;Chengnan Rd
+496;2;7633;yan jiang nan lu
+496;3;7633;Yanjiang South Rd
+496;2;7639;bei hu yi lu
+496;3;7639;Beihuyi Rd
+496;2;7642;wai tan zhong lu
+496;3;7642;Waitan Middle Rd
+496;2;7643;sheng ping lu
+496;3;7643;Shengping Rd
+496;2;7644;he bin lu
+496;3;7644;Hebin Rd
+496;2;7645;jiang di lu
+496;3;7645;Jiangdi Rd
+496;2;7646;shang xi
+496;3;7646;Shangxi
+496;2;7647;huo zhan dong lu
+496;3;7647;Huozhan East Rd
+496;2;7648;fu xi cun
+496;3;7648;Fuxi Village
+496;2;7650;jin hua lu
+496;3;7650;Jinhua Rd
+496;2;7651;kuai zi lu
+496;3;7651;Kuaizi Rd
+496;2;7652;qing feng lu
+496;3;7652;Qingfeng Rd
+496;2;7653;qing gong er lu
+496;3;7653;Qinggonger Rd
+496;2;7654;qing gong san lu
+496;3;7654;Qinggongsan Rd
+496;2;7656;bi tang dong er jie
+496;3;7656;Bitangdonger St
+496;2;7660;xin cun nan jie
+496;3;7660;Xincun South St
+496;2;7661;zi wei lu
+496;3;7661;Ziwei Rd
+496;2;7670;he cun da dao
+496;3;7670;Hecun Blvd
+496;2;7672;hua kang dao
+496;3;7672;Huakang Ave
+496;2;7673;nan xin er lu
+496;3;7673;Nanxiner Rd
+496;2;7674;nan xin yi lu
+496;3;7674;Nanxinyi Rd
+496;2;7675;bi hai wan
+496;3;7675;Bihaiwan
+496;2;7679;xia ping dong lu
+496;3;7679;Xiaping East Rd
+496;2;7680;huan dao nan lu
+496;3;7680;Huandao South Rd
+496;2;7684;dao cheng nong zhuang
+496;3;7684;Daochengnongzhuang
+496;2;7716;bi tang dong yi jie
+496;3;7716;Bitangdongyi St
+496;2;7727;S361
+496;3;7727;S361
+496;2;7730;Y105
+496;3;7730;Y105
+496;2;7770;hong ling lu
+496;3;7770;Hongling Rd
+496;2;7771;hong ling lu wai ce
+496;3;7771;Hongling Rd Outside
+496;2;7774;hong ling lu nei ce
+496;3;7774;Hongling Rd Inside
+496;2;7784;X512
+496;3;7784;X512
+496;2;7789;guang dong shu zi mei ti ji shu yan jiu kai fa yuan
+496;3;7789;Guangdongshuzimeitijishuyanjiukaifayuan
+496;2;7793;huang dong cun
+496;3;7793;Huangdong Village
+496;2;7802;shi cheng zhong xue
+496;3;7802;Shichengzhongxue
+496;2;7809;bo ai dong lu
+496;3;7809;Boai East Rd
+496;2;7811;bo ai zhong lu
+496;3;7811;Boai Middle Rd
+496;2;7827;gui dan lu nan ce
+496;3;7827;Guidan Rd S
+496;2;7829;gui dan lu bei ce
+496;3;7829;Guidan Rd N
+496;2;7832;shi shan chuang ye lu
+496;3;7832;Shishanchuangye Rd
+496;2;7834;gui dan lu nan
+496;3;7834;Guidan Rd S
+496;2;7838;gui dan lu bei
+496;3;7838;Guidan Rd N
+496;2;7844;ke ji lu
+496;3;7844;Keji Rd
+496;2;7848;xiao tang gong ye da dao
+496;3;7848;Xiaotanggongye Blvd
+496;2;7853;ji hua xi lu
+496;3;7853;Jihua West Rd
+496;2;7855;ji hua xi lu bei ce
+496;3;7855;Jihua West Rd N
+496;2;7856;ji hua lu
+496;3;7856;Jihua Rd
+496;2;7858;ji hua lu bei ce
+496;3;7858;Jihua Rd N
+496;2;7860;ji hua lu nan ce
+496;3;7860;Jihua Rd S
+496;2;7866;ji hua xi lu nan ce
+496;3;7866;Jihua West Rd S
+496;2;7879;nan zhuang da dao zhong bei ce
+496;3;7879;Nanzhuang Blvd M N
+496;2;7885;nan zhuang da dao zhong nan ce
+496;3;7885;Nanzhuang Blvd M S
+496;2;7895;fo shan yi huan you nei quan zhi wai quan lin nan zhuang da dao zhong fu jin diao tou za dao
+496;3;7895;Foshan 1st Ring from Inside Ring to Outside Ring Linnanzhuang Blvd M U-turn Ramp
+496;2;7907;luo sha bei shang gong ye qu yan he lu
+496;3;7907;Luoshabeishanggongyequyanhe Rd
+496;2;7909;luo sha bei shang gong ye qu gong ye er lu
+496;3;7909;Luoshabeishanggongyequgongyeer Rd
+496;2;7913;G325
+496;3;7913;G325
+496;2;7915;fo shan da dao nan
+496;3;7915;Foshan Blvd S
+496;2;7919;lin shui lu
+496;3;7919;Linshui Rd
+496;2;7922;da luo
+496;3;7922;Daluo
+496;2;7937;huang long
+496;3;7937;Huanglong
+496;2;7945;X519
+496;3;7945;X519
+496;2;7959;ji hua dong lu
+496;3;7959;Jihua East Rd
+496;2;7963;jian ping bai huo
+496;3;7963;Jianpingbaihuo
+496;2;7970;gui ping xi lu
+496;3;7970;Guiping West Rd
+496;2;7973;fo ping san lu
+496;3;7973;Fopingsan Rd
+496;2;7988;long xi da dao bei ce
+496;3;7988;Longxi Blvd N
+496;2;7990;hai ba lu
+496;3;7990;Haiba Rd
+496;2;7993;san he xi lu
+496;3;7993;Sanhe West Rd
+496;2;7996;lian gui lu
+496;3;7996;Liangui Rd
+496;2;8004;li guang lu
+496;3;8004;Liguang Rd
+496;2;8029;S267
+496;3;8029;S267
+496;2;8036;long da lu
+496;3;8036;Longda Rd
+496;2;8042;guan li lu
+496;3;8042;Guanli Rd
+496;2;8058;hua zhang dao
+496;3;8058;Huazhang Ave
+496;2;14229;xi chang li jiao qiao
+496;3;14229;Xichang Jct
+496;2;14230;bei tai lu
+496;3;14230;Beitai Rd
+496;2;14231;tong an cun
+496;3;14231;Tongan Village
+496;2;14235;san dong da dao dong
+496;3;14235;Sandong Blvd E
+496;2;14236;hui cai lu (huang pu da dao dong)
+496;3;14236;Huicai Rd (Huangpu Blvd E)
+496;2;14248;guang zhou da dao bei (da yuan zhong lu)
+496;3;14248;Guangzhou Blvd N (Dayuan Middle Rd)
+496;2;14249;ling bei long (da yuan bei lu)
+496;3;14249;Lingbeilong (Dayuan North Rd)
+496;2;14251;bai tang yi lu (bei tai lu)
+496;3;14251;Baitangyi Rd (Beitai Rd)
+496;2;14253;long bei kou jie
+496;3;14253;Longbeikou St
+496;2;14254;he ku lu
+496;3;14254;Heku Rd
+496;2;14255;ao ti nan lu
+496;3;14255;Aoti South Rd
+496;2;14258;yong sheng jie
+496;3;14258;Yongsheng St
+496;2;14259;an huai she
+496;3;14259;Anhuaishe
+496;2;14260;dong xiao nan lu fu lu
+496;3;14260;Dongxiao South Rd Side Rd
+496;2;14263;ren he da ma lu
+496;3;14263;Renheda Rd
+496;2;14269;long xi pan long cun
+496;3;14269;Longxi Panlong Village
+496;2;14270;long xi da dao zhi feng chi lu
+496;3;14270;Longxi Blvd to Fengchi Rd
+496;2;14271;xin xin da dao zhong
+496;3;14271;Xinxin Blvd M
+496;2;14274;guang shen da dao xi
+496;3;14274;Guangshen Blvd W
+496;2;14276;san shan da dao
+496;3;14276;Sanshan Blvd
+496;2;14277;guang zhu xi xian gao su gong lu
+496;3;14277;Guangzhuxixian Hwy
+496;2;14278;pan yu da dao bei
+496;3;14278;Panyu Blvd N
+496;2;14279;pan yu da qiao shou fei zhan
+496;3;14279;Panyu Bridge Tollgate
+496;2;14285;huan dao xi lu zhi san shan da dao
+496;3;14285;Huandao West Rd to Sanshan Blvd
+496;2;14286;qing cha lu
+496;3;14286;Qingcha Rd
+496;2;14291;jing gang ao gao su gong lu
+496;3;14291;Jinggang'ao Hwy
+496;2;14294;jin san da dao dong
+496;3;14294;Jinsan Blvd E
+496;2;14295;sheng hui bei lu
+496;3;14295;Shenghui North Rd
+496;2;14296;lan yue lu
+496;3;14296;Lanyue Rd
+496;2;14303;gui lan zhong lu
+496;3;14303;Guilan Middle Rd
+496;2;14306;gong ye lu
+496;3;14306;Gongye Rd
+496;2;14310;guang ming gao su gong lu
+496;3;14310;Guangming Hwy
+496;2;14311;fo shan yi huan dong xian bei yan xian
+496;3;14311;Foshan 1st Ring Dongxianbeiyan Line
+496;2;14312;shi liang lu
+496;3;14312;Shiliang Rd
+496;2;14313;xin cun
+496;3;14313;Xincun
+496;2;14319;long kou xi lu
+496;3;14319;Longkou West Rd
+496;2;14320;yue han lu
+496;3;14320;Yuehan Rd
+496;2;14322;fan hua lu
+496;3;14322;Fanhua Rd
+496;2;14323;yu shan xi lu
+496;3;14323;Yushan West Rd
+496;2;14325;fu jing lu
+496;3;14325;Fujing Rd
+496;2;14326;qiao nan lu
+496;3;14326;Qiaonan Rd
+496;2;14327;nan xing lu
+496;3;14327;Nanxing Rd
+496;2;14328;jian she da dao
+496;3;14328;Jianshe Blvd
+496;2;14331;sha tai bei lu
+496;3;14331;Shatai North Rd
+496;2;14332;chun gang li jiao
+496;3;14332;Chungang Jct
+496;2;14334;tu hua shou fei zhan
+496;3;14334;Tuhua Tollgate
+496;2;14336;xin guang kuai su lu ying bin da dao ru kou za dao
+496;3;14336;Xinguang Expy Yingbin Blvd Entrance Ramp
+496;2;14337;dong feng xi lu xi ce
+496;3;14337;Dongfeng West Rd W
+496;2;14338;nei huan lu nei quan dong feng xi lu xi ce ru kou za dao
+496;3;14338;Inner Ring Rd Inside Ring Dongfeng West Rd W Entrance Ramp
+496;2;14339;ke yun lu xin jiao dong lu ru kou za dao
+496;3;14339;Keyun Rd Xinjiao East Rd Entrance Ramp
+496;2;14341;ke yun lu xi ce xin jiao dong lu bei ce chu kou za dao
+496;3;14341;Keyun Rd W Xinjiao East Rd N Exit Ramp
+496;2;14342;xin jiao dong lu bei ce
+496;3;14342;Xinjiao East Rd N
+496;2;14345;chi sha lu
+496;3;14345;Chisha Rd
+496;2;14346;ke yun lu chi sha lu chu kou za dao
+496;3;14346;Keyun Rd Chisha Rd Exit Ramp
+496;2;14347;ke yun lu dong ce xin jiao dong lu ru kou za dao
+496;3;14347;Keyun Rd E Xinjiao East Rd Entrance Ramp
+496;2;14357;xin guang kuai su lu xi ce S257 chu kou za dao
+496;3;14357;Xinguang Expy W S257 Exit Ramp
+496;2;14358;xin guang kuai su lu S257 ru kou za dao
+496;3;14358;Xinguang Expy S257 Entrance Ramp
+496;2;14359;xin guang kuai su lu dong ce da ping gang fang xiang
+496;3;14359;Xinguang Expy E Dapinggangfangxiang
+496;2;14360;xin guang kuai su lu da ping gang fang xiang diao tou za dao
+496;3;14360;Xinguang Expy Dapinggangfangxiang U-turn Ramp
+496;2;14361;nan guo xi lu
+496;3;14361;Nanguo West Rd
+496;2;14362;huan shi bei lu
+496;3;14362;Huanshi North Rd
+496;2;14363;mei di da dao
+496;3;14363;Meidi Blvd
+496;2;14364;san shui er qiao
+496;3;14364;Sanshuier Brg
+496;2;14366;san huan xi lu
+496;3;14366;3rd Ring West Rd
+496;2;14367;guan hua lu
+496;3;14367;Guanhua Rd
+496;2;14369;guang yun lu
+496;3;14369;Guangyun Rd
+496;2;14370;gui he lu
+496;3;14370;Guihe Rd
+496;2;14372;lian du da dao
+496;3;14372;Liandu Blvd
+496;2;14373;de sheng xi lu
+496;3;14373;Desheng West Rd
+496;2;14374;jian hai nan lu
+496;3;14374;Jianhai South Rd
+496;2;14387;qiao jin zhong lu
+496;3;14387;Qiaojin Middle Rd
+496;2;14393;guan he lu
+496;3;14393;Guanhe Rd
+496;2;14408;chang an bei lu
+496;3;14408;Chang'an North Rd
+496;2;14409;zhan ye lu
+496;3;14409;Zhanye Rd
+496;2;14412;li shui da dao nan
+496;3;14412;Lishui Blvd S
+496;2;14413;jun he lu
+496;3;14413;Junhe Rd
+496;2;14414;he gui lu
+496;3;14414;Hegui Rd
+496;2;14415;jiang wan yi lu
+496;3;14415;Jiangwanyi Rd
+496;2;14416;san le lu
+496;3;14416;Sanle Rd
+496;2;14417;nan hai da dao zhong
+496;3;14417;Nanhai Blvd M
+496;2;14420;luo cun da dao zhong
+496;3;14420;Luocun Blvd M
+496;2;14423;san shan gang xiao xue
+496;3;14423;Sanshangangxiaoxue
+496;2;14426;luo cun da dao bei
+496;3;14426;Luocun Blvd N
+496;2;14429;luo cun da dao nan
+496;3;14429;Luocun Blvd S
+496;2;14433;gui cheng zhong xue
+496;3;14433;Guichengzhongxue
+496;2;14440;jin hu lu
+496;3;14440;Jinhu Rd
+496;2;14441;jian hai bei lu
+496;3;14441;Jianhai North Rd
+496;2;14442;feng xiang lu
+496;3;14442;Fengxiang Rd
+496;2;14444;yong chao lu
+496;3;14444;Yongchao Rd
+496;2;14445;zhang cha gong shang ju
+496;3;14445;Zhangchagongshangju
+496;2;14446;yu dai da sha
+496;3;14446;Yudaidasha
+496;2;14454;yao ping lu
+496;3;14454;Yaoping Rd
+496;2;14455;gao su gong lu
+496;3;14455;Hwy
+496;2;14459;lian he lu
+496;3;14459;Lianhe Rd
+496;2;14461;qing feng dong lu
+496;3;14461;Qingfeng East Rd
+496;2;14462;long chong bei lu
+496;3;14462;Longchong North Rd
+496;2;14465;xia nan lu
+496;3;14465;Xia'nan Rd
+496;2;14471;ti yu lu
+496;3;14471;Tiyu Rd
+496;2;14477;feng chong da qiao
+496;3;14477;Fengchong Brg
+496;2;14479;ke le da dao
+496;3;14479;Kele Blvd
+496;2;14480;xi le da dao dong
+496;3;14480;Xile Blvd E
+496;2;14481;le ping da dao
+496;3;14481;Leping Blvd
+496;2;14482;he shun da dao
+496;3;14482;Heshun Blvd
+496;2;14483;hua yuan da dao
+496;3;14483;Huayuan Blvd
+496;2;14484;S363
+496;3;14484;S363
+496;2;14485;qiao dan bei lu
+496;3;14485;Qiaodan North Rd
+496;2;14486;qiao gao lu
+496;3;14486;Qiaogao Rd
+496;2;14487;jiang pu dong lu
+496;3;14487;Jiangpu East Rd
+496;2;14489;nan ping xi lu zhi qing feng dong lu
+496;3;14489;Nanping West Rd to Qingfeng East Rd
+496;2;14490;bao cui nan lu
+496;3;14490;Baocui South Rd
+496;2;14493;xia nan xiao xue
+496;3;14493;Xiananxiaoxue
+496;2;14494;ju yuan bei lu
+496;3;14494;Juyuan North Rd
+496;2;14495;yue jin lu
+496;3;14495;Yuejin Rd
+496;2;14496;jin xian lu
+496;3;14496;Jinxian Rd
+496;2;14497;zhong xin da dao
+496;3;14497;Zhongxin Blvd
+496;2;14500;rong qi da dao zhong
+496;3;14500;Rongqi Blvd M
+496;2;14501;jin liang lu
+496;3;14501;Jinliang Rd
+496;2;14502;hong qi dong lu
+496;3;14502;Hongqi East Rd
+496;2;14503;rong gui da dao zhong
+496;3;14503;Ronggui Blvd M
+496;2;14505;rong gui da dao bei
+496;3;14505;Ronggui Blvd N
+496;2;14506;zhen hua lu
+496;3;14506;Zhenhua Rd
+496;2;14507;qiao xi lu
+496;3;14507;Qiaoxi Rd
+496;2;14508;nan ping lu
+496;3;14508;Nanping Rd
+496;2;14509;bao lin lu
+496;3;14509;Baolin Rd
+496;2;14514;tai gen lu
+496;3;14514;Taigen Rd
+496;2;14515;feng shan xi lu
+496;3;14515;Fengshan West Rd
+496;2;14516;de sheng zhong lu
+496;3;14516;Desheng Middle Rd
+496;2;14517;xiang he lu
+496;3;14517;Xianghe Rd
+496;2;14518;guan lv lu
+496;3;14518;Guanlv Rd
+496;2;14519;X501
+496;3;14519;X501
+496;2;14520;feng sha da dao
+496;3;14520;Fengsha Blvd
+496;2;14522;liang le lu
+496;3;14522;Liangle Rd
+496;2;14523;xi lian lu
+496;3;14523;Xilian Rd
+496;2;14524;shun xiang lu
+496;3;14524;Shunxiang Rd
+496;2;14525;jian she zhong lu
+496;3;14525;Jianshe Middle Rd
+496;2;14527;feng shan zhong lu
+496;3;14527;Fengshan Middle Rd
+496;2;14528;qing hui lu
+496;3;14528;Qinghui Rd
+496;2;14529;huan cheng lu
+496;3;14529;Huancheng Rd
+496;2;14530;yun liang lu
+496;3;14530;Yunliang Rd
+496;2;14532;xin gui zhong lu
+496;3;14532;Xingui Middle Rd
+496;2;14533;gui feng lu
+496;3;14533;Guifeng Rd
+496;2;14534;wen hua lu
+496;3;14534;Wenhua Rd
+496;2;14535;hong qi lu
+496;3;14535;Hongqi Rd
+496;2;14536;de sheng lu
+496;3;14536;Desheng Rd
+496;2;14537;de long lu
+496;3;14537;Delong Rd
+496;2;14538;feng hua lu
+496;3;14538;Fenghua Rd
+496;2;14539;bi gui nan lu
+496;3;14539;Bigui South Rd
+496;2;14540;rong xin lu
+496;3;14540;Rongxin Rd
+496;2;14542;yan jiang da dao
+496;3;14542;Yanjiang Blvd
+496;2;14543;long pan xi lu
+496;3;14543;Longpan West Rd
+496;2;14544;yin feng lu
+496;3;14544;Yinfeng Rd
+496;2;14545;xin gui bei lu
+496;3;14545;Xingui North Rd
+496;2;14546;gui pan lu
+496;3;14546;Guipan Rd
+496;2;14547;dan gui lu
+496;3;14547;Dangui Rd
+496;2;14548;yan nian lu
+496;3;14548;Yannian Rd
+496;2;14549;bin he lu
+496;3;14549;Binhe Rd
+496;2;14550;huan shi nan lu
+496;3;14550;Huanshi South Rd
+496;2;14551;nan guo zhong lu
+496;3;14551;Nanguo Middle Rd
+496;2;14553;shi luo lu
+496;3;14553;Shiluo Rd
+496;2;14554;wen xiu lu
+496;3;14554;Wenxiu Rd
+496;2;14555;xin ji er lu
+496;3;14555;Xinjier Rd
+496;2;14558;bi shui lu
+496;3;14558;Bishui Rd
+496;2;14559;xin ji yi lu
+496;3;14559;Xinjiyi Rd
+496;2;14562;S272
+496;3;14562;S272
+496;2;14563;X498
+496;3;14563;X498
+496;2;14564;he cheng fu wu qu (bei)
+496;3;14564;Hecheng Service Area (N)
+496;2;14565;long zhou gong lu nan ce
+496;3;14565;Longzhou Hwy S
+496;2;14567;long zhou gong lu bei ce
+496;3;14567;Longzhou Hwy N
+496;2;14568;gao su gong lu long zhou gong lu bei ce ru kou za dao
+496;3;14568;Gaosugonglu Longzhou Hwy N Entrance Ramp
+496;2;14570;gao su gong lu long zhou gong lu nan ce ru kou za dao
+496;3;14570;Gaosugonglu Longzhou Hwy S Entrance Ramp
+496;2;14572;fo shan yi huan dong xian bei yan xian xi ce
+496;3;14572;Foshan 1st Ring Dongxianbeiyan Line W
+496;2;14574;fo shan yi huan dong xian bei yan xian dong ce
+496;3;14574;Foshan 1st Ring Dongxianbeiyan Line E
+496;2;14589;hua yuan da dao bei ce
+496;3;14589;Huayuan Blvd N
+496;2;14590;fo shan yi huan dong xian bei yan xian hua yuan da dao bei ce ru kou za dao
+496;3;14590;Foshan 1st Ring Dongxianbeiyan Line Huayuan Blvd N Entrance Ramp
+496;2;14591;fo shan yi huan dong xian bei yan xian dong ce hua yuan da dao ru kou za dao
+496;3;14591;Foshan 1st Ring Dongxianbeiyan Line E Huayuan Blvd Entrance Ramp
+496;2;14592;fo shan yi huan dong xian bei yan xian hua yuan da dao ru kou za dao
+496;3;14592;Foshan 1st Ring Dongxianbeiyan Line Huayuan Blvd Entrance Ramp
+496;2;14593;fo shan yi huan dong xian bei yan xian dong ce hua yuan da dao chu kou za dao
+496;3;14593;Foshan 1st Ring Dongxianbeiyan Line E Huayuan Blvd Exit Ramp
+496;2;14594;fo shan yi huan dong xian bei yan xian hua yuan da dao bei ce chu kou za dao
+496;3;14594;Foshan 1st Ring Dongxianbeiyan Line Huayuan Blvd N Exit Ramp
+496;2;14595;fo shan yi huan dong xian bei yan xian hua yuan da dao chu kou za dao
+496;3;14595;Foshan 1st Ring Dongxianbeiyan Line Huayuan Blvd Exit Ramp
+496;2;14596;hua yuan da dao nan ce
+496;3;14596;Huayuan Blvd S
+496;2;14597;fo shan yi huan dong xian bei yan xian hua yuan da dao nan ce ru kou za dao
+496;3;14597;Foshan 1st Ring Dongxianbeiyan Line Huayuan Blvd S Entrance Ramp
+496;2;14598;fo shan yi huan dong xian bei yan xian xi ce hua yuan da dao ru kou za dao
+496;3;14598;Foshan 1st Ring Dongxianbeiyan Line W Huayuan Blvd Entrance Ramp
+496;2;14599;fo shan yi huan dong xian bei yan xian xi ce hua yuan da dao chu kou za dao
+496;3;14599;Foshan 1st Ring Dongxianbeiyan Line W Huayuan Blvd Exit Ramp
+496;2;14600;fo shan yi huan dong xian bei yan xian hua yuan da dao nan ce chu kou za dao
+496;3;14600;Foshan 1st Ring Dongxianbeiyan Line Huayuan Blvd S Exit Ramp
+496;2;14601;fo shan yi huan dong xian bei yan xian jin xian lu chu kou za dao
+496;3;14601;Foshan 1st Ring Dongxianbeiyan Line Jinxian Rd Exit Ramp
+496;2;14602;fo shan yi huan dong xian bei yan xian jin xian lu ru kou za dao
+496;3;14602;Foshan 1st Ring Dongxianbeiyan Line Jinxian Rd Entrance Ramp
+496;2;14603;fo shan yi huan dong xian bei yan xian xi ce jin xian lu ru kou za dao
+496;3;14603;Foshan 1st Ring Dongxianbeiyan Line W Jinxian Rd Entrance Ramp
+496;2;14604;fo shan yi huan dong xian bei yan xian xi ce jin xian lu chu kou za dao
+496;3;14604;Foshan 1st Ring Dongxianbeiyan Line W Jinxian Rd Exit Ramp
+496;2;14605;fo shan yi huan dong xian bei yan xian zhong xin da dao shang za dao
+496;3;14605;Foshan 1st Ring Dongxianbeiyan Line Zhongxin Blvd Entrance Ramp
+496;2;14606;fo shan yi huan dong xian bei yan xian zhong xin da dao xia za dao
+496;3;14606;Foshan 1st Ring Dongxianbeiyan Line Zhongxin Blvd Exit Ramp
+496;2;14607;jin xian lu bei ce
+496;3;14607;Jinxian Rd N
+496;2;14608;fo shan yi huan dong xian bei yan xian jin xian lu bei ce shang za dao
+496;3;14608;Foshan 1st Ring Dongxianbeiyan Line Jinxian Rd N Entrance Ramp
+496;2;14609;zhong xin da dao nan ce
+496;3;14609;Zhongxin Blvd S
+496;2;14610;fo shan yi huan dong xian bei yan xian zhong xin da dao nan ce shang za dao
+496;3;14610;Foshan 1st Ring Dongxianbeiyan Line Zhongxin Blvd S Entrance Ramp
+496;2;14611;fo shan yi huan dong xian bei yan xian xi ce zhong xin da dao xia za dao
+496;3;14611;Foshan 1st Ring Dongxianbeiyan Line W Zhongxin Blvd Exit Ramp
+496;2;14612;liao mei
+496;3;14612;Liaomei
+496;2;14613;fo shan yi huan dong xian bei yan xian liao mei xia za dao
+496;3;14613;Foshan 1st Ring Dongxianbeiyan Line Liaomei Exit Ramp
+496;2;14614;fo shan yi huan dong xian bei yan xian liao mei shang za dao
+496;3;14614;Foshan 1st Ring Dongxianbeiyan Line Liaomei Entrance Ramp
+496;2;14615;tang cun bei
+496;3;14615;Tangcunbei
+496;2;14616;fo shan yi huan dong xian bei yan xian tang cun bei shang za dao
+496;3;14616;Foshan 1st Ring Dongxianbeiyan Line Tangcunbei Entrance Ramp
+496;2;14617;fo shan yi huan dong xian bei yan xian dong ce hua yuan da dao bei ce ru kou za dao
+496;3;14617;Foshan 1st Ring Dongxianbeiyan Line E Huayuan Blvd N Entrance Ramp
+496;2;14618;fo shan yi huan dong xian bei yan xian xi ce hua yuan da dao nan ce chu kou za dao
+496;3;14618;Foshan 1st Ring Dongxianbeiyan Line W Huayuan Blvd S Exit Ramp
+496;2;14625;X512 dong ce
+496;3;14625;X512 E
+496;2;14656;ke yun lu dong ce xin jiao dong lu nan ce ru kou za dao
+496;3;14656;Keyun Rd E Xinjiao East Rd S Entrance Ramp
+496;2;14658;xin guang kuai su lu fan yu nong ye sheng wu ke ji yuan fang xiang diao tou za dao
+496;3;14658;Xinguang Expy Fanyunongyeshengwukejiyuanfangxiang U-turn Ramp
+496;2;14659;bei huan lu
+496;3;14659;N Ring Rd
+496;2;14660;qiao zhong nan lu
+496;3;14660;Qiaozhong South Rd
+496;2;14662;guang zhao gao su gong lu (guang hai da dao xi)
+496;3;14662;Guangzhao Hwy (Guanghai Blvd W)
+496;2;14663;jian li bao bei lu (guang hai da dao zhong)
+496;3;14663;Jianlibao North Rd (Guanghai Blvd M)
+496;2;14664;yong nan lu (guang hai da dao dong)
+496;3;14664;Yongnan Rd (Guanghai Blvd E)
+496;2;14665;san huan xi lu (guang hai da dao dong)
+496;3;14665;3rd Ring West Rd (Guanghai Blvd E)
+496;2;14666;guan hua lu (guang yun lu)
+496;3;14666;Guanhua Rd (Guangyun Rd)
+496;2;14674;huang pu dong lu
+496;3;14674;Huangpu East Rd
+496;2;14677;guang qing da dao
+496;3;14677;Guangqing Blvd
+496;2;14678;xie shan xi lu
+496;3;14678;Xieshan West Rd
+496;2;14679;S379
+496;3;14679;S379
+496;2;14680;chi gang ta
+496;3;14680;Chigangta
+496;2;14681;yue jin lu shang ye jie
+496;3;14681;Yuejinlu St
+496;2;14685;qiao jin bei lu
+496;3;14685;Qiaojin North Rd
+496;2;14687;S378
+496;3;14687;S378
+496;2;14689;pan yu da dao nan
+496;3;14689;Panyu Blvd S
+496;2;14690;lv hu ti yu yun dong zhong xin
+496;3;14690;Lvhu Sports Sports Center
+496;2;14692;xin jiao zhong lu
+496;3;14692;Xinjiao Middle Rd
+496;2;14693;heng sha lu
+496;3;14693;Hengsha Rd
+496;2;14695;chan tan lu
+496;3;14695;Chantan Rd
+496;2;14699;zhong xin gong lu
+496;3;14699;Zhongxin Hwy
+496;2;14702;zeng cha lu jin sha zhou lu chu kou za dao
+496;3;14702;Zengcha Rd Jinshazhou Rd Exit Ramp
+496;2;14703;zeng cha lu jin sha zhou lu ru kou za dao
+496;3;14703;Zengcha Rd Jinshazhou Rd Entrance Ramp
+496;2;14704;jian she nan lu
+496;3;14704;Jianshe South Rd
+496;2;14709;xia an da dao
+496;3;14709;Xiaan Blvd
+496;2;14714;li xin da dao
+496;3;14714;Lixin Blvd
+496;2;14715;ji guang gao su gong lu
+496;3;14715;Jiguang Hwy
+496;2;14716;guang zhou rao cheng gao su gong lu
+496;3;14716;Guangzhouraocheng Hwy
+496;2;14717;zhu san jiao huan xian gao su gong lu
+496;3;14717;Zhusanjiaohuanxian Hwy
+496;2;14719;shen hai gao su guang zhou zhi xian
+496;3;14719;Shenhaigaosuguangzhou Br
+496;2;14720;guang ao gao su gong lu
+496;3;14720;Guang'ao Hwy
+496;2;14721;gui dan xi lu
+496;3;14721;Guidan West Rd
+496;2;14722;er guang gao su gong lu
+496;3;14722;Erguang Hwy
+496;2;14723;tong xing lu
+496;3;14723;Tongxing Rd
+496;2;14724;nan er huan gao su le liu fu wu qu
+496;3;14724;S 2nd Ring Hwy Leliu Service Area
+496;2;14725;fo shan yi huan nan yan xian
+496;3;14725;Foshan 1st Ring Nanyan Line
+496;2;14726;lan he shou fei zhan
+496;3;14726;Lanhe Tollgate
+496;2;14727;da guang gao su gong lu
+496;3;14727;Daguang Hwy
+496;2;14728;S381
+496;3;14728;S381
+496;2;14730;cheng ao da dao zhong
+496;3;14730;Cheng'ao Blvd M
+496;2;14739;guang zhou huan cheng gao su gong lu
+496;3;14739;Guangzhouhuancheng Hwy
+496;2;14740;da sha lu
+496;3;14740;Dasha Rd
+496;2;14741;er guang gao su guang zhou zhi xian
+496;3;14741;Erguanggaosuguangzhou Br
+496;2;14746;gui zhou da dao dong
+496;3;14746;Guizhou Blvd E
+496;2;14748;guan fo gao su gong lu
+496;3;14748;Guanfo Hwy
+496;2;14749;yu huang zhi xian
+496;3;14749;Yuhuang Br
+496;2;14752;Y530
+496;3;14752;Y530
+496;2;14753;fo shan yi huan gao su gong lu
+496;3;14753;Foshan 1st Ring Hwy
+496;2;14757;Y147
+496;3;14757;Y147
+496;2;14758;shan qian lv you da dao
+496;3;14758;Shanqianlvyou Blvd
+496;2;14766;han xi da dao
+496;3;14766;Hanxi Blvd
+496;2;14767;hua nan kuai su
+496;3;14767;Hua'nan Expy
+496;2;14770;guang kun gao su gong lu
+496;3;14770;Guangkun Hwy
+496;2;14772;yun xi lu
+496;3;14772;Yunxi Rd
+496;2;14773;dong xin gao su gong lu
+496;3;14773;Dongxin Hwy
+496;2;14776;zhu san jiao huan xian gao su gong lu guang zhou duan
+496;3;14776;Zhusanjiaohuanxian Hwy Guangzhou Sect
+496;2;14777;zhu san jiao huan xian gao su gong lu fo shan duan
+496;3;14777;Zhusanjiaohuanxian Hwy Foshan Sect
+496;2;14778;he he da dao
+496;3;14778;Hehe Blvd
+496;2;14779;jiang zhao gao su long kou fu wu qu
+496;3;14779;Jiangzhao Hwy Longkou Service Area
+496;2;14780;fo shan yi huan gao su gong lu bei duan
+496;3;14780;Foshan 1st Ring Hwy North Sect
+496;2;14781;fo shan yi huan gao su gong lu dong duan
+496;3;14781;Foshan 1st Ring Hwy East Sect
+496;2;14782;fo shan yi huan gao su gong lu nan duan
+496;3;14782;Foshan 1st Ring Hwy South Sect
+496;2;14783;fo shan yi huan gao su gong lu xi duan
+496;3;14783;Foshan 1st Ring Hwy West Sect
+496;2;14784;fo shan yi huan gao su gong lu wai quan G325 shang za dao
+496;3;14784;Foshan 1st Ring Hwy Outside Ring G325 Entrance Ramp
+496;2;14785;fo shan yi huan gao su gong lu wai quan
+496;3;14785;Foshan 1st Ring Hwy Outside Ring
+496;2;14786;fo shan yi huan gao su gong lu nei quan S267 shang za dao
+496;3;14786;Foshan 1st Ring Hwy Inside Ring S267 Entrance Ramp
+496;2;14787;fo shan yi huan gao su gong lu nei quan
+496;3;14787;Foshan 1st Ring Hwy Inside Ring
+496;2;14788;fo shan yi huan gao su gong lu S361 ru kou za dao
+496;3;14788;Foshan 1st Ring Hwy S361 Entrance Ramp
+496;2;14789;fo shan yi huan gao su gong lu nei quan S361 ru kou za dao
+496;3;14789;Foshan 1st Ring Hwy Inside Ring S361 Entrance Ramp
+496;2;14790;fo shan yi huan gao su gong lu wai quan S361 ru kou za dao
+496;3;14790;Foshan 1st Ring Hwy Outside Ring S361 Entrance Ramp
+496;2;14791;fo shan yi huan gao su gong lu za dao nan ce S361 ru kou za dao
+496;3;14791;Foshan 1st Ring Hwy Ramp S S361 Entrance Ramp
+496;2;14792;fo shan yi huan gao su gong lu za dao nan ce
+496;3;14792;Foshan 1st Ring Hwy Ramp S
+496;2;14793;fo shan yi huan gao su gong lu nei quan X512 shang za dao
+496;3;14793;Foshan 1st Ring Hwy Inside Ring X512 Entrance Ramp
+496;2;14794;fo shan yi huan gao su gong lu wai quan X512 ru kou za dao
+496;3;14794;Foshan 1st Ring Hwy Outside Ring X512 Entrance Ramp
+496;2;14795;fo shan yi huan gao su gong lu nei quan X512 dong ce shang za dao
+496;3;14795;Foshan 1st Ring Hwy Inside Ring X512 E Entrance Ramp
+496;2;14796;fo shan yi huan gao su gong lu nei quan X519 shang za dao
+496;3;14796;Foshan 1st Ring Hwy Inside Ring X519 Entrance Ramp
+496;2;14797;fo shan yi huan gao su gong lu wai quan X519 shang za dao
+496;3;14797;Foshan 1st Ring Hwy Outside Ring X519 Entrance Ramp
+496;2;14798;fo shan yi huan gao su gong lu Y105 ru kou za dao
+496;3;14798;Foshan 1st Ring Hwy Y105 Entrance Ramp
+496;2;14799;fo shan yi huan gao su gong lu za dao dong
+496;3;14799;Foshan 1st Ring Hwy Ramp E
+496;2;14800;fo shan yi huan gao su gong lu za dao dong Y105 ru kou za dao
+496;3;14800;Foshan 1st Ring Hwy Ramp E Y105 Entrance Ramp
+496;2;14801;fo shan yi huan gao su gong lu za dao xi
+496;3;14801;Foshan 1st Ring Hwy Ramp W
+496;2;14802;fo shan yi huan gao su gong lu za dao xi Y105 ru kou za dao
+496;3;14802;Foshan 1st Ring Hwy Ramp W Y105 Entrance Ramp
+496;2;14803;fo shan yi huan gao su gong lu za dao xi ce
+496;3;14803;Foshan 1st Ring Hwy Ramp W
+496;2;14804;fo shan yi huan gao su gong lu za dao xi ce Y105 ru kou za dao
+496;3;14804;Foshan 1st Ring Hwy Ramp W Y105 Entrance Ramp
+496;2;14805;fo shan yi huan gao su gong lu za dao zhong Y105 ru kou za dao
+496;3;14805;Foshan 1st Ring Hwy Ramp M Y105 Entrance Ramp
+496;2;14806;fo shan yi huan gao su gong lu za dao zhong
+496;3;14806;Foshan 1st Ring Hwy Ramp M
+496;2;14807;fo shan yi huan gao su gong lu nei quan bo ai dong lu shang za dao
+496;3;14807;Foshan 1st Ring Hwy Inside Ring Boai East Rd Entrance Ramp
+496;2;14809;xin guang kuai su lu dong ce han xi da dao ru kou za dao
+496;3;14809;Xinguang Expy E Hanxi Blvd Entrance Ramp
+496;2;14810;fo shan yi huan gao su gong lu nei quan da luo shang za dao
+496;3;14810;Foshan 1st Ring Hwy Inside Ring Daluo Entrance Ramp
+496;2;14811;fo shan yi huan gao su gong lu wai quan da luo shang za dao
+496;3;14811;Foshan 1st Ring Hwy Outside Ring Daluo Entrance Ramp
+496;2;14812;fo shan yi huan gao su gong lu nei quan fo chen gong lu shang za dao
+496;3;14812;Foshan 1st Ring Hwy Inside Ring Fochen Hwy Entrance Ramp
+496;2;14813;fo shan yi huan gao su gong lu wai quan fo ping san lu shang za dao
+496;3;14813;Foshan 1st Ring Hwy Outside Ring Fopingsan Rd Entrance Ramp
+496;2;14814;fo shan yi huan gao su gong lu nei quan fo shan da dao nan shang za dao
+496;3;14814;Foshan 1st Ring Hwy Inside Ring Foshan Blvd S Entrance Ramp
+496;2;14815;fo shan yi huan gao su gong lu S361 chu kou za dao
+496;3;14815;Foshan 1st Ring Hwy S361 Exit Ramp
+496;2;14816;fo shan yi huan gao su gong lu ya gang nan da dao chu kou za dao
+496;3;14816;Foshan 1st Ring Hwy Yagang South Blvd Exit Ramp
+496;2;14817;fo shan yi huan gao su gong lu nei quan S361 chu kou za dao
+496;3;14817;Foshan 1st Ring Hwy Inside Ring S361 Exit Ramp
+496;2;14818;fo shan yi huan gao su gong lu nei quan X512 chu kou za dao
+496;3;14818;Foshan 1st Ring Hwy Inside Ring X512 Exit Ramp
+496;2;14819;fo shan yi huan gao su gong lu nei quan X519 xia za dao
+496;3;14819;Foshan 1st Ring Hwy Inside Ring X519 Exit Ramp
+496;2;14820;fo shan yi huan gao su gong lu nei quan Y105 chu kou za dao
+496;3;14820;Foshan 1st Ring Hwy Inside Ring Y105 Exit Ramp
+496;2;14821;fo shan yi huan gao su gong lu nei quan bo ai dong lu xia za dao
+496;3;14821;Foshan 1st Ring Hwy Inside Ring Boai East Rd Exit Ramp
+496;2;14822;fo shan yi huan gao su gong lu nei quan da luo xia za dao
+496;3;14822;Foshan 1st Ring Hwy Inside Ring Daluo Exit Ramp
+496;2;14823;fo shan yi huan gao su gong lu nei quan fo ping san lu xia za dao
+496;3;14823;Foshan 1st Ring Hwy Inside Ring Fopingsan Rd Exit Ramp
+496;2;14824;fo shan yi huan gao su gong lu nei quan fo shan da dao nan xia za dao
+496;3;14824;Foshan 1st Ring Hwy Inside Ring Foshan Blvd S Exit Ramp
+496;2;14825;fo shan yi huan gao su gong lu nei quan fo shan yi huan dong xian bei yan xian dong ce chu kou za dao
+496;3;14825;Foshan 1st Ring Hwy Inside Ring Foshan 1st Ring Dongxianbeiyanxian E Exit Ramp
+496;2;14826;fo shan yi huan gao su gong lu you nei quan zhi wai quan lin ji hua xi lu fu jin diao tou za dao
+496;3;14826;Foshan 1st Ring Hwy from Inside Ring to Outside Ring Linjihua West Rd U-turn Ramp
+496;2;14827;fo shan yi huan gao su gong lu wai quan (lin nan zhuang da dao zhong)
+496;3;14827;Foshan 1st Ring Hwy Outside Ring (Linnanzhuang Blvd M)
+496;2;14828;fo shan yi huan gao su gong lu wai quan (lin ji hua xi lu)
+496;3;14828;Foshan 1st Ring Hwy Outside Ring (Linjihua West Rd)
+496;2;14829;fo shan yi huan gao su gong lu za dao
+496;3;14829;Foshan 1st Ring Hwy Ramp
+496;2;14830;fo shan yi huan gao su gong lu nei quan fo shan yi huan gao su gong lu za dao chu kou za dao
+496;3;14830;Foshan 1st Ring Hwy Inside Ring Foshan 1st Ring Hwy Ramp Exit Ramp
+496;2;14831;fo shan yi huan gao su gong lu nei quan guan li lu xia za dao
+496;3;14831;Foshan 1st Ring Hwy Inside Ring Guanli Rd Exit Ramp
+496;2;14833;fo shan yi huan gao su gong lu nei quan guang fo lu xia za dao
+496;3;14833;Foshan 1st Ring Hwy Inside Ring Guangfo Rd Exit Ramp
+496;2;14834;fo shan yi huan gao su gong lu nei quan gui dan lu bei chu kou za dao
+496;3;14834;Foshan 1st Ring Hwy Inside Ring Guidan Rd N Exit Ramp
+496;2;14835;fo shan yi huan gao su gong lu nei quan gui dan lu bei ce chu kou za dao
+496;3;14835;Foshan 1st Ring Hwy Inside Ring Guidan Rd N Exit Ramp
+496;2;14836;fo shan yi huan gao su gong lu nei quan gui dan lu nan chu kou za dao
+496;3;14836;Foshan 1st Ring Hwy Inside Ring Guidan Rd S Exit Ramp
+496;2;14837;fo shan yi huan gao su gong lu nei quan gui dan lu nan ce chu kou za dao
+496;3;14837;Foshan 1st Ring Hwy Inside Ring Guidan Rd S Exit Ramp
+496;2;14838;fo shan yi huan gao su gong lu nei quan hai ba lu xia za dao
+496;3;14838;Foshan 1st Ring Hwy Inside Ring Haiba Rd Exit Ramp
+496;2;14840;fo shan yi huan gao su gong lu nei quan hai wu lu xia za dao
+496;3;14840;Foshan 1st Ring Hwy Inside Ring Haiwu Rd Exit Ramp
+496;2;14841;fo shan yi huan gao su gong lu nei quan hong ling lu xia za dao
+496;3;14841;Foshan 1st Ring Hwy Inside Ring Hongling Rd Exit Ramp
+496;2;14842;fo shan yi huan gao su gong lu nei quan hua hui da dao xia za dao
+496;3;14842;Foshan 1st Ring Hwy Inside Ring Huahui Blvd Exit Ramp
+496;2;14843;fo shan yi huan gao su gong lu nei quan huang long xia za dao
+496;3;14843;Foshan 1st Ring Hwy Inside Ring Huanglong Exit Ramp
+496;2;14844;fo shan yi huan gao su gong lu nei quan ji li da dao xi chu kou za dao
+496;3;14844;Foshan 1st Ring Hwy Inside Ring Jili Blvd W Exit Ramp
+496;2;14845;fo shan yi huan gao su gong lu nei quan ji hua dong lu xia za dao
+496;3;14845;Foshan 1st Ring Hwy Inside Ring Jihua East Rd Exit Ramp
+496;2;14846;fo shan yi huan gao su gong lu nei quan ji hua lu xia za dao
+496;3;14846;Foshan 1st Ring Hwy Inside Ring Jihua Rd Exit Ramp
+496;2;14847;fo shan yi huan gao su gong lu nei quan ji hua xi lu chu kou za dao
+496;3;14847;Foshan 1st Ring Hwy Inside Ring Jihua West Rd Exit Ramp
+496;2;14848;fo shan yi huan gao su gong lu nei quan ji hua xi lu bei ce chu kou za dao
+496;3;14848;Foshan 1st Ring Hwy Inside Ring Jihua West Rd N Exit Ramp
+496;2;14849;fo shan yi huan gao su gong lu nei quan ji hua xi lu nan ce chu kou za dao
+496;3;14849;Foshan 1st Ring Hwy Inside Ring Jihua West Rd S Exit Ramp
+496;2;14850;fo shan yi huan gao su gong lu nei quan jian ping bai huo xia za dao
+496;3;14850;Foshan 1st Ring Hwy Inside Ring Jianpingbaihuo Exit Ramp
+496;2;14851;fo shan yi huan gao su gong lu nei quan ke ji da dao dong xia za dao
+496;3;14851;Foshan 1st Ring Hwy Inside Ring Keji Blvd E Exit Ramp
+496;2;14852;fo shan yi huan gao su gong lu nei quan ke ji lu chu kou za dao
+496;3;14852;Foshan 1st Ring Hwy Inside Ring Keji Rd Exit Ramp
+496;2;14853;fo shan yi huan gao su gong lu nei quan li guan lu xia za dao
+496;3;14853;Foshan 1st Ring Hwy Inside Ring Liguan Rd Exit Ramp
+496;2;14854;fo shan yi huan gao su gong lu nei quan li guang lu xia za dao
+496;3;14854;Foshan 1st Ring Hwy Inside Ring Liguang Rd Exit Ramp
+496;2;14855;fo shan yi huan gao su gong lu nei quan li he lu xia za dao
+496;3;14855;Foshan 1st Ring Hwy Inside Ring Lihe Rd Exit Ramp
+496;2;14856;fo shan yi huan gao su gong lu nei quan lian gui lu xia za dao
+496;3;14856;Foshan 1st Ring Hwy Inside Ring Liangui Rd Exit Ramp
+496;2;14858;fo shan yi huan gao su gong lu nei quan lin shui lu xia za dao
+496;3;14858;Foshan 1st Ring Hwy Inside Ring Linshui Rd Exit Ramp
+496;2;14859;fo shan yi huan gao su gong lu nei quan long da lu xia za dao
+496;3;14859;Foshan 1st Ring Hwy Inside Ring Longda Rd Exit Ramp
+496;2;14861;fo shan yi huan gao su gong lu nei quan luo sha bei shang gong ye qu gong ye er lu xia za dao
+496;3;14861;Foshan 1st Ring Hwy Inside Ring Luoshabeishanggongyequgongyeer Rd Exit Ramp
+496;2;14862;fo shan yi huan gao su gong lu nei quan nan zhuang da dao zhong chu kou za dao
+496;3;14862;Foshan 1st Ring Hwy Inside Ring Nanzhuang Blvd M Exit Ramp
+496;2;14863;fo shan yi huan gao su gong lu nei quan nan zhuang da dao zhong bei ce chu kou za dao
+496;3;14863;Foshan 1st Ring Hwy Inside Ring Nanzhuang Blvd M N Exit Ramp
+496;2;14864;fo shan yi huan gao su gong lu nei quan nan zhuang da dao zhong nan ce chu kou za dao
+496;3;14864;Foshan 1st Ring Hwy Inside Ring Nanzhuang Blvd M S Exit Ramp
+496;2;14865;fo shan yi huan gao su gong lu nei quan san le xi lu xia za dao
+496;3;14865;Foshan 1st Ring Hwy Inside Ring Sanle West Rd Exit Ramp
+496;2;14866;fo shan yi huan gao su gong lu nei quan shi cheng zhong xue chu kou za dao
+496;3;14866;Foshan 1st Ring Hwy Inside Ring Shichengzhongxue Exit Ramp
+496;2;14867;fo shan yi huan gao su gong lu nei quan tai hang lu xia za dao
+496;3;14867;Foshan 1st Ring Hwy Inside Ring Taihang Rd Exit Ramp
+496;2;14868;fo shan yi huan gao su gong lu nei quan tao yuan dong lu chu kou za dao
+496;3;14868;Foshan 1st Ring Hwy Inside Ring Taoyuan East Rd Exit Ramp
+496;2;14869;fo shan yi huan gao su gong lu nei quan xiao tang gong ye da dao chu kou za dao
+496;3;14869;Foshan 1st Ring Hwy Inside Ring Xiaotanggongye Blvd Exit Ramp
+496;2;14870;fo shan yi huan gao su gong lu nei quan ya gang nan da dao chu kou za dao
+496;3;14870;Foshan 1st Ring Hwy Inside Ring Yagang South Blvd Exit Ramp
+496;2;14871;fo shan yi huan gao su gong lu nei quan dong ce
+496;3;14871;Foshan 1st Ring Hwy Inside Ring E
+496;2;14872;fo shan yi huan gao su gong lu nei quan dong ce nan zhuang da dao zhong nan ce chu kou za dao
+496;3;14872;Foshan 1st Ring Hwy Inside Ring E Nanzhuang Blvd M S Exit Ramp
+496;2;14873;fo shan yi huan gao su gong lu nei quan xi ce
+496;3;14873;Foshan 1st Ring Hwy Inside Ring W
+496;2;14874;fo shan yi huan gao su gong lu nei quan xi ce ya gang nan da dao chu kou za dao
+496;3;14874;Foshan 1st Ring Hwy Inside Ring W Yagang South Blvd Exit Ramp
+496;2;14876;fo shan yi huan gao su gong lu wai quan fo shan yi huan dong xian bei yan xian ru kou za dao
+496;3;14876;Foshan 1st Ring Hwy Outside Ring Foshan 1st Ring Dongxianbeiyan Line Entrance Ramp
+496;2;14877;fo shan yi huan gao su gong lu wai quan G325 xia za dao
+496;3;14877;Foshan 1st Ring Hwy Outside Ring G325 Exit Ramp
+496;2;14878;fo shan yi huan gao su gong lu wai quan S267 xia za dao
+496;3;14878;Foshan 1st Ring Hwy Outside Ring S267 Exit Ramp
+496;2;14879;fo shan yi huan gao su gong lu wai quan S361 chu kou za dao
+496;3;14879;Foshan 1st Ring Hwy Outside Ring S361 Exit Ramp
+496;2;14880;fo shan yi huan gao su gong lu wai quan X512 xia za dao
+496;3;14880;Foshan 1st Ring Hwy Outside Ring X512 Exit Ramp
+496;2;14881;fo shan yi huan gao su gong lu wai quan X519 xia za dao
+496;3;14881;Foshan 1st Ring Hwy Outside Ring X519 Exit Ramp
+496;2;14882;fo shan yi huan gao su gong lu wai quan bo ai zhong lu xia za dao
+496;3;14882;Foshan 1st Ring Hwy Outside Ring Boai Middle Rd Exit Ramp
+496;2;14883;fo shan yi huan gao su gong lu wai quan da luo xia za dao
+496;3;14883;Foshan 1st Ring Hwy Outside Ring Daluo Exit Ramp
+496;2;14884;fo shan yi huan gao su gong lu wai quan fo chen gong lu xia za dao
+496;3;14884;Foshan 1st Ring Hwy Outside Ring Fochen Hwy Exit Ramp
+496;2;14885;fo shan yi huan gao su gong lu wai quan fo shan yi huan dong xian bei yan xian chu kou za dao
+496;3;14885;Foshan 1st Ring Hwy Outside Ring Foshan 1st Ring Dongxianbeiyanxian Exit Ramp
+496;2;14886;fo shan yi huan gao su gong lu wai quan fo shan yi huan dong xian bei yan xian dong ce chu kou za dao
+496;3;14886;Foshan 1st Ring Hwy Outside Ring Foshan 1st Ring Dongxianbeiyanxian E Exit Ramp
+496;2;14887;fo shan yi huan gao su gong lu nei quan (hong ling lu)
+496;3;14887;Foshan 1st Ring Hwy Inside Ring (Hongling Rd)
+496;2;14888;fo shan yi huan gao su gong lu you wai quan zhi nei quan hong ling lu fu jin diao tou za dao
+496;3;14888;Foshan 1st Ring Hwy from Outside Ring to Inside Ring Hongling Rd U-turn Ramp
+496;2;14889;fo shan yi huan gao su gong lu you wai quan zhi nei quan ji hua lu fu jin diao tou za dao
+496;3;14889;Foshan 1st Ring Hwy from Outside Ring to Inside Ring Jihua Rd U-turn Ramp
+496;2;14890;fo shan yi huan gao su gong lu nei quan (ji hua lu)
+496;3;14890;Foshan 1st Ring Hwy Inside Ring (Jihua Rd)
+496;2;14891;fo shan yi huan gao su gong lu nei quan (nan zhuang da dao zhong)
+496;3;14891;Foshan 1st Ring Hwy Inside Ring (Nanzhuang Blvd M)
+496;2;14892;fo shan yi huan gao su gong lu you wai quan zhi nei quan nan zhuang da dao zhong fu jin diao tou za dao
+496;3;14892;Foshan 1st Ring Hwy from Outside Ring to Inside Ring Nanzhuang Blvd M U-turn Ramp
+496;2;14893;fo shan yi huan gao su gong lu wai quan fo shan yi huan gao su gong lu za dao chu kou za dao
+496;3;14893;Foshan 1st Ring Hwy Outside Ring Foshan 1st Ring Hwy Ramp Exit Ramp
+496;2;14894;fo shan yi huan gao su gong lu wai quan guan li lu xia za dao
+496;3;14894;Foshan 1st Ring Hwy Outside Ring Guanli Rd Exit Ramp
+496;2;14895;fo shan yi huan gao su gong lu wai quan gui dan lu xia za dao
+496;3;14895;Foshan 1st Ring Hwy Outside Ring Guidan Rd Exit Ramp
+496;2;14896;fo shan yi huan gao su gong lu wai quan gui ping xi lu xia za dao
+496;3;14896;Foshan 1st Ring Hwy Outside Ring Guiping West Rd Exit Ramp
+496;2;14897;fo shan yi huan gao su gong lu wai quan hai wu lu xia za dao
+496;3;14897;Foshan 1st Ring Hwy Outside Ring Haiwu Rd Exit Ramp
+496;2;14898;fo shan yi huan gao su gong lu wai quan he shun da dao ru kou za dao
+496;3;14898;Foshan 1st Ring Hwy Outside Ring Heshun Blvd Entrance Ramp
+496;2;14899;fo shan yi huan gao su gong lu wai quan hong ling lu chu kou za dao
+496;3;14899;Foshan 1st Ring Hwy Outside Ring Hongling Rd Exit Ramp
+496;2;14900;fo shan yi huan gao su gong lu wai quan hong ling lu nei ce chu kou za dao
+496;3;14900;Foshan 1st Ring Hwy Outside Ring Hongling Rd Inside Exit Ramp
+496;2;14901;fo shan yi huan gao su gong lu wai quan hong ling lu wai ce chu kou za dao
+496;3;14901;Foshan 1st Ring Hwy Outside Ring Hongling Rd Outside Exit Ramp
+496;2;14902;fo shan yi huan gao su gong lu wai quan hua hui da dao xia za dao
+496;3;14902;Foshan 1st Ring Hwy Outside Ring Huahui Blvd Exit Ramp
+496;2;14903;fo shan yi huan gao su gong lu wai quan huang dong cun xia za dao
+496;3;14903;Foshan 1st Ring Hwy Outside Ring Huangdongcun Exit Ramp
+496;2;14904;fo shan yi huan gao su gong lu wai quan huang long xia za dao
+496;3;14904;Foshan 1st Ring Hwy Outside Ring Huanglong Exit Ramp
+496;2;14905;fo shan yi huan gao su gong lu wai quan ji li da dao xi chu kou za dao
+496;3;14905;Foshan 1st Ring Hwy Outside Ring Jili Blvd W Exit Ramp
+496;2;14906;fo shan yi huan gao su gong lu wai quan ji hua lu xia za dao
+496;3;14906;Foshan 1st Ring Hwy Outside Ring Jihua Rd Exit Ramp
+496;2;14907;fo shan yi huan gao su gong lu wai quan ji hua lu bei ce chu kou za dao
+496;3;14907;Foshan 1st Ring Hwy Outside Ring Jihua Rd N Exit Ramp
+496;2;14908;fo shan yi huan gao su gong lu wai quan ji hua xi lu chu kou za dao
+496;3;14908;Foshan 1st Ring Hwy Outside Ring Jihua West Rd Exit Ramp
+496;2;14909;fo shan yi huan gao su gong lu wai quan ke ji da dao dong xia za dao
+496;3;14909;Foshan 1st Ring Hwy Outside Ring Keji Blvd E Exit Ramp
+496;2;14910;fo shan yi huan gao su gong lu wai quan li guang lu xia za dao
+496;3;14910;Foshan 1st Ring Hwy Outside Ring Liguang Rd Exit Ramp
+496;2;14911;fo shan yi huan gao su gong lu wai quan li he lu xia za dao
+496;3;14911;Foshan 1st Ring Hwy Outside Ring Lihe Rd Exit Ramp
+496;2;14912;fo shan yi huan gao su gong lu wai quan li shui da dao nan xia za dao
+496;3;14912;Foshan 1st Ring Hwy Outside Ring Lishui Blvd S Exit Ramp
+496;2;14913;fo shan yi huan gao su gong lu wai quan lian gui lu chu kou za dao
+496;3;14913;Foshan 1st Ring Hwy Outside Ring Liangui Rd Exit Ramp
+496;2;14914;fo shan yi huan gao su gong lu wai quan long da lu xia za dao
+496;3;14914;Foshan 1st Ring Hwy Outside Ring Longda Rd Exit Ramp
+496;2;14915;fo shan yi huan gao su gong lu wai quan long xi da dao xia za dao
+496;3;14915;Foshan 1st Ring Hwy Outside Ring Longxi Blvd Exit Ramp
+496;2;14916;fo shan yi huan gao su gong lu wai quan luo sha bei shang gong ye qu yan he lu xia za dao
+496;3;14916;Foshan 1st Ring Hwy Outside Ring Luoshabeishanggongyequyanhe Rd Exit Ramp
+496;2;14917;fo shan yi huan gao su gong lu wai quan nan zhuang da dao zhong chu kou za dao
+496;3;14917;Foshan 1st Ring Hwy Outside Ring Nanzhuang Blvd M Exit Ramp
+496;2;14918;fo shan yi huan gao su gong lu wai quan nan zhuang da dao zhong bei ce chu kou za dao
+496;3;14918;Foshan 1st Ring Hwy Outside Ring Nanzhuang Blvd M N Exit Ramp
+496;2;14919;fo shan yi huan gao su gong lu wai quan nan zhuang da dao zhong nan ce chu kou za dao
+496;3;14919;Foshan 1st Ring Hwy Outside Ring Nanzhuang Blvd M S Exit Ramp
+496;2;14920;fo shan yi huan gao su gong lu wai quan san he xi lu xia za dao
+496;3;14920;Foshan 1st Ring Hwy Outside Ring Sanhe West Rd Exit Ramp
+496;2;14921;fo shan yi huan gao su gong lu wai quan shi cheng zhong xue chu kou za dao
+496;3;14921;Foshan 1st Ring Hwy Outside Ring Shichengzhongxue Exit Ramp
+496;2;14922;fo shan yi huan gao su gong lu wai quan tai hang lu xia za dao
+496;3;14922;Foshan 1st Ring Hwy Outside Ring Taihang Rd Exit Ramp
+496;2;14923;fo shan yi huan gao su gong lu wai quan tao yuan dong lu xia za dao
+496;3;14923;Foshan 1st Ring Hwy Outside Ring Taoyuan East Rd Exit Ramp
+496;2;14924;fo shan yi huan gao su gong lu wai quan xia bai gong ye da dao zhong chu kou za dao
+496;3;14924;Foshan 1st Ring Hwy Outside Ring Xiabaigongye Blvd M Exit Ramp
+496;2;14925;fo shan yi huan gao su gong lu wai quan xiao tang gong ye da dao chu kou za dao
+496;3;14925;Foshan 1st Ring Hwy Outside Ring Xiaotanggongye Blvd Exit Ramp
+496;2;14926;fo shan yi huan gao su gong lu wai quan ya gang nan da dao chu kou za dao
+496;3;14926;Foshan 1st Ring Hwy Outside Ring Yagang South Blvd Exit Ramp
+496;2;14927;fo shan yi huan gao su gong lu wai quan bei ce fo shan yi huan dong xian bei yan xian dong ce chu kou za dao
+496;3;14927;Foshan 1st Ring Hwy Outside Ring N Foshan 1st Ring Dongxianbeiyanxian E Exit Ramp
+496;2;14928;fo shan yi huan gao su gong lu wai quan bei ce
+496;3;14928;Foshan 1st Ring Hwy Outside Ring N
+496;2;14929;fo shan yi huan gao su gong lu wai quan fo shan yi huan gao su gong lu za dao ru kou za dao
+496;3;14929;Foshan 1st Ring Hwy Outside Ring Foshan 1st Ring Hwy Ramp Entrance Ramp
+496;2;14930;fo shan yi huan gao su gong lu za dao bei ce Y105 chu kou za dao
+496;3;14930;Foshan 1st Ring Hwy Ramp N Y105 Exit Ramp
+496;2;14931;fo shan yi huan gao su gong lu za dao bei ce
+496;3;14931;Foshan 1st Ring Hwy Ramp N
+496;2;14932;fo shan yi huan gao su gong lu za dao dong Y105 chu kou za dao
+496;3;14932;Foshan 1st Ring Hwy Ramp E Y105 Exit Ramp
+496;2;14933;fo shan yi huan gao su gong lu za dao dong ce Y105 chu kou za dao
+496;3;14933;Foshan 1st Ring Hwy Ramp E Y105 Exit Ramp
+496;2;14934;fo shan yi huan gao su gong lu za dao dong ce
+496;3;14934;Foshan 1st Ring Hwy Ramp E
+496;2;14935;fo shan yi huan gao su gong lu za dao nan ce S361 chu kou za dao
+496;3;14935;Foshan 1st Ring Hwy Ramp S S361 Exit Ramp
+496;2;14936;fo shan yi huan gao su gong lu za dao xi Y105 chu kou za dao
+496;3;14936;Foshan 1st Ring Hwy Ramp W Y105 Exit Ramp
+496;2;14937;fo shan yi huan gao su gong lu za dao xi ce Y105 chu kou za dao
+496;3;14937;Foshan 1st Ring Hwy Ramp W Y105 Exit Ramp
+496;2;14938;fo shan yi huan gao su gong lu zhi xia nan lu
+496;3;14938;Foshan 1st Ring Hwy to Xia'nan Rd
+496;2;14939;fo shan yi huan nan yan xian long zhou gong lu bei ce chu kou za dao
+496;3;14939;Foshan 1st Ring Nanyanxian Longzhou Hwy N Exit Ramp
+496;2;14940;fo shan yi huan nan yan xian long zhou gong lu nan ce chu kou za dao
+496;3;14940;Foshan 1st Ring Nanyanxian Longzhou Hwy S Exit Ramp
+496;2;14941;fo shan yi huan gao su gong lu wai quan guan hua lu shang za dao
+496;3;14941;Foshan 1st Ring Hwy Outside Ring Guanhua Rd Entrance Ramp
+496;2;14942;fo shan yi huan gao su gong lu nei quan guang dong shu zi mei ti ji shu yan jiu kai fa yuan shang za dao
+496;3;14942;Foshan 1st Ring Hwy Inside Ring Guangdongshuzimeitijishuyanjiukaifayuan Entrance Ramp
+496;2;14943;fo shan yi huan gao su gong lu wai quan guang fo lu shang za dao
+496;3;14943;Foshan 1st Ring Hwy Outside Ring Guangfo Rd Entrance Ramp
+496;2;14944;fo shan yi huan gao su gong lu nei quan gui dan lu shang za dao
+496;3;14944;Foshan 1st Ring Hwy Inside Ring Guidan Rd Entrance Ramp
+496;2;14945;fo shan yi huan gao su gong lu wai quan gui dan lu ru kou za dao
+496;3;14945;Foshan 1st Ring Hwy Outside Ring Guidan Rd Entrance Ramp
+496;2;14946;fo shan yi huan gao su gong lu wai quan gui dan lu bei ce ru kou za dao
+496;3;14946;Foshan 1st Ring Hwy Outside Ring Guidan Rd N Entrance Ramp
+496;2;14947;fo shan yi huan gao su gong lu wai quan gui dan lu nan ce ru kou za dao
+496;3;14947;Foshan 1st Ring Hwy Outside Ring Guidan Rd S Entrance Ramp
+496;2;14948;fo shan yi huan gao su gong lu nei quan gui ping xi lu shang za dao
+496;3;14948;Foshan 1st Ring Hwy Inside Ring Guiping West Rd Entrance Ramp
+496;2;14949;fo shan yi huan gao su gong lu wai quan hai ba lu shang za dao
+496;3;14949;Foshan 1st Ring Hwy Outside Ring Haiba Rd Entrance Ramp
+496;2;14950;fo shan yi huan gao su gong lu nei quan hong ling lu ru kou za dao
+496;3;14950;Foshan 1st Ring Hwy Inside Ring Hongling Rd Entrance Ramp
+496;2;14951;fo shan yi huan gao su gong lu wai quan hong ling lu shang za dao
+496;3;14951;Foshan 1st Ring Hwy Outside Ring Hongling Rd Entrance Ramp
+496;2;14952;fo shan yi huan gao su gong lu nei quan hong ling lu nei ce ru kou za dao
+496;3;14952;Foshan 1st Ring Hwy Inside Ring Hongling Rd Inside Entrance Ramp
+496;2;14953;fo shan yi huan gao su gong lu nei quan hong ling lu wai ce ru kou za dao
+496;3;14953;Foshan 1st Ring Hwy Inside Ring Hongling Rd Outside Entrance Ramp
+496;2;14954;fo shan yi huan gao su gong lu wai quan hua hui da dao shang za dao
+496;3;14954;Foshan 1st Ring Hwy Outside Ring Huahui Blvd Entrance Ramp
+496;2;14956;fo shan yi huan gao su gong lu nei quan huang long shang za dao
+496;3;14956;Foshan 1st Ring Hwy Inside Ring Huanglong Entrance Ramp
+496;2;14957;fo shan yi huan gao su gong lu wai quan huang long shang za dao
+496;3;14957;Foshan 1st Ring Hwy Outside Ring Huanglong Entrance Ramp
+496;2;14958;fo shan yi huan gao su gong lu nei quan ji li da dao xi ru kou za dao
+496;3;14958;Foshan 1st Ring Hwy Inside Ring Jili Blvd W Entrance Ramp
+496;2;14959;fo shan yi huan gao su gong lu wai quan ji li da dao xi ru kou za dao
+496;3;14959;Foshan 1st Ring Hwy Outside Ring Jili Blvd W Entrance Ramp
+496;2;14960;fo shan yi huan gao su gong lu nei quan ji hua dong lu shang za dao
+496;3;14960;Foshan 1st Ring Hwy Inside Ring Jihua East Rd Entrance Ramp
+496;2;14961;fo shan yi huan gao su gong lu nei quan ji hua lu ru kou za dao
+496;3;14961;Foshan 1st Ring Hwy Inside Ring Jihua Rd Entrance Ramp
+496;2;14962;fo shan yi huan gao su gong lu wai quan ji hua lu ru kou za dao
+496;3;14962;Foshan 1st Ring Hwy Outside Ring Jihua Rd Entrance Ramp
+496;2;14963;fo shan yi huan gao su gong lu wai quan ji hua lu nan ce ru kou za dao
+496;3;14963;Foshan 1st Ring Hwy Outside Ring Jihua Rd S Entrance Ramp
+496;2;14964;fo shan yi huan gao su gong lu nei quan dong ce ji hua xi lu ru kou za dao
+496;3;14964;Foshan 1st Ring Hwy Inside Ring E Jihua West Rd Entrance Ramp
+496;2;14965;fo shan yi huan gao su gong lu wai quan ji hua xi lu ru kou za dao
+496;3;14965;Foshan 1st Ring Hwy Outside Ring Jihua West Rd Entrance Ramp
+496;2;14966;fo shan yi huan gao su gong lu nei quan ji hua xi lu ru kou za dao
+496;3;14966;Foshan 1st Ring Hwy Inside Ring Jihua West Rd Entrance Ramp
+496;2;14967;fo shan yi huan gao su gong lu wai quan ji hua xi lu bei ce ru kou za dao
+496;3;14967;Foshan 1st Ring Hwy Outside Ring Jihua West Rd N Entrance Ramp
+496;2;14968;fo shan yi huan gao su gong lu nei quan ji hua xi lu nan ce ru kou za dao
+496;3;14968;Foshan 1st Ring Hwy Inside Ring Jihua West Rd S Entrance Ramp
+496;2;14969;fo shan yi huan gao su gong lu nei quan ke ji da dao dong shang za dao
+496;3;14969;Foshan 1st Ring Hwy Inside Ring Keji Blvd E Entrance Ramp
+496;2;14970;fo shan yi huan gao su gong lu wai quan ke ji da dao dong shang za dao
+496;3;14970;Foshan 1st Ring Hwy Outside Ring Keji Blvd E Entrance Ramp
+496;2;14971;fo shan yi huan gao su gong lu wai quan li guan lu shang za dao
+496;3;14971;Foshan 1st Ring Hwy Outside Ring Liguan Rd Entrance Ramp
+496;2;14972;fo shan yi huan gao su gong lu nei quan li guang lu shang za dao
+496;3;14972;Foshan 1st Ring Hwy Inside Ring Liguang Rd Entrance Ramp
+496;2;14973;fo shan yi huan gao su gong lu wai quan li guang lu shang za dao
+496;3;14973;Foshan 1st Ring Hwy Outside Ring Liguang Rd Entrance Ramp
+496;2;14974;fo shan yi huan gao su gong lu nei quan li he lu shang za dao
+496;3;14974;Foshan 1st Ring Hwy Inside Ring Lihe Rd Entrance Ramp
+496;2;14975;fo shan yi huan gao su gong lu wai quan li he lu shang za dao
+496;3;14975;Foshan 1st Ring Hwy Outside Ring Lihe Rd Entrance Ramp
+496;2;14976;fo shan yi huan gao su gong lu nei quan lian gui lu shang za dao
+496;3;14976;Foshan 1st Ring Hwy Inside Ring Liangui Rd Entrance Ramp
+496;2;14977;fo shan yi huan gao su gong lu wai quan lian gui lu shang za dao
+496;3;14977;Foshan 1st Ring Hwy Outside Ring Liangui Rd Entrance Ramp
+496;2;14981;fo shan yi huan gao su gong lu wai quan lin shui lu shang za dao
+496;3;14981;Foshan 1st Ring Hwy Outside Ring Linshui Rd Entrance Ramp
+496;2;14982;fo shan yi huan gao su gong lu nei quan long da lu shang za dao
+496;3;14982;Foshan 1st Ring Hwy Inside Ring Longda Rd Entrance Ramp
+496;2;14983;fo shan yi huan gao su gong lu wai quan long da lu shang za dao
+496;3;14983;Foshan 1st Ring Hwy Outside Ring Longda Rd Entrance Ramp
+496;2;14984;fo shan yi huan gao su gong lu nei quan long xi da dao shang za dao
+496;3;14984;Foshan 1st Ring Hwy Inside Ring Longxi Blvd Entrance Ramp
+496;2;14985;fo shan yi huan gao su gong lu wai quan long xi da dao ru kou za dao
+496;3;14985;Foshan 1st Ring Hwy Outside Ring Longxi Blvd Entrance Ramp
+496;2;14986;fo shan yi huan gao su gong lu nei quan long xi da dao bei ce ru kou za dao
+496;3;14986;Foshan 1st Ring Hwy Inside Ring Longxi Blvd N Entrance Ramp
+496;2;14987;fo shan yi huan gao su gong lu nei quan luo sha bei shang gong ye qu gong ye er lu shang za dao
+496;3;14987;Foshan 1st Ring Hwy Inside Ring Luoshabeishanggongyequgongyeer Rd Entrance Ramp
+496;2;14988;fo shan yi huan gao su gong lu nei quan luo sha bei shang gong ye qu yan he lu shang za dao
+496;3;14988;Foshan 1st Ring Hwy Inside Ring Luoshabeishanggongyequyanhe Rd Entrance Ramp
+496;2;14989;fo shan yi huan gao su gong lu nei quan nan zhuang da dao zhong ru kou za dao
+496;3;14989;Foshan 1st Ring Hwy Inside Ring Nanzhuang Blvd M Entrance Ramp
+496;2;14990;fo shan yi huan gao su gong lu wai quan nan zhuang da dao zhong ru kou za dao
+496;3;14990;Foshan 1st Ring Hwy Outside Ring Nanzhuang Blvd M Entrance Ramp
+496;2;14991;fo shan yi huan gao su gong lu nei quan nan zhuang da dao zhong bei ce ru kou za dao
+496;3;14991;Foshan 1st Ring Hwy Inside Ring Nanzhuang Blvd M N Entrance Ramp
+496;2;14992;fo shan yi huan gao su gong lu wai quan xi ce
+496;3;14992;Foshan 1st Ring Hwy Outside Ring W
+496;2;14993;fo shan yi huan gao su gong lu wai quan xi ce nan zhuang da dao zhong bei ce ru kou za dao
+496;3;14993;Foshan 1st Ring Hwy Outside Ring W Nanzhuang Blvd M N Entrance Ramp
+496;2;14994;fo shan yi huan gao su gong lu nei quan nan zhuang da dao zhong nan ce ru kou za dao
+496;3;14994;Foshan 1st Ring Hwy Inside Ring Nanzhuang Blvd M S Entrance Ramp
+496;2;14995;fo shan yi huan gao su gong lu wai quan nan zhuang da dao zhong nan ce ru kou za dao
+496;3;14995;Foshan 1st Ring Hwy Outside Ring Nanzhuang Blvd M S Entrance Ramp
+496;2;14996;fo shan yi huan gao su gong lu wai quan ping xi da dao shang za dao
+496;3;14996;Foshan 1st Ring Hwy Outside Ring Pingxi Blvd Entrance Ramp
+496;2;14998;fo shan yi huan gao su gong lu wai quan qing feng dong lu shang za dao
+496;3;14998;Foshan 1st Ring Hwy Outside Ring Qingfeng East Rd Entrance Ramp
+496;2;14999;fo shan yi huan gao su gong lu nei quan san he xi lu shang za dao
+496;3;14999;Foshan 1st Ring Hwy Inside Ring Sanhe West Rd Entrance Ramp
+496;2;15000;fo shan yi huan gao su gong lu wai quan san le xi lu shang za dao
+496;3;15000;Foshan 1st Ring Hwy Outside Ring Sanle West Rd Entrance Ramp
+496;2;15001;fo shan yi huan gao su gong lu nei quan shi cheng zhong xue ru kou za dao
+496;3;15001;Foshan 1st Ring Hwy Inside Ring Shichengzhongxue Entrance Ramp
+496;2;15002;fo shan yi huan gao su gong lu wai quan shi cheng zhong xue ru kou za dao
+496;3;15002;Foshan 1st Ring Hwy Outside Ring Shichengzhongxue Entrance Ramp
+496;2;15003;fo shan yi huan gao su gong lu wai quan shi shan chuang ye lu shang za dao
+496;3;15003;Foshan 1st Ring Hwy Outside Ring Shishanchuangye Rd Entrance Ramp
+496;2;15004;fo shan yi huan gao su gong lu nei quan tai hang lu shang za dao
+496;3;15004;Foshan 1st Ring Hwy Inside Ring Taihang Rd Entrance Ramp
+496;2;15005;fo shan yi huan gao su gong lu wai quan tai hang lu shang za dao
+496;3;15005;Foshan 1st Ring Hwy Outside Ring Taihang Rd Entrance Ramp
+496;2;15006;fo shan yi huan gao su gong lu nei quan tao yuan dong lu shang za dao
+496;3;15006;Foshan 1st Ring Hwy Inside Ring Taoyuan East Rd Entrance Ramp
+496;2;15007;fo shan yi huan gao su gong lu wai quan tao yuan dong lu ru kou za dao
+496;3;15007;Foshan 1st Ring Hwy Outside Ring Taoyuan East Rd Entrance Ramp
+496;2;15008;fo shan yi huan gao su gong lu nei quan xia bai gong ye da dao zhong ru kou za dao
+496;3;15008;Foshan 1st Ring Hwy Inside Ring Xiabaigongye Blvd M Entrance Ramp
+496;2;15009;fo shan yi huan gao su gong lu wai quan xia bai gong ye da dao zhong ru kou za dao
+496;3;15009;Foshan 1st Ring Hwy Outside Ring Xiabaigongye Blvd M Entrance Ramp
+496;2;15010;fo shan yi huan gao su gong lu nei quan xiao tang gong ye da dao ru kou za dao
+496;3;15010;Foshan 1st Ring Hwy Inside Ring Xiaotanggongye Blvd Entrance Ramp
+496;2;15011;fo shan yi huan gao su gong lu wai quan xiao tang gong ye da dao ru kou za dao
+496;3;15011;Foshan 1st Ring Hwy Outside Ring Xiaotanggongye Blvd Entrance Ramp
+496;2;15012;fo shan yi huan gao su gong lu ya gang nan da dao ru kou za dao
+496;3;15012;Foshan 1st Ring Hwy Yagang South Blvd Entrance Ramp
+496;2;15014;fo shan yi huan gao su gong lu wai quan ya gang nan da dao ru kou za dao
+496;3;15014;Foshan 1st Ring Hwy Outside Ring Yagang South Blvd Entrance Ramp
+496;2;15015;shen hai gao su gong lu
+496;3;15015;Shenhai Hwy
+496;2;15019;zhong lin shou fei zhan
+496;3;15019;Zhonglin Tollgate
+496;2;15020;piao feng shan zhuang
+496;3;15020;Piaofengshanzhuang
+496;2;15021;S296
+496;3;15021;S296
+496;2;15023;ping bu da dao dong
+496;3;15023;Pingbu Blvd E
+496;2;15027;qiao zi da jie
+496;3;15027;Qiaozi Ave
+496;2;15030;hong xing bei lu
+496;3;15030;Hongxing North Rd
+496;2;15034;xie bian da dao
+496;3;15034;Xiebian Blvd
+496;2;15036;jiang fu lu
+496;3;15036;Jiangfu Rd
+496;2;15038;zhu jia zhuang
+496;3;15038;Zhujiazhuang
+496;2;15039;xi hu xi jie
+496;3;15039;Xihu West St
+496;2;15041;lian jiang lu
+496;3;15041;Lianjiang Rd
+496;2;15044;li shui da dao bei
+496;3;15044;Lishui Blvd N
+496;2;15046;li shui da dao zhong
+496;3;15046;Lishui Blvd M
+496;2;15047;da gan lu
+496;3;15047;Dagan Rd
+496;2;15048;kang fu lu
+496;3;15048;Kangfu Rd
+496;2;15049;feng xiang bei lu
+496;3;15049;Fengxiang North Rd
+496;2;15050;dan heng lu
+496;3;15050;Danhenglu
+496;2;15051;xi an lu
+496;3;15051;Xi'an Rd
+496;2;15052;keng tian xiao jia
+496;3;15052;Kengtianxiaojia
+496;2;15053;xun feng shan dong lu
+496;3;15053;Xunfengshan East Rd
+496;2;15054;mu bei lu
+496;3;15054;Mubei Rd
+496;2;15055;feng xiang nan lu
+496;3;15055;Fengxiang South Rd
+496;2;15057;xin jiao zhong lu guang zhou da dao sui dao
+496;3;15057;Xinjiaozhongluguangzhoudadao Tunl
+496;2;15061;shi gui lu
+496;3;15061;Shigui Rd
+496;2;15062;huo zhan lu zhi xie bian da dao
+496;3;15062;Huozhan Rd to Xiebian Blvd
+496;2;15064;han yuan
+496;3;15064;Hanyuan
+496;2;15073;tan cun lu
+496;3;15073;Tancun Rd
+496;2;15074;ren min xi lu
+496;3;15074;Renmin West Rd
+496;2;15075;bai shou lu
+496;3;15075;Baishou Rd
+496;2;15077;song gang gong ye da dao bei
+496;3;15077;Songganggongye Blvd N
+496;2;15078;guang zhou da xue
+496;3;15078;Guangzhou University
+496;2;15080;guang dong ke xue zhong xin nan men
+496;3;15080;Guangdongkexuezhongxinnanmen
+496;2;15081;guang zhou qing shao nian ke ji guan
+496;3;15081;Guangzhouqingshaoniankejiguan
+496;2;15086;guang zhou yue xiu nan qi che zhan
+496;3;15086;Guangzhouyuexiunanqichezhan
+496;2;15087;qi le lu
+496;3;15087;Qile Rd
+496;2;15088;yun cheng nan yi lu
+496;3;15088;Yunchengnanyi Rd
+496;2;15090;X304
+496;3;15090;X304
+496;2;15091;X939
+496;3;15091;X939
+496;2;15092;wan bao nan jie
+496;3;15092;Wanbao South St
+496;2;15095;dong ming yi lu
+496;3;15095;Dongmingyi Rd
+496;2;15096;kai tai da dao
+496;3;15096;Kaitai Blvd
+496;2;15097;ke feng lu
+496;3;15097;Kefeng Rd
+496;2;15098;ke xiang lu
+496;3;15098;Kexiang Rd
+496;2;15099;feng xin lu
+496;3;15099;Fengxin Rd
+496;2;15100;shuang ta lu
+496;3;15100;Shuangta Rd
+496;2;15103;lun tou sui dao
+496;3;15103;Luntou Tunl
+496;2;15104;guan zhou sui dao
+496;3;15104;Guanzhou Tunl
+496;2;15107;zhu ji nan lu
+496;3;15107;Zhuji South Rd
+496;2;15108;guang hua er lu
+496;3;15108;Guanghuaer Rd
+496;2;15109;xiang yun dong jie
+496;3;15109;Xiangyun East St
+496;2;15110;shen hai gao su gong lu fo shan duan
+496;3;15110;Shenhai Hwy Foshan Sect
+496;2;15111;shen hai gao su guang zhou zhi xian fo shan duan
+496;3;15111;Shenhai Hwy Guangzhou Br Foshan Sect
+496;2;15113;bei yue zong bu da sha
+496;3;15113;Beiyuezongbudasha
+496;2;15115;nan hai qu fu you bao jian yuan
+496;3;15115;Nanhai Maternal Child Care Ctr
+496;2;15116;yi mian da yuan
+496;3;15116;Yimiandayuan
+496;2;15117;jian hang xin cheng zhi hang
+496;3;15117;Jianhangxinchengzhihang
+496;2;15118;fo shan shi gong dian ju
+496;3;15118;Foshanshigongdianju
+496;2;15119;G105 guang zhou duan
+496;3;15119;G105 Guangzhou Sect
+496;2;15120;shun de fu wu qu
+496;3;15120;Shunde Service Area
+496;2;15122;jiu jiang shou fei zhan
+496;3;15122;Jiujiang Tollgate
+496;2;15126;fo shan yi huan nan yan xian san le xi lu chu kou za dao
+496;3;15126;Foshan 1st Ring Nanyanxian Sanle West Rd Exit Ramp
+496;2;15128;san le xi lu xi ce
+496;3;15128;Sanle West Rd W
+496;2;15129;fo shan yi huan nan yan xian san le xi lu xi ce chu kou za dao
+496;3;15129;Foshan 1st Ring Nanyanxian Sanle West Rd W Exit Ramp
+496;2;15130;fo shan yi huan gao su gong lu wai quan fo shan yi huan nan yan xian chu kou za dao
+496;3;15130;Foshan 1st Ring Hwy Outside Ring Foshan 1st Ring Nanyanxian Exit Ramp
+496;2;15131;fo shan yi huan gao su gong lu nei quan san le xi lu ru kou za dao
+496;3;15131;Foshan 1st Ring Hwy Inside Ring Sanle West Rd Entrance Ramp
+496;2;15132;fo shan yi huan nan yan xian dong ce san le xi lu chu kou za dao
+496;3;15132;Foshan 1st Ring Nanyanxian E Sanle West Rd Exit Ramp
+496;2;15133;fo shan yi huan nan yan xian xi ce
+496;3;15133;Foshan 1st Ring Nanyanxian W
+496;2;15134;fo shan yi huan nan yan xian xi ce san le xi lu ru kou za dao
+496;3;15134;Foshan 1st Ring Nanyanxian W Sanle West Rd Entrance Ramp
+496;2;15136;fo shan yi huan gao su gong lu nei quan xi ce ya gang nan da dao
+496;3;15136;Foshan 1st Ring Hwy Inside Ring W Yagang South Blvd
+496;2;15137;xin guang kuai su lu xi ce han xi da dao chu kou za dao
+496;3;15137;Xinguang Expy W Hanxi Blvd Exit Ramp
+496;2;15138;xin guang kuai su lu dong ce han xi da dao chu kou za dao
+496;3;15138;Xinguang Expy E Hanxi Blvd Exit Ramp
+496;2;15139;fo shan yi huan nan yan xian dong ce
+496;3;15139;Foshan 1st Ring Nanyanxian E
+496;2;15140;fo shan yi huan nan yan xian dong ce san le xi lu ru kou za dao
+496;3;15140;Foshan 1st Ring Nanyanxian E Sanle West Rd Entrance Ramp
+496;2;15142;fo shan yi huan nan yan xian fo shan yi huan gao su gong lu chu kou za dao
+496;3;15142;Foshan 1st Ring Nanyanxian Foshan 1st Ring Hwy Exit Ramp
+496;2;15143;fo shan yi huan gao su gong lu fo chen gong lu ru kou za dao
+496;3;15143;Foshan 1st Ring Hwy Fochen Hwy Entrance Ramp
+496;2;15144;xin guang kuai su lu S296 xia za dao
+496;3;15144;Xinguang Expy S296 Exit Ramp
+496;2;15145;xin guang kuai su lu S296 shang za dao
+496;3;15145;Xinguang Expy S296 Entrance Ramp
+496;2;15146;san le xi lu nan ce
+496;3;15146;Sanle West Rd S
+496;2;15147;fo shan yi huan nan yan xian dong ce san le xi lu nan ce chu kou za dao
+496;3;15147;Foshan 1st Ring Nanyanxian E Sanle West Rd S Exit Ramp
+496;2;15148;fo shan yi huan nan yan xian dong ce san le xi lu nan ce ru kou za dao
+496;3;15148;Foshan 1st Ring Nanyanxian E Sanle West Rd S Entrance Ramp
+496;2;15149;xin guang kuai su lu xi ce han xi da dao ru kou za dao
+496;3;15149;Xinguang Expy W Hanxi Blvd Entrance Ramp
+496;2;15150;han xi da dao nan ce
+496;3;15150;Hanxi Blvd S
+496;2;15151;xin guang kuai su lu xi ce han xi da dao nan ce ru kou za dao
+496;3;15151;Xinguang Expy W Hanxi Blvd S Entrance Ramp
+496;2;15152;xin guang kuai su lu dong ce han xi da dao nan ce chu kou za dao
+496;3;15152;Xinguang Expy E Hanxi Blvd S Exit Ramp
+496;2;15153;xin guang kuai su lu han xi da dao chu kou za dao
+496;3;15153;Xinguang Expy Hanxi Blvd Exit Ramp
+496;2;15155;xin guang kuai su lu bei ce han xi da dao chu kou za dao
+496;3;15155;Xinguang Expy N Hanxi Blvd Exit Ramp
+496;2;15156;xin guang kuai su lu bei ce xin guang kuai su lu nan ce ru kou za dao
+496;3;15156;Xinguang Expy N Xinguang Expy S Entrance Ramp
+496;2;15158;fo shan yi huan gao su gong lu nei quan qing feng dong lu shang za dao
+496;3;15158;Foshan 1st Ring Hwy Inside Ring Qingfeng East Rd Entrance Ramp
+496;2;15161;luo yao lu
+496;3;15161;Luoyao Rd
+496;2;15163;fang hua gong lu (ren he da ma lu)
+496;3;15163;Fanghua Hwy (Renheda Rd)
+496;2;15164;tian mei lu (shang ye da dao)
+496;3;15164;Tianmei Rd (Shangye Blvd)
+496;2;15168;ying ri lu
+496;3;15168;Yingri Rd
+496;2;15169;gui zhou da dao zhong
+496;3;15169;Guizhou Blvd M
+496;2;15172;xin ning lu
+496;3;15172;Xinning Rd
+496;2;15173;yong an da dao dong
+496;3;15173;Yong'an Blvd E
+496;2;15176;run jing lu
+496;3;15176;Runjing Rd
+496;2;15177;yi hua hua yuan
+496;3;15177;Yihuahuayuan
+496;2;15178;nan feng da dao
+496;3;15178;Nanfeng Blvd
+496;2;15179;shi nan lu
+496;3;15179;Shinan Rd
+496;2;15180;wu feng sha tian lu
+496;3;15180;Wufengshatian Rd
+496;2;15181;jin sha nan lu
+496;3;15181;Jinsha South Rd
+496;2;15183;shi tang lu
+496;3;15183;Shitang Rd
+496;2;15184;he jing lu
+496;3;15184;Hejing Rd
+496;2;15185;xin di san heng lu
+496;3;15185;Xindisan Rd
+496;2;15186;shang chong zhi jie
+496;3;15186;Shangchong St
+496;2;15188;hai kou da dao
+496;3;15188;Haikou Blvd
+496;2;15190;xi han nan yue wang bo wu guan
+496;3;15190;Western Han Dynasty Mausoleum Msm
+496;2;15192;zhong hua lian he cai chan bao xian gong si
+496;3;15192;Zhonghualianhecaichanbaoxiangongsi
+496;2;15193;tian you san lu
+496;3;15193;Tianyousan Rd
+496;2;15194;shi yi da dao
+496;3;15194;Shiyi Blvd
+496;2;15195;shu qian lu
+496;3;15195;Shuqian Rd
+496;2;15196;si you nan lu
+496;3;15196;Siyou South Rd
+496;2;15197;ming yue lu
+496;3;15197;Mingyue Rd
+496;2;15199;gan qiao lu
+496;3;15199;Ganqiao Rd
+496;2;15200;nan hu yi lu
+496;3;15200;Nanhuyi Rd
+496;2;15201;lian jiao lu
+496;3;15201;Lianjiao Rd
+496;2;15202;sha xi cun xin sha lu
+496;3;15202;Shaxicunxinsha Rd
+496;2;15206;rui he lu
+496;3;15206;Ruihe Rd
+496;2;15207;guo ji yin hang zhong xin
+496;3;15207;Guojiyinhangzhongxin
+496;2;15209;li lv lu
+496;3;15209;Lilv Rd
+496;2;15210;ping an er lu
+496;3;15210;Ping'aner Rd
+496;2;15211;guang zhou huan cheng gao su gong lu dong duan
+496;3;15211;Guangzhouhuancheng Hwy East Sect
+496;2;15212;guang zhou huan cheng gao su gong lu nan duan
+496;3;15212;Guangzhouhuancheng Hwy South Sect
+496;2;15213;guang zhou huan cheng gao su gong lu xi duan
+496;3;15213;Guangzhouhuancheng Hwy West Sect
+496;2;15214;guang zhou huan cheng gao su gong lu bei duan
+496;3;15214;Guangzhouhuancheng Hwy North Sect
+496;2;15215;yue zhou lu
+496;3;15215;Yuezhou Rd
+496;2;15216;cha shan lu
+496;3;15216;Chashan Rd
+496;2;15217;hui jing bei lu
+496;3;15217;Huijing North Rd
+496;2;15218;hui jing lu
+496;3;15218;Huijing Rd
+496;2;15221;sha tai zhong lu
+496;3;15221;Shatai Middle Rd
+496;2;15225;guang zhou dian shi tai
+496;3;15225;Guangzhoudianshitai
+496;2;15226;wu dou da dao xi (S112)
+496;3;15226;Wudou Blvd W (S112)
+496;2;15230;nan hua xi lu
+496;3;15230;Nanhua West Rd
+496;2;15231;dong jian da sha
+496;3;15231;Dongjiandasha
+496;2;15232;guang dong sheng zheng fu
+496;3;15232;People's Gov't Of Guangdong Prov.
+496;2;15233;guang dong guo ji ke ji zhong xin
+496;3;15233;Guangdongguojikejizhongxin
+496;2;15234;tian he ti yu guan
+496;3;15234;Tianhetiyuguan
+496;2;15235;jin zhong heng lu
+496;3;15235;Jinzhong Rd
+496;2;15236;chen tai lu
+496;3;15236;Chentai Rd
+496;2;15237;guang cong yi lu
+496;3;15237;Guangcongyi Rd
+496;2;15238;gang wan lu
+496;3;15238;Gangwan Rd
+496;2;15239;xin hua lu
+496;3;15239;Xinhua Rd
+496;2;15241;guang zhou shi bin yi guan
+496;3;15241;Guangzhoushibinyiguan
+496;2;15242;chang ban bei lu
+496;3;15242;Changban North Rd
+496;2;15243;yue hua lu
+496;3;15243;Yuehua Rd
+496;2;15244;xin ji san lu
+496;3;15244;Xinjisan Rd
+496;2;15246;he bei lu
+496;3;15246;Hebei Rd
+496;2;15249;yun gao sheng tai gong yuan
+496;3;15249;Yungao Ecological Park
+496;2;15250;guang zhu xi xian gao su gong lu zhi xing hua lu
+496;3;15250;Guangzhu West Line Hwy to Xinghua Rd
+496;2;15251;qi xin lu
+496;3;15251;Qixin Rd
+496;2;15252;gui ping lu
+496;3;15252;Guiping Rd
+496;2;15253;hua du qu xin hua qing bu zhong xue
+496;3;15253;Huaduquxinhuaqingbuzhongxue
+496;2;15257;ke yun lu lun tou sui dao xia za dao
+496;3;15257;Keyun Rd Luntou Tunl Exit Ramp
+496;2;15262;nei huan lu nei quan zhen an lu xia za dao
+496;3;15262;Inner Ring Rd Inside Ring Zhen'an Rd Exit Ramp
+496;2;15263;nei huan lu ren min gao jia lu shang za dao
+496;3;15263;Inner Ring Rd Renmin Viad Entrance Ramp
+496;2;15264;ju rong bei lu
+496;3;15264;Jurong North Rd
+496;2;15265;xiao zhou lu
+496;3;15265;Xiaozhou Rd
+496;2;15266;xiao zhou dong lu
+496;3;15266;Xiaozhou East Rd
+496;2;15267;xiao zhou nan lu
+496;3;15267;Xiaozhou South Rd
+496;2;15268;da xue cheng wai huan xi lu
+496;3;15268;Daxuecheng Outer Ring West Rd
+496;2;15269;yun cheng zhong yi lu
+496;3;15269;Yunchengzhongyi Rd
+496;2;15270;guang he gao su gong lu
+496;3;15270;Guanghe Hwy
+496;2;15271;jiu long da dao
+496;3;15271;Jiulong Blvd
+496;2;15272;shan mei cun
+496;3;15272;Shanmei Village
+496;2;15273;S380
+496;3;15273;S380
+496;2;15274;zeng pai gong lu
+496;3;15274;Zengpai Hwy
+496;2;15275;liang sha yi lu
+496;3;15275;Liangshayi Rd
+496;2;15276;shi guang lu
+496;3;15276;Shiguang Rd
+496;2;15277;ying bin lu
+496;3;15277;Yingbin Rd
+496;2;15278;chi kan di
+496;3;15278;Chikandi
+496;2;15279;shen shan da dao dong
+496;3;15279;Shenshan Blvd E
+496;2;15280;lian an shi
+496;3;15280;Lian'anshi
+496;2;15281;gui he gong lu
+496;3;15281;Guihe Hwy
+496;2;15282;yong an da dao xi
+496;3;15282;Yongan Blvd W
+496;2;15283;luo ping lu
+496;3;15283;Luoping Rd
+496;2;15284;song gang da dao nan
+496;3;15284;Songgang Blvd S
+496;2;15285;guang shan yi lu
+496;3;15285;Guangshanyi Rd
+496;2;15286;lang sha lu
+496;3;15286;Langsha Rd
+496;2;15287;guang he xian
+496;3;15287;Guanghe Line
+496;2;15288;long gao lu
+496;3;15288;Longgao Rd
+496;2;15289;chen wang xian
+496;3;15289;Chenwang Line
+496;2;15290;fu yi lu
+496;3;15290;Fuyi Rd
+496;2;15291;jin shan da dao xi
+496;3;15291;Jinshan Blvd W
+496;2;15292;long chong xian
+496;3;15292;Longchong Line
+496;2;15293;chan xi da dao
+496;3;15293;Chanxi Blvd
+496;2;15294;yi xin lu
+496;3;15294;Yixin Rd
+496;2;15295;xi niu lu (sha tai bei lu)
+496;3;15295;Xiniu Rd (Shatai North Rd)
+496;2;15296;zhong cheng lu (sha tai bei lu)
+496;3;15296;Zhongcheng Rd (Shatai North Rd)
+496;2;15297;hong fa jie (tai ying lu)
+496;3;15297;Hongfa St (Taiying Rd)
+496;2;15298;da yuan bei lu
+496;3;15298;Dayuan North Rd
+496;2;15299;zhong ping cha dao
+496;3;15299;Zhongpingcha Ave
+496;2;15300;dong yi lu
+496;3;15300;Dongyi Rd
+496;2;15301;sui yan xi lu
+496;3;15301;Suiyan West Rd
+496;2;15302;san he xian
+496;3;15302;Sanhe Line
+496;2;15303;xing lang da qiao
+496;3;15303;Xinglang Brg
+496;2;15304;guang fo lu (bei cun gong lu)
+496;3;15304;Guangfo Rd (Beicun Hwy)
+496;2;15305;hai chong lu
+496;3;15305;Haichong Rd
+496;2;15306;chuang ye yi lu
+496;3;15306;Chuangyeyi Rd
+496;2;15307;fo shan yi huan bei yan xian
+496;3;15307;Foshan 1st Ring Beiyanxian
+496;2;15308;ya yun da dao
+496;3;15308;Yayun Blvd
+496;2;15309;ya yun nan lu
+496;3;15309;Yayun South Rd
+496;2;15310;chang jiang lu
+496;3;15310;Changjiang Rd
+496;2;15311;han xi da dao zhong
+496;3;15311;Hanxidadaozhong
+496;2;15312;guang yuan lu
+496;3;15312;Guangyuan Rd
+496;2;15313;song gang da dao
+496;3;15313;Songgang Blvd
+496;2;15314;shun fan gong lu
+496;3;15314;Shunfan Hwy
+496;2;15315;xin yue lu
+496;3;15315;Xinyue Rd
+496;2;15316;nan hai da dao nan
+496;3;15316;Nanhai Blvd S
+496;2;15317;feng lin lu
+496;3;15317;Fenglin Rd
+496;2;15318;ji hua da qiao
+496;3;15318;Jihua Brg
+496;2;15319;lan shi da qiao
+496;3;15319;Lanshi Brg
+496;2;15320;wei yang xin yi cun nan lu
+496;3;15320;Weiyangxinyicun South Rd
+496;2;15321;xin xing lu
+496;3;15321;Xinxing Rd
+496;2;15322;cao chang da dao
+496;3;15322;Caochang Blvd
+496;2;15323;zhou cun lu
+496;3;15323;Zhoucun Rd
+496;2;15324;li heng lu
+496;3;15324;Lihenglu
+496;2;15325;shi feng lu
+496;3;15325;Shifeng Rd
+496;2;15326;guan hua li jiao
+496;3;15326;Guanhua Jct
+496;2;15327;guan bao lu li jiao
+496;3;15327;Guanbaolu Jct
+496;2;15328;ling nan lu
+496;3;15328;Lingnan Rd
+496;2;15329;dong yue cun zhong huan jie
+496;3;15329;Dongyuecun Middle Ring St
+496;2;15330;li ya lu
+496;3;15330;Liya Rd
+496;2;15331;lian jiang dong lu
+496;3;15331;Lianjiang East Rd
+496;2;15332;da sha tou si ma lu
+496;3;15332;Dashatousi Rd
+496;2;15333;xin sha lu
+496;3;15333;Xinsha Rd
+496;2;15334;lu xing xian
+496;3;15334;Luxing Line
+496;2;15335;xin gang lu
+496;3;15335;Xin'gang Rd
+496;2;15336;fen jiang qiao
+496;3;15336;Fenjiang Brg
+496;2;15337;jiang sha lu
+496;3;15337;Jiangsha Rd
+496;2;15338;lai fu lou
+496;3;15338;Laifulou
+496;2;15339;da xue cheng nei huan dong lu
+496;3;15339;Daxuecheng Inner Ring East Rd
+496;2;15340;da xue cheng zhong huan dong lu
+496;3;15340;Daxuecheng Middle Ring East Rd
+496;2;15341;da xue cheng wai huan dong lu
+496;3;15341;Daxuecheng Outer Ring East Rd
+496;2;15342;da xue cheng bei san lu
+496;3;15342;Daxuechengbeisan Rd
+496;2;15343;mao gang dong lu
+496;3;15343;Maogang East Rd
+496;2;15344;xin ya da qiao
+496;3;15344;Xinya Brg
+496;2;15345;sui yan dong lu
+496;3;15345;Suiyan East Rd
+496;2;15346;jiang lan lu
+496;3;15346;Jianglan Rd
+496;2;15348;xin tang xin yuan da jie nan jie
+496;3;15348;Xintangxinyuandajie South St
+496;2;15349;ke xue da dao da guan lu sui dao
+496;3;15349;Kexuedadaodaguanlu Tunl
+496;2;15350;guang shan er lu
+496;3;15350;Guangshaner Rd
+496;2;15351;dong chuan lu zhi dong hua nan lu
+496;3;15351;Dongchuan Rd to Donghua South Rd
+496;2;15352;da xue cheng dong er lu
+496;3;15352;Daxuechengdonger Rd
+496;2;15353;sheng li 1 hao lv dao
+496;3;15353;Shengliyihaolv Ave
+496;2;15354;da xue cheng dong san lu
+496;3;15354;Daxuechengdongsan Rd
+496;2;15355;da xue cheng dong si lu
+496;3;15355;Daxuechengdongsi Rd
+496;2;15356;bei qiao lu
+496;3;15356;Beiqiao Rd
+496;2;15357;luo xuan da dao
+496;3;15357;Luoxuan Blvd
+496;2;15358;da xue cheng zhong huan xi lu
+496;3;15358;Daxuecheng Middle Ring West Rd
+496;2;15359;da xue cheng zhong si lu
+496;3;15359;Daxuechengzhongsi Rd
+496;2;15360;da xue cheng bei yi lu
+496;3;15360;Daxuechengbeiyi Rd
+496;2;15361;da xue cheng bei si lu
+496;3;15361;Daxuechengbeisi Rd
+496;2;15362;da xue cheng zhong ba lu
+496;3;15362;Daxuechengzhongba Rd
+496;2;15363;da xue cheng zhong xin da jie nan
+496;3;15363;Daxuechengzhongxin Ave S
+496;2;15364;yun nan xian
+496;3;15364;Yunnan Line
+496;2;15365;kui qi dong lu
+496;3;15365;Kuiqi East Rd
+496;2;15366;hua long lu
+496;3;15366;Hualong Rd
+496;2;15367;lian he lu
+496;3;15367;Lianhe Rd
+496;2;15368;dong ping lu zhi qian jin lu
+496;3;15368;Dongping Rd to Qianjin Rd
+496;2;15369;han xi da dao dong
+496;3;15369;Hanxi Blvd E
+496;2;15370;mu bei dong lu
+496;3;15370;Mubei East Rd
+496;2;15371;he xi da dao
+496;3;15371;Hexi Blvd
+496;2;15372;he dong da qiao
+496;3;15372;Hedong Brg
+496;2;15373;he yu gong ye yuan
+496;3;15373;Heyugongyeyuan
+496;2;15377;hua guan lu
+496;3;15377;Huaguan Rd
+496;2;15378;heng si lu
+496;3;15378;Hengsi Rd
+496;2;15379;dong zhan lu
+496;3;15379;Dongzhan Rd
+496;2;15380;che bei nan lu
+496;3;15380;Chebei South Rd
+496;2;15381;ji hua sui dao
+496;3;15381;Jihua Tunl
+496;2;15382;lun tou huan cun bei lu
+496;3;15382;Luntouhuancun North Rd
+496;2;15383;huang pu da dao
+496;3;15383;Huangpu Blvd
+496;2;15384;da xue cheng zhong xin da jie bei
+496;3;15384;Daxuechengzhongxin Ave N
+496;2;15385;da xue cheng zhong wu lu
+496;3;15385;Daxuechengzhongwu Rd
+496;2;15386;da xue cheng nan er lu
+496;3;15386;Daxuechengnaner Rd
+496;2;15387;da xue cheng nan san lu
+496;3;15387;Daxuechengnansan Rd
+496;2;15388;da xue cheng xi si lu
+496;3;15388;Daxuechengxisi Rd
+496;2;15389;da xue cheng zhong yi lu
+496;3;15389;Daxuechengzhongyi Rd
+496;2;15390;da xue cheng nei huan xi lu
+496;3;15390;Daxuecheng Inner Ring West Rd
+496;2;15391;da xue cheng nan wu lu
+496;3;15391;Daxuechengnanwu Rd
+496;2;15392;ju rong nan lu
+496;3;15392;Jurong South Rd
+496;2;15393;da xue cheng xi wu lu
+496;3;15393;Daxuechengxiwu Rd
+496;2;15394;da xue cheng xing guang xia dao
+496;3;15394;Daxuechengxingguangxia Ave
+496;2;15395;li hong bei lu (feng shen da dao)
+496;3;15395;Lihong North Rd (Fengshen Blvd)
+496;2;15396;hui zhan dong lu
+496;3;15396;Huizhan East Rd
+496;2;15397;kang ti lu
+496;3;15397;Kangti Rd
+496;2;15398;shen hua lu
+496;3;15398;Shenhua Rd
+496;2;15399;qing ning lu
+496;3;15399;Qingning Rd
+496;2;15400;shu guang da dao
+496;3;15400;Shuguang Blvd
+496;2;15402;da xue cheng xi liu lu
+496;3;15402;Daxuechengxiliu Rd
+496;2;15403;da xue cheng zhong san lu
+496;3;15403;Daxuechengzhongsan Rd
+496;2;15404;sha he da jie
+496;3;15404;Shahe Ave
+496;2;15405;yun cheng nan si lu
+496;3;15405;Yunchengnansi Rd
+496;2;15406;xin zhou xi zhi jie
+496;3;15406;Xinzhou West St
+496;2;15407;shi ken qiao
+496;3;15407;Shiken Brg
+496;2;15408;sha xi da dao
+496;3;15408;Shaxi Blvd
+496;2;15409;bai shun dao
+496;3;15409;Baishun Ave
+496;2;15410;yi yuan dong lu
+496;3;15410;Yiyuan East Rd
+496;2;15411;qi xin lu
+496;3;15411;Qixin Rd
+496;2;15412;qi fu lu
+496;3;15412;Qifu Rd
+496;2;15413;guang qing gao su lian jie xian
+496;3;15413;Guangqinggaosulianjiexian
+496;2;15415;jin keng da dao
+496;3;15415;Jinkeng Blvd
+496;2;15416;jin shan da dao dong
+496;3;15416;Jinshan Blvd E
+496;2;15417;guang shen yan jiang gao su gong lu
+496;3;15417;Guangshenyanjiang Hwy
+496;2;15418;dong fo gao su gong lu
+496;3;15418;Dongfo Hwy
+496;2;15422;keng kou
+496;3;15422;Kengkou
+496;2;15424;hua chong fu wu qu
+496;3;15424;Huayong Service Area
+496;2;15426;shishanshoufeizhan
+496;3;15426;Shishan Tollgate
+496;2;15428;tan cun bei yue pai fang lu
+496;3;15428;Tancunbeiyuepaifang Rd
+496;2;15429;jin gu nan lu
+496;3;15429;Jin'gu South Rd
+496;2;15430;jin shan da dao zhong
+496;3;15430;Jinshandadaozhong
+496;2;15431;nan pu da dao
+496;3;15431;Nanpu Blvd
+496;2;15432;jiang zhao gao su ming cheng ting che qu
+496;3;15432;Jiangzhao Hwy Mingcheng Parking Area
+496;2;15433;nan hai huo shui gong yuan
+496;3;15433;Nanhai Huoshui Park
+496;2;15435;fo shan yi huan gao su gong lu nei quan hua hui da dao shang za dao
+496;3;15435;Foshan 1st Ring Hwy Inside Ring Huahui Blvd Entrance Ramp
+496;2;15436;fo shan yi huan nan yan xian san le xi lu ru kou za dao
+496;3;15436;Foshan 1st Ring Nanyan Line Sanle West Rd Entrnace Ramp
+496;2;15437;san le xi lu bei ce
+496;3;15437;Sanle West Rd N
+496;2;15438;fo shan yi huan nan yan xian san le xi lu bei ce ru kou za dao
+496;3;15438;Foshan 1st Ring Nanyan Line Sanle West Rd N Entrance Ramp
+496;2;15440;fo shan yi huan gao su gong lu san le xi lu ru kou za dao
+496;3;15440;Foshan 1st Ring Hwy Sanle West Rd Entrance Ramp
+496;2;15441;fo shan yi huan gao su gong lu san le xi lu chu kou za dao
+496;3;15441;Foshan 1st Ring Hwy Sanle West Rd Exit Ramp
+496;2;15443;fo shan yi huan nan yan xian san le xi lu nan ce chu kou za dao
+496;3;15443;Foshan 1st Ring Nnanyan Line Sanle West Rd S Exit Ramp
+496;2;15444;fo shan yi huan nan yan xian fo shan yi huan gao su gong lu ru kou za dao
+496;3;15444;Foshan 1st Ring Nanyan Line Foshan 1st Ring Hwy Entrance Ramp
+496;2;15445;ke yun lu lun tou huan cun bei lu xia za dao
+496;3;15445;Keyun Rd Luntouhuancun North Rd Exit Ramp
+496;2;15446;ke yun lu nan ce
+496;3;15446;Keyun Rd S
+496;2;15447;ke yun lu nan ce lun tou huan cun bei lu xia za dao
+496;3;15447;Keyun Rd S Luntouhuancun North Rd Exit Ramp
+496;2;15448;pa zhou da dao dong nan ce
+496;3;15448;Pazhou Blvd E S
+496;2;15449;ke yun lu pa zhou da dao dong nan ce ru kou za dao
+496;3;15449;Keyun Rd Pazhou Blvd E S Entrance Ramp
+496;2;15450;ke yun lu yue jiang zhong lu ru kou za dao
+496;3;15450;Keyun Rd Yuejiang Middle Rd Entrance Ramp
+496;2;15451;xin guang kuai su lu jin shan da dao xi xi ce chu kou za dao
+496;3;15451;Xinguang Expy Jinshan Blvd W W Exit Ramp
+496;2;15452;jin shan da dao xi xi ce
+496;3;15452;Jinshan Blvd W W
+496;2;15453;xin guang kuai su lu jin shan da dao xi dong ce ru kou za dao
+496;3;15453;Xinguang Expy Jinshan Blvd E Entrance Ramp
+496;2;15454;jin shan da dao xi dong ce
+496;3;15454;Jinshan Blvd W E
+496;2;15455;xin guang kuai su lu jin shan da dao xi nan ce chu kou za dao
+496;3;15455;Xinguang Expy Jinshan Blvd S Exit Ramp
+496;2;15456;jin shan da dao xi nan ce
+496;3;15456;Jinshan Blvd W S
+496;2;15457;xin guang kuai su lu jin shan da dao xi chu kou za dao
+496;3;15457;Xinguang Expy Jinshan Blvd W Exit Ramp
+496;2;15458;xin guang kuai su lu bei ce jin shan da dao xi ru kou za dao
+496;3;15458;Xinguang Expy N Jinshan Blvd W Entrance Ramp
+496;2;15459;xin guang kuai su lu jin shan da dao xi ru kou za dao
+496;3;15459;Xinguang Expy Jinshan Blvd W Entrance Ramp
+496;2;15460;xin guang kuai su lu xi ce jin shan da dao xi nan ce chu kou za dao
+496;3;15460;Xinguang Expy W Jinshan Blvd W S Exit Ramp
+496;2;15461;xin guang kuai su lu nan ce jin shan da dao xi ru kou za dao
+496;3;15461;Xinguang Expy S Jinshan Blvd W Entrance Ramp
+496;2;15462;xing ye da dao
+496;3;15462;Xingye Blvd
+496;2;15463;xin guang kuai su lu bei ce xing ye da dao xia za dao
+496;3;15463;Xinguang Expy N Xingye Blvd Exit Ramp
+496;2;15465;xin guang kuai su lu bei ce xing ye da dao shang za dao
+496;3;15465;Xinguang Expy N Xingye Blvd Entrance Ramp
+496;2;15466;xin guang kuai su lu nan ce xing ye da dao shang za dao
+496;3;15466;Xinguang Expy S Xingye Blvd Entrance Ramp
+496;2;15467;xin guang kuai su lu nan ce xing ye da dao xia za dao
+496;3;15467;Xinguang Expy S Xingye Blvd Exit Ramp
+496;2;15468;fang cun da dao dong qiao
+496;3;15468;Fangcun Blvd East Brg
+496;2;15469;xin lian lu
+496;3;15469;Xinlian Rd
+496;2;15470;xia chong zhi jie
+496;3;15470;Xiachong St
+496;2;15471;fo shan yi huan gao su gong lu fu lu
+496;3;15471;Foshan 1st Ring Hwy Side Rd
+496;2;15472;fo shan da dao bei fu lu
+496;3;15472;Foshan Blvd N Side Rd
+496;2;15473;shui yin nan lu
+496;3;15473;Shuiyin South Rd
+496;2;15474;tian he lu fu lu
+496;3;15474;Tianhe Rd Side Rd
+496;2;15475;run yue da sha
+496;3;15475;Runyuedasha
+496;2;15476;yue xin jie
+496;3;15476;Yuexinjie
+496;2;15477;jie fang bei lu fu lu
+496;3;15477;Jiefang North Rd Side Rd
+496;2;15478;tian yuan lu (guang shan yi lu)
+496;3;15478;Tianyuan Rd (Guangshanyi Rd)
+496;2;15479;gao pu lu (guang shan er lu)
+496;3;15479;Gaopu Rd (Guangshaner Rd)
+496;2;15480;tian lu nan lu (guang shan er lu)
+496;3;15480;Tianlu South Rd (Guangshaner Rd)
+496;2;15481;san shui da qiao (xin sha cun)
+496;3;15481;Sanshui Brg (Xinsha  Village)
+496;2;15482;san shui da qiao (guang hai da dao xi)
+496;3;15482;Sanshui Brg (Guanghai Blvd W)
+496;2;15483;cao he er jie
+496;3;15483;Caoheer St
+496;2;15484;xi qiao hu tong
+496;3;15484;Xiqiaohutong
+496;2;15485;gui jiang li jiao
+496;3;15485;Guijiang Jct
+496;2;15486;jiang xia li jiao
+496;3;15486;Jiangxia Jct
+496;2;15487;xing an lu
+496;3;15487;Xing'an Rd
+496;2;15488;ying bin lu shang ye jie
+496;3;15488;Yingbinlu St
+496;2;15489;sha gang
+496;3;15489;Shagang
+496;2;15490;nei huan lu wai quan zhong shan yi lu chu kou za dao
+496;3;15490;Inner Ring Outside Ring Zhongshanyi Rd Exit Ramp
+496;2;15492;nei huan lu nei quan zhong shan yi lu ru kou za dao
+496;3;15492;Inner Ring Inside Ring Zhongshanyi Rd Entrance Ramp
+496;2;15493;nei huan lu nei quan yong fu lu chu kou
+496;3;15493;Inner Ring Inside Ring Yongfu Rd Exit Ramp
+496;2;15494;qiao yuan shang chang
+496;3;15494;Qiaoyuanshangchang

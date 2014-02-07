@@ -1,0 +1,2633 @@
+﻿CID;LID;NID;NTRANSLATION
+518;2;1852;ya zhou
+518;3;1852;Asia
+518;2;1853;zhong guo
+518;3;1853;China
+518;2;3283;guang dong sheng
+518;3;3283;GUANGDONG
+518;2;3284;shen zhen shi
+518;3;3284;Shenzhen
+518;2;5186;10 hao gan xian
+518;3;5186;Route 10
+518;2;5182;xiang gang
+518;3;5182;Hong Kong
+518;2;5187;10 hao gan xian shen zhen chu ru kou
+518;3;5187;Route 10 Shenzhen Exit and Extrance Ramp
+518;2;1920;G107
+518;3;1920;G107
+518;2;1928;bei huan da dao
+518;3;1928;Beihuan Blvd
+518;2;3716;bei huan da dao G107 ru kou za dao
+518;3;3716;Beihuan Blvd G107 Entrance Ramp
+518;2;3701;bei huan da dao nan ce
+518;3;3701;Beihuan Blvd S
+518;2;4318;bei huan da dao nan ce G107 ru kou za dao
+518;3;4318;Beihuan Blvd S G107 Entrance Ramp
+518;2;3666;bei huan da dao xi ce
+518;3;3666;Beihuan Blvd W
+518;2;3715;bei huan da dao xi ce G107 ru kou za dao
+518;3;3715;Beihuan Blvd W G107 Entrance Ramp
+518;2;2347;bao an da dao
+518;3;2347;Baoan Blvd
+518;2;4759;guang shen gong lu
+518;3;4759;Guangshen Hwy
+518;2;1953;shen nan da dao
+518;3;1953;Shennan Blvd
+518;2;3208;ni gang xi lu
+518;3;3208;Nigang West Rd
+518;2;1892;nan hai da dao
+518;3;1892;Nanhai Blvd
+518;2;3218;ke yuan da dao
+518;3;3218;Keyuan Blvd
+518;2;2761;sha he dong lu
+518;3;2761;Shahe East Rd
+518;2;1881;nan ping kuai su lu
+518;3;1881;Nanping Expy
+518;2;4998;shen yun cun chu kou
+518;3;4998;Shenyun Village Exit Ramp
+518;2;3298;fu long lu
+518;3;3298;Fulong Rd
+518;2;1883;xin zhou lu
+518;3;1883;Xinzhou Rd
+518;2;1884;cai tian lu
+518;3;1884;Caitian Rd
+518;2;1885;huang gang lu
+518;3;1885;Huanggang Rd
+518;2;3411;jin hu lu
+518;3;3411;Jinhu Rd
+518;2;1882;bei huan da dao fu lu
+518;3;1882;Beihuan Blvd Side Rd
+518;2;5315;shen zhen nan bei huan li jiao
+518;3;5315;Shenzhennanbeihuan Jct
+518;2;2982;san hao lu
+518;3;2982;Sanhao Rd
+518;2;2070;nan shan da dao
+518;3;2070;Nanshan Blvd
+518;2;2071;yi yuan lu
+518;3;2071;Yiyuan Rd
+518;2;2074;tong gu lu
+518;3;2074;Tonggu Rd
+518;2;2571;sha he xi lu
+518;3;2571;Shahe Rd W
+518;2;2077;long zhu si lu
+518;3;2077;Longzhu 4th Rd
+518;2;2078;qiao xiang lu
+518;3;2078;Qiaoxiang Rd
+518;2;3250;xiang mei lu
+518;3;3250;Xiangmei Rd
+518;2;3251;jing tian lu
+518;3;3251;Jingtian Rd
+518;2;3253;mei cun lu
+518;3;3253;Meicun Rd
+518;2;3254;zhong kang lu
+518;3;3254;Zhongkang Rd
+518;2;3255;kai feng lu
+518;3;3255;Kaifeng Rd
+518;2;1890;bu xin lu
+518;3;1890;Buxin Rd
+518;2;2090;hong hu xi lu
+518;3;2090;Honghu Rd W
+518;2;2012;sha wan lu
+518;3;2012;Shawan Rd
+518;2;2249;wen jin bei lu
+518;3;2249;Wenjin North Rd
+518;2;2092;cui zhu lu
+518;3;2092;Cuizhu Rd
+518;2;2093;dong chang lu
+518;3;2093;Dongchang Rd
+518;2;2094;dong xiao lu
+518;3;2094;Dongxiao Rd
+518;2;4731;yan he bei lu
+518;3;4731;Yanhe North Rd
+518;2;3307;bu ji lu
+518;3;3307;Buji Rd
+518;2;4710;dong li jie (guan chang lu)
+518;3;4710;Dongli St (Guanchang Rd)
+518;2;1933;xin an er lu
+518;3;1933;Xin'an 2nd Rd
+518;2;1977;chuang ye er lu
+518;3;1977;Chuangye 2nd Rd
+518;2;1935;xin an wu lu
+518;3;1935;Xin'an 5th Rd
+518;2;1936;xi xiang da dao
+518;3;1936;Xixiang Blvd
+518;2;1937;hang cheng da dao
+518;3;1937;Hangcheng Blvd
+518;2;2107;zhou shi gong lu
+518;3;2107;Zhoushi Hwy
+518;2;5312;kai cheng er lu
+518;3;5312;Kaicheng 2nd Rd
+518;2;1939;ji chang er dao
+518;3;1939;Jichanger Ave
+518;2;1940;ji chang dao
+518;3;1940;Jichang Ave
+518;2;1941;huai de nan lu
+518;3;1941;Huaide South Rd
+518;2;4708;cui gang xi lu
+518;3;4708;Cuigang West Rd
+518;2;1944;fu yong da dao
+518;3;1944;Fuyong Blvd
+518;2;1945;feng huang lu
+518;3;1945;Fenghuang Rd
+518;2;1946;feng tang da dao
+518;3;1946;Fengtang Blvd
+518;2;4709;xing ye yi lu
+518;3;4709;Xingyeyi Rd
+518;2;1949;chuang xin lu
+518;3;1949;Chuangxin Rd
+518;2;3340;xin sha lu
+518;3;3340;Xinsha Rd
+518;2;5314;xin qiao li jiao qiao
+518;3;5314;Xinqiao Jct
+518;2;3299;fu rong xi lu
+518;3;3299;Furong West Rd
+518;2;3300;dong fang da dao
+518;3;3300;Dongfang Blvd
+518;2;2374;sha jiang lu
+518;3;2374;Shajiang Rd
+518;2;2084;ni gang dong lu
+518;3;2084;Nigang East Rd
+518;2;5321;hong ling lu
+518;3;5321;Hongling Rd
+518;2;2934;bao gang lu
+518;3;2934;Baogang Rd
+518;2;3211;sun gang xi lu
+518;3;3211;Sungang Rd W
+518;2;3131;ba gua lu
+518;3;3131;Bagua Rd
+518;2;3022;shen nan dong lu
+518;3;3022;Shennan East Rd
+518;2;2005;ai guo lu
+518;3;2005;Aiguo Rd
+518;2;2009;yi jing lu
+518;3;2009;Yijing Rd
+518;2;2022;huang bei lu
+518;3;2022;Huangbei Rd
+518;2;3646;yan he nan lu
+518;3;3646;Yanhe South Rd
+518;2;2941;ren min nan lu
+518;3;2941;Renmin South Rd
+518;2;3116;nan hu lu
+518;3;3116;Nanhu Rd
+518;2;3118;jiang bei lu
+518;3;3118;Jiangbei Rd
+518;2;3123;dong men nan lu
+518;3;3123;Dongmen South Rd
+518;2;2038;xin an lu
+518;3;2038;Xin'an Rd
+518;2;3126;wen jin nan lu
+518;3;3126;Wenjin South Rd
+518;2;3019;bei dou lu
+518;3;3019;Beidou Rd
+518;2;4948;shen hai gao su gong lu
+518;3;4948;Shenhai Hwy
+518;2;3279;heng an lu
+518;3;3279;Heng'an Rd
+518;2;4793;ren min si lu
+518;3;4793;Renminsi Rd
+518;2;1856;wai huan lu
+518;3;1856;Outer Ring Rd
+518;2;3528;nan pu lu
+518;3;3528;Nanpu Rd
+518;2;4958;jing gang ao gao su gong lu
+518;3;4958;Jinggang'ao Hwy
+518;2;3269;nan guang gao su gong lu
+518;3;3269;Nanguang Hwy
+518;2;1980;song bai gong lu
+518;3;1980;Songbai Hwy
+518;2;5459;yang tai shan gong ye lu
+518;3;5459;Yangtaishangongye Rd
+518;2;1869;long da gao su gong lu
+518;3;1869;Longda Hwy
+518;2;1870;guan lan da dao
+518;3;1870;Guanlan Blvd
+518;2;4959;zhu san jiao huan xian gao su gong lu
+518;3;4959;Zhusanjiaohuanxian Hwy
+518;2;3581;ping xin bei lu
+518;3;3581;Pingxin North Rd
+518;2;3529;dan ping lu
+518;3;3529;Danping Rd
+518;2;5180;pai bang li jiao
+518;3;5180;Paibang Jct
+518;2;3641;he ao fu wu qu
+518;3;3641;Heao Service Area
+518;2;4738;shen hui lu
+518;3;4738;Shenhui Rd
+518;2;3286;shen shan gong lu
+518;3;3286;Shenshan Hwy
+518;2;4951;chang shen gao su gong lu
+518;3;4951;Changshen Hwy
+518;2;3289;dan zi zhong lu
+518;3;3289;Danzi Middle Rd
+518;2;5143;S358
+518;3;5143;S358
+518;2;5322;bai ge lu
+518;3;5322;Baige Rd
+518;2;3573;ji zheng lu
+518;3;3573;Jizheng Rd
+518;2;1960;bu sha lu
+518;3;1960;Busha Rd
+518;2;3578;bu lan lu
+518;3;3578;Bulan Rd
+518;2;3312;dan sha lu
+518;3;3312;Dansha Rd
+518;2;5144;pu xia lu
+518;3;5144;Puxia Rd
+518;2;5135;li jia lu
+518;3;5135;Lijia Rd
+518;2;5136;bao an jie
+518;3;5136;Baoan St
+518;2;5323;ru yi lu
+518;3;5323;Ruyi Rd
+518;2;5324;long cheng da dao
+518;3;5324;Longcheng Blvd
+518;2;5139;long gang lu
+518;3;5139;Longgang Rd
+518;2;2774;feng tian lu
+518;3;2774;Fengtian Rd
+518;2;5140;ji xiang yi lu
+518;3;5140;Jixiangyi Rd
+518;2;5141;jiao yu zhong lu
+518;3;5141;Jiaoyu Middle Rd
+518;2;5325;fu ping lu
+518;3;5325;Fuping Rd
+518;2;3288;ping zi lu
+518;3;3288;Pingzi Rd
+518;2;5419;yan pai gao su gong lu
+518;3;5419;Yanpai Hwy
+518;2;5460;kun da fu wu qu
+518;3;5460;Kunda Service Area
+518;2;3290;shui guan gao su gong lu
+518;3;3290;Shuiguan Hwy
+518;2;3306;yan ba gao su gong lu
+518;3;3306;Yanba Hwy
+518;2;5418;wu tong shan da dao
+518;3;5418;Wutongshan Blvd
+518;2;3567;fu tian nan lu
+518;3;3567;Futian Rd S
+518;2;2726;hong lang nan lu
+518;3;2726;Honglang South Rd
+518;2;2057;yi tian lu
+518;3;2057;Yitian Rd
+518;2;2170;guo hua lu
+518;3;2170;Guohua Rd
+518;2;1876;qing ping gao su gong lu
+518;3;1876;Qingping Hwy
+518;2;2239;hong gang lu
+518;3;2239;Honggang Rd
+518;2;2363;xi huan lu
+518;3;2363;Xihuan Rd
+518;2;5463;chu ru kou
+518;3;5463;Exit and Entrance Ramp
+518;2;5151;ping hui lu
+518;3;5151;Pinghui Rd
+518;2;5227;sheng bao lu
+518;3;5227;Shengbao Rd
+518;2;3492;long xiang da dao
+518;3;3492;Longxiang Blvd
+518;2;3653;bu long shou fei zhan
+518;3;3653;Bulong Tollgate
+518;2;3292;hong mian si lu
+518;3;3292;Hongmiansi Rd
+518;2;5266;luo sha lu
+518;3;5266;Luosha Rd
+518;2;4918;xi xiang lu
+518;3;4918;Xixiang Rd
+518;2;4742;en shang gong lu
+518;3;4742;Enshang Hwy
+518;2;3272;shen yan lu
+518;3;3272;Shenyan Rd
+518;2;4973;hong an lu
+518;3;4973;Hongan Rd
+518;2;5428;dong hai dao
+518;3;5428;Donghai Ave
+518;2;3273;huan mei lu
+518;3;3273;Huanmei Rd
+518;2;4812;S360
+518;3;4812;S360
+518;2;3275;xi ping lu
+518;3;3275;Xiping Rd
+518;2;4811;shen kui gong lu
+518;3;4811;Shenkui Hwy
+518;2;4813;ping gui gong lu
+518;3;4813;Pinggui Hwy
+518;2;1976;bao shi gong lu
+518;3;1976;Baoshi Hwy
+518;2;4779;gen yu lu
+518;3;4779;Genyu Rd
+518;2;4939;bei huan lu
+518;3;4939;N Ring Rd
+518;2;4739;ren min lu
+518;3;4739;Renmin Rd
+518;2;5075;long guan lu
+518;3;5075;Longguan Rd
+518;2;3591;xin qu da dao
+518;3;3591;Xinqu Blvd
+518;2;3419;bu long lu
+518;3;3419;Bulong Rd
+518;2;4771;long sheng lu
+518;3;4771;Longsheng Rd
+518;2;2382;gong ye lu
+518;3;2382;Gongye Rd
+518;2;2940;he ping lu
+518;3;2940;Heping Rd
+518;2;5329;bao shi lu
+518;3;5329;Baoshi Rd
+518;2;5330;song bai lu
+518;3;5330;Songbai Rd
+518;2;1971;shang chuan lu
+518;3;1971;Shangchuan Rd
+518;2;5147;niu cheng cun lu
+518;3;5147;Niuchengcun Rd
+518;2;1964;jian an yi lu
+518;3;1964;Jian'anyi Rd
+518;2;1965;qian jin yi lu
+518;3;1965;Qianjin 1st Rd
+518;2;1966;chuang ye er lu bei yi xiang
+518;3;1966;Chuangyeerlubeiyi Ln
+518;2;1967;gong yuan lu
+518;3;1967;Gongyuan Rd
+518;2;5331;yi yuan lu nan yi xiang
+518;3;5331;Yiyuanlu'nanyi Ln
+518;2;1969;xin an san lu
+518;3;1969;Xinan 3rd Rd
+518;2;1970;da bao lu
+518;3;1970;Dabao Rd
+518;2;4740;liu xian yi lu
+518;3;4740;Liuxian 1st Rd
+518;2;1972;liu xian er lu
+518;3;1972;Liuxianer Rd
+518;2;1973;liu xian san lu
+518;3;1973;Liuxian 3rd Rd
+518;2;3454;yang tian lu
+518;3;3454;Yangtian Rd
+518;2;4782;ping long lu
+518;3;4782;Pinglong Rd
+518;2;4783;shan xia lu
+518;3;4783;Shanxia Rd
+518;2;3378;yi min lu
+518;3;3378;Yimin Rd
+518;2;4798;tian bao lu
+518;3;4798;Tianbao Rd
+518;2;1983;tang tou da dao
+518;3;1983;Tangtou Blvd
+518;2;5332;yue peng lu
+518;3;5332;Yuepeng Rd
+518;2;5333;bao shi nan lu
+518;3;5333;Baoshi South Rd
+518;2;5334;long da gao su gong lu (bao shi dong lu)
+518;3;5334;Longda Hwy (Baoshi East Rd)
+518;2;3420;jin yun lu
+518;3;3420;Jinyun Rd
+518;2;3323;ji hua lu
+518;3;3323;Jihua Rd
+518;2;3421;xue wei lu
+518;3;3421;Xuewei Rd
+518;2;3607;ban xue gang da dao
+518;3;3607;Banxuegang Blvd
+518;2;3423;min zhi da dao
+518;3;3423;Minzhi Blvd
+518;2;3614;long hua lu
+518;3;3614;Longhua Rd
+518;2;5336;da fen li jiao
+518;3;5336;Dafen Jct
+518;2;4899;hu xi lu
+518;3;4899;Huxi Rd
+518;2;5335;jin keng da dao
+518;3;5335;Jinkeng Blvd
+518;2;5076;zhang fu lu
+518;3;5076;Zhangfu Rd
+518;2;2967;ren min bei lu
+518;3;2967;Renmin North Rd
+518;2;3407;li xin lu
+518;3;3407;Lixin Rd
+518;2;2929;sun gang dong lu
+518;3;2929;Sungang East Rd
+518;2;2969;shai bu lu
+518;3;2969;Shaibu Rd
+518;2;3114;jian she lu
+518;3;3114;Jianshe Rd
+518;2;3021;chun feng lu
+518;3;3021;Chunfeng Rd
+518;2;2921;jia bin lu
+518;3;2921;Jiabin Rd
+518;2;3243;qian jin er lu
+518;3;3243;Qianjin 2nd Rd
+518;2;5100;bei ba lu
+518;3;5100;Beiba Rd
+518;2;1938;he zhou lu
+518;3;1938;Hezhou Rd
+518;2;2103;guang san ke ji gong ye yuan lu
+518;3;2103;Guangsankejigongyeyuan Rd
+518;2;2100;jiu wei lu
+518;3;2100;Jiuwei Rd
+518;2;5337;tong qing gong ye yuan
+518;3;5337;Tongqinggongyeyuan
+518;2;5338;tai an lu
+518;3;5338;Taian Rd
+518;2;4762;huang ma pu
+518;3;4762;Huangmapu
+518;2;5277;bin he da dao fu dao
+518;3;5277;Binhe Blvd Side Rd
+518;2;3341;xin sha jie
+518;3;3341;Xinsha St
+518;2;3379;tong xin lu
+518;3;3379;Tongxin Rd
+518;2;2213;shen nan zhong lu
+518;3;2213;Shennan Middle Rd
+518;2;3380;tong fu lu
+518;3;3380;Tongfu Rd
+518;2;3377;li xiang jie
+518;3;3377;Lixiang St
+518;2;3178;dong bin lu
+518;3;3178;Dongbin Rd
+518;2;2618;hai de san dao
+518;3;2618;Haide 3rd St
+518;2;1891;bin hai da dao
+518;3;1891;Binhai Blvd
+518;2;2662;gao xin nan shi dao
+518;3;2662;Gaoxin Ave 10 S
+518;2;2659;bai shi lu
+518;3;2659;Baishi Rd
+518;2;2668;gao xin nan si dao
+518;3;2668;Gaoxin Ave 4 S
+518;2;5110;lang shan lu
+518;3;5110;Langshan Rd
+518;2;2651;bao shen lu
+518;3;2651;Baoshen Rd
+518;2;2752;long zhu da dao
+518;3;2752;Longzhu Blvd
+518;2;2143;xi li nan zhi lu
+518;3;2143;Xilinanzhi Rd
+518;2;2756;zhu guang lu
+518;3;2756;Zhuguang Rd
+518;2;2145;liu xian da dao
+518;3;2145;Liuxian Blvd
+518;2;2146;xi li lu
+518;3;2146;Xili Rd
+518;2;3563;tong fa lu
+518;3;3563;Tongfa Rd
+518;2;3271;tong le lu
+518;3;3271;Tongle Rd
+518;2;2567;xue fu lu
+518;3;2567;Xuefu Rd
+518;2;2568;ke ji nan yi lu
+518;3;2568;Keji Rd 1 S
+518;2;2570;ke ji nan lu
+518;3;2570;Keji Rd S
+518;2;2762;shen wan yi lu
+518;3;2762;Shenwan Rd 1st
+518;2;2763;shen wan er lu
+518;3;2763;Shenwaner Rd
+518;2;2764;shen wan si lu
+518;3;2764;Shenwansi Rd
+518;2;2765;shen wan wu lu
+518;3;2765;Shenwanwu Rd
+518;2;2766;qiao cheng dong lu
+518;3;2766;Qiaocheng East Rd
+518;2;3220;hong shu lin lu
+518;3;3220;Hongshulin Rd
+518;2;2562;chuang ye lu
+518;3;2562;Chuangye Rd
+518;2;2580;yue liang wan da dao
+518;3;2580;Yueliangwan Blvd
+518;2;2514;qian hai lu
+518;3;2514;Qianhai Rd
+518;2;2606;wen xin er lu
+518;3;2606;Wenxin 2nd Rd
+518;2;1929;hou hai da dao
+518;3;1929;Houhai Blvd
+518;2;2608;wen xin wu lu
+518;3;2608;Wenxin 5th Rd
+518;2;3431;long cheng lu
+518;3;3431;Longcheng Rd
+518;2;3538;hou hai bin lu
+518;3;3538;Houhaibin Rd
+518;2;3592;jin long lu
+518;3;3592;Jinlong Rd
+518;2;1912;mei long lu
+518;3;1912;Meilong Rd
+518;2;3580;xiu feng lu
+518;3;3580;Xiufeng Rd
+518;2;3574;dong xi gan dao
+518;3;3574;Dongxi Belt
+518;2;5086;xia li nan lu
+518;3;5086;Xiali South Rd
+518;2;5087;ping ji da dao
+518;3;5087;Pingji Blvd
+518;2;2059;jin tian lu
+518;3;2059;Jintian Rd
+518;2;1993;hong li lu
+518;3;1993;Hongli Rd
+518;2;2894;shui wei jie
+518;3;2894;Shuiwei St
+518;2;3094;fu min lu
+518;3;3094;Fumin Rd
+518;2;4761;ji long qi jie
+518;3;4761;Jilong St 7
+518;2;3020;bin he da dao
+518;3;3020;Binhe Blvd
+518;2;2177;fu hua san lu
+518;3;2177;Fuhua Rd 3
+518;2;2178;fu hua lu
+518;3;2178;Fuhua Rd
+518;2;2879;fu hua yi lu
+518;3;2879;Fuhua 1st Rd
+518;2;2181;fu zhong san lu
+518;3;2181;Fuzhong 3rd Rd
+518;2;2182;fu zhong lu
+518;3;2182;Fuzhong Rd
+518;2;2883;fu zhong yi lu
+518;3;2883;Fuzhong 1st Rd
+518;2;2062;fu tian lu
+518;3;2062;Futian Rd
+518;2;3238;fu ning jie
+518;3;3238;Funing St
+518;2;3012;dong hu lu
+518;3;3012;Donghu Rd
+518;2;3007;jin dao tian lu
+518;3;3007;Jindaotian Rd
+518;2;2994;tai bai lu
+518;3;2994;Taibai Rd
+518;2;2006;wen jin zhong lu
+518;3;2006;Wenjin Middle Rd
+518;2;2007;hua li lu
+518;3;2007;Huali Rd
+518;2;2008;hong ye jie
+518;3;2008;Hongye St
+518;2;2011;tai ning lu
+518;3;2011;Taining Rd
+518;2;2283;ai hua lu
+518;3;2283;Aihua Rd
+518;2;2210;nan yuan lu
+518;3;2210;Nanyuan Rd
+518;2;3172;ai rong lu
+518;3;3172;Airong Rd
+518;2;2535;zhao shang lu
+518;3;2535;Zhaoshang Rd
+518;2;3174;gong ye qi lu
+518;3;3174;Gongye 7th Rd
+518;2;3175;li yuan lu
+518;3;3175;Liyuan Rd
+518;2;3176;gong ye ba lu
+518;3;3176;Gongye 8th Rd
+518;2;3177;gong ye jiu lu
+518;3;3177;Gongye 9th Rd
+518;2;3864;an tuo shan jiu lu
+518;3;3864;Antuoshan Rd 9th
+518;2;5462;he lian keng shui ku
+518;3;5462;Heliankeng Shuiku
+518;2;3128;ba gua er lu
+518;3;3128;Bagua Rd 2
+518;2;5327;shang bu lu
+518;3;5327;Shangbu Rd
+518;2;3130;ba gua yi lu
+518;3;3130;Bagua 1st Rd
+518;2;3404;ba gua liu jie
+518;3;3404;Bagua 6th St
+518;2;2223;ba gua san lu
+518;3;2223;Bagua Rd 3
+518;2;3050;ba gua wu jie
+518;3;3050;Bagua 5th St
+518;2;3403;ba gua si lu
+518;3;3403;Bagua 4th Rd
+518;2;3514;ba hao lu
+518;3;3514;Bahao Rd
+518;2;3219;wang hai lu
+518;3;3219;Wanghai Rd
+518;2;2544;she kou xin jie
+518;3;2544;Shekouxin St
+518;2;5083;ba ding jie
+518;3;5083;Bading St
+518;2;3375;dong yuan lu
+518;3;3375;Dongyuan Rd
+518;2;3549;pu wei jie
+518;3;3549;Puwei St
+518;2;3590;bai long lu
+518;3;3590;Bailong Rd
+518;2;3442;yu long lu
+518;3;3442;Yulong Rd
+518;2;4233;bin hai da dao bei ce
+518;3;4233;Binhai Blvd N
+518;2;4662;bin hai da dao bei ce bai shi lu shang za dao
+518;3;4662;Binhai Blvd N Baishi Rd Entrance Ramp
+518;2;4549;bin he da dao nan ce
+518;3;4549;Binhe Blvd S
+518;2;4661;bin he da dao nan ce bai shi lu shang za dao
+518;3;4661;Binhe Blvd S Baishi Rd Entrance Ramp
+518;2;3569;bai he lu
+518;3;3569;Baihe Rd
+518;2;3568;bai he san lu
+518;3;3568;Baihesan Rd
+518;2;2802;bai hua er lu
+518;3;2802;Baihua 2nd Rd
+518;2;3414;bai hua wu lu
+518;3;3414;Baihua 5th Rd
+518;2;3415;bai hua san lu
+518;3;3415;Baihua 3rd Rd
+518;2;2917;bai hua liu lu
+518;3;2917;Baihua 6th Rd
+518;2;2281;hua qiang bei lu
+518;3;2281;Huaqiang Rd N
+518;2;3413;bai hua si lu
+518;3;3413;Baihua 4th Rd
+518;2;3416;bai hua yi lu
+518;3;3416;Baihua 1st Rd
+518;2;3831;nan ping kuai su lu bei ce
+518;3;3831;Nanping Expy N
+518;2;5341;nan ping kuai su lu bei ce ban xue gang da dao ru kou za dao
+518;3;5341;Nanping Expy N Banxuegang Blvd Entrance Ramp
+518;2;3819;nan ping kuai su lu nan ce
+518;3;3819;Nanping Expy S
+518;2;5340;nan ping kuai su lu nan ce ban xue gang da dao ru kou za dao
+518;3;5340;Nanping Expy S Banxuegang Blvd Entrance Ramp
+518;2;2928;bao an bei lu
+518;3;2928;Bao'an North Rd
+518;2;4476;ni gang dong lu bao an bei lu shang za dao
+518;3;4476;Nigang East Rd Bao'an North Rd Entrance Ramp
+518;2;2930;tao yuan lu
+518;3;2930;Taoyuan Rd
+518;2;2931;mei yuan lu
+518;3;2931;Meiyuan Rd
+518;2;2932;li yuan lu
+518;3;2932;Liyuan Rd
+518;2;3681;bei huan da dao xi ce bao an da dao ru kou za dao
+518;3;3681;Beihuan Blvd W Baoan Blvd Entrance Ramp
+518;2;2348;xin an yi lu
+518;3;2348;Xin'anyi Rd
+518;2;2350;xing hua yi lu
+518;3;2350;Xinghua 1st Rd
+518;2;2351;chuang ye yi lu
+518;3;2351;Chuangye 1st Rd
+518;2;2352;yu an yi lu
+518;3;2352;Yu'an 1st Rd
+518;2;3462;shang chuan yi lu
+518;3;3462;Shangchuanyi Rd
+518;2;2355;hai cheng lu
+518;3;2355;Haicheng Rd
+518;2;2357;gu shu yi lu
+518;3;2357;Gushuyi Rd
+518;2;5342;kai cheng yi lu
+518;3;5342;Kaichengyi Rd
+518;2;2360;xing hua lu
+518;3;2360;Xinghua Rd
+518;2;5084;hang zhan qi lu
+518;3;5084;Hangzhanqi Rd
+518;2;2362;xia shi wei lu
+518;3;2362;Xiashiwei Rd
+518;2;3459;yong he da dao
+518;3;3459;Yonghe Blvd
+518;2;2365;fu hai da dao
+518;3;2365;Fuhai Blvd
+518;2;4732;qiao he lu
+518;3;4732;Qiaohe Rd
+518;2;2368;nan huan lu
+518;3;2368;S Ring Rd
+518;2;4733;xin he da dao
+518;3;4733;Xinhe Blvd
+518;2;5085;gao su qiao fu dao
+518;3;5085;Gaosuqiao Side Ave
+518;2;3693;bao an da dao nan ce
+518;3;3693;Baoan Blvd S
+518;2;3668;bei huan da dao dong ce
+518;3;3668;Beihuan Blvd E
+518;2;4311;bei huan da dao dong ce bao an da dao nan ce ru kou za dao
+518;3;4311;Beihuan Blvd E Baoan Blvd S Entrance Ramp
+518;2;2919;bao an nan lu
+518;3;2919;Baoan Rd S
+518;2;2922;shu cheng lu
+518;3;2922;Shucheng Rd
+518;2;2924;jie fang lu
+518;3;2924;Jiefang Rd
+518;2;2925;hong bao lu
+518;3;2925;Hongbao Rd
+518;2;2926;hong gui lu
+518;3;2926;Honggui Rd
+518;2;3984;ni gang dong lu bao gang lu shang za dao
+518;3;3984;Nigang East Rd Baogang Rd Entrance Ramp
+518;2;4478;bao gang lu dong ce
+518;3;4478;Baogang Rd E
+518;2;4479;ni gang dong lu nan ce
+518;3;4479;Nigang East Rd S
+518;2;4477;ni gang dong lu nan ce bao gang lu dong ce shang za dao
+518;3;4477;Nigang East Rd S Baogang Rd E Entrance Ramp
+518;2;4824;bao min er lu
+518;3;4824;Baomin 2nd Rd
+518;2;2328;liu tang lu
+518;3;2328;Liutang Rd
+518;2;2327;zhuang bian lu
+518;3;2327;Zhuangbian Rd
+518;2;4823;bao min yi lu
+518;3;4823;Baominyi Rd
+518;2;2731;yu an er lu
+518;3;2731;Yu'aner Rd
+518;2;3665;song ping shan lu
+518;3;3665;Songpingshan Rd
+518;2;2386;bao yuan lu
+518;3;2386;Baoyuan Rd
+518;2;2387;xin an liu lu
+518;3;2387;Xin'an 6th Rd
+518;2;5343;gong le lu
+518;3;5343;Gongle Rd
+518;2;3531;yin tian lu
+518;3;3531;Yintian Rd
+518;2;5348;bao yuan nan lu
+518;3;5348;Baoyuan South Rd
+518;2;3432;bao xing lu
+518;3;3432;Baoxing Rd
+518;2;2392;luo tian lu
+518;3;2392;Luotian Rd
+518;2;5053;bei huan da dao an tuo shan jiu lu xia za dao
+518;3;5053;Beihuan Blvd Antuoshan Rd 9th Exit Ramp
+518;2;4415;fu long lu bei huan da dao ru kou za dao
+518;3;4415;Fulong Rd Beihuan Blvd Entrance Ramp
+518;2;3873;fu long lu dong ce
+518;3;3873;Fulong Rd E
+518;2;4395;fu long lu dong ce bei huan da dao xia za dao
+518;3;4395;Fulong Rd E Beihuan Blvd Exit Ramp
+518;2;2869;hong wei lu
+518;3;2869;Hongwei Rd
+518;2;3894;bei huan da dao hong wei lu xia za dao
+518;3;3894;Beihuan Blvd Hongwei Rd Exit Ramp
+518;2;5431;jing tian bei liu jie
+518;3;5431;Jingtianbeiliu St
+518;2;5430;bei huan da dao jing tian bei liu jie xia za dao
+518;3;5430;Beihuan Blvd Jingtianbeiliu St Exit Ramp
+518;2;3743;lang shan er hao lu
+518;3;3743;Langshanerhao Rd
+518;2;5040;bei huan da dao lang shan er hao lu xia za dao
+518;3;5040;Beihuan Blvd Langshanerhao Rd Exit Ramp
+518;2;4841;long zhu da dao bei ce
+518;3;4841;Longzhu Blvd N
+518;2;4842;bei huan da dao long zhu da dao bei ce chu kou za dao
+518;3;4842;Beihuan Blvd Longzhu Blvd N Exit Ramp
+518;2;1996;mei lin lu
+518;3;1996;Meilin Rd
+518;2;5034;bei huan da dao mei lin lu xia za dao
+518;3;5034;Beihuan Blvd Meilin Rd Exit Ramp
+518;2;3354;mei xiu lu
+518;3;3354;Meixiu Rd
+518;2;3893;bei huan da dao mei xiu lu xia za dao
+518;3;3893;Beihuan Blvd Meixiu Rd Exit Ramp
+518;2;3787;nan hai da dao dong ce
+518;3;3787;Nanhai Blvd E
+518;2;4685;bei huan da dao nan hai da dao dong ce chu kou za dao
+518;3;4685;Beihuan Blvd Nanhai Blvd E Exit Ramp
+518;2;3829;nan ping kuai su lu dong ce
+518;3;3829;Nanping Expy E
+518;2;4897;bei huan da dao nan ping kuai su lu dong ce xia za dao
+518;3;4897;Beihuan Blvd Nanping Expy E Exit Ramp
+518;2;5010;bei huan da dao nan shan da dao xia za dao
+518;3;5010;Beihuan Blvd Nanshan Blvd Exit Ramp
+518;2;3946;bei huan da dao ni gang xi lu chu kou za dao
+518;3;3946;Beihuan Blvd Nigang West Rd Exit Ramp
+518;2;5015;qiao xiang lu xi ce
+518;3;5015;Qiaoxiang Rd W
+518;2;5017;bei huan da dao qiao xiang lu xi ce xia za dao
+518;3;5017;Beihuan Blvd Qiaoxiang Rd W Exit Ramp
+518;2;5234;bei huan da dao san hao lu chu kou za dao
+518;3;5234;Beihuan Blvd Sanhao Rd Exit Ramp
+518;2;4533;sha he xi lu dong ce
+518;3;4533;Shahe Rd W E
+518;2;5244;bei huan da dao sha he xi lu dong ce xia za dao
+518;3;5244;Beihuan Blvd Shahe Rd W E Exit Ramp
+518;2;3875;bei huan da dao xiang mei lu xia za dao
+518;3;3875;Beihuan Blvd Xiangmei Rd Exit Ramp
+518;2;4427;zhong kang lu dong ce
+518;3;4427;Zhongkang Rd E
+518;2;4426;bei huan da dao zhong kang lu dong ce xia za dao
+518;3;4426;Beihuan Blvd Zhongkang Rd E Exit Ramp
+518;2;5251;bei huan da dao an
+518;3;5251;Beihuandadaoan
+518;2;5250;an tuo shan jiu lu dong ce
+518;3;5250;Antuoshan Rd 9th E
+518;2;5252;bei huan da dao an tuo shan jiu lu dong ce chu kou za dao
+518;3;5252;Beihuan Blvd Antuoshan Rd 9th E Exit Ramp
+518;2;3703;bei huan da dao bei ce
+518;3;3703;Beihuan Blvd N
+518;2;3724;bei huan da dao bei ce G107 xia za dao
+518;3;3724;Beihuan Blvd N G107 Exit Ramp
+518;2;3705;G107 dong ce
+518;3;3705;G107 E
+518;2;4320;bei huan da dao bei ce G107 dong ce chu kou za dao
+518;3;4320;Beihuan Blvd N G107 E Exit Ramp
+518;2;4433;cai tian lu dong ce
+518;3;4433;Caitian Rd E
+518;2;4668;bei huan da dao bei ce cai tian lu dong ce chu kou za dao
+518;3;4668;Beihuan Blvd N Caitian Rd E Exit Ramp
+518;2;4387;fu long lu bei huan da dao bei ce chu kou za dao
+518;3;4387;Fulong Rd Beihuan Blvd N Exit Ramp
+518;2;4393;fu long lu dong ce bei huan da dao bei ce ru kou za dao
+518;3;4393;Fulong Rd E Beihuan Blvd N Entrance Ramp
+518;2;3845;fu long lu xi ce
+518;3;3845;Fulong Rd W
+518;2;5039;fu long lu xi ce bei huan da dao bei ce chu kou za dao
+518;3;5039;Fulong Rd W Beihuan Blvd N Exit Ramp
+518;2;4444;huang gang lu dong ce
+518;3;4444;Huanggang Rd E
+518;2;4445;bei huan da dao bei ce huang gang lu dong ce chu kou za dao
+518;3;4445;Beihuan Blvd N Huanggang Rd E Exit Ramp
+518;2;4439;huang gang lu xi ce
+518;3;4439;Huanggang Rd W
+518;2;4448;bei huan da dao bei ce huang gang lu xi ce chu kou za dao
+518;3;4448;Beihuan Blvd N Huanggang Rd W Exit Ramp
+518;2;5078;bei huan da dao bei ce kai feng lu xia za dao
+518;3;5078;Beihuan Blvd N Kaifeng Rd Exit Ramp
+518;2;5432;bei huan da dao bei ce ke yuan da dao xia za dao
+518;3;5432;Beihuan Blvd N Keyuan Blvd Exit Ramp
+518;2;5020;bei huan da dao bei ce long zhu si lu xia za dao
+518;3;5020;Beihuan Blvd N Longzhu 4th Rd Exit Ramp
+518;2;4332;bei huan da dao bei ce nan hai da dao chu kou za dao
+518;3;4332;Beihuan Blvd N Nanhai Blvd Exit Ramp
+518;2;4659;bei huan da dao bei ce nan hai da dao dong ce chu kou za dao
+518;3;4659;Beihuan Blvd N Nanhai Blvd E Exit Ramp
+518;2;3730;nan hai da dao xi ce
+518;3;3730;Nanhai Blvd W
+518;2;3757;bei huan da dao bei ce nan hai da dao xi ce chu kou za dao
+518;3;3757;Beihuan Blvd N Nanhai Blvd W Exit Ramp
+518;2;3749;nan hai da dao zhong ce
+518;3;3749;Nanhai Blvd M
+518;2;4344;bei huan da dao bei ce nan hai da dao zhong ce chu kou za dao
+518;3;4344;Beihuan Blvd N Nanhai Blvd M Exit Ramp
+518;2;4375;nan ping kuai su lu dong ce bei huan da dao bei ce ru kou za dao
+518;3;4375;Nanping Expy E Beihuan Blvd N Entrance Ramp
+518;2;4331;bei huan da dao bei ce nan shan da dao chu kou za dao
+518;3;4331;Beihuan Blvd N Nanshan Blvd Exit Ramp
+518;2;4424;xin zhou lu dong ce
+518;3;4424;Xinzhou Rd E
+518;2;4425;bei huan da dao bei ce xin zhou lu dong ce chu kou za dao
+518;3;4425;Beihuan Blvd N Xinzhou Rd E Exit Ramp
+518;2;3325;zhong shan yuan lu
+518;3;3325;Zhongshanyuan Rd
+518;2;3774;bei huan da dao bei ce zhong shan yuan lu xia za dao
+518;3;3774;Beihuan Blvd N Zhongshanyuan Rd Exit Ramp
+518;2;3669;bei huan da dao dong ce G107 xia za dao
+518;3;3669;Beihuan Blvd E G107 Exit Ramp
+518;2;4316;G107 xi ce
+518;3;4316;G107 W
+518;2;4317;bei huan da dao dong ce G107 xi ce chu kou za dao
+518;3;4317;Beihuan Blvd E G107 W Exit Ramp
+518;2;3954;jin bi lu
+518;3;3954;Jinbi Rd
+518;2;4474;bei huan da dao dong ce jin bi lu xia za dao
+518;3;4474;Beihuan Blvd E Jinbi Rd Exit Ramp
+518;2;4310;qian hai lu xi ce
+518;3;4310;Qianhai Rd W
+518;2;4309;bei huan da dao dong ce qian hai lu xi ce chu kou za dao
+518;3;4309;Beihuan Blvd E Qianhai Rd W Exit Ramp
+518;2;3410;yin hu lu
+518;3;3410;Yinhu Rd
+518;2;3944;bei huan da dao dong ce yin hu lu xia za dao
+518;3;3944;Beihuan Blvd E Yinhu Rd Exit Ramp
+518;2;4363;bei huan da dao fu lu nan ce
+518;3;4363;Beihuan Blvd Side Rd S
+518;2;4365;nan ping kuai su lu bei huan da dao fu lu nan ce ru kou za dao
+518;3;4365;Nanping Expy Beihuan Blvd Side Rd S Entrance Ramp
+518;2;4319;bei huan da dao nan ce G107 dong ce chu kou za dao
+518;3;4319;Beihuan Blvd S G107 E Exit Ramp
+518;2;4432;bei huan da dao nan ce cai tian lu dong ce chu kou za dao
+518;3;4432;Beihuan Blvd S Caitian Rd E Exit Ramp
+518;2;4431;cai tian lu xi ce
+518;3;4431;Caitian Rd W
+518;2;4430;bei huan da dao nan ce cai tian lu xi ce chu kou za dao
+518;3;4430;Beihuan Blvd S Caitian Rd W Exit Ramp
+518;2;4672;fu long lu bei huan da dao nan ce chu kou za dao
+518;3;4672;Fulong Rd Beihuan Blvd S Exit Ramp
+518;2;4417;fu long lu dong ce bei huan da dao nan ce ru kou za dao
+518;3;4417;Fulong Rd E Beihuan Blvd S Entrance Ramp
+518;2;4925;bei huan da dao nan ce huang gang lu xi ce chu kou za dao
+518;3;4925;Beihuan Blvd S Huanggang Rd W Exit Ramp
+518;2;5256;bei huan da dao nan ce jin hu lu xia za dao
+518;3;5256;Beihuan Blvd S Jinhu Rd Exit Ramp
+518;2;2686;ke ji zhong er lu
+518;3;2686;Keji C Road 2nd
+518;2;3752;bei huan da dao nan ce ke ji zhong er lu chu kou za dao
+518;3;3752;Beihuan Blvd S Keji C Road 2nd Exit Ramp
+518;2;4350;ke ji zhong er lu xi ce
+518;3;4350;Keji C Road 2nd W
+518;2;4351;bei huan da dao nan ce ke ji zhong er lu xi ce xia za dao
+518;3;4351;Beihuan Blvd S Keji C Road 2nd W Exit Ramp
+518;2;5433;bei huan da dao nan ce ke yuan da dao xia za dao
+518;3;5433;Beihuan Blvd S Keyuan Blvd Exit Ramp
+518;2;3729;bei huan da dao nan ce nan hai da dao chu kou za dao
+518;3;3729;Beihuan Blvd S Nanhai Blvd Exit Ramp
+518;2;3788;bei huan da dao nan ce nan hai da dao dong ce chu kou za dao
+518;3;3788;Beihuan Blvd S Nanhai Blvd E Exit Ramp
+518;2;3731;bei huan da dao nan ce nan hai da dao xi ce chu kou za dao
+518;3;3731;Beihuan Blvd S Nanhai Blvd W Exit Ramp
+518;2;3751;bei huan da dao nan ce nan hai da dao zhong ce chu kou za dao
+518;3;3751;Beihuan Blvd S Nanhai Blvd M Exit Ramp
+518;2;3812;bei huan da dao nan ce nan ping kuai su lu xia za dao
+518;3;3812;Beihuan Blvd S Nanping Expy Exit Ramp
+518;2;4933;bei huan da dao nan ce nan ping kuai su lu dong ce shang za dao
+518;3;4933;Beihuan Blvd S Nanping Expy E Entrance Ramp
+518;2;4323;bei huan da dao nan ce nan shan da dao xia za dao
+518;3;4323;Beihuan Blvd S Nanshan Blvd Exit Ramp
+518;2;5395;shang bu lu xi ce
+518;3;5395;Shangbu Rd W
+518;2;5434;bei huan da dao nan ce shang bu lu xi ce chu kou za dao
+518;3;5434;Beihuan Blvd S Shangbu Rd W Exit Ramp
+518;2;3783;bei huan da dao nan ce tong gu lu xia za dao
+518;3;3783;Beihuan Blvd S Tonggu Rd Exit Ramp
+518;2;4420;xin zhou lu xi ce
+518;3;4420;Xinzhou Rd W
+518;2;4421;bei huan da dao nan ce xin zhou lu xi ce chu kou za dao
+518;3;4421;Beihuan Blvd S Xinzhou Rd W Exit Ramp
+518;2;3678;bei huan da dao xi ce bao an da dao xia za dao
+518;3;3678;Beihuan Blvd W Baoan Blvd Exit Ramp
+518;2;3689;bao an da dao bei ce
+518;3;3689;Baoan Blvd N
+518;2;3690;bei huan da dao xi ce bao an da dao bei ce chu kou za dao
+518;3;3690;Beihuan Blvd W Baoan Blvd N Exit Ramp
+518;2;4313;bao an da dao dong ce
+518;3;4313;Baoan Blvd E
+518;2;4312;bei huan da dao xi ce bao an da dao dong ce chu kou za dao
+518;3;4312;Beihuan Blvd W Baoan Blvd E Exit Ramp
+518;2;3694;bei huan da dao xi ce bao an da dao nan ce ru kou za dao
+518;3;3694;Beihuan Blvd W Baoan Blvd S Entrance Ramp
+518;2;3691;bao an da dao zhong ce
+518;3;3691;Baoan Blvd M
+518;2;3692;bei huan da dao xi ce bao an da dao zhong ce chu kou za dao
+518;3;3692;Beihuan Blvd W Baoan Blvd M Exit Ramp
+518;2;4461;bei huan da dao xi ce ni gang xi lu chu kou za dao
+518;3;4461;Beihuan Blvd W Nigang West Rd Exit Ramp
+518;2;3948;ni gang xi lu xi ce
+518;3;3948;Nigang West Rd W
+518;2;5066;bei huan da dao xi ce ni gang xi lu xi ce shang za dao
+518;3;5066;Beihuan Blvd W Nigang West Rd W Entrance Ramp
+518;2;3674;bei huan da dao xi ce qian hai lu chu kou za dao
+518;3;3674;Beihuan Blvd W Qianhai Rd Exit Ramp
+518;2;3722;bei huan da dao xi ce yue liang wan da dao ru kou za dao
+518;3;3722;Beihuan Blvd W Yueliangwan Blvd Entrance Ramp
+518;2;3571;bei li bei lu
+518;3;3571;Beili North Rd
+518;2;2252;tian bei si lu
+518;3;2252;Tianbei 4th Rd
+518;2;2253;shui bei yi lu
+518;3;2253;Shuibei 1st Rd
+518;2;3394;shui bei er lu
+518;3;3394;Shuibei 2nd Rd
+518;2;3400;bei li nan lu
+518;3;3400;Beili Rd S
+518;2;2990;tian bei yi lu
+518;3;2990;Tianbei Rd 1
+518;2;3387;bi bo yi jie
+518;3;3387;Bibo 1st St
+518;2;5284;bin hai shen wan li jiao qiao
+518;3;5284;Binhaishenwan Jct
+518;2;5283;bin hai da dao bin hai shen wan li jiao qiao ru kou za dao
+518;3;5283;Binhai Blvd Binhaishenwan Jct Entrance Ramp
+518;2;4225;bin hai da dao nan hai da dao dong ce xia za dao
+518;3;4225;Binhai Blvd Nanhai Blvd E Exit Ramp
+518;2;5282;bin hai da dao shen wan wu lu chu kou za dao
+518;3;5282;Binhai Blvd Shenwanwu Rd Exit Ramp
+518;2;2004;gui miao lu
+518;3;2004;Guimiao Rd
+518;2;2569;ke yuan nan lu
+518;3;2569;Keyuan Rd S
+518;2;4866;bin hai da dao bei ce bai shi lu chu kou za dao
+518;3;4866;Binhai Blvd N Baishi Rd Exit Ramp
+518;2;4223;hou hai da dao dong ce
+518;3;4223;Houhai Blvd E
+518;2;4521;bin hai da dao bei ce hou hai da dao dong ce xia za dao
+518;3;4521;Binhai Blvd N Houhai Blvd E Exit Ramp
+518;2;5436;ke yuan da dao dong ce
+518;3;5436;Keyuan Blvd E
+518;2;5435;bin hai da dao bei ce ke yuan da dao dong ce xia za dao
+518;3;5435;Binhai Blvd N Keyuan Blvd E Exit Ramp
+518;2;4543;qiao cheng dong lu dong ce
+518;3;4543;Qiaocheng East Rd E
+518;2;4542;bin hai da dao bei ce qiao cheng dong lu dong ce xia za dao
+518;3;4542;Binhai Blvd N Qiaocheng East Rd E Exit Ramp
+518;2;4532;bin hai da dao bei ce sha he xi lu dong ce xia za dao
+518;3;4532;Binhai Blvd N Shahe Rd W E Exit Ramp
+518;2;4539;shen wan wu lu dong ce
+518;3;4539;Shenwanwu Rd E
+518;2;4538;bin hai da dao bei ce shen wan wu lu dong ce xia za dao
+518;3;4538;Binhai Blvd N Shenwanwu Rd E Exit Ramp
+518;2;5149;bin hai da dao fu lu
+518;3;5149;Binhai Blvd Side Rd
+518;2;5345;zhu zi lin li jiao qiao
+518;3;5345;Zhuzilin Jct
+518;2;5344;bin hai hai bin li jiao qiao
+518;3;5344;Binhaihaibin Jct
+518;2;5346;bin hai sha he dong li jiao qiao
+518;3;5346;Binhaishahe East Jct
+518;2;5347;bin hai qiao cheng dong li jiao
+518;3;5347;Binhaiqiaocheng East Jct
+518;2;4195;bin hai da dao nan ce
+518;3;4195;Binhai Blvd S
+518;2;4865;bin hai da dao nan ce bai shi lu chu kou za dao
+518;3;4865;Binhai Blvd S Baishi Rd Exit Ramp
+518;2;4219;hai de san dao bei ce
+518;3;4219;Haide 3rd St N
+518;2;4524;bin hai da dao nan ce hai de san dao bei ce xia za dao
+518;3;4524;Binhai Blvd S Haide 3rd St N Exit Ramp
+518;2;2584;nan guang lu
+518;3;2584;Nanguang Rd
+518;2;4675;bin hai da dao nan ce nan guang lu xia za dao
+518;3;4675;Binhai Blvd S Nanguang Rd Exit Ramp
+518;2;4867;bin hai da dao nan ce qiao cheng dong lu chu kou za dao
+518;3;4867;Binhai Blvd S Qiaocheng East Rd Exit Ramp
+518;2;4202;sha he dong lu nan
+518;3;4202;Shahe East Rd S
+518;2;4201;bin hai da dao nan ce sha he dong lu nan ru kou za dao
+518;3;4201;Binhai Blvd S Shahe East Rd S Entrance Ramp
+518;2;5288;bin hai da dao nan ce sha he xi lu xia za dao
+518;3;5288;Binhai Blvd S Shahe Rd W Exit Ramp
+518;2;4526;sha he xi lu xi ce
+518;3;4526;Shahe Rd W W
+518;2;4527;bin hai da dao nan ce sha he xi lu xi ce xia za dao
+518;3;4527;Binhai Blvd S Shahe Rd W W Exit Ramp
+518;2;1904;chuan bu lu
+518;3;1904;Chuanbu Rd
+518;2;4099;bin he da dao chuan bu lu xia za dao
+518;3;4099;Binhe Blvd Chuanbu Rd Exit Ramp
+518;2;4602;hua qiang nan lu xi ce
+518;3;4602;Huaqiang Rd S W
+518;2;4601;bin he da dao hua qiang nan lu xi ce xia za dao
+518;3;4601;Binhe Blvd Huaqiang Rd S W Exit Ramp
+518;2;3147;min tian lu
+518;3;3147;Mintian Rd
+518;2;4143;bin he da dao min tian lu xia za dao
+518;3;4143;Binhe Blvd Mintian Rd Exit Ramp
+518;2;4149;bin he da dao yi tian lu xia za dao
+518;3;4149;Binhe Blvd Yitian Rd Exit Ramp
+518;2;5179;wen jin nan lu (chun feng lu gao jia qiao)
+518;3;5179;Wenjin South Rd (Chunfeng Rd Viad)
+518;2;1898;xiang mi hu lu
+518;3;1898;Xiangmihu Rd
+518;2;1931;sha zui lu
+518;3;1931;Shazui Rd
+518;2;1901;hua qiang nan lu
+518;3;1901;Huaqiang Rd S
+518;2;2066;shang bu nan lu
+518;3;2066;Shangbu South Rd
+518;2;3626;he ping lu (chuan bu lu gao jia qiao)
+518;3;3626;Heping Rd (Chuanbu Rd Viad)
+518;2;3627;chuan bu lu (chun feng lu gao jia qiao)
+518;3;3627;Chuanbu Rd (Chunfeng Rd Viad)
+518;2;4552;bin he da dao bei ce
+518;3;4552;Binhe Blvd N
+518;2;4590;bin he da bei ce dao cai tian lu dong ce xia za dao
+518;3;4590;Binhe Blvd N Caitian Rd E Exit Ramp
+518;2;3364;fu xiang jie
+518;3;3364;Fuxiang St
+518;2;4600;bin he da dao bei ce fu xiang jie xia za dao
+518;3;4600;Binhe Blvd N Fuxiang St Exit Ramp
+518;2;4598;fu xing lu dong ce
+518;3;4598;Fuxing Rd E
+518;2;4597;bin he da dao bei ce fu xing lu dong ce xia za dao
+518;3;4597;Binhe Blvd N Fuxing Rd E Exit Ramp
+518;2;4607;hua qiang nan lu dong ce
+518;3;4607;Huaqiang Rd S E
+518;2;4606;bin he da dao bei ce hua qiang nan lu dong ce xia za dao
+518;3;4606;Binhe Blvd N Huaqiang Rd S E Exit Ramp
+518;2;4594;bin he da dao bei ce huang gang lu dong ce xia za dao
+518;3;4594;Binhe Blvd N Huanggang Rd E Exit Ramp
+518;2;5396;shang bu lu dong ce
+518;3;5396;Shangbu Rd E
+518;2;5437;bin he da dao bei ce shang bu lu dong ce xia za dao
+518;3;5437;Binhe Blvd N Shangbu Rd E Exit Ramp
+518;2;4555;shen nan da dao nan ce
+518;3;4555;Shennan Blvd S
+518;2;4554;bin he da dao bei ce shen nan da dao nan ce chu kou za dao
+518;3;4554;Binhe Blvd N Shennan Blvd S Exit Ramp
+518;2;3338;tai ran yi lu
+518;3;3338;Tairanyi Rd
+518;2;4578;bin he da dao bei ce tai ran yi lu xia za dao
+518;3;4578;Binhe Blvd N Tairanyi Rd Exit Ramp
+518;2;4575;tai ran yi lu dong ce
+518;3;4575;Tairanyi Rd E
+518;2;4574;bin he da dao bei ce tai ran yi lu dong ce xia za dao
+518;3;4574;Binhe Blvd N Tairanyi Rd E Exit Ramp
+518;2;4571;bin he da dao bei ce xiang mi hu lu xia za dao
+518;3;4571;Binhe Blvd N Xiangmihu Rd Exit Ramp
+518;2;2052;tai ran jiu lu
+518;3;2052;Terra 9th Rd
+518;2;2053;xia sha da dao
+518;3;2053;Xiasha Blvd
+518;2;5150;huang gang si jie
+518;3;5150;Huanggang 4th St
+518;2;2063;fu xing lu
+518;3;2063;Fuxing Rd
+518;2;2065;hua fa nan lu
+518;3;2065;Huafa Rd S
+518;2;3099;fu qiang lu
+518;3;3099;Fuqiang Rd
+518;2;4589;bin he da dao nan ce fu qiang lu xia za dao
+518;3;4589;Binhe Blvd S Fuqiang Rd Exit Ramp
+518;2;4564;fu qiang lu xi ce
+518;3;4564;Fuqiang Rd W
+518;2;4563;bin he da dao nan ce fu qiang lu xi ce xia za dao
+518;3;4563;Binhe Blvd S Fuqiang Rd W Exit Ramp
+518;2;4592;fu tian nan lu xi ce
+518;3;4592;Futian Rd S W
+518;2;4591;bin he da dao nan ce fu tian nan lu xi ce xia za dao
+518;3;4591;Binhe Blvd S Futian Rd S W Exit Ramp
+518;2;5438;bin he da dao nan ce hong ling lu xia za dao
+518;3;5438;Binhe Blvd S Hongling Rd Exit Ramp
+518;2;5439;hong ling lu dong ce
+518;3;5439;Hongling Rd E
+518;2;5440;bin he da dao nan ce hong ling lu dong ce xia za dao
+518;3;5440;Binhe Blvd S Hongling Rd E Exit Ramp
+518;2;4577;sha zui lu xi ce
+518;3;4577;Shazui Rd W
+518;2;4576;bin he da dao nan ce sha zui lu xi ce xia za dao
+518;3;4576;Binhe Blvd S Shazui Rd W Exit Ramp
+518;2;5441;bin he da dao nan ce shang bu lu xia za dao
+518;3;5441;Binhe Blvd S Shangbu Rd Exit Ramp
+518;2;5443;bin he da dao nan ce shang bu lu dong ce chu kou za dao
+518;3;5443;Binhe Blvd S Shangbu Rd E Exit Ramp
+518;2;4560;xia sha da dao xi ce
+518;3;4560;Xiasha Blvd W
+518;2;4559;bin he da dao nan ce xia sha da dao xi ce xia za dao
+518;3;4559;Binhe Blvd S Xiasha Blvd W Exit Ramp
+518;2;4582;bin he da dao nan ce xin zhou lu xi ce xia za dao
+518;3;4582;Binhe Blvd S Xinzhou Rd W Exit Ramp
+518;2;4091;bin he da dao xi ce
+518;3;4091;Binhe Blvd W
+518;2;4126;chi wei er jie
+518;3;4126;Chiweier St
+518;2;4599;bin he da dao nan ce chi wei er jie xia za dao
+518;3;4599;Binhe Blvd S Chiweier St Exit Ramp
+518;2;5005;bu ji lu dong ce
+518;3;5005;Buji Rd E
+518;2;4488;bu xin lu bei ce
+518;3;4488;Buxin Rd N
+518;2;5006;bu xin lu bei ce bu ji lu dong ce shang za dao
+518;3;5006;Buxin Rd N Buji Rd E Entrance Ramp
+518;2;4266;bu long lu bei ce
+518;3;4266;Bulong Rd N
+518;2;4267;nan ping kuai su lu bu long lu bei ce ru kou za dao
+518;3;4267;Nanping Expy Bulong Rd N Entrance Ramp
+518;2;4259;bu long lu nan ce
+518;3;4259;Bulong Rd S
+518;2;4265;nan ping kuai su lu nan ce bu long lu nan ce shang za dao
+518;3;4265;Nanping Expy S Bulong Rd S Entrance Ramp
+518;2;5193;bu sha lu nan ce
+518;3;5193;Busha Rd S
+518;2;5188;dan ping kuai su lu
+518;3;5188;Danping Expy
+518;2;5194;dan ping kuai su lu bu sha lu nan ce ru kou za dao
+518;3;5194;Danping Expy Busha Rd S Entrance Ramp
+518;2;3001;dong le lu
+518;3;3001;Dongle Rd
+518;2;4022;bu xin lu dong le lu xia za dao
+518;3;4022;Buxin Rd Dongle Rd Exit Ramp
+518;2;5043;bu ji lu xi ce
+518;3;5043;Buji Rd W
+518;2;5042;bu xin lu bei ce bu ji lu xi ce xia za dao
+518;3;5042;Buxin Rd N Buji Rd W Exit Ramp
+518;2;4500;cui zhu lu dong ce
+518;3;4500;Cuizhu Rd E
+518;2;4501;bu xin lu bei ce cui zhu lu dong ce xia za dao
+518;3;4501;Buxin Rd N Cuizhu Rd E Exit Ramp
+518;2;4491;bu xin lu nan ce
+518;3;4491;Buxin Rd S
+518;2;4935;bei li bei lu xi ce
+518;3;4935;Beili North Rd W
+518;2;4934;bu xin lu nan ce bei li bei lu xi ce chu kou za dao
+518;3;4934;Buxin Rd S Beili North Rd W Exit Ramp
+518;2;4502;bu xin lu nan ce dong xiao lu xia za dao
+518;3;4502;Buxin Rd S Dongxiao Rd Exit Ramp
+518;2;2176;fu hua wu lu
+518;3;2176;Fuhua 5th Rd
+518;2;5088;gang xia pai fang jie
+518;3;5088;Gangxiapaifang St
+518;2;2184;lian hua lu
+518;3;2184;Lianhua Rd
+518;2;2185;lian hua zhi lu
+518;3;2185;Lianhuazhi Rd
+518;2;4437;bei huan da dao nan ce cai tian lu dong ce ru kou za dao
+518;3;4437;Beihuan Blvd S Caitian Rd E Entrance Ramp
+518;2;4435;bei huan da dao nan ce cai tian lu xi ce ru kou za dao
+518;3;4435;Beihuan Blvd S Caitian Rd W Entrance Ramp
+518;2;3327;cha guang lu
+518;3;3327;Chaguang Rd
+518;2;5089;er shi jiu hao lu
+518;3;5089;No.29 Rd
+518;2;4996;chi wei si jie
+518;3;4996;Chiweisi St
+518;2;4997;bin he da dao chi wei si jie shang za dao
+518;3;4997;Binhe Blvd Chiweisi St Entrance Ramp
+518;2;4627;chuan bu lu gao jia qiao bei ce
+518;3;4627;Chuanbu Rd Viad N
+518;2;4628;chuan bu lu gao jia qiao bei ce bin he da dao bei ce xia za dao
+518;3;4628;Chuanbu Rd Viad N Binhe Blvd N Exit Ramp
+518;2;4085;chuan bu lu gao jia qiao xi ce
+518;3;4085;Chuanbu Rd Viad W
+518;2;4070;chuan bu lu dong ce
+518;3;4070;Chuanbu Rd E
+518;2;4095;chuan bu lu gao jia qiao xi ce chuan bu lu dong ce xia za dao
+518;3;4095;Chuanbu Rd Viad W Chuanbu Rd E Exit Ramp
+518;2;2397;bao hua lu
+518;3;2397;Baohua Rd
+518;2;2398;xin hu lu
+518;3;2398;Xinhu Rd
+518;2;2400;fan shen lu
+518;3;2400;Fanshen Rd
+518;2;4058;chun feng lu gao jia qiao
+518;3;4058;Chunfeng Rd Viad
+518;2;5273;chun feng lu gao jia qiao chun feng lu shang za dao
+518;3;5273;Chunfeng Rd Viad Chunfeng Rd Entrance Ramp
+518;2;3124;xiang xi lu
+518;3;3124;Xiangxi Rd
+518;2;3125;nan ji lu
+518;3;3125;Nanji Rd
+518;2;4077;chun feng lu gao jia qiao chuan bu lu chu kou za dao
+518;3;4077;Chunfeng Rd Viad Chuanbu Rd Exit Ramp
+518;2;4636;chuan bu lu nan ce
+518;3;4636;Chuanbu Rd S
+518;2;4635;chun feng lu gao jia qiao chuan bu lu nan ce xia za dao
+518;3;4635;Chunfeng Rd Viad Chuanbu Rd S Exit Ramp
+518;2;4820;cui shan lu
+518;3;4820;Cuishan Rd
+518;2;5263;bu xin lu cui zhu lu shang za dao
+518;3;5263;Buxin Rd Cuizhu Rd Entrance Ramp
+518;2;2989;dong men bei lu
+518;3;2989;Dongmen Rd N
+518;2;4499;bu xin lu nan ce cui zhu lu dong ce shang za dao
+518;3;4499;Buxin Rd S Cuizhu Rd E Entrance Ramp
+518;2;5349;bao an zhong xue
+518;3;5349;Baoanzhongxue
+518;2;2728;hong lang bei lu
+518;3;2728;Honglang North Rd
+518;2;3460;xin an san lu yi xiang
+518;3;3460;Xin'ansanluyi Ln
+518;2;2732;da bao lu xi yi xiang
+518;3;2732;Dabaoluxiyi Ln
+518;2;5295;da shan lu
+518;3;5295;Dashan Rd
+518;2;5208;dan ping kuai su lu xi ce
+518;3;5208;Danping Expy W
+518;2;5304;dan ping kuai su lu xi ce da shan lu shang za dao
+518;3;5304;Danping Expy W Dashan Rd Entrance Ramp
+518;2;5299;da shan lu bei ce
+518;3;5299;Dashan Rd N
+518;2;5300;dan ping kuai su lu da shan lu bei ce ru kou za dao
+518;3;5300;Danping Expy Dashan Rd N Entrance Ramp
+518;2;5190;bu sha lu bei ce
+518;3;5190;Busha Rd N
+518;2;5192;dan ping kuai su lu bu sha lu bei ce chu kou za dao
+518;3;5192;Danping Expy Busha Rd N Exit Ramp
+518;2;5297;da shan lu nan ce
+518;3;5297;Dashan Rd S
+518;2;5298;dan ping kuai su lu da shan lu nan ce chu kou za dao
+518;3;5298;Danping Expy Dashan Rd S Exit Ramp
+518;2;5289;dan ping kuai su lu dan sha lu chu kou za dao
+518;3;5289;Danping Expy Dansha Rd Exit Ramp
+518;2;5195;dan sha lu xi ce
+518;3;5195;Dansha Rd W
+518;2;5197;dan ping kuai su lu dan sha lu xi ce chu kou za dao
+518;3;5197;Danping Expy Busha Rd W Exit Ramp
+518;2;5305;ping hu ma bu lu
+518;3;5305;Pinghumabu Rd
+518;2;5306;dan ping kuai su lu ping hu ma bu lu xia za dao
+518;3;5306;Danping Expy Pinghumabu Rd Exit Ramp
+518;2;5205;shen hui lu bei ce
+518;3;5205;Shenhui Rd N
+518;2;5207;dan ping kuai su lu shen hui lu bei ce chu kou za dao
+518;3;5207;Danping Expy Shenhui Rd N Exit Ramp
+518;2;5202;shen hui lu nan ce
+518;3;5202;Shenhui Rd S
+518;2;5458;dan ping kuai su lu dong ce shen hui lu nan ce chu kou za dao
+518;3;5458;Danping Expy E Shenhui Rd S Exit Ramp
+518;2;5189;sha ping nan lu
+518;3;5189;Shaping South Rd
+518;2;5214;dan ping kuai su lu dong ce
+518;3;5214;Danping Expy E
+518;2;5302;dan ping kuai su lu dong ce da shan lu xia za dao
+518;3;5302;Danping Expy E Dashan Rd Exit Ramp
+518;2;5290;dan ping kuai su lu dong ce dan sha lu chu kou za dao
+518;3;5290;Danping Expy E Dansha Rd Exit Ramp
+518;2;5204;dan ping kuai su lu shen hui lu nan ce chu kou za dao
+518;3;5204;Danping Expy Shenhui Rd S Exit Ramp
+518;2;5217;sheng bao lu nan ce
+518;3;5217;Shengbao Rd S
+518;2;5219;dan ping kuai su lu dong ce sheng bao lu nan ce xia za dao
+518;3;5219;Danping Expy E Shengbao Rd S Exit Ramp
+518;2;5209;dan ping kuai su lu xi ce shen hui lu chu kou za dao
+518;3;5209;Danping Expy W Shenhui Rd Exit Ramp
+518;2;5224;sheng bao lu bei ce
+518;3;5224;Shengbao Rd N
+518;2;5225;dan ping kuai su lu xi ce sheng bao lu bei ce xia za dao
+518;3;5225;Danping Expy W Shengbao Rd N Exit Ramp
+518;2;5222;dan ping kuai su lu xi ce sheng bao lu nan ce xia za dao
+518;3;5222;Danping Expy W Shengbao Rd S Exit Ramp
+518;2;5199;dan ping kuai su lu dan sha lu xi ce ru kou za dao
+518;3;5199;Danping Expy Dansha Rd W Entrance Ramp
+518;2;5291;dan zhu tou li jiao
+518;3;5291;Danzhutou Jct
+518;2;5293;dan zhu tou li jiao dan ping kuai su lu ru kou za dao
+518;3;5293;Danzhutou Jct Danping Expy Entrance Ramp
+518;2;5294;dan zhu tou li jiao shen hui lu chu kou za dao
+518;3;5294;Danzhutou Jct Shenhui Rd Exit Ramp
+518;2;3386;de zhi lu
+518;3;3386;Dezhi Rd
+518;2;5269;yan he bei lu de zhi lu shang za dao
+518;3;5269;Yanhe North Rd Dezhi Rd Entrance Ramp
+518;2;2122;deng liang lu
+518;3;2122;Dengliang Rd
+518;2;2001;nan xin lu
+518;3;2001;Nanxin Rd
+518;2;5175;ya shi li jing yuan
+518;3;5175;Yashilijingyuan
+518;2;5350;hou hai lu
+518;3;5350;Houhai Rd
+518;2;2585;xiang nan lu
+518;3;2585;Xiangnan Rd
+518;2;5152;bu xin cun
+518;3;5152;Buxin Village
+518;2;3613;dong huan er lu
+518;3;3613;E Ring Er Rd
+518;2;5352;long guan dong lu
+518;3;5352;Longguan East Rd
+518;2;4745;dong huan yi lu
+518;3;4745;E Ring Yi Rd
+518;2;4746;min qing lu
+518;3;4746;Minqing Rd
+518;2;3612;san lian lu
+518;3;3612;Sanlian Rd
+518;2;5264;bu xin lu bei ce dong le lu xia za dao
+518;3;5264;Buxin Rd N Dongle Rd Exit Ramp
+518;2;3389;tai an lu
+518;3;3389;Taian Rd
+518;2;2978;dong men zhong lu
+518;3;2978;Dongmen Middle Rd
+518;2;5353;tai yang dao da sha
+518;3;5353;Taiyangdaodasha
+518;2;3382;hu bei lu
+518;3;3382;Hubei Rd
+518;2;5091;zheng qing lu
+518;3;5091;Zhengqing Rd
+518;2;5354;dong fang ban dao you er yuan
+518;3;5354;Dongfangbandaoyoueryuan
+518;2;5320;bu xin lu dong xiao lu shang za dao
+518;3;5320;Buxin Rd Dongxiao Rd Entrance Ramp
+518;2;4748;cui yin lu
+518;3;4748;Cuiyin Rd
+518;2;5090;tai he hua yuan
+518;3;5090;Taihe Garden
+518;2;4015;dong xiao lu nan ce
+518;3;4015;Dongxiao Rd S
+518;2;4504;dong xiao lu nan ce bu xin lu nan ce shang za dao
+518;3;4504;Dongxiao Rd S Huxin Rd S Entrance Ramp
+518;2;3372;song ling lu
+518;3;3372;Songling Rd
+518;2;5465;shang bu lu xi
+518;3;5465;Shangbu Rd W
+518;2;3376;tong xin nan lu
+518;3;3376;Tongxin Rd S
+518;2;3304;hai shan lu
+518;3;3304;Haishan Rd
+518;2;3434;hu bin zhong lu
+518;3;3434;Hubin Middle Rd
+518;2;3461;long quan yi lu
+518;3;3461;Longquanyi Rd
+518;2;2494;xin le lu
+518;3;2494;Xinle Rd
+518;2;2496;jia an lu
+518;3;2496;Jiaan Rd
+518;2;5355;le ping lu
+518;3;5355;Leping Rd
+518;2;5356;zi you lu nan yi xiang
+518;3;5356;Ziyoulu'nanyi Ln
+518;2;5357;hai hui lu
+518;3;5357;Haihui Rd
+518;2;2504;he dong gong ye lu
+518;3;2504;Hedonggongye Rd
+518;2;3363;fu an jie
+518;3;3363;Fuan St
+518;2;3362;fu qing jie
+518;3;3362;Fuqing St
+518;2;3570;fu gang lu
+518;3;3570;Fugang Rd
+518;2;3158;fu hong lu
+518;3;3158;Fuhong Rd
+518;2;5358;fu xin li jiao qiao
+518;3;5358;Fuxin Jct
+518;2;3148;zhong xin er lu
+518;3;3148;Zhongxin 2nd Rd
+518;2;3150;zhong xin si lu
+518;3;3150;Zhongxinsi Rd
+518;2;3151;zhong xin wu lu
+518;3;3151;Zhongxin 5th Rd
+518;2;3028;hai tian lu
+518;3;3028;Haitian Rd
+518;2;3345;fu hua si lu
+518;3;3345;Fuhuasi Rd
+518;2;3365;fu jing lu
+518;3;3365;Fujing Rd
+518;2;5054;bei huan da dao fu long lu shang za dao
+518;3;5054;Beihuan Blvd Fulong Rd Entrance Ramp
+518;2;4400;bei huan da dao bei ce fu long lu ru kou za dao
+518;3;4400;Beihuan Blvd N Fulong Rd Entrance Ramp
+518;2;3855;bei huan da dao nan ce fu long lu ru kou za dao
+518;3;3855;Beihuan Blvd S Fulong Rd Entrance Ramp
+518;2;3424;he ping xi lu
+518;3;3424;Heping West Rd
+518;2;4658;fu long lu he ping xi lu xia za dao
+518;3;4658;Fulong Rd Heping West Rd Exit Ramp
+518;2;4994;ren min lu nan ce
+518;3;4994;Renmin Rd S
+518;2;5055;fu long lu ren min lu nan ce chu kou za dao
+518;3;5055;Fulong Rd Renmin Rd S Exit Ramp
+518;2;3491;shang tang lu
+518;3;3491;Shangtang Rd
+518;2;4270;fu long lu shang tang lu chu kou za dao
+518;3;4270;Fulong Rd Shangtang Rd Exit Ramp
+518;2;4882;tang chang lu
+518;3;4882;Tangchang Rd
+518;2;4993;fu long lu tang chang lu chu kou za dao
+518;3;4993;Fulong Rd Tangchang Rd Exit Ramp
+518;2;4378;fu long lu xiang mi hu lu chu kou za dao
+518;3;4378;Fulong Rd Xiangmihu Rd Exit Ramp
+518;2;4985;xin qu da dao xi ce
+518;3;4985;Xinqu Blvd W
+518;2;4992;fu long lu xin qu da dao xi ce chu kou za dao
+518;3;4992;Fulong Rd Xinqu Blvd W Exit Ramp
+518;2;4418;bei huan da dao fu long lu dong ce ru kou za dao
+518;3;4418;Beihuan Blvd Fulong Rd E Entrance Ramp
+518;2;4385;bei huan da dao nan ce fu long lu dong ce ru kou za dao
+518;3;4385;Beihuan Blvd S Fulong Rd E Entrance Ramp
+518;2;4875;nan ping kuai su lu bei ce fu long lu dong ce ru kou za
+518;3;4875;Nanping Expy N Fulong Rd E Entrance Ramp
+518;2;4283;nan ping kuai su lu nan ce fu long lu dong ce ru kou za dao
+518;3;4283;Nanping Expy S Fulong Rd E Entrance Ramp
+518;2;4932;fu long lu dong ce ren min lu xia za dao
+518;3;4932;Fulong Rd E Renmin Rd Exit Ramp
+518;2;4990;fu long lu dong ce xin qu da dao chu kou za dao
+518;3;4990;Fulong Rd E Xinqu Blvd Exit Ramp
+518;2;4405;fu long lu xi
+518;3;4405;Fulong Rd W
+518;2;4406;bei huan da dao bei ce fu long lu xi ru kou za dao
+518;3;4406;Beihuan Blvd N Fulong Rd W Entrance Ramp
+518;2;4407;fu long lu xi ce an tuo shan jiu lu chu kou za dao
+518;3;4407;Fulong Rd W Antuoshan Rd 9th Exit Ramp
+518;2;4381;bei huan da dao fu long lu xi ce ru kou za dao
+518;3;4381;Beihuan Blvd Fulong Rd W Entrance Ramp
+518;2;4403;bei huan da dao bei ce fu long lu xi ce ru kou za dao
+518;3;4403;Beihuan Blvd N Fulong Rd W Entrance Ramp
+518;2;4398;bei huan da dao bei nan ce
+518;3;4398;Beihuan Blvd N S
+518;2;4399;bei huan da dao nan ce fu long lu xi ce ru kou za dao
+518;3;4399;Beihuan Blvd S Fulong Rd W Entrance Ramp
+518;2;4936;fu long lu xi ce bei huan da dao nan ce xia za dao
+518;3;4936;Fulong Rd W Beihuan Blvd S Exit Ramp
+518;2;4890;he ping lu bei ce
+518;3;4890;Heping Rd N
+518;2;4892;fu long lu xi ce he ping lu bei ce xia za dao
+518;3;4892;Fulong Rd W Heping Rd N Exit Ramp
+518;2;4285;nan ping kuai su lu fu long lu xi ce ru kou za dao
+518;3;4285;Nanping Expy Fulong Rd W Entrance Ramp
+518;2;4298;nan ping kuai su lu bei ce fu long lu xi ce ru kou za dao
+518;3;4298;Nanping Expy N Fulong Rd W Entrance Ramp
+518;2;4287;nan ping kuai su lu nan ce fu long lu xi ce ru kou za dao
+518;3;4287;Nanping Expy S Fulong Rd W Entrance Ramp
+518;2;3847;fu long lu xi ce xiang mi hu lu ru kou za dao
+518;3;3847;Fulong Rd W Xiangmihu Rd Entrance Ramp
+518;2;4981;fu long lu xi ce xin qu da dao chu kou za dao
+518;3;4981;Fulong Rd W Xinqu Blvd Exit Ramp
+518;2;5359;shi xia bei er jie
+518;3;5359;Shixia North 2nd Rd
+518;2;3366;fu ming lu
+518;3;3366;Fuming Rd
+518;2;2167;sha wei lu
+518;3;2167;Shawei Rd
+518;2;2172;ji long san jie
+518;3;2172;Jilong St 3
+518;2;4566;fu qiang lu dong ce
+518;3;4566;Fuqiang Rd E
+518;2;4567;bin he da dao bei ce fu qiang lu dong ce ru kou za dao
+518;3;4567;Binhe Blvd N Fuqiang Rd E Entrance Ramp
+518;2;4587;bin he da dao nan ce fu qiang lu dong ce shang za dao
+518;3;4587;Binhe Blvd S Fuqiang Rd E Entrance Ramp
+518;2;3067;fu rong lu
+518;3;3067;Furong Rd
+518;2;4797;pu ti lu
+518;3;4797;Puti Rd
+518;2;3435;jin di shi lu
+518;3;3435;Jindishi Rd
+518;2;4749;yi tian wu lu
+518;3;4749;Yitianwu Rd
+518;2;5360;fu tian bao shui qu san hao sui dao
+518;3;5360;Futianbaoshuiqusanhao Tunl
+518;2;4557;fu rong lu dong ce
+518;3;4557;Furong Rd E
+518;2;4556;bin he da dao nan ce fu rong lu dong ce shang za dao
+518;3;4556;Binhe Blvd S Furong Rd E Entrance Ramp
+518;2;4596;fu tian nan lu dong ce
+518;3;4596;Futian Rd S E
+518;2;4595;bin he da dao nan ce fu tian nan lu dong ce shang za dao
+518;3;4595;Binhe Blvd S Futian Rd S E Entrance Ramp
+518;2;3358;gang lian lu
+518;3;3358;Ganglian Rd
+518;2;3360;shen zhen shi lian nan xiao xue
+518;3;3360;Shenzhenshiliannanxiaoxue
+518;2;5361;pan shan zhi lu
+518;3;5361;Panshanzhi Rd
+518;2;2516;gang wan da dao
+518;3;2516;Gangwan Blvd
+518;2;5092;nan kang lu
+518;3;5092;Nankang Rd
+518;2;2518;song hu lu
+518;3;2518;Songhu Rd
+518;2;2634;gao xin nan jiu dao
+518;3;2634;Gaoxin Ave 9 S
+518;2;5093;gao xin nan huan lu
+518;3;5093;Gaoxinnanhuan Rd
+518;2;5153;hai yi dong fang hua yuan
+518;3;5153;Haiyi Dongfang Garden
+518;2;2632;gao xin nan shi yi dao
+518;3;2632;Gaoxin Ave 11 S
+518;2;2671;ke ji nan wu lu
+518;3;2671;Keji Rd 5 S
+518;2;2672;ke ji nan liu lu
+518;3;2672;Keji Rd 6 S
+518;2;2674;ke ji nan ba lu
+518;3;2674;Keji Rd 8 S
+518;2;2675;ke ji nan shi lu
+518;3;2675;Keji Rd 10 S
+518;2;2636;gao xin nan qi dao
+518;3;2636;Gaoxin Ave 7 S
+518;2;2683;gao xin zhong er dao
+518;3;2683;Gaoxin C Ave 2nd
+518;2;2685;ke ji zhong yi lu
+518;3;2685;Keji C 1st Rd
+518;2;2687;ke ji zhong san lu
+518;3;2687;Keji C Road 3rd
+518;2;2641;gao xin zhong si dao
+518;3;2641;Gaoxin C Ave 4th
+518;2;2643;gao xin zhong yi dao
+518;3;2643;Gaoxin C Ave 1st
+518;2;5095;gong fa lu
+518;3;5095;Gongfa Rd
+518;2;2205;zhen xing lu
+518;3;2205;Zhenxing Rd
+518;2;3536;xing gong lu
+518;3;3536;Xinggong Rd
+518;2;5228;zhong xin lu
+518;3;5228;Zhongxin Rd
+518;2;5096;gong yuan bei lu
+518;3;5096;Gongyuan Rd N
+518;2;2575;si hai lu
+518;3;2575;Sihai Rd
+518;2;2578;hai yue lu
+518;3;2578;Haiyue Rd
+518;2;3609;you song lu
+518;3;3609;Yousong Rd
+518;2;3450;yan shan lu
+518;3;3450;Yanshan Rd
+518;2;2113;gong ye san lu
+518;3;2113;Gongye 3rd Rd
+518;2;3332;tai zi lu
+518;3;3332;Taizi Rd
+518;2;2110;gong ye yi lu
+518;3;2110;Gongye 1st Rd
+518;2;2329;xin an si lu
+518;3;2329;Xin'an 4th Rd
+518;2;2539;gong yuan nan lu
+518;3;2539;Gongyuan Rd S
+518;2;2542;she kou lao jie
+518;3;2542;Shekoulao St
+518;2;5362;nan shui lu
+518;3;5362;Nanshui Rd
+518;2;5363;qing hu lu
+518;3;5363;Qinghu Rd
+518;2;4758;gui hua lu
+518;3;4758;Guihua Rd
+518;2;5097;xiang zhang dao
+518;3;5097;Xiangzhang Ave
+518;2;4706;fu bao sui dao
+518;3;4706;Fubao Tunl
+518;2;4757;feng huang dao
+518;3;4757;Fenghuang Ave
+518;2;5364;ye feng dao
+518;3;5364;Yefeng Rd
+518;2;3083;rong hua lu
+518;3;3083;Ronghua Rd
+518;2;2812;gui yuan lu
+518;3;2812;Guiyuan Rd
+518;2;3356;guo wei lu
+518;3;3356;Guowei Rd
+518;2;2028;peng xing lu
+518;3;2028;Pengxing Rd
+518;2;3561;xian tong yu jing
+518;3;3561;Xiantong Yujing
+518;2;3357;xian hu lu
+518;3;3357;Xianhu Rd
+518;2;2029;ju bao lu
+518;3;2029;Jubao Rd
+518;2;2031;pan shan lu
+518;3;2031;Panshan Rd
+518;2;5098;hai chang jie
+518;3;5098;Haichang St
+518;2;3532;xing ye lu
+518;3;3532;Xingye Rd
+518;2;4216;bin hai da dao hai de san dao shang za dao
+518;3;4216;Binhai Blvd Haide 3rd St Entrance Ramp
+518;2;5154;hai yin chang cheng er qi
+518;3;5154;Haiyinchangchengerqi
+518;2;3305;hai jing er lu
+518;3;3305;Haijinger Rd
+518;2;3557;hai jing lu
+518;3;3557;Haijing Rd
+518;2;3556;jin rong lu
+518;3;3556;Jinrong Rd
+518;2;3558;dong he lu
+518;3;3558;Donghe Rd
+518;2;5366;lin hai lu
+518;3;5366;Linhai Rd
+518;2;5232;wu tong lu
+518;3;5232;Wutong Rd
+518;2;4586;hai tian lu xi ce
+518;3;4586;Haitian Rd W
+518;2;4585;bin he da dao bei ce hai tian lu xi ce shang za dao
+518;3;4585;Binhe Blvd N Haitian Rd W Entrance Ramp
+518;2;5367;yang guang bai huo
+518;3;5367;Yangguangbaihuo
+518;2;3369;hang tian lu
+518;3;3369;Hangtian Rd
+518;2;5368;huo che zhan gao jia qiao
+518;3;5368;Huochezhan Viad
+518;2;4891;fu long lu dong ce he ping lu bei ce shang za dao
+518;3;4891;Fulong Rd E Heping Rd N Entrance Ramp
+518;2;4633;he ping lu dong ce
+518;3;4633;Heping Rd E
+518;2;4921;chuan bu lu gao jia qiao bei ce he ping lu dong ce ru kou za dao
+518;3;4921;Chuanbu Rd Viad N Heping Rd E Entrance Ramp
+518;2;4886;he ping lu nan ce
+518;3;4886;Heping Rd S
+518;2;4888;fu long lu he ping lu nan ce shang za dao
+518;3;4888;Fulong Rd Heping Rd S Entrance Ramp
+518;2;4631;he ping lu xi ce
+518;3;4631;Heping Rd W
+518;2;4630;chuan bu lu gao jia qiao bei ce he ping lu xi ce ru kou za dao
+518;3;4630;Chuanbu Rd Viad N Heping Rd W Entrance Ramp
+518;2;3552;he bian lu
+518;3;3552;Hebian Rd
+518;2;2243;yue bao lu
+518;3;2243;Yuebao Rd
+518;2;5156;bao qing lu
+518;3;5156;Baoqing Rd
+518;2;2242;qing shui he yi lu
+518;3;2242;Qingshuihe 1st Rd
+518;2;5102;hong gang lu zhi qing ping gao su gong lu
+518;3;5102;Honggang Rd to Qingping Hwy
+518;2;2809;song yuan nan jie
+518;3;2809;Songyuan St S
+518;2;2811;gui yuan bei lu
+518;3;2811;Guiyuan Rd N
+518;2;2800;hua fu lu
+518;3;2800;Huafu Rd
+518;2;2803;yan nan lu
+518;3;2803;Yannan Rd
+518;2;2805;yuan ling dong lu
+518;3;2805;Yuanling Rd E
+518;2;2785;hong li xi lu
+518;3;2785;Hongli West Rd
+518;2;2786;nong lin lu
+518;3;2786;Nonglin Rd
+518;2;2787;nong xuan lu
+518;3;2787;Nongxuan Rd
+518;2;2788;nong yuan lu
+518;3;2788;Nongyuan Rd
+518;2;2792;jing tian dong lu
+518;3;2792;Jingtian Rd E
+518;2;5446;bin he da dao nan ce hong ling lu shang za dao
+518;3;5446;Binhe Blvd S Hongling Rd Entrance Ramp
+518;2;2226;jin hua jie
+518;3;2226;Jinhua St
+518;2;2232;yuan ling ba jie
+518;3;2232;Yuanling 8th St
+518;2;5444;hong ling lu xi ce
+518;3;5444;Hongling Rd W
+518;2;5447;bin he da dao bei ce hong ling lu xi ce shang za dao
+518;3;5447;Binhe Blvd N Hongling Rd W Entrance Ramp
+518;2;5445;ni gang xi lu hong ling lu xi ce xia za dao
+518;3;5445;Nigang West Rd Hongling Rd W Exit Ramp
+518;2;4182;bin hai da dao hong shu lin lu shang za dao
+518;3;4182;Binhai Blvd Hongshulin Rd Entrance Ramp
+518;2;4429;hong wei lu dong ce
+518;3;4429;Hongwei Rd E
+518;2;4428;bei huan da dao nan ce hong wei lu dong ce shang za dao
+518;3;4428;Beihuan Blvd S Hongwei Rd E Entrance Ramp
+518;2;2971;hong hu dong lu
+518;3;2971;Honghu East Rd
+518;2;3409;hong hu er jie
+518;3;3409;Honghu 2nd St
+518;2;4857;hong hu xi lu xi ce
+518;3;4857;Honghu West Rd W
+518;2;4858;ni gang dong lu hong hu xi lu xi ce shang za dao
+518;3;4858;Nigang East Rd Honghu West Rd W Entrance Ramp
+518;2;4822;hong hu yi jie
+518;3;4822;Honghu 1st St
+518;2;2563;hai de yi dao
+518;3;2563;Haide 1st Rd
+518;2;4520;bin hai da dao nan ce hou hai da dao dong ce shang za dao
+518;3;4520;Binhai Blvd S Houhai Blvd E Entrance Ramp
+518;2;3383;le yuan lu
+518;3;3383;Leyuan Rd
+518;2;3190;hua fa bei lu
+518;3;3190;Huafa North Rd
+518;2;3193;zhen hua lu
+518;3;3193;Zhenhua Rd
+518;2;3206;zhen zhong lu
+518;3;3206;Zhenzhong Rd
+518;2;2204;zhen hua xi lu
+518;3;2204;Zhenhua Rd W
+518;2;2207;hua xin lu
+518;3;2207;Huaxin Rd
+518;2;5382;hua nan lu
+518;3;5382;Hua'nan Rd
+518;2;3441;min kang lu
+518;3;3441;Minkang Rd
+518;2;4772;yong xiang xi lu
+518;3;4772;Yongxiang West Rd
+518;2;4609;bin he da dao nan ce hua qiang nan lu shang za dao
+518;3;4609;Binhe Blvd S Huaqiang Rd S Entrance Ramp
+518;2;4608;bin he da dao nan ce hua qiang nan lu dong ce shang za dao
+518;3;4608;Binhe Blvd S Huaqiang Rd S E Entrance Ramp
+518;2;4605;bin he da dao bei ce hua qiang nan lu xi ce shang za dao
+518;3;4605;Binhe Blvd N Huaqiang Rd S W Entrance Ramp
+518;2;4442;bei huan da dao huang gang lu ru kou za dao
+518;3;4442;Beihuan Blvd Huanggang Rd Entrance Ramp
+518;2;5369;shen nan huang gang li jiao qiao
+518;3;5369;Shennanhuanggang Jct
+518;2;4447;bei huan da dao huang gang lu dong ce ru kou za dao
+518;3;4447;Beihuan Blvd Huanggang Rd E Entrance Ramp
+518;2;5255;bei huan da dao huang gang lu dong ce shang za dao
+518;3;5255;Beihuan Blvd Huanggang Rd E Entrance Ramp
+518;2;4443;bei huan da dao nan ce huang gang lu dong ce ru kou za dao
+518;3;4443;Beihuan Blvd S Huanggang Rd E Entrance Ramp
+518;2;5254;bei huan da dao nan ce huang gang lu dong ce xia za dao
+518;3;5254;Beihuan Blvd S Huanggang Rd E Exit Ramp
+518;2;4440;bei huan da dao bei ce huang gang lu xi ce ru kou za dao
+518;3;4440;Beihuan Blvd N Huanggang Rd W Entrance Ramp
+518;2;4507;yan he bei lu xi ce
+518;3;4507;Yanhe North Rd W
+518;2;4506;yan he bei lu xi ce huang bei lu shang za dao
+518;3;4506;Yanhe North Rd W Huangbei Rd Entrance Ramp
+518;2;5103;hang zhan si lu
+518;3;5103;Hangzhansi Rd
+518;2;5157;zhong hai yi cui shan zhuang
+518;3;5157;Zhonghaiyicuishanzhuang
+518;2;3324;jin peng lu
+518;3;3324;Jinpeng Rd
+518;2;5105;xue gang nan lu
+518;3;5105;Xuegang South Rd
+518;2;3606;bei er lu
+518;3;3606;Beier Rd
+518;2;4814;wu he da dao
+518;3;4814;Wuhe Blvd
+518;2;3110;jin tang jie
+518;3;3110;Jintang St
+518;2;3466;wan xiang jie
+518;3;3466;Wanxiang St
+518;2;4760;hai tian lu
+518;3;4760;Haitian Rd
+518;2;5466;bao an da dao nan
+518;3;5466;Baoan Blvd S
+518;2;2487;an le er jie
+518;3;2487;Anleer St
+518;2;2488;an le yi jie
+518;3;2488;Anleyi St
+518;2;2407;jian an er lu
+518;3;2407;Jian'an 2nd Rd
+518;2;2340;hu bin lu
+518;3;2340;Hubin Rd
+518;2;2958;ren min gong yuan lu
+518;3;2958;Renmingongyuan Rd
+518;2;3396;you yi lu
+518;3;3396;Youyi Rd
+518;2;5230;jiao hu lu
+518;3;5230;Jiaohu Rd
+518;2;5231;ren min gong yuan
+518;3;5231;People's Park
+518;2;2960;xin yuan lu
+518;3;2960;Xinyuan Rd
+518;2;4458;ni gang xi lu bei ce
+518;3;4458;Nigang West Rd N
+518;2;4475;ni gang xi lu bei ce jin bi lu shang za dao
+518;3;4475;Nigang West Rd N Jinbi Rd Entrance Ramp
+518;2;4850;jin bi lu xi ce
+518;3;4850;Jinbi Rd W
+518;2;4851;ni gang xi lu bei ce jin bi lu xi ce shang za dao
+518;3;4851;Nigang West Rd N Jinbi Rd W Entrance Ramp
+518;2;4821;dao hua lu
+518;3;4821;Daohua Rd
+518;2;3015;jin di yi lu
+518;3;3015;Jindiyi Rd
+518;2;3517;bao jie lu
+518;3;3517;Baojie Rd
+518;2;5106;sha shen lu
+518;3;5106;Shashen Rd
+518;2;2546;jin shi ji lu
+518;3;2546;Shekou New St
+518;2;5011;bei huan da dao jing gang ao gao su gong lu shang za dao
+518;3;5011;Beihuan Blvd Jinggang'ao Hwy Entrance Ramp
+518;2;5118;jing gang ao gao su gong lu zhi bai he san lu
+518;3;5118;Jinggang'ao Hwy to Baihesan Rd
+518;2;5119;jing gang ao gao su gong lu zhi fu tian nan lu
+518;3;5119;Jinggang'ao Hwy to Futian Rd S
+518;2;2832;jing tian bei jie
+518;3;2832;Jingtian North St
+518;2;5448;bei huan da dao jing tian bei liu jie shang za dao
+518;3;5448;Beihuan Blvd Jingtianbeiliu St Entrance Ramp
+518;2;2824;xin wen lu
+518;3;2824;Xinwen Rd
+518;2;5370;xin jing jie
+518;3;5370;Xinjing St
+518;2;2827;shang bao lu
+518;3;2827;Shangbao Rd
+518;2;2829;jing tian dong yi jie
+518;3;2829;Jingtiandong St 1st
+518;2;2830;jing tian bei yi jie
+518;3;2830;Jingtianbeiyi St
+518;2;2831;jing tian bei san jie
+518;3;2831;Jingtian 3rd St N
+518;2;5036;jing tian lu dong ce
+518;3;5036;Jingtian Rd E
+518;2;5038;bei huan da dao jing tian lu dong ce shang za dao
+518;3;5038;Beihuan Blvd Jingtian Rd E Entrance Ramp
+518;2;3350;jing tian nan lu
+518;3;3350;Jingtian South Rd
+518;2;2864;jing tian xi lu
+518;3;2864;Jingtian Rd W
+518;2;3545;jing tian bei wu jie
+518;3;3545;Jingtianbeiwu St
+518;2;5371;xiang li da sha
+518;3;5371;Xianglidasha
+518;2;4765;lian tang lu
+518;3;4765;Liantang Rd
+518;2;5372;mei dong er lu
+518;3;5372;Meidong Rd 2
+518;2;3351;mei hua lu
+518;3;3351;Meihua Rd
+518;2;2696;ke fa lu
+518;3;2696;Kefa Rd
+518;2;2693;ke ji lu
+518;3;2693;Keji Rd
+518;2;2689;ke hua lu
+518;3;2689;Kehua Rd
+518;2;2691;ke wei lu
+518;3;2691;Kewei Rd
+518;2;2692;ke hui lu
+518;3;2692;Kehui Rd
+518;2;5373;wei xin ruan jian ke ji yuan
+518;3;5373;Weixinruanjiankejiyuan
+518;2;2701;gao xin zhong san dao
+518;3;2701;Gaoxin C Ave 3rd
+518;2;3542;ke yuan lu
+518;3;3542;Keyuan Rd
+518;2;5449;bei huan da dao nan ce ke yuan da dao shang za dao
+518;3;5449;Beihuan Blvd S Keyuan Blvd Entrance Ramp
+518;2;5111;lang shan wu hao lu
+518;3;5111;Langshanwuhao Rd
+518;2;5160;jin hui qiu da sha
+518;3;5160;Jinhuiqiudasha
+518;2;5108;lang shan er lu
+518;3;5108;Langshaner Rd
+518;2;5374;meng xi dao
+518;3;5374;Mengxi Ave
+518;2;5451;ke yuan da dao xi ce
+518;3;5451;Keyuan Blvd W
+518;2;5450;bin hai da dao ke yuan da dao xi ce shang za dao
+518;3;5450;Binhai Blvd Keyuan Blvd W Entrance Ramp
+518;2;3780;bei huan da dao bei ce lang shan er hao lu shang za dao
+518;3;3780;Beihuan Blvd N Langshanerhao Rd Entrance Ramp
+518;2;5109;lang shan yi lu
+518;3;5109;Langshanyi Rd
+518;2;4766;lang shan san hao lu
+518;3;4766;Langshansanhao Rd
+518;2;5375;shui mu lu
+518;3;5375;Shuimu Rd
+518;2;5376;wu shi tou lu
+518;3;5376;Wushitou Rd
+518;2;5377;song ping shan jie
+518;3;5377;Songpingshan St
+518;2;3397;zhong xing lu
+518;3;3397;Zhongxing Rd
+518;2;3141;zhan yi lu
+518;3;3141;Zhanyi Rd
+518;2;3565;li shui lu
+518;3;3565;Lishui Rd
+518;2;3566;xue yuan da dao
+518;3;3566;Xueyuan Blvd
+518;2;2868;yu tian lu
+518;3;2868;Yutian Rd
+518;2;4943;lian shi lu
+518;3;4943;Lianshi Rd
+518;2;2848;lin yuan dong lu
+518;3;2848;Linyuan East Rd
+518;2;3931;lin yuan dong lu xi ce
+518;3;3931;Linyuan East Rd W
+518;2;3930;bei huan da dao lin yuan dong lu xi ce ru kou za dao
+518;3;3930;Beihuan Blvd Linyuan East Rd W Entrance Ramp
+518;2;5229;hong lang bei er lu
+518;3;5229;Honglang North 2nd Rd
+518;2;3564;li shan lu
+518;3;3564;Lishan Rd
+518;2;4243;liu xian da dao nan ce
+518;3;4243;Liuxian Blvd S
+518;2;4929;nan ping kuai su lu nan ce liu xian da dao xi ce ru kou za dao
+518;3;4929;Nanping Expy S Liuxian Blvd W Entrance Ramp
+518;2;3526;long da gao su gong lu shen zhen duan
+518;3;3526;Longda Hwy Shenzhen Sect
+518;2;4949;guan fo gao su gong lu
+518;3;4949;Guanfo Hwy
+518;2;3642;shi long da dao
+518;3;3642;Shilong Blvd
+518;2;3268;guang ming da dao
+518;3;3268;Guangming Blvd
+518;2;4768;gong chang lu
+518;3;4768;Gongchang Rd
+518;2;5077;qing quan lu
+518;3;5077;Qingquan Rd
+518;2;5246;long zhu ba lu
+518;3;5246;Longzhu 8th Rd
+518;2;5247;bei huan da dao long zhu ba lu shang za dao
+518;3;5247;Beihuan Blvd Longzhuba Rd Entrance Ramp
+518;2;2753;long jing lu
+518;3;2753;Longjing Rd
+518;2;2754;long zhu er lu
+518;3;2754;Longzhu 2 Rd
+518;2;2755;long zhu san lu
+518;3;2755;Longzhu 3rd Rd
+518;2;2758;long zhu liu lu
+518;3;2758;Longzhu 6 Rd
+518;2;3469;long zhu qi lu
+518;3;3469;Longzhu 7 Rd
+518;2;4834;long zhu da dao nan ce
+518;3;4834;Longzhu Blvd S
+518;2;4840;bei huan da dao long zhu da dao nan ce ru kou za dao
+518;3;4840;Beihuan Blvd Longzhu Blvd S Entrance Ramp
+518;2;4836;nan ping kuai su lu long zhu da dao nan ce ru kou za dao
+518;3;4836;Nanping Expy Longzhu Blvd S Entrance Ramp
+518;2;3806;bei huan da dao long zhu si lu shang za dao
+518;3;3806;Beihuan Blvd Longzhu 4th Rd Entrance Ramp
+518;2;2026;luo fang lu
+518;3;2026;Luofang Rd
+518;2;2027;yan fang lu
+518;3;2027;Yanfang Rd
+518;2;2297;xin xiu lu
+518;3;2297;Xinxiu Rd
+518;2;5267;yan he bei lu luo sha lu shang za dao
+518;3;5267;Yanhe North Rd Luosha Rd Entrance Ramp
+518;2;4509;yan he bei lu dong ce
+518;3;4509;Yanhe North Rd E
+518;2;5379;yan he bei lu dong ce luo sha lu shang za dao
+518;3;5379;Yanhe North Rd E Luosha Rd Entrance Ramp
+518;2;5378;luo sha xian hu li jiao qiao
+518;3;5378;Luoshaxianhu Jct
+518;2;5081;pan shan lu
+518;3;5081;Panshan Rd
+518;2;5116;mei ban da dao
+518;3;5116;Meiban Blvd
+518;2;3355;gong an jie
+518;3;3355;Gongan St
+518;2;3417;mei gang lu
+518;3;3417;Meigang Rd
+518;2;3418;mei gang nan jie
+518;3;3418;Meigang South St
+518;2;2200;mei li lu
+518;3;2200;Meili Rd
+518;2;2647;yi hao lu
+518;3;2647;1st Rd
+518;2;5033;bei huan da dao mei lin lu shang za dao
+518;3;5033;Beihuan Blvd Meilin Rd Entrance Ramp
+518;2;2836;xia mei lin yi jie
+518;3;2836;Xiameilinyi St
+518;2;2837;mei shan jie
+518;3;2837;Meishan St
+518;2;2839;mei xing lu
+518;3;2839;Meixing Rd
+518;2;2840;long wei lu
+518;3;2840;Longwei Rd
+518;2;5380;mei dong wu lu
+518;3;5380;Meidong Rd 5
+518;2;5381;mei dong yi lu
+518;3;5381;Meidong Rd 1
+518;2;3598;min le lu
+518;3;3598;Minle Rd
+518;2;3599;min wang lu
+518;3;3599;Minwang Rd
+518;2;5383;fu shi kang ke ji ji tuan
+518;3;5383;Fushikangkejijituan
+518;2;4583;bin he da dao min tian lu shang za dao
+518;3;4583;Binhe Blvd Mintian Rd Entrance Ramp
+518;2;5384;guang dian da sha
+518;3;5384;Guangdiandasha
+518;2;5127;min zhi lu
+518;3;5127;Minzhi Rd
+518;2;5385;min le li jiao
+518;3;5385;Minle Jct
+518;2;3533;nei huan lu
+518;3;3533;Inner Ring Rd
+518;2;3534;shen zhen wan hai guan
+518;3;3534;Custom Dongbin Road Shenzhenwan
+518;2;2597;nan tou jie
+518;3;2597;Nantou St
+518;2;4232;nan guang lu bei ce
+518;3;4232;Nanguang Rd N
+518;2;4231;bin hai da dao bei ce nan guang lu bei ce shang za dao
+518;3;4231;Binhai Blvd N Nanguang Rd N Entrance Ramp
+518;2;3740;bei huan da dao nan hai da dao ru kou za dao
+518;3;3740;Beihuan Blvd Nanhai Blvd Entrance Ramp
+518;2;4677;bei huan da dao bei ce nan hai da dao ru kou za dao
+518;3;4677;Beihuan Blvd N Nanhai Blvd Entrance Ramp
+518;2;2109;gang wan yi lu
+518;3;2109;Gangwanyi Rd
+518;2;2111;gong ye er lu
+518;3;2111;Gongye 2nd Rd
+518;2;2114;gong ye si lu
+518;3;2114;Gongyesi Rd
+518;2;2115;gong ye wu lu
+518;3;2115;Gongyewu Rd
+518;2;5113;gong ye liu lu
+518;3;5113;Gongye 6th Rd
+518;2;2121;hua ming lu
+518;3;2121;Huaming Rd
+518;2;2593;hai de er dao
+518;3;2593;Haide 2nd Rd
+518;2;4347;bei huan da dao nan hai da dao dong ce ru kou za dao
+518;3;4347;Beihuan Blvd Nanhai Blvd E Entrance Ramp
+518;2;4928;bei huan da dao bei ce nan hai da dao dong ce ru kou za dao
+518;3;4928;Beihuan Blvd N Nanhai Blvd E Entrance Ramp
+518;2;4330;bei huan da dao nan ce nan hai da dao dong ce ru kou za dao
+518;3;4330;Beihuan Blvd S Nanhai Blvd E Entrance Ramp
+518;2;4870;bin hai da dao nan hai da dao dong ce ru kou za dao
+518;3;4870;Binhai Blvd Nanhai Blvd E Entrance Ramp
+518;2;3769;bei huan da dao nan hai da dao xi ce ru kou za dao
+518;3;3769;Beihuan Blvd Nanhai Blvd W Entrance Ramp
+518;2;3739;bei huan da dao bei ce nan hai da dao xi ce ru kou za dao
+518;3;3739;Beihuan Blvd N Nanhai Blvd W Entrance Ramp
+518;2;5059;bei huan da dao xi ce nan hai da dao xi ce ru kou za dao
+518;3;5059;Beihuan Blvd W Nanhai Blvd W Entrance Ramp
+518;2;5270;chun feng lu gao jia qiao nan hu lu ru kou za dao
+518;3;5270;Chunfeng Rd Viad Nanhu Rd Entrance Ramp
+518;2;5271;nan hu lu xi ce
+518;3;5271;Nanhu Rd W
+518;2;5274;chun feng lu gao jia qiao nan hu lu xi ce shang za dao
+518;3;5274;Chunfeng Rd Viad Nanhu Rd W Entrance Ramp
+518;2;2511;xing hai da dao
+518;3;2511;Xinghai Blvd
+518;2;5453;ban xue gang da dao dong ce
+518;3;5453;Banxuegang Blvd E
+518;2;5452;nan ping kuai su lu ban xue gang da dao dong ce chu kou za
+518;3;5452;Nanping Expy Banxuegang Blvd E Exit Ramp
+518;2;5130;bei huan da dao nan ping kuai su lu chu kou za dao
+518;3;5130;Beihuan Blvd Nanping Expy Exit Ramp
+518;2;4354;nan ping kuai su lu bei huan da dao fu lu chu kou za dao
+518;3;4354;Nanping Expy Beihuan Blvd Side Rd Exit Ramp
+518;2;4302;fu long lu dong ce nan ping kuai su lu ru kou za dao
+518;3;4302;Fulong Rd E Nanping Expy Entrance Ramp
+518;2;4847;jian gong bei lu
+518;3;4847;Jiangong North Rd
+518;2;4849;nan ping kuai su lu jian gong bei lu xia za dao
+518;3;4849;Nanping Expy Jiangong North Rd Exit Ramp
+518;2;5060;nan ping kuai su lu jing gang ao gao su gong lu xia za dao
+518;3;5060;Nanping Expy Jinggang'ao Hwy Exit Ramp
+518;2;5062;jing gang ao gao su gong lu xi ce
+518;3;5062;Jinggang'ao Hwy W
+518;2;5061;nan ping kuai su lu jing gang ao gao su gong lu xi ce xia za dao
+518;3;5061;Nanping Expy Jinggang'ao Hwy W Exit Ramp
+518;2;4975;nan ping kuai su lu zhu san jiao huan xian gao su gong lu shang za dao
+518;3;4975;Nanping Expy Zhusanjiaohuanxian Hwy Entrance Ramp
+518;2;4701;ban song gang da dao
+518;3;4701;Bansonggang Blvd
+518;2;5429;nan ping kuai su lu bei ce ban xue gang da dao chu kou za dao
+518;3;5429;Nanping Expy N Banxuegang Blvd Exit Ramp
+518;2;4291;fu long lu nan ping kuai su lu bei ce ru kou za dao
+518;3;4291;Fulong Rd Nanping Expy N Entrance Ramp
+518;2;4295;fu long lu dong ce nan ping kuai su lu bei ce ru kou za dao
+518;3;4295;Fulong Rd E Nanping Expy N Entrance Ramp
+518;2;4296;fu long lu xi ce nan ping kuai su lu bei ce ru kou za dao
+518;3;4296;Fulong Rd W Nanping Expy N Entrance Ramp
+518;2;4306;liu xian da dao dong ce
+518;3;4306;Liuxian Blvd E
+518;2;4305;nan ping kuai su lu bei ce liu xian da dao dong ce chu kou za dao
+518;3;4305;Nanping Expy N Liuxian Blvd E Exit Ramp
+518;2;4252;yu long lu dong ce
+518;3;4252;Yulong Rd E
+518;2;4282;nan ping kuai su lu bei ce yu long lu dong ce chu kou za dao
+518;3;4282;Nanping Expy N Yulong Rd E Exit Ramp
+518;2;4260;nan ping kuai su lu dong ce bu long lu nan ce chu kou za dao
+518;3;4260;Nanping Expy E Bulong Rd S Exit Ramp
+518;2;3839;nan ping kuai su lu dong ce long zhu da dao chu kou za dao
+518;3;3839;Nanping Expy E Longzhu Blvd Exit Ramp
+518;2;5454;nan ping kuai su lu nan ce ban xue gang da dao chu kou za dao
+518;3;5454;Nanping Expy S Banxuegang Blvd Exit Ramp
+518;2;4367;nan ping kuai su lu dong ce bei huan da dao fu lu nan ce chu kou za dao
+518;3;4367;Nanping Expy E Beihuan Blvd Side Rd S Exit Ramp
+518;2;4930;fu long lu nan ping kuai su lu nan ce ru kou za dao
+518;3;4930;Fulong Rd Nanping Expy S Entrance Ramp
+518;2;4931;fu long lu dong ce nan ping kuai su lu nan ce ru kou za dao
+518;3;4931;Fulong Rd E Nanping Expy S Entrance Ramp
+518;2;4304;fu long lu xi ce nan ping kuai su lu nan ce ru kou za dao
+518;3;4304;Fulong Rd W Nanping Expy S Entrance Ramp
+518;2;4278;nan ping kuai su lu nan ce yu long lu dong ce chu kou za dao
+518;3;4278;Nanping Expy S Yulong Rd E Exit Ramp
+518;2;4251;nan ping kuai su lu xi ce
+518;3;4251;Nanping Expy W
+518;2;4848;nan ping kuai su lu xi ce jian gong bei lu xia za dao
+518;3;4848;Nanping Expy W Jiangong North Rd Exit Ramp
+518;2;4374;nan ping kuai su lu xi ce long zhu da dao chu kou za dao
+518;3;4374;Nanping Expy W Longzhu Blvd Exit Ramp
+518;2;5071;san jiao huan xian gao su gong lu
+518;3;5071;Sanjiao Loop Hwy
+518;2;4977;nan ping kuai su lu xi ce zhu san jiao huan xian gao su gong lu xia za dao
+518;3;4977;Nanping Expy W Zhusanjiaohuanxian Hwy Exit Ramp
+518;2;2301;shen yun lu
+518;3;2301;Shenyun Rd
+518;2;4361;nan ping kuai su lu xi ce shen yun lu chu kou za dao
+518;3;4361;Nanping Expy W Shenyun Rd Exit Ramp
+518;2;4253;nan ping kuai su lu xi ce yu long lu dong ce chu kou za dao
+518;3;4253;Nanping Expy W Yulong Rd E Exit Ramp
+518;2;2598;hong hua lu
+518;3;2598;Honghua Rd
+518;2;2600;yu quan lu
+518;3;2600;Yuquan Rd
+518;2;3712;nan shan da dao dong ce
+518;3;3712;Nanshan Blvd E
+518;2;4327;bei huan da dao nan ce nan shan da dao dong ce shang za dao
+518;3;4327;Beihuan Blvd S Nanshan Blvd E Entrance Ramp
+518;2;3708;nan shan da dao xi ce
+518;3;3708;Nanshan Blvd W
+518;2;5012;bei huan da dao nan shan da dao xi ce shang za dao
+518;3;5012;Beihuan Blvd Nanshan Blvd W Entrance Ramp
+518;2;4321;bei huan da dao bei ce nan shan da dao xi ce shang za dao
+518;3;4321;Beihuan Blvd N Nanshan Blvd W Entrance Ramp
+518;2;3472;shui wan lu
+518;3;3472;Shuiwan Rd
+518;2;4481;bao gang lu xi ce
+518;3;4481;Baogang Rd W
+518;2;4480;ni gang dong lu bao gang lu xi ce xia za dao
+518;3;4480;Nigang East Rd Baogang Rd W Exit Ramp
+518;2;5317;ni gang dong lu bu xin lu shang za dao
+518;3;5317;Nigang East Rd Buxin Rd Entrance Ramp
+518;2;4855;hong gang lu dong ce
+518;3;4855;Honggang Rd E
+518;2;4856;ni gang dong lu hong gang lu dong ce xia za dao
+518;3;4856;Nigang East Rd Honggang Rd E Exit Ramp
+518;2;3990;ni gang dong lu hong hu xi lu xia za dao
+518;3;3990;Nigang East Rd Honghu West Rd Exit Ramp
+518;2;4483;ni gang dong lu bei ce
+518;3;4483;Nigang East Rd N
+518;2;4482;ni gang dong lu bei ce bao gang lu dong ce xia za dao
+518;3;4482;Nigang East Rd N Baogang Rd E Exit Ramp
+518;2;5064;ni gang dong lu nan ce bu ji lu xi ce xia za dao
+518;3;5064;Nigang East Rd S Buji Rd W Exit Ramp
+518;2;4484;ni gang dong lu nan ce bu xin lu chu kou za dao
+518;3;4484;Nigang East Rd S Buxin Rd Exit Ramp
+518;2;3979;ni gang xi lu ba gua lu xia za dao
+518;3;3979;Nigang West Rd Bagua Rd Exit Ramp
+518;2;5257;ni gang xi lu mei gang lu chu kou za dao
+518;3;5257;Nigang West Rd Meigang Rd Exit Ramp
+518;2;5455;ni gang xi lu shang bu lu chu kou za dao
+518;3;5455;Nigang West Rd Shangbu Rd Exit Ramp
+518;2;5259;ni gang xi lu bei ce mei gang lu chu kou za dao
+518;3;5259;Nigang West Rd N Meigang Rd Exit Ramp
+518;2;5456;ni gang xi lu bei ce shang bu lu xi ce chu kou za dao
+518;3;5456;Nigang West Rd N Shangbu Rd W Exit Ramp
+518;2;4465;bei huan da dao dong ce ni gang xi lu xi ce ru kou za dao
+518;3;4465;Beihuan Blvd E Nigang West Rd W Entrance Ramp
+518;2;2772;xiang lin lu
+518;3;2772;Xianglin Rd
+518;2;2775;ze tian lu
+518;3;2775;Zetian Rd
+518;2;2780;xiang xuan lu
+518;3;2780;Xiangxuan Rd
+518;2;2783;run tian lu
+518;3;2783;Runtian Rd
+518;2;5386;xian hu shan zhuang
+518;3;5386;Xianhushanzhuang
+518;2;4784;ping hu da jie
+518;3;4784;Pinghu Ave
+518;2;5387;dong shen gong lu
+518;3;5387;Dongshen Hwy
+518;2;4781;heng ling er jie
+518;3;4781;Henglinger St
+518;2;5307;dan ping kuai su lu ping hu ma bu lu shang za dao
+518;3;5307;Danping Expy Pinghumabu Rd Entrance Ramp
+518;2;5115;fu an da dao
+518;3;5115;Fuan Blvd
+518;2;5388;liang ku yi hao lu
+518;3;5388;Liangkuyihao Rd
+518;2;3583;xin mu lu
+518;3;3583;Xinmu Rd
+518;2;5389;fu tian bao shui qu yi hao sui dao
+518;3;5389;Futianbaoshuiquyihao Tunl
+518;2;4915;yin gui dao
+518;3;4915;Yingui Ave
+518;2;4796;jin gui dao
+518;3;4796;Jingui Ave
+518;2;3667;bei huan da dao xi ce qian hai lu ru kou za dao
+518;3;3667;Beihuan Blvd W Qianhai Rd Entrance Ramp
+518;2;3535;mian shan lu
+518;3;3535;Mianshan Rd
+518;2;1921;yan hu lu
+518;3;1921;Yanhu Rd
+518;2;2325;bao tian yi lu
+518;3;2325;Baotian 1st Rd
+518;2;2339;long jing er lu
+518;3;2339;Longjing 2nd Rd
+518;2;4785;xin zhen lu
+518;3;4785;Xinzhen Rd
+518;2;2336;xing hua er lu
+518;3;2336;Xinghua 2nd Rd
+518;2;2333;bao min yi lu yi xiang
+518;3;2333;Baominyiluyi Ln
+518;2;4868;bin hai da dao nan ce qiao cheng dong lu ru kou za dao
+518;3;4868;Binhai Blvd S Qiaocheng East Rd Entrance Ramp
+518;2;3476;jin xiu jie
+518;3;3476;Jinxiu St
+518;2;4541;qiao cheng dong lu xi ce
+518;3;4541;Qiaocheng East Rd W
+518;2;4540;bin hai da dao bei ce qiao cheng dong lu xi ce shang za dao
+518;3;4540;Binhai Blvd N Qiaocheng East Rd W Entrance Ramp
+518;2;3807;bei huan da dao qiao xiang lu ru kou za dao
+518;3;3807;Beihuan Blvd Qiaoxiang Rd Entrance Ramp
+518;2;2300;xiang shan xi jie
+518;3;2300;Xiangshan West St
+518;2;5461;hua qiao cheng yi yuan
+518;3;5461;Huaqiaocheng Hospital
+518;2;5351;qing fu lu
+518;3;5351;Qingfu Rd
+518;2;4268;nan ping kuai su lu qing ping gao su gong lu ru kou za dao
+518;3;4268;Nanping Expy Qingping Hwy Entrance Ramp
+518;2;3385;qing ping lu
+518;3;3385;Qingping Rd
+518;2;5067;fu long lu xi ce ren min lu ru kou za dao
+518;3;5067;Fulong Rd W Renmin Rd Entrance Ramp
+518;2;4884;ren min lu bei ce
+518;3;4884;Renmin Rd N
+518;2;4885;fu long lu dong ce ren min lu bei ce shang za dao
+518;3;4885;Fulong Rd E Renmin Rd N Entrance Ramp
+518;2;4995;fu long lu xi ce ren min lu nan ce chu kou za dao
+518;3;4995;Fulong Rd W Renmin Rd S Exit Ramp
+518;2;5237;bei huan da dao san hao lu ru kou za dao
+518;3;5237;Beihuan Blvd Sanhao Rd Entrance Ramp
+518;2;5248;nan ping kuai su lu san hao lu shang za dao
+518;3;5248;Nanping Fwy Sanhao Rd Entrance Ramp
+518;2;3398;xing hu lu
+518;3;3398;Xinghu Rd
+518;2;5019;bei huan da dao nan ce sha he dong lu shang za dao
+518;3;5019;Beihuan Blvd S Shahe East Rd Entrance Ramp
+518;2;5233;bai an ju
+518;3;5233;Baianju
+518;2;2736;bai shi san dao
+518;3;2736;Baishi 3rd Aly
+518;2;2737;bai shi er dao
+518;3;2737;Baishi Ave 2nd
+518;2;2739;shi zhou bei lu
+518;3;2739;Shizhou North Rd
+518;2;2741;xin zhong lu
+518;3;2741;Xinzhong Rd
+518;2;2742;xin tang jie
+518;3;2742;Xintang St
+518;2;4203;sha he dong lu xi ce
+518;3;4203;Shahe East Rd W
+518;2;4534;bin hai da dao bei ce sha he dong lu xi ce shang za dao
+518;3;4534;Binhai Blvd N Shahe East Rd W Entrance Ramp
+518;2;5022;bei huan da dao bei ce sha he xi lu shang za dao
+518;3;5022;Beihuan Blvd N Shahe Rd W Entrance Ramp
+518;2;5286;bin hai da dao sha he xi lu shang za dao
+518;3;5286;Binhai Blvd Shahe Rd W Entrance Ramp
+518;2;5014;bei huan da dao sha he xi lu dong ce shang za dao
+518;3;5014;Beihuan Blvd Shahe Rd W E Entrance Ramp
+518;2;4869;bin hai da dao nan ce sha he xi lu dong ce shang za dao
+518;3;4869;Binhai Blvd S Shahe Rd W E Entrance Ramp
+518;2;3554;hai tao lu
+518;3;3554;Haitao Rd
+518;2;3303;sha yan lu
+518;3;3303;Shayan Rd
+518;2;5391;sha tou jiao gong lu - shi chong ao duan
+518;3;5391;Sha Tau Kok Rd - Shek Chung Au
+518;2;5392;zhu fu lu
+518;3;5392;Zhufu Rd
+518;2;5163;wang tong lu
+518;3;5163;Wangtong Rd
+518;2;3555;guan xia lu
+518;3;3555;Guanxia Rd
+518;2;3017;xin zhou jiu jie
+518;3;3017;Xinzhou St 9
+518;2;4580;sha zui lu dong ce
+518;3;4580;Shazui Rd E
+518;2;4579;bin he da dao nan ce sha zui lu dong ce shang za dao
+518;3;4579;Binhe Blvd S Shazui Rd E Entrance Ramp
+518;2;2856;shang bao dong lu
+518;3;2856;Shangbao Rd E
+518;2;5393;bei huan xin zhou li jiao qiao
+518;3;5393;N Ring Xinzhou Jct
+518;2;2859;jing tian nan san jie
+518;3;2859;Jingtiannansan St
+518;2;2860;jing tian nan si jie
+518;3;2860;Jingtiannansi St
+518;2;5399;bei huan da dao dong ce shang bu lu ru kou za dao
+518;3;5399;Beihuan Blvd E Shangbu Rd Entrance Ramp
+518;2;2218;yuan ling si jie
+518;3;2218;Yuanling 4th St
+518;2;5397;bei huan da dao dong ce shang bu lu dong ce ru kou za dao
+518;3;5397;Beihuan Blvd E Shangbu Rd E Entrance Ramp
+518;2;3962;ni gang xi lu nan ce
+518;3;3962;Nigang West Rd S
+518;2;5398;ni gang xi lu nan ce shang bu lu dong ce ru kou za dao
+518;3;5398;Nigang West Rd S Shangbu Rd E Entrance Ramp
+518;2;5394;bin he da dao nan ce shang bu lu xi ce ru kou za dao
+518;3;5394;Binhe Blvd S Shangbulu W Entrance Ramp
+518;2;4791;chuan an lu
+518;3;4791;Chuan'an Rd
+518;2;5400;fan shen xiao qu ba xiang
+518;3;5400;Fanshenxiaoquba Ln
+518;2;2462;zi you lu
+518;3;2462;Ziyou Rd
+518;2;2551;shi yun lu
+518;3;2551;Shiyun Rd
+518;2;2552;yu cun lu
+518;3;2552;Yucun Rd
+518;2;2553;wan xia lu
+518;3;2553;Wanxia Rd
+518;2;5213;dan ping kuai su lu shen hui lu ru kou za dao
+518;3;5213;Danping Expy Shenhui Rd Entrance Ramp
+518;2;5201;dan ping kuai su lu shen hui lu chu kou za dao
+518;3;5201;Danping Expy Shenhui Rd Exit Ramp
+518;2;5215;dan ping kuai su lu dong ce shen hui lu ru kou za dao
+518;3;5215;Danping Expy E Shenhui Rd Entrance Ramp
+518;2;5216;dan ping kuai su lu xi ce shen hui lu ru kou za dao
+518;3;5216;Danping Expy W Shenhui Rd Entrance Ramp
+518;2;5211;dan ping kuai su lu shen hui lu nan ce ru kou za dao
+518;3;5211;Danping Expy Shenhui Rd S Entrance Ramp
+518;2;3670;bei huan da dao dong ce shen nan da dao shang za dao
+518;3;3670;Beihuan Blvd E Shennan Blvd Entrance Ramp
+518;2;4792;qiao cheng xi jie
+518;3;4792;Qiaocheng West St
+518;2;4650;shen nan dong lu bei ce
+518;3;4650;Shennan East Rd N
+518;2;5457;yan he bei lu dong ce shen nan dong lu bei ce shang za dao
+518;3;5457;Yanhe North Rd E Shennan East Rd N Entrance Ramp
+518;2;4648;shen nan dong lu nan ce
+518;3;4648;Shennan East Rd S
+518;2;4516;yan he nan lu xi ce
+518;3;4516;Yanhe South Rd W
+518;2;4647;yan he nan lu xi ce shen nan dong lu nan ce shang za dao
+518;3;4647;Yanhe South Rd W Shennan East Rd S Entrance Ramp
+518;2;2280;zhong hang lu
+518;3;2280;Zhonghang Rd
+518;2;5281;bin hai da dao shen wan wu lu ru kou za dao
+518;3;5281;Binhai Blvd Shenwanwu Rd Entrance Ramp
+518;2;4537;shen wan wu lu xi ce
+518;3;4537;Shenwanwu Rd W
+518;2;4536;bin hai da dao bei ce shen wan wu lu xi ce shang za dao
+518;3;4536;Binhai Blvd N Shenwanwu Rd W Entrance Ramp
+518;2;3652;bei shan dao
+518;3;3652;Beishan Ave
+518;2;5226;dan ping kuai su lu dong ce sheng bao lu bei ce shang za dao
+518;3;5226;Danping Expy E Shengbao Rd N Entrance Ramp
+518;2;5221;dan ping kuai su lu dong ce sheng bao lu nan ce shang za dao
+518;3;5221;Danping Expy E Shengbao Rd S Entrance Ramp
+518;2;5223;dan ping kuai su lu xi ce sheng bao lu nan ce shang za dao
+518;3;5223;Danping Expy W Shengbao Rd S Entrance Ramp
+518;2;3344;shi xia jie
+518;3;3344;Shixia St
+518;2;5401;fu min lu (shi xia bei er jie)
+518;3;5401;Fumin Rd (Shixiabeier St)
+518;2;4111;bin he da dao song ling lu shang za dao
+518;3;4111;Binhe Blvd Songling Rd Entrance Ramp
+518;2;5402;shang tian da sha
+518;3;5402;Shangtiandasha
+518;2;3406;song yuan bei jie
+518;3;3406;Songyuan North St
+518;2;3405;song yuan lu
+518;3;3405;Songyuan Rd
+518;2;2998;dong sheng lu
+518;3;2998;Dongsheng Rd
+518;2;3336;tai ran ba lu
+518;3;3336;Terra 8th Rd
+518;2;3337;tai ran qi lu
+518;3;3337;Terra 7th Rd
+518;2;4940;bin he da dao tai ran jiu lu ru kou za dao
+518;3;4940;Binhe Blvd Terra 9th Rd Entrance Ramp
+518;2;3334;tai ran si lu
+518;3;3334;Terra 4th Rd
+518;2;3335;tai ran liu lu
+518;3;3335;Terra 6th Rd
+518;2;4573;tai ran yi lu xi ce
+518;3;4573;Tairanyi Rd W
+518;2;4572;bin he da dao bei ce tai ran yi lu xi ce shang za dao
+518;3;4572;Binhe Blvd N Tairanyi Rd W Entrance Ramp
+518;2;5068;fu long lu xi ce tang chang lu ru kou za dao
+518;3;5068;Fulong Rd W Tangchang Rd Entrance Ramp
+518;2;4978;tang chang lu dong ce
+518;3;4978;Tangchang Rd E
+518;2;4980;fu long lu xi ce tang chang lu dong ce ru kou za dao
+518;3;4980;Fulong Rd W Tangchang Rd E Entrance Ramp
+518;2;2626;chang xing lu
+518;3;2626;Changxing Rd
+518;2;3401;tian bei san lu
+518;3;3401;Tianbei 3rd Rd
+518;2;3381;tong de lu
+518;3;3381;Tongde Rd
+518;2;3480;wen hua lu
+518;3;3480;Wenhua Rd
+518;2;3408;tong le lu
+518;3;3408;Tongle Rd
+518;2;5167;hai xin hua yuan
+518;3;5167;Haixin Garden
+518;2;5183;wen jin du lu
+518;3;5183;Wenjindu Rd
+518;2;4641;wen jin nan lu xi ce
+518;3;4641;Wenjin South Rd W
+518;2;4640;yan he nan lu wen jin nan lu xi ce ru kou za dao
+518;3;4640;Yanhe South Rd Wenjin South Rd W Entrance Ramp
+518;2;3562;bao li lu
+518;3;3562;Baoli Rd
+518;2;3445;Y134
+518;3;3445;Y134
+518;2;5403;bao an li jiao
+518;3;5403;Baoan Jct
+518;2;3879;bei huan da dao bei ce xia mei lin yi jie shang za dao
+518;3;3879;Beihuan Blvd N Xiameilinyi St Entrance Ramp
+518;2;4562;xia sha da dao dong ce
+518;3;4562;Xiasha Blvd E
+518;2;4561;bin he da dao nan ce xia sha da dao dong ce shang za dao
+518;3;4561;Binhe Blvd S Xiasha Blvd E Entrance Ramp
+518;2;4807;jing tian nan qi jie
+518;3;4807;Jingtiannanqi St
+518;2;2817;xiang mi nan si jie
+518;3;2817;Xiangmi'nansi St
+518;2;5279;bin he da dao xiang mi hu lu ru kou za dao
+518;3;5279;Binhe Blvd Xiangmihu Rd Entrance Ramp
+518;2;5280;xiang mi hu lu bin he da dao fu dao chu kou za dao
+518;3;5280;Xiangmihu Rd Binhe Blvd Side Ave Exit Ramp
+518;2;4569;xiang mi hu lu xi ce
+518;3;4569;Xiangmihu Rd W
+518;2;4568;bin he da dao nan ce xiang mi hu lu xi ce ru kou za dao
+518;3;4568;Binhe Blvd S Xiangmihu Rd W Entrance Ramp
+518;2;5405;li jing ge
+518;3;5405;Lijingge
+518;2;2442;gong yuan lu dong yi xiang
+518;3;2442;Gongyuanludongyi Ln
+518;2;5406;bao an wen hua yi shu guan
+518;3;5406;Baoanwenhuayishuguan
+518;2;5407;yi yuan lu dong er xiang
+518;3;5407;Yiyuanludonger Ln
+518;2;3446;bao long yi shu xue xiao
+518;3;3446;Baolong Art School
+518;2;2448;min yao hua yuan san xiang
+518;3;2448;Minyaohuayuansan Ln
+518;2;2409;jin hua lu
+518;3;2409;Jinhua Rd
+518;2;2410;xin an si lu yi xiang
+518;3;2410;Xin'ansiluyi Ln
+518;2;5328;xin an xi lu
+518;3;5328;Xin'an West Rd
+518;2;4808;ya lan lu
+518;3;4808;Yalan Rd
+518;2;4809;jin lan lu
+518;3;4809;Jinlan Rd
+518;2;4810;he feng lu
+518;3;4810;Hefeng Rd
+518;2;4987;fu long lu xin qu da dao ru kou za dao
+518;3;4987;Fulong Rd Xinqu Blvd Entrance Ramp
+518;2;3593;shi long lu
+518;3;3593;Shilong Rd
+518;2;4989;fu long lu dong ce xin qu da dao xi ce ru kou za dao
+518;3;4989;Fulong Rd E Xinqu Blvd W Entrance Ramp
+518;2;4986;fu long lu xi ce xin qu da dao xi ce ru kou za dao
+518;3;4986;Fulong Rd W Xinqu Blvd W Entrance Ramp
+518;2;5184;xin shen lu
+518;3;5184;Xinshen Rd
+518;2;2853;jing tian nan wu jie
+518;3;2853;Jingtiannanwu St
+518;2;3342;xin zhou san jie
+518;3;3342;Xinzhou St 3
+518;2;3343;xin zhou er jie
+518;3;3343;Xinzhou St 2
+518;2;5079;bei huan da dao xin zhou lu shang za dao
+518;3;5079;Beihuan Blvd Xinzhou Rd Entrance Ramp
+518;2;2191;xin zhou liu jie
+518;3;2191;Xinzhou St 6
+518;2;4423;bei huan da dao nan xin zhou lu dong ce ru kou za dao
+518;3;4423;Beihuan Blvd S Xinzhou Rd E Entrance Ramp
+518;2;4584;bin he da dao nan ce xin zhou lu dong ce shang za dao
+518;3;4584;Binhe Blvd S Xinzhou Rd E Entrance Ramp
+518;2;4422;bei huan da dao bei ce xin zhou lu xi ce ru kou za dao
+518;3;4422;Beihuan Blvd N Xinzhou Rd W Entrance Ramp
+518;2;4581;bin he da dao bei ce xin zhou lu xi ce shang za dao
+518;3;4581;Binhe Blvd N Xinzhou Rd W Entrance Ramp
+518;2;3537;lian yang lu
+518;3;3537;Lianyang Rd
+518;2;2507;bi hai lu
+518;3;2507;Bihai Rd
+518;2;2509;gang hang lu
+518;3;2509;Ganghang Rd
+518;2;5146;kang le lu
+518;3;5146;Kangle Rd
+518;2;5326;hai xiu lu
+518;3;5326;Haixiu Rd
+518;2;5427;te lei xin yu jin you er yuan
+518;3;5427;Teleixinyujinyoueryuan
+518;2;2479;an le san jie
+518;3;2479;Anlesan St
+518;2;5123;yu an lu
+518;3;5123;Yu'an Rd
+518;2;5171;chuang shi ji bin hai hua yuan
+518;3;5171;Chuangshijibinhaihuayuan
+518;2;5415;yan he bei lu dong ce yan he bei lu xia za dao
+518;3;5415;Yanhe North Rd E Yanhe North Rd Exit Ramp
+518;2;5414;luo sha lu nan ce
+518;3;5414;Luosha Rd S
+518;2;5417;yan he bei lu dong ce luo sha lu nan ce xia za dao
+518;3;5417;Yanhe North Rd E Luosha Rd S Exit Ramp
+518;2;4510;yan he bei lu xi ce de zhi lu xia za dao
+518;3;4510;Yanhe North Rd W Dezhi Rd Exit Ramp
+518;2;5416;yan he bei lu xi ce shen nan dong lu bei ce xia za dao
+518;3;5416;Yanhe North Rd W Shennan East Rd N Exit Ramp
+518;2;4055;yan he nan lu bei dou lu chu kou za dao
+518;3;4055;Yanhe South Rd Beidou Rd Exit Ramp
+518;2;4080;chun feng lu gao jia qiao yan he nan lu shang za dao
+518;3;4080;Chunfeng Rd Viad Yanhe South Rd Entrance Ramp
+518;2;4639;chun feng lu gao jia qiao dong ce
+518;3;4639;Chunfeng Rd Viad E
+518;2;4638;chun feng lu gao jia qiao dong ce yan he nan lu ru kou za dao
+518;3;4638;Chunfeng Rd Viad E Yanhe South Rd Entrance Ramp
+518;2;4057;yan he nan lu dong men nan lu chu kou za dao
+518;3;4057;Yanhe South Rd Dongmen South Rd Exit Ramp
+518;2;4047;yan he nan lu yan fang lu xia za dao
+518;3;4047;Yanhe South Rd Yanfang Rd Exit Ramp
+518;2;4034;yan he nan lu nan ce
+518;3;4034;Yanhe South Rd S
+518;2;4645;yan he nan lu nan ce yan fang lu xia za dao
+518;3;4645;Yanhe South Rd S Yanfang Rd Exit Ramp
+518;2;5412;yan he nan lu yan he nan lu xi ce ru kou za dao
+518;3;5412;Yanhe South Rd Yanhe South W Entrance Ramp
+518;2;5410;yan he nan lu zhi dong men nan lu
+518;3;5410;Yanhe South Rd to Dongmen South Rd
+518;2;5241;bei huan da dao yi yuan lu ru kou za dao
+518;3;5241;Beihuan Blvd Yiyuan Rd Entrance Ramp
+518;2;5009;bei huan da dao yin hu lu shang za dao
+518;3;5009;Beihuan Blvd Yinhu Rd Entrance Ramp
+518;2;5420;tian yuan ju bie shu
+518;3;5420;Tianyuanjubieshu
+518;2;4454;yin hu lu xi ce
+518;3;4454;Yinhu Rd W
+518;2;4455;bei huan da dao bei ce yin hu lu xi ce shang za dao
+518;3;4455;Beihuan Blvd N Yinhu Rd W Entrance Ramp
+518;2;4453;bei huan da dao nan ce yin hu lu xi ce ru kou za dao
+518;3;4453;Beihuan Blvd S Yinhu Rd W Entrance Ramp
+518;2;5422;yu long li jiao
+518;3;5422;Yulong Jct
+518;2;4248;yu long lu xi ce
+518;3;4248;Yulong Rd W
+518;2;4280;nan ping kuai su lu yu long lu xi ce ru kou za dao
+518;3;4280;Nanping Expy Yulong Rd W Entrance Ramp
+518;2;4281;nan ping kuai su lu bei ce yu long lu xi ce ru kou za dao
+518;3;4281;Nanping Expy N Yulong Rd W Entrance Ramp
+518;2;4249;nan ping kuai su lu nan ce yu long lu xi ce ru kou za dao
+518;3;4249;Nanping Expy S Yulong Rd W Entrance Ramp
+518;2;2681;quan yuan lu
+518;3;2681;Quanyuan Rd
+518;2;5423;xi hai an hua yuan
+518;3;5423;Xihaianhuayuan
+518;2;3453;wu er dui nan si xiang
+518;3;3453;Wuerduinansi Ln
+518;2;5424;yi jing xin cun
+518;3;5424;Yijingxincun
+518;2;2521;ma wan da dao
+518;3;2521;Mawan Blvd
+518;2;2522;xing hai lu
+518;3;2522;Xinghai Rd
+518;2;5425;li wan lu
+518;3;5425;Liwan Rd
+518;2;3331;zhao shang xi lu
+518;3;3331;Zhaoshang West Rd
+518;2;3167;hua guo lu
+518;3;3167;Huaguo Rd
+518;2;4817;lei ling lu
+518;3;4817;Leiling Rd
+518;2;3042;lan hai lu
+518;3;3042;Lanhai Rd
+518;2;3043;lan guang lu
+518;3;3043;Languang Rd
+518;2;3045;gan quan lu
+518;3;3045;Ganquan Rd
+518;2;5173;tong bao jiu huo shi chang
+518;3;5173;Tongbaojiuhuoshichang
+518;2;3896;bei huan da dao zhong kang lu shang za dao
+518;3;3896;Beihuan Blvd Zhongkang Rd Entrance Ramp
+518;2;3488;mei ao ba lu
+518;3;3488;Meiao 8th Rd
+518;2;3326;tie er lu
+518;3;3326;Tieer Rd
+518;2;5001;zhu san jiao huan xian gao su gong lu shen zhen duan
+518;3;5001;Zhusanjiaohuanxian Hwy Shenzhen Sect
+518;2;5002;li guang shou fei zhan
+518;3;5002;Liguang Tollgate
+518;2;1915;zhang heng lu
+518;3;1915;Zhangheng Rd
+518;2;3294;guan guang lu
+518;3;3294;Guanguang Rd
+518;2;4911;li gang cun
+518;3;4911;Ligang Village

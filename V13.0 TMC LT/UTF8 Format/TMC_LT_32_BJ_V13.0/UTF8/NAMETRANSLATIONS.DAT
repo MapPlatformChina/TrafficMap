@@ -1,0 +1,4341 @@
+﻿CID;LID;NID;NTRANSLATION
+522;2;1;ya zhou
+522;3;1;Asia
+522;2;2;zhong guo
+522;3;2;China
+522;2;3;bei jing shi
+522;3;3;Beijing
+522;2;4;an ding men nei da jie
+522;3;4;Andingmen Inner St
+522;2;5;an ding men wai da jie
+522;3;5;Andingmen Outer St
+522;2;6;an li lu
+522;3;6;Anli Rd
+522;2;7;jing zang gao su gong lu
+522;3;7;Jingzang Hwy
+522;2;8;bei jing zhan jie
+522;3;8;Beijingzhan St
+522;2;10;chao yang bei lu
+522;3;10;Chaoyang North Rd
+522;2;11;chao yang lu
+522;3;11;Chaoyang Rd
+522;2;12;chao yang men bei xiao jie
+522;3;12;Chaoyangmen North St
+522;2;13;chao yang men nei da jie
+522;3;13;Chaoyangmen Inner St
+522;2;14;chao yang men nan xiao jie
+522;3;14;Chaoyangmen South St
+522;2;15;chao yang men wai da jie
+522;3;15;Chaoyangmen Outer St
+522;2;16;che gong zhuang da jie
+522;3;16;Chegongzhuang Ave
+522;2;17;dong zhi men bei xiao jie
+522;3;17;Dongzhimen North St
+522;2;19;fu cheng lu
+522;3;19;Fucheng Rd
+522;2;20;fu cheng men nei da jie
+522;3;20;Fuchengmen Inner St
+522;2;21;fu cheng men wai da jie
+522;3;21;Fuchengmen Outer St
+522;2;24;jing kai gao su gong lu
+522;3;24;Jingkai Hwy
+522;2;26;lan dian chang bei lu
+522;3;26;Landianchang North Rd
+522;2;27;lan dian chang nan lu
+522;3;27;Landianchang South Rd
+522;2;28;ping an li xi da jie
+522;3;28;Ping'anli West St
+522;2;31;wen jin jie
+522;3;31;Wenjin St
+522;2;33;xi an men da jie
+522;3;33;Xi'anmen Ave
+522;2;35;bei chen lu
+522;3;35;Beichen Rd
+522;2;36;gu lou wai da jie
+522;3;36;Gulou Outer St
+522;2;37;di an men nei da jie
+522;3;37;Di'anmen Inner St
+522;2;44;cheng fu lu
+522;3;44;Chengfu Rd
+522;2;47;dong si shi tiao
+522;3;47;Dongsishi Aly
+522;2;49;jiao dao kou nan da jie
+522;3;49;Jiaodaokou South St
+522;2;51;an ding lu
+522;3;51;Anding Rd
+522;2;52;che gong zhuang xi lu
+522;3;52;Chegongzhuang West Rd
+522;2;53;wan feng lu
+522;3;53;Wanfeng Rd
+522;2;54;zhang zi zhong lu
+522;3;54;Zhangzizhong Rd
+522;2;55;guan dong dian bei jie
+522;3;55;Guandongdian North St
+522;2;58;zhu shi kou xi da jie
+522;3;58;Zhushikou West St
+522;2;59;zhu shi kou dong da jie
+522;3;59;Zhushikou East St
+522;2;60;guang qu men nei da jie
+522;3;60;Guangqumen Inner St
+522;2;61;guang qu men wai da jie
+522;3;61;Guangqumen Outer St
+522;2;64;guang an lu
+522;3;64;Guang'an Rd
+522;2;65;guang an men wai da jie
+522;3;65;Guang'anmen Outer St
+522;2;70;dong zhi men wai da jie
+522;3;70;Dongzhimen Outer St
+522;2;71;gong ren ti yu chang bei lu
+522;3;71;Gongrentiyuchang North Rd
+522;2;73;ma jia pu dong lu
+522;3;73;Majiapu East Rd
+522;2;74;feng tai bei lu
+522;3;74;Fengtai North Rd
+522;2;76;zhi chun lu
+522;3;76;Zhichun Rd
+522;2;80;xiao yun lu
+522;3;80;Xiaoyun Rd
+522;2;81;ti yu guan lu
+522;3;81;Tiyuguan Rd
+522;2;82;guang ming lu
+522;3;82;Guangming Rd
+522;2;91;lian shi dong lu fu lu
+522;3;91;Lianshi East Rd Side Rd
+522;2;92;san tai shan lu
+522;3;92;Santaishan Rd
+522;2;93;bo da lu
+522;3;93;Boda Rd
+522;2;96;liang ma qiao lu
+522;3;96;Liangmaqiao Rd
+522;2;97;hua wei nan lu
+522;3;97;Huawei South Rd
+522;2;98;you an men nei da jie
+522;3;98;Youanmen Outer St
+522;2;100;chang chun jie
+522;3;100;Changchun St
+522;2;102;xi zhi men nei da jie
+522;3;102;Xizhimen Inner St
+522;2;104;cai he fang lu
+522;3;104;Caihefang Rd
+522;2;106;san li he dong lu
+522;3;106;Sanlihe East Rd
+522;2;108;lu gu lu
+522;3;108;Lugu Rd
+522;2;110;bei feng wo lu
+522;3;110;Beifengwo Rd
+522;2;112;yang fang dian xi lu
+522;3;112;Yangfangdian West Rd
+522;2;113;liu lin guan lu
+522;3;113;Liulinguan Rd
+522;2;116;wan quan he kuai su lu
+522;3;116;Wanquanhe Expy
+522;2;117;zheng yi lu
+522;3;117;Zhengyi Rd
+522;2;121;fang yuan xi lu
+522;3;121;Fangyuan West Rd
+522;2;122;wan hong xi jie
+522;3;122;Wanhong West St
+522;2;124;dong si xi da jie
+522;3;124;Dongsi West St
+522;2;130;bei qing lu
+522;3;130;Beiqing Rd
+522;2;132;hui long guan dong da jie
+522;3;132;Huilongguan East St
+522;2;133;xin xi lu
+522;3;133;Xinxi Rd
+522;2;134;dong da qiao lu
+522;3;134;Dongdaqiao Rd
+522;2;135;gong ren ti yu chang dong lu
+522;3;135;Gongrentiyuchang East Rd
+522;2;137;xiang he yuan lu
+522;3;137;Xiangheyuan Rd
+522;2;139;si huan fu lu
+522;3;139;4th Ring Side Rd
+522;2;140;san huan fu lu
+522;3;140;3rd Ring Side Rd
+522;2;142;tai ji chang da jie
+522;3;142;Taijichang Ave
+522;2;143;tai ping qiao da jie
+522;3;143;Taipingqiao Ave
+522;2;144;zhao deng yu lu
+522;3;144;Zhaodengyu Rd
+522;2;145;han he lu
+522;3;145;Hanhe Rd
+522;2;147;xiao tun lu
+522;3;147;Xiaotun Rd
+522;2;149;de sheng men nei da jie
+522;3;149;Deshengmen Inner St
+522;2;150;xi shi ku da jie
+522;3;150;Xishiku Ave
+522;2;151;qing hua dong lu
+522;3;151;Qinghua East Rd
+522;2;155;bei he yan da jie
+522;3;155;Beiheyan Ave
+522;2;156;nan he yan da jie
+522;3;156;Nanheyan Ave
+522;2;162;hua gong lu
+522;3;162;Huagong Rd
+522;2;164;bai yun lu
+522;3;164;Baiyun Rd
+522;2;165;jing liang lu
+522;3;165;Jingliang Rd
+522;2;166;G107
+522;3;166;G107
+522;2;172;fu xing men nei da jie
+522;3;172;Fuxingmen Inner St
+522;2;174;dong chang an jie
+522;3;174;E Chang'an St
+522;2;175;jian guo men nei da jie
+522;3;175;Jianguomen Inner St
+522;2;178;nan yuan lu
+522;3;178;Nanyuan Rd
+522;2;179;yong ding men wai da jie
+522;3;179;Yongdingmen Outer St
+522;2;184;xuan wu men dong da jie
+522;3;184;Xuanwumen East St
+522;2;185;qian men xi da jie
+522;3;185;Qianmen West St
+522;2;186;qian men dong da jie
+522;3;186;Qianmen East St
+522;2;187;chong wen men dong da jie
+522;3;187;Chongwenmen East St
+522;2;188;ma jia pu xi lu
+522;3;188;Majiapu West Rd
+522;2;189;kai yang lu
+522;3;189;Kaiyang Rd
+522;2;190;cai shi kou da jie
+522;3;190;Caishikou St
+522;2;191;xuan wu men wai da jie
+522;3;191;Xuanwumen Outer St
+522;2;192;xi dan bei da jie
+522;3;192;Xidan North St
+522;2;193;xi si nan da jie
+522;3;193;Xisi South St
+522;2;194;xi si bei da jie
+522;3;194;Xisi North St
+522;2;196;xin jie kou bei da jie
+522;3;196;Xinjiekou North St
+522;2;197;xin jie kou wai da jie
+522;3;197;Xinjiekou Outer St
+522;2;198;bei tai ping zhuang lu
+522;3;198;Beitaipingzhuang Rd
+522;2;200;pu huang yu lu
+522;3;200;Puhuangyu Rd
+522;2;202;chong wen men wai da jie
+522;3;202;Chongwenmen Outer St
+522;2;204;dong dan bei da jie
+522;3;204;Dongdan North St
+522;2;205;dong si nan da jie
+522;3;205;Dongsi South St
+522;2;206;dong si bei da jie
+522;3;206;Dongsi North St
+522;2;207;yong he gong da jie
+522;3;207;Yonghegong Ave
+522;2;208;he ping li xi jie
+522;3;208;Hepingli West St
+522;2;212;an si lu
+522;3;212;Ansi Rd
+522;2;213;bei san huan
+522;3;213;N 3rd Ring
+522;2;214;dong san huan
+522;3;214;E 3rd Ring
+522;2;215;nan san huan
+522;3;215;S 3rd Ring
+522;2;216;xi san huan
+522;3;216;W 3rd Ring
+522;2;217;bei si huan
+522;3;217;N 4th Ring
+522;2;218;dong si huan
+522;3;218;E 4th Ring
+522;2;219;nan si huan
+522;3;219;S 4th Ring
+522;2;220;xi si huan
+522;3;220;W 4th Ring
+522;2;221;bei wu huan
+522;3;221;N 5th Ring
+522;2;223;nan wu huan
+522;3;223;S 5th Ring
+522;2;224;xi wu huan
+522;3;224;W 5th Ring
+522;2;225;nan liu huan
+522;3;225;S 6th Ring
+522;2;226;dong liu huan
+522;3;226;E 6th Ring
+522;2;227;bei liu huan
+522;3;227;N 6th Ring
+522;2;239;jiao dao kou dong da jie
+522;3;239;Jiaodaokou East St
+522;2;243;shang qing qiao
+522;3;243;Shangqing Brg
+522;2;245;jian xiang qiao
+522;3;245;Jianxiang Brg
+522;2;248;yu quan ying qiao
+522;3;248;Yuquanying Brg
+522;2;249;cai hu ying qiao
+522;3;249;Caihuying Brg
+522;2;251;xin xing qiao
+522;3;251;Xinxing Brg
+522;2;256;jian hua nan lu
+522;3;256;Jianhua South Rd
+522;2;258;si hui qiao
+522;3;258;Sihui Brg
+522;2;259;hong ling jin qiao
+522;3;259;Honglingjin Brg
+522;2;260;jin tai lu
+522;3;260;Jintai Rd
+522;2;287;hang tian qiao
+522;3;287;Hangtian Brg
+522;2;293;zhan lan guan lu
+522;3;293;Zhanlanguan Rd
+522;2;311;pu fang lu
+522;3;311;Pufang Rd
+522;2;312;liu jia yao qiao
+522;3;312;Liujiayao Brg
+522;2;323;fu you jie
+522;3;323;Fuyou St
+522;2;327;xue zhi qiao
+522;3;327;Xuezhi Brg
+522;2;333;bei chen qiao
+522;3;333;Beichen Brg
+522;2;338;jing shan hou jie
+522;3;338;Jingshan Back St
+522;2;341;mu xi yuan qiao
+522;3;341;Muxiyuan Brg
+522;2;342;da hong men qiao
+522;3;342;Dahongmen Brg
+522;2;347;an ding men qiao
+522;3;347;Andingmen Brg
+522;2;349;dong zhi men
+522;3;349;Dongzhimen
+522;2;351;jian guo men qiao
+522;3;351;Jianguomen Brg
+522;2;353;guang qu men qiao
+522;3;353;Guangqumen Brg
+522;2;354;guang ming qiao
+522;3;354;Guangming Brg
+522;2;355;zuo an men qiao
+522;3;355;Zuoanmen Brg
+522;2;356;yu ting qiao
+522;3;356;Yuting Brg
+522;2;357;yong ding men qiao
+522;3;357;Yongdingmen Brg
+522;2;360;guang an men qiao
+522;3;360;Guang'anmen Brg
+522;2;361;tian ning si qiao
+522;3;361;Tianningsi Brg
+522;2;363;fu cheng men qiao
+522;3;363;Fuchengmen Brg
+522;2;365;xi zhi men qiao
+522;3;365;Xizhimen Brg
+522;2;374;guo mao qiao
+522;3;374;Guomao Brg
+522;2;375;hui zhong lu
+522;3;375;Huizhong Rd
+522;2;376;bei xin hua jie
+522;3;376;N Xinhua St
+522;2;381;yan jing li zhong jie
+522;3;381;Yanjingli Middle St
+522;2;382;yang fang dian lu
+522;3;382;Yangfangdian Rd
+522;2;383;xi bian men wai da jie
+522;3;383;Xibianmen Outer St
+522;2;386;zhong guan cun nan da jie
+522;3;386;Zhongguancun South St
+522;2;387;zhong guan cun bei da jie
+522;3;387;Zhongguancun North St
+522;2;388;zhong guan cun dong lu
+522;3;388;Zhongguancun East Rd
+522;2;391;lin ye da xue bei lu
+522;3;391;Linyedaxue North Rd
+522;2;394;zhi xin xi lu
+522;3;394;Zhixin West Rd
+522;2;398;long xiang lu
+522;3;398;Longxiang Rd
+522;2;399;bei si huan zhong lu fu lu
+522;3;399;N 4th Ring Middle Rd Side Rd
+522;2;400;zhi xin lu
+522;3;400;Zhixin Rd
+522;2;402;xue yuan nan lu
+522;3;402;Xueyuan South Rd
+522;2;406;jing shan xi jie
+522;3;406;Jingshan West St
+522;2;408;dong zhi men nan xiao jie
+522;3;408;Dongzhimen South St
+522;2;413;mei shu guan hou jie
+522;3;413;Meishuguan Back St
+522;2;419;an zhen qiao
+522;3;419;Anzhen Brg
+522;2;420;bei tu cheng dong lu
+522;3;420;Beitucheng East Rd
+522;2;421;an hui qiao
+522;3;421;Anhui Brg
+522;2;427;nao shi kou da jie
+522;3;427;Naoshikou St
+522;2;428;xuan wu men nei da jie
+522;3;428;Xuanwumen Inner St
+522;2;432;jin bao jie
+522;3;432;Jinbao St
+522;2;435;san li he lu
+522;3;435;Sanlihe Rd
+522;2;437;zi zhu yuan nan lu
+522;3;437;Zizhuyuan South Rd
+522;2;440;ding hui qiao
+522;3;440;Dinghui Brg
+522;2;441;ba li zhuang qiao
+522;3;441;Balizhuang Brg
+522;2;443;yang zhuang dong jie
+522;3;443;Yangzhuang East St
+522;2;445;yu quan lu
+522;3;445;Yuquan Rd
+522;2;448;he ping li zhong jie
+522;3;448;Hepingli Middle St
+522;2;456;an de lu
+522;3;456;Ande Rd
+522;2;457;huang si da jie
+522;3;457;Huangsi Ave
+522;2;458;jing bei dong lu
+522;3;458;Jingbei East Rd
+522;2;459;long he lu
+522;3;459;Longhe Rd
+522;2;462;bei san huan zhong lu fu lu
+522;3;462;N 3rd Ring Middle Rd Side Rd
+522;2;469;nan san li tun lu
+522;3;469;S Sanlitun Rd
+522;2;471;tuan jie hu lu
+522;3;471;Tuanjiehu Rd
+522;2;472;jin tai xi lu
+522;3;472;Jintai West Rd
+522;2;473;shui dui zi dong lu
+522;3;473;Shuiduizi East Rd
+522;2;488;guo zi jian jie
+522;3;488;Guozijian St
+522;2;489;qing nian gou lu
+522;3;489;Qingnian'gou Rd
+522;2;494;wang fu jing da jie
+522;3;494;Wangfujing Ave
+522;2;495;tian shui yuan dong jie
+522;3;495;Tianshuiyuan East St
+522;2;497;wen xing dong jie
+522;3;497;Wenxing East St
+522;2;499;bei xin qiao san tiao
+522;3;499;Beixinqiaosan Aly
+522;2;503;yong ding lu
+522;3;503;Yongding Rd
+522;2;504;he ping li bei jie
+522;3;504;Hepingli North St
+522;2;505;he ping li nan jie
+522;3;505;Hepingli South St
+522;2;509;tai ping lu
+522;3;509;Taiping Rd
+522;2;510;zhu ge zhuang lu
+522;3;510;Zhugezhuang Rd
+522;2;513;shuang yu shu bei lu
+522;3;513;Shuangyushu North Rd
+522;2;515;zhong guan cun nan lu
+522;3;515;Zhongguancun South Rd
+522;2;516;qing hua nan lu
+522;3;516;Qinghua South Rd
+522;2;517;he qing lu
+522;3;517;Heqing Rd
+522;2;518;da fo si dong jie
+522;3;518;Dafosi East St
+522;2;519;jian an dong lu
+522;3;519;Jian'an East Rd
+522;2;520;an yuan lu
+522;3;520;Anyuan Rd
+522;2;521;qian hai xi jie
+522;3;521;Qianhai West St
+522;2;524;xing long xi jie
+522;3;524;Xinglong West St
+522;2;525;ping fang lu
+522;3;525;Pingfang Rd
+522;2;528;dong wu huan
+522;3;528;E 5th Ring
+522;2;529;fu xing men qiao
+522;3;529;Fuxingmen Brg
+522;2;530;yuan tong qiao
+522;3;530;Yuantong Brg
+522;2;532;nan xin hua jie
+522;3;532;S Xinhua St
+522;2;539;nan hua shi da jie
+522;3;539;S Huashi Ave
+522;2;543;shuang jing qiao
+522;3;543;Shuangjing Brg
+522;2;544;xi da wang lu
+522;3;544;Xidawang Rd
+522;2;546;chong wen men nei da jie
+522;3;546;Chongwenmen Inner St
+522;2;547;dong bian men qiao
+522;3;547;Dongbianmen Brg
+522;2;549;nan heng dong jie
+522;3;549;Nanheng East St
+522;2;550;luo ma shi da jie
+522;3;550;Luomashi Ave
+522;2;553;xi chang an jie
+522;3;553;W Chang'an St
+522;2;555;ling jing hu tong
+522;3;555;Lingjing Hu Tong
+522;2;556;feng sheng hu tong
+522;3;556;Fengsheng Hu Tong
+522;2;560;xi si dong da jie
+522;3;560;Xisi East Ave
+522;2;562;tai ping qiao lu
+522;3;562;Taipingqiao Rd
+522;2;564;liu li qiao
+522;3;564;Liuli Brg
+522;2;566;ma lian dao lu
+522;3;566;Maliandao Rd
+522;2;569;lian hua qiao
+522;3;569;Lianhua Brg
+522;2;581;zao jun miao lu
+522;3;581;Zaojunmiao Rd
+522;2;582;si dao kou lu
+522;3;582;Sidaokou Rd
+522;2;583;xi zhi men bei da jie
+522;3;583;Xizhimen North St
+522;2;585;dong zhi men qiao
+522;3;585;Dongzhimen Brg
+522;2;586;xin dong lu
+522;3;586;Xindong Rd
+522;2;587;san li tun lu
+522;3;587;Sanlitun Rd
+522;2;589;dong si shi tiao qiao
+522;3;589;Dongsishitiao Brg
+522;2;592;xiu shui bei jie
+522;3;592;Xiushui North St
+522;2;597;feng bei qiao
+522;3;597;Fengbei Brg
+522;2;598;li ze qiao
+522;3;598;Lize Brg
+522;2;599;wan quan he lu
+522;3;599;Wanquanhe Rd
+522;2;600;su zhou jie
+522;3;600;Suzhou St
+522;2;601;hai dian zhong jie
+522;3;601;Haidian Middle St
+522;2;602;zhong guan cun da jie
+522;3;602;Zhongguancun St
+522;2;604;ke xue yuan nan lu
+522;3;604;Kexueyuan South Rd
+522;2;615;xue yuan lu
+522;3;615;Xueyuan Rd
+522;2;616;hua yuan lu
+522;3;616;Huayuan Rd
+522;2;621;tian tan dong lu
+522;3;621;Tiantan East Rd
+522;2;622;ti yu guan xi lu
+522;3;622;Tiyuguan West Rd
+522;2;623;xing fu da jie
+522;3;623;Xingfu Ave
+522;2;625;zuo an men nei da jie
+522;3;625;Zuoanmen Inner St
+522;2;627;tian tan lu
+522;3;627;Tiantan Rd
+522;2;634;hua yuan bei lu
+522;3;634;Huayuan North Rd
+522;2;638;xi zhi men wai da jie
+522;3;638;Xizhimen Outer St
+522;2;643;shuang qing lu
+522;3;643;Shuangqing Rd
+522;2;650;fu tong dong da jie
+522;3;650;Futong East St
+522;2;651;fu tong xi da jie
+522;3;651;Futong West St
+522;2;653;hong chang lu
+522;3;653;Hongchang Rd
+522;2;654;hong tai xi jie
+522;3;654;Hongtai West St
+522;2;655;he yin zhong lu
+522;3;655;Heyin Middle Rd
+522;2;656;li ze zhong jie
+522;3;656;Lize Middle St
+522;2;657;wang jing bei lu
+522;3;657;Wangjing North Rd
+522;2;660;lu gu da jie
+522;3;660;Lugu St
+522;2;663;dong ma lu
+522;3;663;Dongmalu
+522;2;672;guang qu men nan bin he lu
+522;3;672;Guangqumennanbinhe Rd
+522;2;676;zao lin qian jie
+522;3;676;Zaolin Front St
+522;2;678;guang an men nei da jie
+522;3;678;Guang'anmen Inner St
+522;2;679;xuan wu men xi da jie
+522;3;679;Xuanwumen West St
+522;2;683;xin jie kou nan da jie
+522;3;683;Xinjiekou South St
+522;2;684;xi cui lu
+522;3;684;Xicui Rd
+522;2;687;hai dian nan lu
+522;3;687;Haidian South Rd
+522;2;690;hai dian da jie
+522;3;690;Haidian Ave
+522;2;693;yue tan nan jie
+522;3;693;Yuetan South St
+522;2;700;xin dian lu
+522;3;700;Xindian Rd
+522;2;702;jing yuan lu
+522;3;702;Jingyuan Rd
+522;2;703;lu gu dong jie
+522;3;703;Lugu East St
+522;2;708;deng shi kou da jie
+522;3;708;Dengshikou Ave
+522;2;711;zi zhu yuan lu
+522;3;711;Zizhuyuan Rd
+522;2;715;mei shi kou lu
+522;3;715;Meishikou Rd
+522;2;719;ke xing lu
+522;3;719;Kexing Rd
+522;2;720;ke ji da dao
+522;3;720;Keji Blvd
+522;2;721;liu cun lu
+522;3;721;Liucun Rd
+522;2;729;ma jia pu lu
+522;3;729;Majiapu Rd
+522;2;730;huai fang lu
+522;3;730;Huaifang Rd
+522;2;733;xiao hong men lu
+522;3;733;Xiaohongmen Rd
+522;2;739;yao wa hu qiao
+522;3;739;Yaowahu Brg
+522;2;748;wang jing xi lu
+522;3;748;Wangjing West Rd
+522;2;754;zhi xin dong lu
+522;3;754;Zhixin East Rd
+522;2;760;zi zhu qiao
+522;3;760;Zizhu Brg
+522;2;761;wei gong cun lu
+522;3;761;Weigongcun Rd
+522;2;762;chang chun qiao lu
+522;3;762;Changchunqiao Rd
+522;2;769;fang gu lu
+522;3;769;Fanggu Rd
+522;2;771;cheng shou si lu
+522;3;771;Chengshousi Rd
+522;2;774;da yang fang lu
+522;3;774;Dayangfang Rd
+522;2;775;song yu nan lu
+522;3;775;Songyu South Rd
+522;2;793;ying hua yuan xi jie
+522;3;793;Yinghuayuan West St
+522;2;794;ying hua yuan dong jie
+522;3;794;Yinghuayuan East St
+522;2;795;qi sheng lu
+522;3;795;Qisheng Rd
+522;2;796;jing an xi jie
+522;3;796;Jing'an West St
+522;2;798;wan quan he qiao
+522;3;798;Wanquanhe Brg
+522;2;800;si hai qiao
+522;3;800;Sihai Brg
+522;2;801;ma dian qiao
+522;3;801;Madian Brg
+522;2;802;de sheng men qiao
+522;3;802;Deshengmen Brg
+522;2;806;xi hong men nan qiao
+522;3;806;Xihongmen South Brg
+522;2;807;ma jia lou qiao
+522;3;807;Majialou Brg
+522;2;811;ji men qiao
+522;3;811;Jimen Brg
+522;2;818;chang hong qiao
+522;3;818;Changhong Brg
+522;2;821;pan jia yuan qiao
+522;3;821;Panjiayuan Brg
+522;2;834;zhong guan cun yi qiao
+522;3;834;Zhongguancun 1st Brg
+522;2;835;xue yuan qiao
+522;3;835;Xueyuan Brg
+522;2;853;si ji qing qiao
+522;3;853;Sijiqing Brg
+522;2;856;lin cui qiao
+522;3;856;Lincui Brg
+522;2;857;yang shan qiao
+522;3;857;Yangshan Brg
+522;2;860;ping fang qiao
+522;3;860;Pingfang Brg
+522;2;864;yi zhuang qiao
+522;3;864;Yizhuang Brg
+522;2;865;jing xian qiao
+522;3;865;Jingxian Brg
+522;2;870;xing shi kou qiao
+522;3;870;Xingshikou Brg
+522;2;871;xiang quan qiao
+522;3;871;Xiangquan Brg
+522;2;874;bei feng wo zhong lu
+522;3;874;Beifengwo Middle Rd
+522;2;875;hui cheng men dong lu
+522;3;875;Huichengmen East Rd
+522;2;883;lian hua chi xi lu
+522;3;883;Lianhuachi West Rd
+522;2;884;tai ping dong lu
+522;3;884;Taiping East Rd
+522;2;886;wan shou lu dong jie
+522;3;886;Wanshoulu East St
+522;2;887;yu yuan tan nan lu
+522;3;887;Yuyuantan South Rd
+522;2;888;wan shou lu
+522;3;888;Wanshou Rd
+522;2;891;bai guang lu
+522;3;891;Baiguang Rd
+522;2;892;niu jie
+522;3;892;Niujie
+522;2;893;jiao zi hu tong
+522;3;893;Jiaozi Hu Tong
+522;2;897;su zhou qiao
+522;3;897;Suzhou Brg
+522;2;899;xiao jia he qiao
+522;3;899;Xiaojiahe Brg
+522;2;900;yuan ming yuan xi lu
+522;3;900;Yuanmingyuan West Rd
+522;2;903;ya men kou qiao
+522;3;903;Yamenkou Brg
+522;2;907;yue ge zhuang qiao
+522;3;907;Yuegezhuang Brg
+522;2;908;da jing qiao
+522;3;908;Dajing Brg
+522;2;909;wan ping qiao
+522;3;909;Wanping Brg
+522;2;911;fen zhong si qiao
+522;3;911;Fenzhongsi Brg
+522;2;912;shi ba li dian qiao
+522;3;912;Shibalidian Brg
+522;2;913;da yang fang qiao
+522;3;913;Dayangfang Brg
+522;2;914;ma ju qiao
+522;3;914;Maju Brg
+522;2;915;si fang qiao
+522;3;915;Sifang Brg
+522;2;916;wu fang qiao
+522;3;916;Wufang Brg
+522;2;918;shi yuan qiao
+522;3;918;Shiyuan Brg
+522;2;923;wang he qiao
+522;3;923;Wanghe Brg
+522;2;924;lai guang ying qiao
+522;3;924;Laiguangying Brg
+522;2;925;huang gang qiao
+522;3;925;Huanggang Brg
+522;2;927;suan zao ling qiao
+522;3;927;Suanzaoling Brg
+522;2;928;an hua qiao
+522;3;928;Anhua Brg
+522;2;934;jing liang qiao
+522;3;934;Jingliang Brg
+522;2;936;shuang yuan qiao
+522;3;936;Shuangyuan Brg
+522;2;937;shuang hui qiao
+522;3;937;Shuanghui Brg
+522;2;938;bin he lu
+522;3;938;Binhe Rd
+522;2;942;ding ge zhuang qiao
+522;3;942;Dinggezhuang Brg
+522;2;945;da shan qiao
+522;3;945;Dashan Brg
+522;2;946;bei gao qiao
+522;3;946;Beigao Brg
+522;2;948;wen yu qiao
+522;3;948;Wenyu Brg
+522;2;949;qing he qiao
+522;3;949;Qinghe Brg
+522;2;951;xi san qi qiao
+522;3;951;Xisanqi Brg
+522;2;952;hui long guan qiao
+522;3;952;Huilongguan Brg
+522;2;954;ding si qiao
+522;3;954;Dingsi Brg
+522;2;956;yan cun qiao
+522;3;956;Yancun Brg
+522;2;957;li yuan qiao
+522;3;957;Liyuan Brg
+522;2;960;gu lan dong qiao
+522;3;960;Gulan East Brg
+522;2;961;hu lu fa qiao
+522;3;961;Hulufa Brg
+522;2;962;zhuan lou qiao
+522;3;962;Zhuanlou Brg
+522;2;963;tian shui qiao
+522;3;963;Tianshui Brg
+522;2;965;ci ge zhuang qiao
+522;3;965;Cigezhuang Brg
+522;2;966;nan da hong men qiao
+522;3;966;Nandahongmen Brg
+522;2;970;tu qiao xin qiao
+522;3;970;Tuqiaoxin Brg
+522;2;972;san hui qiao
+522;3;972;Sanhui Brg
+522;2;973;xiao bao
+522;3;973;Xiaobao
+522;2;975;tong shun lu
+522;3;975;Tongshun Rd
+522;2;979;huo si lu
+522;3;979;Huosi Rd
+522;2;981;xiao tang shan qiao
+522;3;981;Xiaotangshan Brg
+522;2;982;shun sha qiao
+522;3;982;Shunsha Brg
+522;2;987;hei long tan lu
+522;3;987;Heilongtan Rd
+522;2;988;hou chang cun lu
+522;3;988;Houchangcun Rd
+522;2;990;liu huan
+522;3;990;6th Ring
+522;2;993;shang zhuang lu
+522;3;993;Shangzhuang Rd
+522;2;994;yong cheng bei lu
+522;3;994;Yongcheng North Rd
+522;2;995;yong xiang bei lu
+522;3;995;Yongxiang North Rd
+522;2;996;yong feng lu
+522;3;996;Yongfeng Rd
+522;2;997;yong jia bei lu
+522;3;997;Yongjia North Rd
+522;2;998;yong ze bei lu
+522;3;998;Yongze North Rd
+522;2;999;you yi lu
+522;3;999;Youyi Rd
+522;2;1002;yu zhi xi lu
+522;3;1002;Yuzhi West Rd
+522;2;1003;yu zhi lu
+522;3;1003;Yuzhi Rd
+522;2;1004;yu zhi dong lu
+522;3;1004;Yuzhi East Rd
+522;2;1007;hui long guan xi da jie
+522;3;1007;Huilongguan West St
+522;2;1009;huang ping lu
+522;3;1009;Huangping Rd
+522;2;1010;hong jun ying nan lu
+522;3;1010;Hongjunying South Rd
+522;2;1011;chun hua lu
+522;3;1011;Chunhua Rd
+522;2;1013;zhong dong lu
+522;3;1013;Zhongdong Rd
+522;2;1016;ding si lu
+522;3;1016;Dingsi Rd
+522;2;1019;nong da nan lu
+522;3;1019;Nongda South Rd
+522;2;1020;shang di xi lu
+522;3;1020;Shangdi West Rd
+522;2;1021;shang di san jie
+522;3;1021;Shangdisan St
+522;2;1022;shang di qi jie
+522;3;1022;Shangdiqi St
+522;2;1023;jian guo men wai da jie
+522;3;1023;Jianguomen Outer St
+522;2;1024;guang hua lu
+522;3;1024;Guanghua Rd
+522;2;1030;xin yuan nan lu
+522;3;1030;Xinyuan South Rd
+522;2;1031;dong zhi men wai xie jie
+522;3;1031;Dongzhimenwaixie St
+522;2;1033;dong zhi men bei da jie
+522;3;1033;Dongzhimen North St
+522;2;1036;san yuan qiao
+522;3;1036;Sanyuan Brg
+522;2;1037;si yuan qiao
+522;3;1037;Siyuan Brg
+522;2;1038;guang shun nan da jie
+522;3;1038;Guangshun South St
+522;2;1040;wu yuan qiao
+522;3;1040;Wuyuan Brg
+522;2;1044;gao bei dian bei lu
+522;3;1044;Gaobeidian North Rd
+522;2;1045;bai ge qiao
+522;3;1045;Baige Brg
+522;2;1053;bei si huan dong lu fu lu
+522;3;1053;N 4th Ring East Rd Side Rd
+522;2;1054;xin hua xi jie
+522;3;1054;Xinhua West St
+522;2;1055;geng zhuang qiao
+522;3;1055;Gengzhuang Brg
+522;2;1062;guang ning bo jie
+522;3;1062;Guangningbo St
+522;2;1069;ji chang bei xian gao su gong lu
+522;3;1069;Jichangbeixian Hwy
+522;2;1072;wen yang lu
+522;3;1072;Wenyang Rd
+522;2;1078;jian guo lu
+522;3;1078;Jianguo Rd
+522;2;1080;xiang shan nan lu
+522;3;1080;Xiangshan South Rd
+522;2;1081;ju shan lu
+522;3;1081;Jushan Rd
+522;2;1083;tian cun lu
+522;3;1083;Tiancun Rd
+522;2;1084;xing shi kou lu
+522;3;1084;Xingshikou Rd
+522;2;1085;min zhuang lu
+522;3;1085;Minzhuang Rd
+522;2;1088;shi jing shan lu
+522;3;1088;Shijingshan Rd
+522;2;1092;wu jia cun lu
+522;3;1092;Wujiacun Rd
+522;2;1095;xiang hong qi lu
+522;3;1095;Xianghongqi Rd
+522;2;1097;bei san huan xi lu fu lu
+522;3;1097;N 3rd Ring West Rd Side Rd
+522;2;1101;xin jian gong men lu
+522;3;1101;Xinjiangongmen Rd
+522;2;1102;yi he yuan lu
+522;3;1102;Yiheyuan Rd
+522;2;1109;di an men xi da jie
+522;3;1109;Di'anmen West St
+522;2;1110;xin jie kou dong jie
+522;3;1110;Xinjiekou East St
+522;2;1111;er huan
+522;3;1111;2nd Ring
+522;2;1113;da hong luo chang jie
+522;3;1113;Dahongluochang St
+522;2;1116;xue qing lu
+522;3;1116;Xueqing Rd
+522;2;1120;bei chen xi lu
+522;3;1120;Beichen West Rd
+522;2;1123;bei chen dong lu
+522;3;1123;Beichen East Rd
+522;2;1125;bei tu cheng xi lu
+522;3;1125;Beitucheng West Rd
+522;2;1126;min zu yuan lu
+522;3;1126;Minzuyuan Rd
+522;2;1129;da tun lu
+522;3;1129;Datun Rd
+522;2;1130;ke hui lu
+522;3;1130;Kehui Rd
+522;2;1131;wu huan
+522;3;1131;5th Ring
+522;2;1139;an de li bei jie
+522;3;1139;Andeli North St
+522;2;1140;he ping li dong jie
+522;3;1140;Hepingli East St
+522;2;1141;bei san huan dong lu fu lu
+522;3;1141;N 3rd Ring East Rd Side Rd
+522;2;1143;yao jia yuan lu
+522;3;1143;Yaojiayuan Rd
+522;2;1144;dong san huan zhong lu fu lu
+522;3;1144;E 3rd Ring Middle Rd Side Rd
+522;2;1145;qing nian bei lu
+522;3;1145;Qingnian North Rd
+522;2;1147;dong hua men da jie
+522;3;1147;Donghuamen St
+522;2;1148;wu si da jie
+522;3;1148;Wusi Ave
+522;2;1149;di an men dong da jie
+522;3;1149;Di'anmen East St
+522;2;1151;xia gong fu jie
+522;3;1151;Xiagongfu St
+522;2;1153;xiao wei hu tong
+522;3;1153;Xiaowei Hu Tong
+522;2;1154;jin yu hu tong
+522;3;1154;Jinyu Hu Tong
+522;2;1155;dong an men da jie
+522;3;1155;Donganmen Ave
+522;2;1156;dong dan san tiao
+522;3;1156;Dongdansan Aly
+522;2;1160;tong hui he bei lu
+522;3;1160;Tonghuihe North Rd
+522;2;1170;hua wei qiao
+522;3;1170;Huawei Brg
+522;2;1172;jin song zhong jie
+522;3;1172;Jinsong Middle St
+522;2;1173;jin song qiao
+522;3;1173;Jinsong Brg
+522;2;1177;nan mo fang lu
+522;3;1177;Nanmofang Rd
+522;2;1179;wu ji lu
+522;3;1179;Wuji Rd
+522;2;1183;tian qiao nan da jie
+522;3;1183;Tianqiao South St
+522;2;1187;qian men da jie
+522;3;1187;Qianmen Ave
+522;2;1188;qi nian da jie
+522;3;1188;Qinian Ave
+522;2;1190;tao ran qiao
+522;3;1190;Taoran Brg
+522;2;1195;jiao men lu
+522;3;1195;Jiaomen Rd
+522;2;1198;san jian fang dong lu
+522;3;1198;Sanjianfang East Rd
+522;2;1201;dong qu lu
+522;3;1201;Dongqu Rd
+522;2;1203;lian hua chi dong lu
+522;3;1203;Lianhuachi East Rd
+522;2;1204;bai yun guan jie bei li
+522;3;1204;Baiyunguanjiebeili
+522;2;1205;fu xing men wai da jie
+522;3;1205;Fuxingmen Outer St
+522;2;1206;li ze lu
+522;3;1206;Lize Rd
+522;2;1207;feng guan lu
+522;3;1207;Fengguan Rd
+522;2;1215;nong chang lu
+522;3;1215;Nongchang Rd
+522;2;1219;lu qiu bei lu
+522;3;1219;Luqiu North Rd
+522;2;1220;fan yang lu
+522;3;1220;Fanyang Rd
+522;2;1221;xin ning jie
+522;3;1221;Xinning St
+522;2;1223;jing gang ao gao su gong lu
+522;3;1223;Jinggang'ao Hwy
+522;2;1225;chang qing lu
+522;3;1225;Changqing Rd
+522;2;1226;yun gang lu
+522;3;1226;Yungang Rd
+522;2;1230;gu cheng da jie
+522;3;1230;Gucheng Ave
+522;2;1231;bei xin an lu
+522;3;1231;Beixin'an Rd
+522;2;1233;jing zhou lu
+522;3;1233;Jingzhou Rd
+522;2;1238;an zhen lu
+522;3;1238;Anzhen Rd
+522;2;1239;bei yuan lu
+522;3;1239;Beiyuan Rd
+522;2;1241;hui xin xi jie
+522;3;1241;Huixin West St
+522;2;1242;hui xin dong jie
+522;3;1242;Huixin East St
+522;2;1243;yu hui nan lu
+522;3;1243;Yuhui South Rd
+522;2;1248;xi si huan zhong lu fu lu
+522;3;1248;W 4th Ring Middle Rd Side Rd
+522;2;1253;si huan
+522;3;1253;4th Ring
+522;2;1254;nong zhan guan nan lu
+522;3;1254;Nongzhanguan South Rd
+522;2;1256;tuan jie hu bei wu tiao
+522;3;1256;Tuanjiehubeiwu Aly
+522;2;1257;chao yang gong yuan nan lu
+522;3;1257;Chaoyanggongyuan South Rd
+522;2;1259;tian shui yuan jie
+522;3;1259;Tianshuiyuan St
+522;2;1264;shuang long lu
+522;3;1264;Shuanglong Rd
+522;2;1267;ji chang di er gao su gong lu
+522;3;1267;Jichangdier Hwy
+522;2;1269;shi ge cun lu
+522;3;1269;Shigecun Rd
+522;2;1271;jin zhan lu
+522;3;1271;Jinzhan Rd
+522;2;1273;gang shan lu
+522;3;1273;Gangshan Rd
+522;2;1275;jing cheng gao su gong lu
+522;3;1275;Jingcheng Hwy
+522;2;1280;jing jin gao su gong lu
+522;3;1280;Jingjin Hwy
+522;2;1284;gao bei dian lu
+522;3;1284;Gaobeidian Rd
+522;2;1285;guang qu lu
+522;3;1285;Guangqu Rd
+522;2;1286;jing ha gao su gong lu
+522;3;1286;Jingha Hwy
+522;2;1287;fu xing lu
+522;3;1287;Fuxing Rd
+522;2;1290;dong wu yuan lu
+522;3;1290;Dongwuyuan Rd
+522;2;1294;da liu shu lu
+522;3;1294;Daliushu Rd
+522;2;1295;da hui si lu
+522;3;1295;Dahuisi Rd
+522;2;1297;jing shan dong jie
+522;3;1297;Jingshan East St
+522;2;1298;jing shan qian jie
+522;3;1298;Jingshan Front St
+522;2;1299;ji an suo you xiang
+522;3;1299;Ji'ansuo Right Ln
+522;2;1304;gong jian hu tong
+522;3;1304;Gongjian Hu Tong
+522;2;1308;sha wo qiao
+522;3;1308;Shawo Brg
+522;2;1309;lian shi dong lu
+522;3;1309;Lianshi East Rd
+522;2;1311;bei jing
+522;3;1311;BEIJING
+522;2;1313;shou du ji chang gao su gong lu
+522;3;1313;Capital Airport Hwy
+522;2;1314;dong wei lu
+522;3;1314;Dongwei Rd
+522;2;1315;shou du ji chang lu
+522;3;1315;Shoudujichang Rd
+522;2;1316;ji chang huo yun lu
+522;3;1316;Jichanghuoyun Rd
+522;2;1318;de sheng men wai da jie
+522;3;1318;Deshengmen Outer St
+522;2;1319;bei sha tan qiao
+522;3;1319;Beishatan Brg
+522;2;1320;xiao ying qiao
+522;3;1320;Xiaoying Brg
+522;2;1324;jin xing qiao
+522;3;1324;Jinxing Brg
+522;2;1325;dao xiang yuan qiao
+522;3;1325;Daoxiangyuan Brg
+522;2;1328;gong chen bei da jie
+522;3;1328;Gongchen North St
+522;2;1329;bai sha lu
+522;3;1329;Baisha Rd
+522;2;1330;zhou kou dian lu
+522;3;1330;Zhoukoudian Rd
+522;2;1331;lu gou qiao nan lu
+522;3;1331;Lugouqiao South Rd
+522;2;1332;ma ju qiao fu wu qu
+522;3;1332;Majuqiao Service Area
+522;2;1333;lv ying da jie
+522;3;1333;Lvying Ave
+522;2;1335;jing tong kuai su gong lu
+522;3;1335;Jingtong Fwy
+522;2;1338;wen hua dong lu
+522;3;1338;Wenhua East Rd
+522;2;1340;tai ping zhuang bei jie
+522;3;1340;Taipingzhuang North St
+522;2;1341;jiu xian qiao bei lu
+522;3;1341;Jiuxianqiao North Rd
+522;2;1346;tai yang gong lu
+522;3;1346;Taiyanggong Rd
+522;2;1348;dong san huan nan lu fu lu
+522;3;1348;E 3rd Ring South Rd Side Rd
+522;2;1349;dong si huan bei lu fu lu
+522;3;1349;E 4th Ring North Rd Side Rd
+522;2;1350;cui wei lu
+522;3;1350;Cuiwei Rd
+522;2;1351;bei jing zhan dong jie
+522;3;1351;Beijing Station East St
+522;2;1353;tian bei lu
+522;3;1353;Tianbei Rd
+522;2;1354;X025
+522;3;1354;X025
+522;2;1356;huo yun bei lu
+522;3;1356;Huoyun North Rd
+522;2;1361;bei yuan nan lu
+522;3;1361;Beiyuan South Rd
+522;2;1362;cui ping xi lu
+522;3;1362;Cuiping West Rd
+522;2;1363;tong chao da jie
+522;3;1363;Tongchao Ave
+522;2;1364;jiu ke shu xi lu
+522;3;1364;Jiukeshu West Rd
+522;2;1366;jiu ke shu dong lu
+522;3;1366;Jiukeshu East Rd
+522;2;1367;yi rui zhong er lu
+522;3;1367;Yiruizhonger Rd
+522;2;1369;jing fu lu
+522;3;1369;Jingfu Rd
+522;2;1373;jiu zhong lu
+522;3;1373;Jiuzhong Rd
+522;2;1374;nan xiao jie nan lu
+522;3;1374;Nanxiaojie South Rd
+522;2;1375;wan yuan bei lu
+522;3;1375;Wanyuan North Rd
+522;2;1376;ling long lu
+522;3;1376;Linglong Rd
+522;2;1377;en ji xi jie
+522;3;1377;Enji West St
+522;2;1378;xi si huan bei lu fu lu
+522;3;1378;W 4th Ring North Rd Side Rd
+522;2;1379;xi san huan bei lu fu lu
+522;3;1379;W 3rd Ring Beilu Side Rd
+522;2;1380;yuan da lu
+522;3;1380;Yuanda Rd
+522;2;1383;da cheng lu
+522;3;1383;Dacheng Rd
+522;2;1384;qing ta xi lu
+522;3;1384;Qingta West Rd
+522;2;1385;dian chang lu
+522;3;1385;Dianchang Rd
+522;2;1386;lian bao lu
+522;3;1386;Lianbao Rd
+522;2;1387;xi san huan zhong lu fu lu
+522;3;1387;W 3rd Ring Middle Rd Side Rd
+522;2;1388;xiao ying xi lu
+522;3;1388;Xiaoying West Rd
+522;2;1389;shang di dong lu
+522;3;1389;Shangdi East Rd
+522;2;1390;an ning zhuang xi lu
+522;3;1390;Anningzhuang West Rd
+522;2;1391;an ning zhuang dong lu
+522;3;1391;Anningzhuang East Rd
+522;2;1392;ma lian wa bei lu
+522;3;1392;Malianwa North Rd
+522;2;1393;dong bei wang zhong lu
+522;3;1393;Dongbeiwang Middle Rd
+522;2;1395;su zhuang dong jie
+522;3;1395;Suzhuang East St
+522;2;1397;liang tuo lu
+522;3;1397;Liangtuo Rd
+522;2;1400;yu quan shan lu
+522;3;1400;Yuquanshan Rd
+522;2;1401;shi ban fang nan lu
+522;3;1401;Shibanfang South Rd
+522;2;1403;an xiang bei lu
+522;3;1403;Anxiang North Rd
+522;2;1404;guang an men nan jie
+522;3;1404;Guang'anmen South St
+522;2;1405;nan heng xi jie
+522;3;1405;Nanheng West St
+522;2;1406;hu fang lu
+522;3;1406;Hufang Rd
+522;2;1407;bei wei lu
+522;3;1407;Beiwei Rd
+522;2;1408;tai ping jie
+522;3;1408;Taiping St
+522;2;1410;fu cheng men nan da jie
+522;3;1410;Fuchengmen South St
+522;2;1411;fu xing men bei da jie
+522;3;1411;Fuxingmen North St
+522;2;1412;pi cai hu tong
+522;3;1412;Picai Hu Tong
+522;2;1414;xin kang lu
+522;3;1414;Xinkang Rd
+522;2;1416;tai yang gong zhong lu
+522;3;1416;Taiyanggong Middle Rd
+522;2;1418;hua jia di jie
+522;3;1418;Huajiadi St
+522;2;1419;wang jing jie
+522;3;1419;Wangjing St
+522;2;1420;fu an xi lu
+522;3;1420;Fuan West Rd
+522;2;1421;fu wu qu
+522;3;1421;Service Area
+522;2;1422;jing kai lu
+522;3;1422;Jingkai Rd
+522;2;1423;gu lou xi da jie
+522;3;1423;Gulou West St
+522;2;1424;jiu gu lou da jie
+522;3;1424;Jiugulou St
+522;2;1425;di an men wai da jie
+522;3;1425;Di'anmen Outer St
+522;2;1426;gu lou dong da jie
+522;3;1426;Gulou East St
+522;2;1427;dong zhi men nei da jie
+522;3;1427;Dongzhimen Inner St
+522;2;1428;chong wen men xi da jie
+522;3;1428;Chongwenmen West St
+522;2;1430;li ze xi jie
+522;3;1430;Lize West St
+522;2;1431;wai guan xie jie
+522;3;1431;Waiguanxie St
+522;2;1432;an hua lu
+522;3;1432;Anhua Rd
+522;2;1433;xi ba he nan lu
+522;3;1433;Xibahe South Rd
+522;2;1434;liu fang bei jie
+522;3;1434;Liufang North St
+522;2;1435;zuo jia zhuang dong jie
+522;3;1435;Zuojiazhuang East St
+522;2;1436;ren da hui tang xi lu
+522;3;1436;Rendahuitang West Rd
+522;2;1438;wen hua xi lu
+522;3;1438;Wenhua West Rd
+522;2;1440;wu ding hou jie
+522;3;1440;Wudinghou St
+522;2;1441;dong zong bu hu tong
+522;3;1441;Dongzongbu Hu Tong
+522;2;1442;dong si huan zhong lu fu lu
+522;3;1442;E 4th Ring Middle Rd Side Rd
+522;2;1443;bei jing zhan xi jie
+522;3;1443;Beijing Station West St
+522;2;1444;dong hua shi da jie
+522;3;1444;E Huashi St
+522;2;1445;bei hua shi da jie
+522;3;1445;N Huashi Ave
+522;2;1446;fang zhuang lu
+522;3;1446;Fangzhuang Rd
+522;2;1447;nan san huan dong lu fu lu
+522;3;1447;S 3rd Ring East Rd Side Rd
+522;2;1448;zi fang lu
+522;3;1448;Zifang Rd
+522;2;1449;ding fu zhuang lu
+522;3;1449;Dingfuzhuang Rd
+522;2;1450;dong gao lu
+522;3;1450;Donggao Rd
+522;2;1451;wu zi xue yuan lu
+522;3;1451;Wuzixueyuan Rd
+522;2;1453;bin he bei lu
+522;3;1453;Binhe North Rd
+522;2;1456;bin he zhong lu
+522;3;1456;Binhe Middle Rd
+522;2;1457;yun he dong da jie
+522;3;1457;Yunhe East Ave
+522;2;1458;an ding men xi da jie
+522;3;1458;Andingmen West St
+522;2;1460;nan si huan dong lu fu lu
+522;3;1460;S 4th Ring East Rd Side Rd
+522;2;1462;nan san huan zhong lu fu lu
+522;3;1462;S 3rd Ring Middle Rd Side Rd
+522;2;1464;bei si huan xi lu fu lu
+522;3;1464;N 4th Ring Xilu Side Rd
+522;2;1466;nan wei lu
+522;3;1466;Nanwei Rd
+522;2;1470;feng ti nan lu
+522;3;1470;Fengti South Rd
+522;2;1471;cheng zhuang lu
+522;3;1471;Chengzhuang Rd
+522;2;1473;wei yong lu
+522;3;1473;Weiyong Rd
+522;2;1474;hai bei lu
+522;3;1474;Haibei Rd
+522;2;1475;hong fu dong lu
+522;3;1475;Hongfu East Rd
+522;2;1477;nan yuan xi lu
+522;3;1477;Nanyuan West Rd
+522;2;1479;ge xin nan lu
+522;3;1479;Gexin South Rd
+522;2;1480;an le lin lu
+522;3;1480;Anlelin Rd
+522;2;1481;jing tai lu
+522;3;1481;Jingtai Rd
+522;2;1482;jia he lu
+522;3;1482;Jiahe Rd
+522;2;1483;jia yuan lu
+522;3;1483;Jiayuan Rd
+522;2;1484;nan san huan xi lu fu lu
+522;3;1484;S 3rd Ring Xilu Side Rd
+522;2;1485;you an men wai da jie
+522;3;1485;Youanmen Outer St
+522;2;1488;cai lin lu
+522;3;1488;Cailin Rd
+522;2;1491;zhang cai lu
+522;3;1491;Zhangcai Rd
+522;2;1494;shun ping lu
+522;3;1494;Shunping Rd
+522;2;1495;li tang lu
+522;3;1495;Litang Rd
+522;2;1496;shun sha lu
+522;3;1496;Shunsha Rd
+522;2;1497;de sheng men qiao (de sheng men wai da jie)
+522;3;1497;Deshengmen Brg (Deshengmen Outer St)
+522;2;1498;bai ge fu wu qu
+522;3;1498;Baige Service Area
+522;2;1499;bai fu quan lu
+522;3;1499;Baifuquan Rd
+522;2;1500;chang ping nan huan shou fei zhan
+522;3;1500;Changping Nanhuan Tollgate
+522;2;1501;ke ji yuan shou fei zhan
+522;3;1501;Sci&Tech Garden Tollgate
+522;2;1502;jing xin gao su gong lu
+522;3;1502;Jingxin Hwy
+522;2;1503;chen zhuang shou fei zhan
+522;3;1503;Chenzhuang Tollgate
+522;2;1504;nan kou shou fei zhan
+522;3;1504;South Exit Tollgate
+522;2;1505;ju yong shan zhuang
+522;3;1505;Juyong Mountain Villa
+522;2;1506;ju yong guan chang cheng
+522;3;1506;Juyong Pass of Great Wall
+522;2;1507;ba da ling shui guan chang cheng
+522;3;1507;Badaling Water Gate Great Wall
+522;2;1508;zhan tian you ji nian guan
+522;3;1508;Zhantianyoujinianguan
+522;2;1509;ba da ling chang cheng shou fei zhan
+522;3;1509;Badaling Changcheng Tollgate
+522;2;1513;bei an he lu
+522;3;1513;Beianhe Rd
+522;2;1515;hong fang lu
+522;3;1515;Hongfang Rd
+522;2;1516;chao yang men qiao
+522;3;1516;Chaoyangmen Brg
+522;2;1518;xi hua shi da jie
+522;3;1518;W Huashi St
+522;2;1521;jiu xian qiao lu
+522;3;1521;Jiuxianqiao Rd
+522;2;1522;bei wa lu
+522;3;1522;Beiwa Rd
+522;2;1523;nan li shi lu
+522;3;1523;Nanlishi Rd
+522;2;1526;jian guo men bei da jie
+522;3;1526;Jianguomen North St
+522;2;1529;lai guang ying xi lu
+522;3;1529;Laiguangying West Rd
+522;2;1530;lai guang ying bei lu
+522;3;1530;Laiguangying North Rd
+522;2;1536;chao yang gong yuan lu
+522;3;1536;Chaoyanggongyuan Rd
+522;2;1538;bai ma lu
+522;3;1538;Baimalu
+522;2;1540;bei tai lu
+522;3;1540;Beitai Rd
+522;2;1541;jing mi lu
+522;3;1541;Jingmi Rd
+522;2;1543;shun mi lu
+522;3;1543;Shunmi Rd
+522;2;1550;bai miao shou fei zhan
+522;3;1550;Baimiao Tollgate
+522;2;1551;G102
+522;3;1551;G102
+522;2;1552;G106
+522;3;1552;G106
+522;2;1553;da li lu shou fei zhan
+522;3;1553;Dali Rd Tollgate
+522;2;1554;li hua qiao shou fei zhan
+522;3;1554;Lihuaqiao Tollgate
+522;2;1555;xue ying shou fei zhan
+522;3;1555;Xueying Tollgate
+522;2;1556;pang ge zhuang shou fei zhan
+522;3;1556;Panggezhuang Tollgate
+522;2;1557;san rong shou fei zhan
+522;3;1557;Sanrong Tollgate
+522;2;1558;tian gong yuan shou fei zhan
+522;3;1558;Tiangongyuan Tollgate
+522;2;1559;jin hua si shou fei zhan
+522;3;1559;Jinhuasi Tollgate
+522;2;1561;cai hu ying qiao (cai hu ying nan lu)
+522;3;1561;Caihuying Brg (Caihuying South Rd)
+522;2;1563;qing yuan lu
+522;3;1563;Qingyuan Rd
+522;2;1564;weng ma lu
+522;3;1564;Wengma Rd
+522;2;1566;xiao jia lu
+522;3;1566;Xiaojia Rd
+522;2;1567;pang an lu
+522;3;1567;Pang'an Rd
+522;2;1570;lang fu ting che chang ting che qu
+522;3;1570;Langfu Parking Lot Parking Area
+522;2;1575;liu tao lu
+522;3;1575;Liutao Rd
+522;2;1576;dou dian fu wu qu
+522;3;1576;Doudian Service Area
+522;2;1578;jing shen lu
+522;3;1578;Jingshen Rd
+522;2;1579;da yu lu
+522;3;1579;Dayu Rd
+522;2;1581;Y105
+522;3;1581;Y105
+522;2;1582;yue hua da jie
+522;3;1582;Yuehua Ave
+522;2;1584;jing gang ao gao su gong lu (jing zhou lu)
+522;3;1584;Jinggangao Hwy (Jingzhou Rd)
+522;2;1587;jun wen lu
+522;3;1587;Junwen Rd
+522;2;1588;pu da lu
+522;3;1588;Puda Rd
+522;2;1589;san tai lu
+522;3;1589;Santai Rd
+522;2;1591;san dong lu chu kou
+522;3;1591;Sandongluchukou
+522;2;1592;bo xing san lu chu kou
+522;3;1592;Boxingsanluchukou
+522;2;1593;nan si huan zhong lu fu lu
+522;3;1593;S 4th Ring Zhonglu Side Rd
+522;2;1598;fang zhuang dong lu
+522;3;1598;Fangzhuang East Rd
+522;2;1599;wen hua yuan xi lu
+522;3;1599;Wenhuayuan West Rd
+522;2;1600;yin he da jie
+522;3;1600;Yinhe Ave
+522;2;1601;guang ming nan jie
+522;3;1601;Guangming South St
+522;2;1602;you di lu
+522;3;1602;Youdi Rd
+522;2;1603;Y561
+522;3;1603;Y561
+522;2;1609;hu guang zhong jie
+522;3;1609;Huguang Middle St
+522;2;1610;hu guang bei jie
+522;3;1610;Huguang North St
+522;2;1613;zhi yuan xi qiao
+522;3;1613;Zhiyuan West Brg
+522;2;1615;mi lu yuan jia you zhan
+522;3;1615;Miluyuanjiayouzhan
+522;2;1616;jin xing jia you zhan
+522;3;1616;Jinxingjiayouzhan
+522;2;1617;guan yin tang dong jia you zhan
+522;3;1617;Guanyintangdongjiayouzhan
+522;2;1619;wang jing fu wu qu
+522;3;1619;Wangjing Service Area
+522;2;1621;hong yan dong lu
+522;3;1621;Hongyan East Rd
+522;2;1622;zi zhu qiao (zi zhu yuan lu)
+522;3;1622;Zizhu Brg (Zizhuyuan Rd)
+522;2;1623;shang di ba jie
+522;3;1623;Shangdiba St
+522;2;1624;xi zhi men (xi zhi men bei da jie)
+522;3;1624;Xizhimen (Xizhimen N St)
+522;2;1625;ming guang qiao (xi tu cheng lu)
+522;3;1625;Mingguang Brg (Xitucheng Rd)
+522;2;1626;ji men qiao (xi tu cheng lu)
+522;3;1626;Jimen Brg (Xitucheng Rd)
+522;2;1627;feng run dong lu
+522;3;1627;Fengrun East Rd
+522;2;1634;feng tai bei lu fu lu
+522;3;1634;Fengtai North Rd Side Rd
+522;2;1637;li ze lu (feng tai bei lu)
+522;3;1637;Lize Rd (Fengtai North Rd)
+522;2;1638;xing hua da jie
+522;3;1638;Xinghua Ave
+522;2;1639;lin xiao bei lu
+522;3;1639;Linxiao North Rd
+522;2;1643;feng bao lu
+522;3;1643;Fengbao Rd
+522;2;1645;nan si huan xi lu fu lu
+522;3;1645;S 4th Ring West Rd Side Rd
+522;2;1646;huai fang xi lu
+522;3;1646;Huaifang West Rd
+522;2;1647;xi hong men lu
+522;3;1647;Xihongmen Rd
+522;2;1648;tuan he lu
+522;3;1648;Tuanhe Rd
+522;2;1649;wu ai tun xi jie
+522;3;1649;Wuaitun West St
+522;2;1652;yong ding men wai da jie fu lu
+522;3;1652;Yongdingmen Outer St Side Rd
+522;2;1653;nan yuan lu fu lu
+522;3;1653;Nanyuan Rd Side Rd
+522;2;1654;nan zhong zhou lu
+522;3;1654;S Zhongzhou Rd
+522;2;1655;huang ma lu
+522;3;1655;Huangma Rd
+522;2;1656;xi san lu
+522;3;1656;Xisan Rd
+522;2;1660;bo xing lu
+522;3;1660;Boxing Rd
+522;2;1662;xi huan nan lu
+522;3;1662;W Ring South Rd
+522;2;1663;rong chang xi jie
+522;3;1663;Rongchang West St
+522;2;1664;rong chang dong jie
+522;3;1664;Rongchang East St
+522;2;1665;dong huan nan lu
+522;3;1665;E Ring South Rd
+522;2;1666;rong hua nan lu
+522;3;1666;Ronghua South Rd
+522;2;1667;rong jing dong jie
+522;3;1667;Rongjing East St
+522;2;1668;rong hua zhong lu
+522;3;1668;Ronghua Middle Rd
+522;2;1669;bei huan dong lu
+522;3;1669;N Ring East Rd
+522;2;1670;rong hua bei lu
+522;3;1670;Ronghua North Rd
+522;2;1671;wen hua yuan dong lu
+522;3;1671;Wenhuayuan East Rd
+522;2;1675;tong ma lu
+522;3;1675;Tongma Rd
+522;2;1678;shuang qiao xi lu
+522;3;1678;Shuangqiao West Rd
+522;2;1679;yun he xi da jie
+522;3;1679;Yunhe West St
+522;2;1680;xin hua nan lu
+522;3;1680;Xinhua South Rd
+522;2;1681;xin hua dong jie
+522;3;1681;Xinhua East St
+522;2;1682;xin hua bei lu
+522;3;1682;Xinhua North Rd
+522;2;1683;jing yu jiu xian
+522;3;1683;Jingyujiu Line
+522;2;1684;xu yin lu
+522;3;1684;Xuyin Rd
+522;2;1686;long tang lu
+522;3;1686;Longtang Rd
+522;2;1687;shun tong lu
+522;3;1687;Shuntong Rd
+522;2;1688;fu qian dong jie
+522;3;1688;Fuqian East St
+522;2;1689;guang ming bei jie
+522;3;1689;Guangming North St
+522;2;1690;zhong shan dong jie
+522;3;1690;Zhongshan East St
+522;2;1692;dong huan zhong lu
+522;3;1692;E Ring Middle Rd
+522;2;1693;dong huan bei lu
+522;3;1693;E Ring North Rd
+522;2;1694;xi huan zhong lu
+522;3;1694;W Ring Middle Rd
+522;2;1695;rong jing xi jie
+522;3;1695;Rongjing West St
+522;2;1696;xi huan bei lu
+522;3;1696;W Ring North Rd
+522;2;1697;bei huan xi lu
+522;3;1697;N Ring West Rd
+522;2;1699;ke chuang wu jie
+522;3;1699;Kechuangwu St
+522;2;1700;lu qiu lu
+522;3;1700;Luqiu Rd
+522;2;1701;huang liang lu
+522;3;1701;Huangliang Rd
+522;2;1702;tian he xi lu
+522;3;1702;Tianhe West Rd
+522;2;1703;tian gui jie
+522;3;1703;Tiangui St
+522;2;1704;tian shui jie
+522;3;1704;Tianshui St
+522;2;1705;han yuan zi
+522;3;1705;Hanyuanzi
+522;2;1708;feng tai nan lu
+522;3;1708;Fengtai South Rd
+522;2;1709;you an lu
+522;3;1709;Youan Rd
+522;2;1710;wu ai tun dong jie
+522;3;1710;Wuaitun East St
+522;2;1711;jing bei xi lu
+522;3;1711;Jingbei West Rd
+522;2;1712;xin hua lu
+522;3;1712;Xinhua Rd
+522;2;1713;nan da hong men lu
+522;3;1713;S Dahongmen Rd
+522;2;1715;nan chang lu
+522;3;1715;Nanchang Rd
+522;2;1716;jiu gong xi lu
+522;3;1716;Jiugong West Rd
+522;2;1721;jing gang ao gao su gong lu zhi da yu lu
+522;3;1721;Jinggangao Hwy to Dayu Rd
+522;2;1723;da dou lu
+522;3;1723;Dadou Rd
+522;2;1725;yan lv lu
+522;3;1725;Yanlv Rd
+522;2;1726;zi yuan li jiao qiao
+522;3;1726;Ziyuan Jct
+522;2;1727;da jian lu
+522;3;1727;Dajian Rd
+522;2;1728;liang chang lu
+522;3;1728;Liangchang Rd
+522;2;1729;gong chen nan da jie
+522;3;1729;Gongchen South St
+522;2;1730;liang xiang zhong lu
+522;3;1730;Liangxiang Middle Rd
+522;2;1731;gong chen da jie
+522;3;1731;Gongchen Ave
+522;2;1732;liang san lu
+522;3;1732;Liangsan Rd
+522;2;1736;gu ba lu
+522;3;1736;Guba Rd
+522;2;1741;xin bei lu
+522;3;1741;Xinbei Rd
+522;2;1743;chang yu lu
+522;3;1743;Changyu Rd
+522;2;1745;zuo di lu
+522;3;1745;Zuodi Rd
+522;2;1746;wu zhuang zi
+522;3;1746;Wuzhuangzi
+522;2;1748;cao qiao dong lu
+522;3;1748;Caoqiao East Rd
+522;2;1749;zhen guo si bei jie
+522;3;1749;Zhenguosi North St
+522;2;1750;feng tai xi lu
+522;3;1750;Fengtai West Rd
+522;2;1751;zheng yang da jie
+522;3;1751;Zhengyang Ave
+522;2;1752;dong da jie
+522;3;1752;Dongda St
+522;2;1754;zhang yi cun lu
+522;3;1754;Zhangyicun Rd
+522;2;1755;shang zhuang da jie
+522;3;1755;Shangzhuang Ave
+522;2;1756;tian cun shan nan lu
+522;3;1756;Tiancunshan South Rd
+522;2;1757;lu gou qiao bei lu
+522;3;1757;Lugouqiao North Rd
+522;2;1761;shi long nan lu
+522;3;1761;Shilong South Rd
+522;2;1762;shi long bei lu
+522;3;1762;Shilong North Rd
+522;2;1763;shi long xi lu
+522;3;1763;Shilong West Rd
+522;2;1764;feng shi lu
+522;3;1764;Fengshi Rd
+522;2;1765;xin qiao nan da jie
+522;3;1765;Xinqiao South St
+522;2;1766;shuang yu lu
+522;3;1766;Shuangyu Rd
+522;2;1767;cheng zi da jie
+522;3;1767;Chengzi Ave
+522;2;1768;shui zha bei lu
+522;3;1768;Shuizha North Rd
+522;2;1769;G109
+522;3;1769;G109
+522;2;1770;san jia dian dong jie
+522;3;1770;Sanjiadian East St
+522;2;1771;shi men lu
+522;3;1771;Shimen Rd
+522;2;1772;hei shi tou lu
+522;3;1772;Heishitou Rd
+522;2;1773;jin ding bei lu
+522;3;1773;Jinding North Rd
+522;2;1775;jin ding xi jie
+522;3;1775;Jinding West St
+522;2;1779;X019
+522;3;1779;X019
+522;2;1780;lian shi xi lu
+522;3;1780;Lianshi West Rd
+522;2;1781;lu jing lu
+522;3;1781;Lujing Rd
+522;2;1783;shi jing shan qu tai jing xue xiao
+522;3;1783;Shijingshan District Taijing School
+522;2;1784;gao jing lu
+522;3;1784;Gaojing Rd
+522;2;1785;guang ning lu
+522;3;1785;Guangning Rd
+522;2;1787;jin ding jie
+522;3;1787;Jinding St
+522;2;1788;shang wei dian lu
+522;3;1788;Shangweidian Rd
+522;2;1789;jin ding bei jie
+522;3;1789;Jinding North St
+522;2;1790;yong yin qu nan lu
+522;3;1790;Yongyinqu South Rd
+522;2;1797;wu jing qiao dong jie
+522;3;1797;Wujingqiao East St
+522;2;1799;bei tai ping lu
+522;3;1799;Beitaiping Rd
+522;2;1800;lu gou qiao lu
+522;3;1800;Lugouqiao Rd
+522;2;1803;bei jing she ji guan
+522;3;1803;Beijing Shooting Range Hall
+522;2;1806;xiang bai qi
+522;3;1806;Xiangbaiqi
+522;2;1808;qing long qiao dong jie
+522;3;1808;Qinglongqiao East St
+522;2;1809;wen quan lu
+522;3;1809;Wenquan Rd
+522;2;1810;dao xiang hu lu
+522;3;1810;Daoxianghu Rd
+522;2;1812;nie ge zhuang lu
+522;3;1812;Niegezhuang Rd
+522;2;1813;nie ge zhuang dong lu
+522;3;1813;Niegezhuang East Rd
+522;2;1818;sha yang lu
+522;3;1818;Shayang Rd
+522;2;1819;shuang heng lu
+522;3;1819;Shuangheng Rd
+522;2;1820;wen nan lu
+522;3;1820;Wennan Rd
+522;2;1821;shui nan lu
+522;3;1821;Shuinan Rd
+522;2;1824;zhong shan xi jie
+522;3;1824;Zhongshan West St
+522;2;1825;zhan qian bei jie
+522;3;1825;Zhanqian North St
+522;2;1826;zhong shan nan da jie
+522;3;1826;Zhongshan South St
+522;2;1827;xi wai jie
+522;3;1827;Xiwai St
+522;2;1828;chang sheng lu
+522;3;1828;Changsheng Rd
+522;2;1829;nan huan dong lu
+522;3;1829;S Ring East Rd
+522;2;1830;nan huan xi lu
+522;3;1830;S Ring West Rd
+522;2;1831;xi huan lu
+522;3;1831;W Ring Rd
+522;2;1832;nan huan lu
+522;3;1832;S Ring Rd
+522;2;1833;dong huan lu
+522;3;1833;E Ring Rd
+522;2;1834;chuang xin lu
+522;3;1834;Chuangxin Rd
+522;2;1835;long shui lu
+522;3;1835;Longshui Rd
+522;2;1836;chang cui lu
+522;3;1836;Changcui Rd
+522;2;1838;shui ku lu
+522;3;1838;Shuiku Rd
+522;2;1840;nan jian lu
+522;3;1840;Nanjian Rd
+522;2;1841;jing yin lu
+522;3;1841;Jingyin Rd
+522;2;1842;xin kang lu (de sheng men wai da jie)
+522;3;1842;Xinkang Rd (Deshengmen Outer St)
+522;2;1843;de sheng men dong da jie
+522;3;1843;Deshengmen East St
+522;2;1844;yong tai zhuang bei lu
+522;3;1844;Yongtaizhuang North Rd
+522;2;1845;jian cai cheng xi lu
+522;3;1845;Jiancaicheng West Rd
+522;2;1846;xi er qi bei lu
+522;3;1846;Xierqi North Rd
+522;2;1847;tong cheng jie
+522;3;1847;Tongcheng St
+522;2;1848;nan yang lu
+522;3;1848;Nanyang Rd
+522;2;1849;zheng fu jie xi lu
+522;3;1849;Zhengfujie West Rd
+522;2;1850;X014
+522;3;1850;X014
+522;2;1851;hei long miao qiao
+522;3;1851;Heilongmiao Brg
+522;2;1852;xia ying shou fei zhan
+522;3;1852;Xiaying Tollgate
+522;2;1854;xi san huan nan lu fu lu
+522;3;1854;W 3rd Ring South Rd Side Rd
+522;2;1855;dong guan tou jie
+522;3;1855;Dongguantou St
+522;2;1857;bei jing xi zhan nan lu
+522;3;1857;Beijing Xizhan South Rd
+522;2;1858;ma lian dao nan jie
+522;3;1858;Maliandao South St
+522;2;1859;guang lian lu
+522;3;1859;Guanglian Rd
+522;2;1860;nan feng wo lu
+522;3;1860;Nanfengwo Rd
+522;2;1861;hong lian nan lu
+522;3;1861;Honglian South Rd
+522;2;1865;li ze lu zhi guang an men wai da jie
+522;3;1865;Lize Rd to Guanganmen Outer St
+522;2;1866;guang an men che zhan xi jie
+522;3;1866;Guang'anmenchezhan West St
+522;2;1868;jia lian yuan
+522;3;1868;Jialianyuan
+522;2;1869;ban jing lu
+522;3;1869;Banjing Rd
+522;2;1870;yuan da zhong lu
+522;3;1870;Yuanda Middle Rd
+522;2;1872;lan dian chang zhong lu
+522;3;1872;Landianchang Middle Rd
+522;2;1873;lan dian chang lu
+522;3;1873;Landianchang Rd
+522;2;1874;lao ying fang lu
+522;3;1874;Laoyingfang Rd
+522;2;1875;wan liu zhong lu
+522;3;1875;Wanliu Middle Rd
+522;2;1876;ba gou lu
+522;3;1876;Bagou Rd
+522;2;1883;wan shou si lu
+522;3;1883;Wanshousi Rd
+522;2;1884;dan ling jie
+522;3;1884;Danling St
+522;2;1885;shan yuan jie
+522;3;1885;Shanyuan St
+522;2;1886;hai dian dong yi jie
+522;3;1886;Haidiandongyi St
+522;2;1887;kun ming hu dong lu
+522;3;1887;Kunminghu East Rd
+522;2;1888;er long zha lu
+522;3;1888;Erlongzha Rd
+522;2;1889;hong ju jie
+522;3;1889;Hongju St
+522;2;1891;shou pa kou nan jie
+522;3;1891;Shoupakou South St
+522;2;1892;hong ju nan jie
+522;3;1892;Hongju South St
+522;2;1894;fu xing men nan da jie
+522;3;1894;Fuxingmen South St
+522;2;1895;nan cai yuan jie
+522;3;1895;Nancaiyuan St
+522;2;1896;bai zhi fang xi jie
+522;3;1896;Baizhifang West St
+522;2;1897;cai yuan jie
+522;3;1897;Caiyuan St
+522;2;1898;nan xian ge jie
+522;3;1898;S Xian'ge St
+522;2;1899;bei xian ge jie
+522;3;1899;N Xian'ge St
+522;2;1900;he tao yuan dong jie
+522;3;1900;Hetaoyuan East St
+522;2;1901;xi bian men nei da jie
+522;3;1901;Xibianmen Inner St
+522;2;1902;yue tan bei jie
+522;3;1902;Yuetan North St
+522;2;1903;bei li shi lu
+522;3;1903;Beilishi Rd
+522;2;1904;bai wan zhuang da jie
+522;3;1904;Baiwanzhuang St
+522;2;1907;xi zhi men wai nan lu
+522;3;1907;Xizhimenwai South Rd
+522;2;1909;jin rong da jie
+522;3;1909;Jinrong Ave
+522;2;1910;shou du ti yu guan nan lu
+522;3;1910;Shoudutiyuguan South Rd
+522;2;1911;zeng guang lu
+522;3;1911;Zengguang Rd
+522;2;1912;fu cheng men bei da jie
+522;3;1912;Fuchengmen North St
+522;2;1913;xin yuan jie
+522;3;1913;Xinyuan St
+522;2;1914;xi zhi men nan da jie
+522;3;1914;Xizhimen South St
+522;2;1915;an ning zhuang lu
+522;3;1915;Anningzhuang Rd
+522;2;1917;xi er qi zhong lu
+522;3;1917;Xierqi Middle Rd
+522;2;1919;qing hua xi lu
+522;3;1919;Qinghua West Rd
+522;2;1920;tong qing jie
+522;3;1920;Tongqing St
+522;2;1922;da you zhuang da jie
+522;3;1922;Dayouzhuang Ave
+522;2;1929;hei long tan lu zhi yong feng lu
+522;3;1929;Heilongtan Rd to Yongfeng Rd
+522;2;1934;you an men xi jie
+522;3;1934;Youanmen West St
+522;2;1935;bai zhi fang dong jie
+522;3;1935;Baizhifang East St
+522;2;1936;tao ran ting lu
+522;3;1936;Taoranting Rd
+522;2;1940;wan bo yuan
+522;3;1940;Wanboyuan
+522;2;1942;tao ran ting gong yuan
+522;3;1942;Taoranting Park
+522;2;1947;guang cai lu
+522;3;1947;Guangcai Rd
+522;2;1949;ding an lu
+522;3;1949;Ding'an Rd
+522;2;1950;liu jia yao lu
+522;3;1950;Liujiayao Rd
+522;2;1953;zuo an lu
+522;3;1953;Zuoan Rd
+522;2;1956;xuan yi gong yuan
+522;3;1956;Xuanyi Park
+522;2;1957;zhou jia zhuang lu
+522;3;1957;Zhoujiazhuang Rd
+522;2;1959;xi da wang nan lu
+522;3;1959;Xidawang South Rd
+522;2;1960;xiao wu ji lu
+522;3;1960;Xiaowuji Rd
+522;2;1961;hong yan nan yi lu
+522;3;1961;Hongyannanyi Rd
+522;2;1968;dong qu lu zhi lao jun tang zhong lu
+522;3;1968;Dongqu Rd to Laojuntang Middle Rd
+522;2;1969;lao jun tang zhong lu
+522;3;1969;Laojuntang Middle Rd
+522;2;1970;xi bei shu fa you er yuan
+522;3;1970;Xibeishufayoueryuan
+522;2;1971;dong nan jiao guan qu
+522;3;1971;Dongnanjiaoguanqu
+522;2;1972;shi ba li dian zhuang jia yuan sheng tai yuan
+522;3;1972;Shibalidianzhuangjiayuanshengtaiyuan
+522;2;1973;dong si huan nan lu fu lu
+522;3;1973;E 4th Ring South Rd Side Rd
+522;2;1976;shi li he yin yue you er yuan
+522;3;1976;Shilihe Yinyue Kindergarten
+522;2;1978;da yang fang lu zhi dong nan jiao guan qu
+522;3;1978;Dayangfang Rd to Dongnanjiaoguanqu
+522;2;1979;hua kai yuan
+522;3;1979;Huakaiyuan
+522;2;1980;qing ma lu
+522;3;1980;Qingma Rd
+522;2;1981;ma zhu lu
+522;3;1981;Mazhu Rd
+522;2;1982;huo ma lu
+522;3;1982;Huoma Rd
+522;2;1987;shi cun
+522;3;1987;Shi Village
+522;2;1988;jiu de lu
+522;3;1988;Jiude Rd
+522;2;1993;fu yuan lu
+522;3;1993;Fuyuan Rd
+522;2;1994;ma da lu
+522;3;1994;Mada Rd
+522;2;1995;lu xi lu
+522;3;1995;Luxi Rd
+522;2;1999;zhang tai lu
+522;3;1999;Zhangtai Rd
+522;2;2003;dong xia ying
+522;3;2003;Dongxiaying
+522;2;2007;xiao geng fa
+522;3;2007;Xiaogengfa
+522;2;2008;yong an lu
+522;3;2008;Yongan Rd
+522;2;2009;nan chang jie
+522;3;2009;Nanchang St
+522;2;2010;xi hua men da jie
+522;3;2010;Xihuamen Ave
+522;2;2011;bei chang jie
+522;3;2011;Beichang St
+522;2;2012;nan chi zi da jie
+522;3;2012;Nanchizi Ave
+522;2;2013;bei chi zi da jie
+522;3;2013;Beichizi Ave
+522;2;2014;mei shu guan dong jie
+522;3;2014;Meishuguan East St
+522;2;2015;liang guo chang hu tong
+522;3;2015;Liangguochang Hu Tong
+522;2;2016;chen guang jie
+522;3;2016;Chenguang St
+522;2;2019;ri tan lu
+522;3;2019;Ritan Rd
+522;2;2020;ri tan bei lu
+522;3;2020;Ritan North Rd
+522;2;2021;chao wai shi chang jie
+522;3;2021;Chaowaishichang St
+522;2;2022;long tan lu
+522;3;2022;Longtan Rd
+522;2;2023;xi zhao si jie
+522;3;2023;Xizhaosi St
+522;2;2024;pan jia yuan lu
+522;3;2024;Panjiayuan Rd
+522;2;2025;song yu bei lu
+522;3;2025;Songyu North Rd
+522;2;2026;jin song nan lu
+522;3;2026;Jinsong South Rd
+522;2;2027;bai qiao da jie
+522;3;2027;Baiqiao Ave
+522;2;2028;guang qu men bei li
+522;3;2028;Guangqumenbeili
+522;2;2029;bei yang shi kou jie
+522;3;2029;Beiyangshikou St
+522;2;2030;bing jiao kou hu tong
+522;3;2030;Bingjiaokou Hu Tong
+522;2;2031;hua yuan dong lu
+522;3;2031;Huayuan East Rd
+522;2;2032;ao ti zhong lu
+522;3;2032;Aoti Middle Rd
+522;2;2033;wen xue guan lu
+522;3;2033;Wenxueguan Rd
+522;2;2034;ao lin dong lu
+522;3;2034;Olympic East Rd
+522;2;2037;long gang lu
+522;3;2037;Longgang Rd
+522;2;2039;xiao ying lu
+522;3;2039;Xiaoying Rd
+522;2;2040;xiao ying dong lu
+522;3;2040;Xiaoying East Rd
+522;2;2041;yu hui bei lu
+522;3;2041;Yuhui North Rd
+522;2;2042;yu hui dong lu
+522;3;2042;Yuhui East Rd
+522;2;2044;jiang zhuang lu
+522;3;2044;Jiangzhuang Rd
+522;2;2045;nan hu nan lu
+522;3;2045;Nanhu South Rd
+522;2;2046;li ze zhong er lu
+522;3;2046;Lizezhonger Rd
+522;2;2047;xi yang zhong lu
+522;3;2047;Xiyang Middle Rd
+522;2;2048;ping cui xi lu
+522;3;2048;Pingcui West Rd
+522;2;2050;bai zi wan lu
+522;3;2050;Baiziwan Rd
+522;2;2051;shi men dong lu
+522;3;2051;Shimen East Rd
+522;2;2053;qing nian lu
+522;3;2053;Qingnian Rd
+522;2;2054;shi li pu lu
+522;3;2054;Shilipu Rd
+522;2;2055;xin yuan jie
+522;3;2055;Xinyuan St
+522;2;2056;shun yuan jie
+522;3;2056;Shunyuan St
+522;2;2057;dong san huan bei lu
+522;3;2057;E 3rd Ring North Rd
+522;2;2058;shu guang xi lu
+522;3;2058;Shuguang West Rd
+522;2;2059;hua jia di nan jie
+522;3;2059;Huajiadi South St
+522;2;2061;jiu xian qiao nan lu
+522;3;2061;Jiuxianqiao South Rd
+522;2;2062;san jie fang
+522;3;2062;Sanjiefang
+522;2;2063;jiang tai lu
+522;3;2063;Jiangtai Rd
+522;2;2066;jiang tai cun lu
+522;3;2066;Jiangtaicun Rd
+522;2;2067;jiang tai dong lu
+522;3;2067;Jiangtai East Rd
+522;2;2068;nan hu zhong yuan er tiao
+522;3;2068;Nanhuzhongyuaner Aly
+522;2;2069;nan hu bei lu
+522;3;2069;Nanhu North Rd
+522;2;2070;he yin xi lu
+522;3;2070;Heyin West Rd
+522;2;2071;xi yang dong lu
+522;3;2071;Xiyang East Rd
+522;2;2072;guang ze lu
+522;3;2072;Guangze Rd
+522;2;2073;li ze dong jie
+522;3;2073;Lize East St
+522;2;2074;hui gu gen yuan
+522;3;2074;Huigu Genyuan
+522;2;2075;wang hua lu
+522;3;2075;Wanghua Rd
+522;2;2076;li ze dong er lu
+522;3;2076;Lizedonger Rd
+522;2;2077;wang jing dong lu
+522;3;2077;Wangjing East Rd
+522;2;2078;dong xin dian
+522;3;2078;Dongxindian
+522;2;2079;ping cui dong lu
+522;3;2079;Pingcui East Rd
+522;2;2080;lai guang ying xin bei lu
+522;3;2080;Laiguangyingxin North Rd
+522;2;2086;xi yang dong lu zhi jing mi lu
+522;3;2086;Xiyang East Rd to Jingmi Rd
+522;2;2088;shou du ji chang fu lu
+522;3;2088;Capital Airport Side Rd
+522;2;2092;bei ping li
+522;3;2092;Beipingli
+522;2;2094;jian cai cheng zhong lu
+522;3;2094;Jiancaicheng Middle Rd
+522;2;2095;jian cai cheng dong lu
+522;3;2095;Jiancaicheng East Rd
+522;2;2096;he jia cun
+522;3;2096;Hejia Village
+522;2;2098;li shui qiao bei lu
+522;3;2098;Lishuiqiao North Rd
+522;2;2099;Y404
+522;3;2099;Y404
+522;2;2101;shan jia cun
+522;3;2101;Shanjia Village
+522;2;2106;wen hua lu
+522;3;2106;Wenhua Rd
+522;2;2107;liang zhuang xi jie
+522;3;2107;Liangzhuang West St
+522;2;2108;long xi yi jie
+522;3;2108;Longxiyi St
+522;2;2109;long xi san jie
+522;3;2109;Longxisan St
+522;2;2110;long xi er jie
+522;3;2110;Longxier St
+522;2;2111;long jin san jie
+522;3;2111;Longjinsan St
+522;2;2112;ke xing xi lu
+522;3;2112;Kexing West Rd
+522;2;2115;bai jia cheng
+522;3;2115;Baijiacheng
+522;2;2116;long jin yuan yi qu
+522;3;2116;Longjinyuan Yiqu
+522;2;2117;hui nan lu
+522;3;2117;Huinan Rd
+522;2;2122;ma jia wan cun
+522;3;2122;Majiawan Village
+522;2;2124;shu jun bin guan
+522;3;2124;Shujunbinguan
+522;2;2125;shuang qiao lu
+522;3;2125;Shuangqiao Rd
+522;2;2127;shuang qiao zhong lu
+522;3;2127;Shuangqiao Middle Rd
+522;2;2130;shuang qiao dong lu
+522;3;2130;Shuangqiao East Rd
+522;2;2133;shun huang lu
+522;3;2133;Shunhuang Rd
+522;2;2139;shun yu lu
+522;3;2139;Shunyu Rd
+522;2;2141;kai fa jie
+522;3;2141;Kaifa St
+522;2;2142;hua yuan si jie
+522;3;2142;Huayuansi St
+522;2;2143;hua yuan san jie
+522;3;2143;Huayuansan St
+522;2;2145;lin yin lu
+522;3;2145;Linyin Rd
+522;2;2146;tian zhu yuan
+522;3;2146;Tianzhuyuan
+522;2;2155;shi men jie
+522;3;2155;Shimen St
+522;2;2156;fu qian xi jie
+522;3;2156;Fuqian West St
+522;2;2157;xin shun nan da jie
+522;3;2157;Xinshun South St
+522;2;2158;fu qian zhong jie
+522;3;2158;Fuqian Middle St
+522;2;2162;shou du ji chang bin guan
+522;3;2162;Capital Airport Hotel
+522;2;2164;er wei lu
+522;3;2164;Erwei Rd
+522;2;2171;wu wei lu
+522;3;2171;Wuwei Rd
+522;2;2173;si wei lu
+522;3;2173;Siwei Rd
+522;2;2175;X008
+522;3;2175;X008
+522;2;2176;bin he nan lu
+522;3;2176;Binhe South Rd
+522;2;2177;tong hu da jie
+522;3;2177;Tonghu Ave
+522;2;2179;song liang lu
+522;3;2179;Songliang Rd
+522;2;2180;tong hu lu
+522;3;2180;Tonghu Rd
+522;2;2181;fu rong dong lu
+522;3;2181;Furong East Rd
+522;2;2184;lu yi xi lu
+522;3;2184;Luyi West Rd
+522;2;2185;long wang zhuang yi qu
+522;3;2185;Longwangzhuang NO.1 District
+522;2;2190;jing ping gao su gong lu
+522;3;2190;Jingping Hwy
+522;2;2191;ping yan lu
+522;3;2191;Pingyan Rd
+522;2;2194;mi san lu
+522;3;2194;Misan Rd
+522;2;2195;cui xing lu
+522;3;2195;Cuixing Rd
+522;2;2196;ping san lu
+522;3;2196;Pingsan Rd
+522;2;2197;yang dao lu
+522;3;2197;Yangdao Rd
+522;2;2198;bei bu huo yun tong dao
+522;3;2198;Beibuhuoyuntong Ave
+522;2;2199;long quan gong mu
+522;3;2199;Longquan Cemetery
+522;2;2202;jin zhan nan lu
+522;3;2202;Jinzhan South Rd
+522;2;2204;an ding men dong da jie
+522;3;2204;Andingmen East St
+522;2;2205;dong zhi men nan da jie
+522;3;2205;Dongzhimen South St
+522;2;2206;chao yang men bei da jie
+522;3;2206;Chaoyangmen North St
+522;2;2207;chao yang men nan da jie
+522;3;2207;Chaoyangmen South St
+522;2;2208;jian guo men nan da jie
+522;3;2208;Jianguomen South St
+522;2;2211;you an men xi bin he lu
+522;3;2211;Youanmenxibinhe Rd
+522;2;2217;guang ming qiao zhi guang qu men qiao
+522;3;2217;Guangming Brg to Guangqumen Brg
+522;2;2218;guang qu men bei bin he lu
+522;3;2218;Guangqumenbeibinhe Rd
+522;2;2221;lian hua chi xi lu fu lu
+522;3;2221;Lianhuachi West Rd Side Rd
+522;2;2222;dian qi hua da sha
+522;3;2222;Dianqihuadasha
+522;2;2223;lian hua chi dong lu fu lu
+522;3;2223;Lianhuachi East Rd Side Rd
+522;2;2224;xi bian men qiao
+522;3;2224;Xibianmen Brg
+522;2;2225;guang an men nan bin he lu
+522;3;2225;Guang'anmennanbinhe Rd
+522;2;2227;guang an men bei bin he lu
+522;3;2227;Guang'anmenbeibinhe Rd
+522;2;2228;zhen wu miao lu
+522;3;2228;Zhenwumiao Rd
+522;2;2229;bai yun guan jie
+522;3;2229;Baiyunguan St
+522;2;2236;li ze lu fu lu
+522;3;2236;Lize Rd Side Rd
+522;2;2244;zhong wei gou
+522;3;2244;Zhongweigou
+522;2;2247;san huan (feng tai bei lu)
+522;3;2247;3rd Ring (Fengtai North Rd)
+522;2;2248;gu lou wai da jie fu lu
+522;3;2248;Gulou Outer St Side Rd
+522;2;2251;qing lin lu
+522;3;2251;Qinglin Rd
+522;2;2255;shi ge zhuang lu
+522;3;2255;Shigezhuang Rd
+522;2;2256;wu ge zhuang lu
+522;3;2256;Wugezhuang Rd
+522;2;2257;xiao tang shan fu wu qu
+522;3;2257;Xiaotangshan Service Area
+522;2;2258;X006
+522;3;2258;X006
+522;2;2261;qian men dong lu
+522;3;2261;Qianmen East Rd
+522;2;2264;tai yang gong zhong lu fu lu
+522;3;2264;Taiyanggong Middle Rd Side Rd
+522;2;2266;xiao tun lu fu lu
+522;3;2266;Xiaotun Rd Side Rd
+522;2;2267;yuan ming yuan xi lu fu lu
+522;3;2267;Yuanmingyuan West Rd Side Rd
+522;2;2271;hu cheng he
+522;3;2271;Huchenghe
+522;2;2274;chang yang lu
+522;3;2274;Changyang Rd
+522;2;2277;qing zhi yuan
+522;3;2277;Qingzhiyuan
+522;2;2282;jing tong fu lu
+522;3;2282;Jingtong Side Rd
+522;2;2285;shi chang bei jie
+522;3;2285;Shichang North St
+522;2;2295;er huan nei quan
+522;3;2295;2nd Ring Inside Ring
+522;2;2298;xi wai da jie bei ce
+522;3;2298;Xiwai St N
+522;2;2299;xi wai da jie bei ce er huan nei quan ru kou za dao
+522;3;2299;Xiwai St N 2nd Ring Inside Ring Entrance Ramp
+522;2;2305;er huan nei quan xi wai da jie chu kou za dao
+522;3;2305;2nd Ring Inside Ring Xiwai St Exit Ramp
+522;2;2306;er huan wai quan
+522;3;2306;2nd Ring Outside Ring
+522;2;2307;xi wai da jie bei ce er huan wai quan ru kou za dao
+522;3;2307;Xiwai St N 2nd Ring Outside Ring Entrance Ramp
+522;2;2311;xi wai da jie you er huan wai quan zhi xi zhi men qiao xi ru kou za dao
+522;3;2311;Xiwai St from 2nd Outside Ring to Xizhimen Brg W Entrance Ramp
+522;2;2312;xi zhi men qiao xi
+522;3;2312;Xizhimen Brg W
+522;2;2314;de sheng men wai da jie dong ce
+522;3;2314;Deshengmen Outer St E
+522;2;2316;de sheng men wai da jie dong ce er huan nei quan ru kou za dao
+522;3;2316;Deshengmen Outer St E 2nd Ring Inside Ring Entrance Ramp
+522;2;2317;jian guo men qiao bei ce
+522;3;2317;Jianguomen Brg N
+522;2;2319;er huan wai quan jian guo men qiao bei ce ru kou za dao
+522;3;2319;2nd Ring Outside Ring Jianguomen Brg N Entrance Ramp
+522;2;2320;er huan wai quan jian guo men qiao bei ce chu kou za dao
+522;3;2320;2nd Ring Outside Ring Jianguomen Brg N Exit Ramp
+522;2;2322;er huan nei quan jian guo men qiao bei ce chu kou za dao
+522;3;2322;2nd Ring Inside Ring Jianguomen Brg N Exit Ramp
+522;2;2323;er huan nei quan jian guo men qiao bei ce ru kou za dao
+522;3;2323;2nd Ring Inside Ring Jianguomen Brg N Entrance Ramp
+522;2;2324;jian guo men qiao nan ce
+522;3;2324;Jianguomen Brg S
+522;2;2326;er huan wai quan jian guo men qiao nan ce chu kou za dao
+522;3;2326;2nd Ring Outside Ring Jianguomen Brg S Exit Ramp
+522;2;2327;er huan wai quan jian guo men qiao nan ce ru kou za dao
+522;3;2327;2nd Ring Outside Ring Jianguomen Brg S Entrance Ramp
+522;2;2328;er huan nei quan jian guo men qiao nan ce chu kou za dao
+522;3;2328;2nd Ring Inside Ring Jianguomen Brg S Exit Ramp
+522;2;2329;er huan nei quan jian guo men qiao nan ce ru kou za dao
+522;3;2329;2nd Ring Inside Ring Jianguomen Brg S Entrance Ramp
+522;2;2330;tong hui he bei lu gao su gong lu
+522;3;2330;Tonghuihebeilu Hwy
+522;2;2331;tong hui he bei lu gao su gong lu 1
+522;3;2331;Tonghuihe North Rd Hwy 1
+522;2;2332;er huan nei quan tong hui he bei lu gao su gong lu 1 chu kou za dao
+522;3;2332;2nd Ring Inside Ring Tonghuihe North Rd Hwy 1 Exit Ramp
+522;2;2333;tong hui he bei lu gao su gong lu 2
+522;3;2333;Tonghuihe North Rd Hwy 2
+522;2;2334;er huan nei quan tong hui he bei lu gao su gong lu 2 chu kou za dao
+522;3;2334;2nd Ring Inside Ring Tonghuihe North Rd Hwy 2 Exit Ramp
+522;2;2335;tong hui he bei lu gao su gong lu 3
+522;3;2335;Tonghuihe North Rd Hwy 3
+522;2;2336;er huan nei quan tong hui he bei lu gao su gong lu 3 chu kou za dao
+522;3;2336;2nd Ring Inside Ring Tonghuihe North Rd Hwy 3 Exit Ramp
+522;2;2337;tong hui he bei lu gao su gong lu 4
+522;3;2337;Tonghuihe North Rd Hwy 4
+522;2;2338;er huan nei quan tong hui he bei lu gao su gong lu 4 chu kou za dao
+522;3;2338;2nd Ring Inside Ring Tonghuihe North Rd Hwy 4 Exit Ramp
+522;2;2343;tong hui he bei lu gao su gong lu nan ce
+522;3;2343;Tonghuihe North Rd Hwy S
+522;2;2344;tong hui he bei lu gao su gong lu nan ce er huan nei quan chu kou za dao
+522;3;2344;Tonghuihe North Rd Hwy S 2nd Ring Inside Ring Exit Ramp
+522;2;2346;er huan wai quan tong hui he bei lu gao su gong lu chu kou za dao
+522;3;2346;2nd Ring Outside Ring Tonghuihe North Rd Hwy Exit Ramp
+522;2;2348;er huan nei quan chong wen men dong da jie chu kou za dao
+522;3;2348;2nd Ring Inside Ring Chongwenmen East St Exit Ramp
+522;2;2349;er huan wai quan chong wen men dong da jie ru kou za dao
+522;3;2349;2nd Ring Outside Ring Chongwenmen East St Entrance Ramp
+522;2;2351;er huan nei quan guang qu men bei li chu kou za dao
+522;3;2351;2nd Ring Inside Ring Guangqumenbeili Exit Ramp
+522;2;2352;tong hui he bei lu gao su gong lu xi ce
+522;3;2352;Tonghuihe North Rd Hwy W
+522;2;2353;er huan nei quan tong hui he bei lu gao su gong lu xi ce ru kou za dao
+522;3;2353;2nd Ring Inside Ring Tonghuihe North Rd Hwy W Entrance Ramp
+522;2;2354;guang qu men qiao bei ce
+522;3;2354;Guangqumen Brg N
+522;2;2355;er huan nei quan guang qu men qiao bei ce ru kou za dao
+522;3;2355;2nd Ring Inside Ring Guangqumen Brg N Entrance Ramp
+522;2;2356;guang qu men nei da jie bei ce
+522;3;2356;Guangqumen Inner St N
+522;2;2357;er huan nei quan guang qu men nei da jie bei ce chu kou za dao
+522;3;2357;2nd Ring Inside Ring Guangqumen Inner St N Exit Ramp
+522;2;2358;guang qu men wai da jie bei ce
+522;3;2358;Guangqumen Outer St N
+522;2;2360;er huan wai quan guang qu men wai da jie bei ce chu kou za dao
+522;3;2360;2nd Ring Outside Ring Guangqumen Outer St N Exit Ramp
+522;2;2362;guang qu men wai da jie nan ce
+522;3;2362;Guangqumen Outer St S
+522;2;2363;er huan wai quan guang qu men wai da jie nan ce chu kou za dao
+522;3;2363;2nd Ring Outside Ring Guangqumen Outer St S Exit Ramp
+522;2;2364;guang qu men qiao nan ce
+522;3;2364;Guangqumen Brg S
+522;2;2365;er huan wai quan guang qu men qiao nan ce ru kou za dao
+522;3;2365;2nd Ring Outside Ring Guangqumen Brg S Entrance Ramp
+522;2;2366;er huan nei quan guang qu men qiao nan ce chu kou za dao
+522;3;2366;2nd Ring Inside Ring Guangqumen Brg S Exit Ramp
+522;2;2368;er huan nei quan guang qu men qiao nan ce ru kou za dao
+522;3;2368;2nd Ring Inside Ring Guangqumen Brg S Entrance Ramp
+522;2;2370;jin song lu
+522;3;2370;Jinsong Rd
+522;2;2372;er huan wai quan jin song lu ru kou za dao
+522;3;2372;2nd Ring Outside Ring Jinsong Rd Entrance Ramp
+522;2;2374;guang ming qiao bei ce
+522;3;2374;Guangming Brg N
+522;2;2375;er huan wai quan guang ming qiao bei ce chu kou za dao
+522;3;2375;2nd Ring Outside Ring Guangming Brg N Exit Ramp
+522;2;2376;er huan nei quan guang ming qiao bei ce chu kou za dao
+522;3;2376;2nd Ring Inside Ring Guangming Brg N Exit Ramp
+522;2;2377;guang ming qiao nan ce
+522;3;2377;Guangming Brg S
+522;2;2378;er huan nei quan guang ming qiao nan ce ru kou za dao
+522;3;2378;2nd Ring Inside Ring Guangming Brg S Entrance Ramp
+522;2;2379;er huan wai quan guang ming qiao nan ce ru kou za dao
+522;3;2379;2nd Ring Outside Ring Guangming Brg S Entrance Ramp
+522;2;2381;er huan wai quan jin song lu chu kou za dao
+522;3;2381;2nd Ring Outside Ring Jinsong Rd Exit Ramp
+522;2;2382;er huan nei quan guang ming qiao nan ce chu kou za dao
+522;3;2382;2nd Ring Inside Ring Guangming Brg S Exit Ramp
+522;2;2388;er huan nei quan zuo an men nei da jie chu kou za dao
+522;3;2388;2nd Ring Inside Ring Zuoanmen Inner St Exit Ramp
+522;2;2389;zuo an men qiao dong ce
+522;3;2389;Zuoanmen Brg E
+522;2;2390;er huan nei quan zuo an men qiao dong ce chu kou za dao
+522;3;2390;2nd Ring Inside Ring Zuoanmen Brg E Exit Ramp
+522;2;2391;zuo an men qiao xi ce
+522;3;2391;Zuoanmen Brg W
+522;2;2393;er huan nei quan zuo an men qiao xi ce ru kou za dao
+522;3;2393;2nd Ring Inside Ring Zuoanmen Brg W Entrance Ramp
+522;2;2394;yu ting qiao dong ce
+522;3;2394;Yuting Brg E
+522;2;2395;er huan nei quan yu ting qiao dong ce ru kou za dao
+522;3;2395;2nd Ring Inside Ring Yuting Brg E Entrance Ramp
+522;2;2396;zuo an men xi bin he lu
+522;3;2396;Zuoanmenxibinhe Rd
+522;2;2397;er huan nei quan zuo an men xi bin he lu chu kou za dao
+522;3;2397;2nd Ring Inside Ring Zuoanmenxibinhe Rd Exit Ramp
+522;2;2398;er huan nei quan zuo an men xi bin he lu ru kou za dao
+522;3;2398;2nd Ring Inside Ring Zuoanmenxibinhe Rd Entrance Ramp
+522;2;2399;yu ting qiao xi ce
+522;3;2399;Yuting Brg W
+522;2;2400;er huan nei quan yu ting qiao xi ce chu kou za dao
+522;3;2400;2nd Ring Inside Ring Yuting Brg W Exit Ramp
+522;2;2401;pu huang yu lu xi ce
+522;3;2401;Puhuangyu Rd W
+522;2;2402;er huan wai quan pu huang yu lu xi ce chu kou za dao
+522;3;2402;2nd Ring Outside Ring Puhuangyu Rd W Exit Ramp
+522;2;2403;er huan wai quan yu ting qiao dong ce ru kou za dao
+522;3;2403;2nd Ring Outside Ring Yuting Brg E Entrance Ramp
+522;2;2405;er huan wai quan yu ting qiao dong ce chu kou za dao
+522;3;2405;2nd Ring Outside Ring Yuting Brg E Exit Ramp
+522;2;2408;er huan wai quan pu huang yu lu ru kou za dao
+522;3;2408;2nd Ring Outside Ring Puhuangyu Rd Entrance Ramp
+522;2;2409;er huan wai quan pu huang yu lu fu lu ru kou za dao
+522;3;2409;2nd Ring Outside Ring Puhuangyu Rd Side Rd Entrance Ramp
+522;2;2410;pu huang yu lu fu lu
+522;3;2410;Puhuangyu Rd Side Rd
+522;2;2412;er huan wai quan pu huang yu lu fu lu chu kou za dao
+522;3;2412;2nd Ring Outside Ring Puhuangyu Rd Side Rd Exit Ramp
+522;2;2413;yong ding men dong jie
+522;3;2413;Yongdingmen East St
+522;2;2415;er huan nei quan yong ding men dong jie shang za dao
+522;3;2415;2nd Ring Inside Ring Yongdingmen East St Entrance Ramp
+522;2;2416;yong ding men dong bin he lu
+522;3;2416;Yongdingmendongbinhe Rd
+522;2;2419;er huan nei quan jing tai lu xia za dao
+522;3;2419;2nd Ring Inside Ring Jingtai Rd Exit Ramp
+522;2;2422;er huan nei quan yong ding men wai da jie ru kou za dao
+522;3;2422;2nd Ring Inside Ring Yongdingmen Outer St Entrance Ramp
+522;2;2423;er huan nei quan yong ding men dong jie chu kou za dao
+522;3;2423;2nd Ring Inside Ring Yongdingmen East St Exit Ramp
+522;2;2424;er huan wai quan jing tai lu shang za dao
+522;3;2424;2nd Ring Outside Ring Jingtai Rd Entrance Ramp
+522;2;2425;er huan wai quan yong ding men dong bin he lu xia za dao
+522;3;2425;2nd Ring Outside Ring Yongdingmendongbinhe Rd Exit Ramp
+522;2;2427;yong ding men xi jie
+522;3;2427;Yongdingmen West St
+522;2;2429;yong ding men nei da jie
+522;3;2429;Yongdingmen Inner St
+522;2;2431;yong ding men xi bin he lu
+522;3;2431;Yongdingmenxibinhe Rd
+522;2;2432;er huan wai quan yong ding men xi bin he lu shang za dao
+522;3;2432;2nd Ring Outside Ring Yongdingmenxibinhe Rd Entrance Ramp
+522;2;2435;tao ran qiao dong ce
+522;3;2435;Taoran Brg E
+522;2;2436;er huan nei quan tao ran qiao dong ce chu kou za dao
+522;3;2436;2nd Ring Inside Ring Taoran Brg E Exit Ramp
+522;2;2439;er huan wai quan tao ran qiao dong ce xia za dao
+522;3;2439;2nd Ring Outside Ring Taoran Brg E Exit Ramp
+522;2;2440;tao ran qiao xi ce
+522;3;2440;Taoran Brg W
+522;2;2442;er huan nei quan yong ding men xi jie chu kou za dao
+522;3;2442;2nd Ring Inside Ring Yongdingmen West St Exit Ramp
+522;2;2444;er huan nei quan yong ding men nei da jie ru kou za dao
+522;3;2444;2nd Ring Inside Ring Yongdingmen Inner St Entrance Ramp
+522;2;2445;er huan nei quan tao ran qiao dong ce ru kou za dao
+522;3;2445;2nd Ring Inside Ring Taoran Brg E Entrance Ramp
+522;2;2446;er huan nei quan tao ran qiao xi ce chu kou za dao
+522;3;2446;2nd Ring Inside Ring Taoran Brg W Exit Ramp
+522;2;2447;er huan nei quan tao ran qiao xi ce ru kou za dao
+522;3;2447;2nd Ring Inside Ring Taoran Brg W Entrance Ramp
+522;2;2449;er huan wai quan tao ran qiao xi ce shang za dao
+522;3;2449;2nd Ring Outside Ring Taoran Brg W Entrance Ramp
+522;2;2450;cai shi kou da jie dong ce
+522;3;2450;Caishikou St E
+522;2;2451;er huan nei quan cai shi kou da jie dong ce chu kou za dao
+522;3;2451;2nd Ring Inside Ring Caishikou St E Exit Ramp
+522;2;2453;er huan nei quan cai shi kou da jie dong ce ru kou za dao
+522;3;2453;2nd Ring Inside Ring Caishikou St E Entrance Ramp
+522;2;2456;you an men dong bin he lu
+522;3;2456;Youanmendongbinhe Rd
+522;2;2457;er huan wai quan you an men dong bin he lu shang za dao
+522;3;2457;2nd Ring Outside Ring Youanmendongbinhe Rd Entrance Ramp
+522;2;2458;cai shi kou da jie xi ce
+522;3;2458;Caishikou St W
+522;2;2459;er huan nei quan cai shi kou da jie xi ce chu kou za dao
+522;3;2459;2nd Ring Inside Ring Caishikou St W Exit Ramp
+522;2;2460;er huan nei quan cai shi kou da jie xi ce ru kou za dao
+522;3;2460;2nd Ring Inside Ring Caishikou St W Entrance Ramp
+522;2;2461;you an men dong jie
+522;3;2461;Youanmen East St
+522;2;2462;er huan nei quan you an men dong jie chu ru kou za dao
+522;3;2462;2nd Ring Inside Ring Youanmen East St Churu Ramp
+522;2;2463;er huan wai quan you an men dong bin he lu xia za dao
+522;3;2463;2nd Ring Outside Ring Youanmendongbinhe Rd Exit Ramp
+522;2;2465;er huan wai quan you an men wai da jie shang za dao
+522;3;2465;Yunjing South St
+522;2;2467;er huan nei quan you an men nei da jie chu kou za dao
+522;3;2467;2nd Ring Inside Ring Youanmen Inner St Exit Ramp
+522;2;2470;er huan nei quan nan cai yuan jie ru kou za dao
+522;3;2470;2nd Ring Inside Ring Nancaiyuan St Entrance Ramp
+522;2;2471;you an men nei da jie dong ce
+522;3;2471;Youanmen Inner St E
+522;2;2472;er huan nei quan you an men nei da jie dong ce ru kou za dao
+522;3;2472;2nd Ring Inside Ring Youanmen Inner St E Entrance Ramp
+522;2;2473;you an men nei da jie xi ce
+522;3;2473;Youanmen Inner St W
+522;2;2476;you an men nei da jie xi 3
+522;3;2476;Youanmen Inner St W 3
+522;2;2477;er huan nei quan you an men nei da jie xi 3 ru kou za dao
+522;3;2477;2nd Ring Inside Ring Youanmen Inner St W 3 Entrance Ramp
+522;2;2478;you an men nei da jie xi 2
+522;3;2478;Youanmen Inner St W 2
+522;2;2479;er huan nei quan you an men nei da jie xi 2 ru kou za dao
+522;3;2479;2nd Ring Inside Ring Youanmen Inner St W 2 Entrance Ramp
+522;2;2480;you an men nei da jie xi 1
+522;3;2480;Youanmen Inner St W 1
+522;2;2481;er huan nei quan you an men nei da jie xi 1 ru kou za dao
+522;3;2481;2nd Ring Inside Ring Youanmen Inner St W 1 Entrance Ramp
+522;2;2482;you an men qiao xi
+522;3;2482;Youanmen Brg W
+522;2;2483;er huan nei quan you an men nei da jie xi ce ru kou za dao
+522;3;2483;2nd Ring Inside Ring Youanmen Inner St W Entrance Ramp
+522;2;2485;you an men xi bin he lu bei ce
+522;3;2485;Youanmenxibinhe Rd N
+522;2;2486;er huan nei quan za dao
+522;3;2486;2nd Ring Inside Ring Ramp
+522;2;2487;er huan nei quan za dao you an men xi bin he lu bei ce ru kou za dao
+522;3;2487;2nd Ring Inside Ring Ramp Youanmenxibinhe Rd N Entrance Ramp
+522;2;2488;er huan nei quan za dao you an men qiao xi ru kou za dao
+522;3;2488;2nd Ring Inside Ring Ramp Youanmen Brg W Entrance Ramp
+522;2;2489;yu lin dong lu
+522;3;2489;Yulin East Rd
+522;2;2490;er huan wai quan yu lin dong lu xia za dao
+522;3;2490;2nd Ring Outside Ring Yulin East Rd Exit Ramp
+522;2;2491;er huan wai quan yu lin dong lu shang za dao
+522;3;2491;2nd Ring Outside Ring Yulin East Rd Entrance Ramp
+522;2;2492;cai hu ying nan lu
+522;3;2492;Caihuying South Rd
+522;2;2493;er huan wai quan cai hu ying nan lu ru kou za dao
+522;3;2493;2nd Ring Outside Ring Caihuying South Rd Entrance Ramp
+522;2;2496;cai hu ying nan lu xi ce
+522;3;2496;Caihuying South Rd W
+522;2;2497;cai hu ying nan lu xi ce li ze lu ru kou za dao
+522;3;2497;Caihuying South Rd W Lize Rd Entrance Ramp
+522;2;2499;cai hu ying nan lu dong ce
+522;3;2499;Caihuying South Rd E
+522;2;2500;cai hu ying nan lu dong ce li ze lu ru kou za dao
+522;3;2500;Caihuying South Rd E Lize Rd Entrance Ramp
+522;2;2501;cai hu ying nan lu dong ce li ze lu chu kou za dao
+522;3;2501;Caihuying South Rd E Lize Rd Exit Ramp
+522;2;2503;cai hu ying nan lu xi ce er huan nei quan ru kou za dao
+522;3;2503;Caihuying South Rd W 2nd Ring Inside Ring Entrance Ramp
+522;2;2504;ya zi qiao lu
+522;3;2504;Yaziqiao Rd
+522;2;2505;er huan nei quan ya zi qiao lu xia za dao
+522;3;2505;2nd Ring Inside Ring Yazi Brg Rd Exit Ramp
+522;2;2508;er huan wai quan li ze lu xia za dao
+522;3;2508;2nd Ring Outside Ring Lize Rd Exit Ramp
+522;2;2509;er huan wai quan ya zi qiao lu shang za dao
+522;3;2509;2nd Ring Outside Rnig Yaziqiao Rd Entrance Ramp
+522;2;2511;guang an men qiao nan ce
+522;3;2511;Guanganmen Brg S
+522;2;2512;er huan nei quan guang an men qiao nan ce chu kou za dao
+522;3;2512;2nd Ring Inside Ring Guanganmen Brg S Exit Ramp
+522;2;2513;er huan nei quan guang an men qiao nan ce ru kou za dao
+522;3;2513;2nd Ring Inside Ring Guanganmen Brg S Entrance Ramp
+522;2;2515;guang an men qiao bei ce
+522;3;2515;Guanganmen Brg N
+522;2;2516;er huan nei quan guang an men qiao bei ce chu kou za dao
+522;3;2516;2nd Ring Inside Ring Guanganmen Brg N Exit Ramp
+522;2;2517;er huan nei quan guang an men qiao bei ce ru kou za dao
+522;3;2517;2nd Ring Inside Ring Guanganmen Brg N Entrance Ramp
+522;2;2518;guang an men bei jie
+522;3;2518;Guang'anmen North St
+522;2;2519;er huan nei quan guang an men qiao bei ru kou za dao
+522;3;2519;2nd Ring Inside Ring Guanganmen Brg N Entrance Ramp
+522;2;2520;guang an men qiao bei
+522;3;2520;Guanganmen Brg N
+522;2;2522;er huan nei quan guang an men bei jie ru kou za dao
+522;3;2522;2nd Ring Inside Ring Guanganmen North St Entrance Ramp
+522;2;2524;er huan wai quan guang an men qiao bei ce chu kou za dao
+522;3;2524;2nd Ring Outside Ring Guanganmen Brg N Exit Ramp
+522;2;2525;er huan wai quan guang an men qiao bei ce ru kou za dao
+522;3;2525;2nd Ring Outside Ring Guanganmen Brg N Entrance Ramp
+522;2;2526;er huan wai quan guang an men qiao nan ce chu kou za dao
+522;3;2526;2nd Ring Outside Ring Guanganmen Brg S Exit Ramp
+522;2;2527;er huan wai quan guang an men qiao nan ce ru kou za dao
+522;3;2527;2nd Ring Outside Ring Guanganmen Brg S Entrance Ramp
+522;2;2529;lian hua chi dong lu er huan nei quan ru kou za dao
+522;3;2529;Lianhuachi East Rd 2nd Ring Inside Ring Entrance Ramp
+522;2;2530;lian hua chi dong lu nan ce
+522;3;2530;Lianhuachi East Rd S
+522;2;2531;lian hua chi dong lu nan ce er huan nei quan ru kou za dao
+522;3;2531;Lianhuachi East Rd S 2nd Ring Inside Ring Entrance Ramp
+522;2;2532;lian hua chi dong lu bei ce
+522;3;2532;Lianhuachi East Rd N
+522;2;2533;lian hua chi dong lu bei ce er huan nei quan ru kou za dao
+522;3;2533;Lianhuachi East Rd N 2nd Ring Inside Ring Entrance Ramp
+522;2;2534;er huan wai quan lian hua chi dong lu chu kou za dao
+522;3;2534;2nd Ring Outside Ring Lianhuachi East Rd Exit Ramp
+522;2;2535;er huan wai quan lian hua chi dong lu bei ce chu kou za dao
+522;3;2535;2nd Ring Outside Ring Lianhuachi East Rd N Exit Ramp
+522;2;2536;er huan wai quan lian hua chi dong lu nan ce chu kou za dao
+522;3;2536;2nd Ring Outside Ring Lianhuachi East Rd S Exit Ramp
+522;2;2540;lian hua chi dong lu bei ce er huan wai quan ru kou za dao
+522;3;2540;Lianhuachi East Rd N 2nd Ring Outside Ring Entrance Ramp
+522;2;2541;er huan nei quan lian hua chi dong lu chu kou za dao
+522;3;2541;2nd Ring Inside Ring Lianhuachi East Rd Exit Ramp
+522;2;2545;er huan nei quan xuan wu men xi da jie ru kou za dao
+522;3;2545;2nd Ring Inside Ring Xuanwumen West St Entrance Ramp
+522;2;2548;san huan nei quan
+522;3;2548;3rd Ring Inside Ring
+522;2;2549;san huan nei quan feng tai bei lu ru kou za dao
+522;3;2549;3rd Ring Inside Ring Fengtai North Rd Entrance Ramp
+522;2;2550;feng tai bei lu bei ce
+522;3;2550;Fengtai North Rd N
+522;2;2551;san huan nei quan feng tai bei lu bei ce ru kou za dao
+522;3;2551;3rd Ring Inside Ring Fengtai North Rd N Entrance Ramp
+522;2;2552;feng tai bei lu nan ce
+522;3;2552;Fengtai North Rd S
+522;2;2553;san huan
+522;3;2553;3rd Ring
+522;2;2554;san huan feng tai bei lu nan ce ru kou za dao
+522;3;2554;3rd Ring Fengtai North Rd S Entrance Ramp
+522;2;2555;san huan nei quan feng tai bei lu nan ce ru kou za dao
+522;3;2555;3rd Ring Inside Ring Fengtai North Rd S Entrance Ramp
+522;2;2556;san huan wai quan
+522;3;2556;3rd Ring Outside Ring
+522;2;2557;san huan wai quan feng tai bei lu nan ce ru kou za dao
+522;3;2557;3rd Ring Outside Ring Fengtai North Rd S Entrance Ramp
+522;2;2558;san huan wai quan feng tai bei lu ru kou za dao
+522;3;2558;3rd Ring Outside Ring Fengtai North Rd Entrance Ramp
+522;2;2559;san huan wai quan feng tai bei lu bei ce ru kou za dao
+522;3;2559;3rd Ring Outside Ring Fengtai North Rd N Entrance Ramp
+522;2;2560;feng tai bei lu san huan wai quan chu kou za dao
+522;3;2560;Fengtai North Rd 3rd Ring Outside Ring Exit Ramp
+522;2;2561;feng tai bei lu bei ce san huan wai quan chu kou za dao
+522;3;2561;Fengtai North Rd N 3rd Ring Outside Ring Exit Ramp
+522;2;2562;feng tai bei lu bei ce san huan chu kou za dao
+522;3;2562;Fengtai North Rd N 3rd Ring Exit Ramp
+522;2;2564;feng tai bei lu bei ce san huan nei quan chu kou za dao
+522;3;2564;Fengtai North Rd N 3rd Ring Inside Ring Exit Ramp
+522;2;2565;feng tai bei lu san huan nei quan chu kou za dao
+522;3;2565;Fengtai North Rd 3rd Ring Inside Ring Exit Ramp
+522;2;2566;feng tai bei lu nan ce san huan nei quan chu kou za dao
+522;3;2566;Fengtai North Rd S 3rd Ring Inside Ring Exit Ramp
+522;2;2567;feng tai bei lu nan ce san huan chu kou za dao
+522;3;2567;Fengtai North Rd S 3rd Ring Exit Ramp
+522;2;2568;feng tai bei lu nan ce san huan wai quan chu kou za dao
+522;3;2568;Fengtai North Rd S 3rd Ring Outside Ring Exit Ramp
+522;2;2569;liu li qiao bei ce
+522;3;2569;Liuli Brg N
+522;2;2570;san huan nei quan liu li qiao bei ce ru kou za dao
+522;3;2570;3rd Ring Inside Ring Liuli Brg N Entrance Ramp
+522;2;2571;san huan nei quan liu li qiao bei ce chu kou za dao
+522;3;2571;3rd Ring Inside Ring Liuli Brg N Exit Ramp
+522;2;2572;san huan wai quan liu li qiao bei ce ru kou za dao
+522;3;2572;3rd Ring Outside Ring Liuli Brg N Entrance Ramp
+522;2;2573;liu li qiao nan ce
+522;3;2573;Liuli Brg S
+522;2;2574;san huan nei quan liu li qiao nan ce chu kou za dao
+522;3;2574;3rd Ring Inside Ring Liuli Brg S Exit Ramp
+522;2;2575;san huan nei quan liu li qiao nan ce ru kou za dao
+522;3;2575;3rd Ring Inside Ring Liuli Brg S Entrance Ramp
+522;2;2577;san huan wai quan liu li qiao nan ce chu kou za dao
+522;3;2577;3rd Ring Outside Ring Liuli Brg S Exit Ramp
+522;2;2578;lian hua chi xi lu nan ce
+522;3;2578;Lianhuachi West Rd S
+522;2;2581;san huan nei quan za dao
+522;3;2581;3rd Ring Inside Ring Ramp
+522;2;2582;san huan nei quan lian hua chi dong lu nan ce chu kou za dao
+522;3;2582;3rd Ring Inside Ring Lianhuachi East Rd S Exit Ramp
+522;2;2583;lian hua chi dong lu nan ce san huan nei quan za dao chu kou za dao
+522;3;2583;Lianhuachi East Rd S 3rd Ring Inside Ring Ramp Exit Ramp
+522;2;2584;san huan nei quan za dao lian hua chi xi lu nan ce ru kou za dao
+522;3;2584;3rd Ring Inside Ring Ramp Lianhuachi West Rd S Entrance Ramp
+522;2;2585;lian hua chi xi lu nan
+522;3;2585;Lianhuachi West Rd S
+522;2;2586;san huan nei quan lian hua chi xi lu nan chu kou za dao
+522;3;2586;3rd Ring Inside Ring Lianhuachi West Rd S Exit Ramp
+522;2;2587;lian hua chi xi lu zhong
+522;3;2587;Lianhuachi West Rd M
+522;2;2589;san huan nei quan lian hua chi xi lu zhong chu kou za dao
+522;3;2589;3rd Ring Inside Ring Lianhuachi West Rd M Exit Ramp
+522;2;2590;lian hua chi xi lu bei
+522;3;2590;Lianhuachi West Rd N
+522;2;2591;san huan nei quan lian hua chi xi lu bei ru kou za dao
+522;3;2591;3rd Ring Inside Ring Lianhuachi West Rd N Entrance Ramp
+522;2;2592;lian hua chi xi lu bei ce
+522;3;2592;Lianhuachi West Rd N
+522;2;2593;lian hua chi xi lu bei ce san huan nei quan za dao chu kou za dao
+522;3;2593;Lianhuachi West Rd N 3rd Ring Inside Ring Ramp Exit Ramp
+522;2;2594;san huan nei quan za dao lian hua chi xi lu bei ce ru kou za dao
+522;3;2594;3rd Ring Inside Ring Ramp Lianhuachi West Rd N Entrance Ramp
+522;2;2595;san huan nei quan lian hua chi xi lu bei ce ru kou za dao
+522;3;2595;3rd Ring Inside Ring Lianhuachi West Rd N Entrance Ramp
+522;2;2597;san huan wai quan za dao
+522;3;2597;3rd Ring Outside Ring Ramp
+522;2;2598;lian hua chi xi lu bei ce san huan wai quan za dao chu kou za dao
+522;3;2598;Lianhuachi West Rd N 3rd Ring Outside Ring Ramp Exit Ramp
+522;2;2599;san huan wai quan lian hua chi xi lu bei chu kou za dao
+522;3;2599;3rd Ring Outside Ring Lianhuachi West Rd N Exit Ramp
+522;2;2601;san huan wai quan za dao lian hua chi xi lu bei ce ru kou za dao
+522;3;2601;3rd Ring Outside Ring Ramp Lianhuachi West Rd N Entrance Ramp
+522;2;2602;san huan wai quan lian hua chi xi lu zhong chu kou za dao
+522;3;2602;3rd Ring Outside Ring Lianhuachi West Rd M Exit Ramp
+522;2;2603;san huan wai quan lian hua chi xi lu nan ru kou za dao
+522;3;2603;3rd Ring Outside Ring Lianhuachi West Rd S Entrance Ramp
+522;2;2604;san huan wai quan lian hua chi xi lu nan ce ru kou za dao
+522;3;2604;3rd Ring Outside Ring Lianhuachi West Rd S Entrance Ramp
+522;2;2605;san huan wai quan za dao lian hua chi xi lu nan ce ru kou za dao
+522;3;2605;3rd Ring Outside Ring Ramp Lianhuachi West Rd S Entrance Ramp
+522;2;2606;lian hua chi xi lu nan ce san huan wai quan za dao chu kou za dao
+522;3;2606;Lianhuachi West Rd S 3rd Ring Outside Ring Ramp Exit Ramp
+522;2;2607;fu xing lu nan ce
+522;3;2607;Fuxing Rd S
+522;2;2608;san huan nei quan fu xing lu nan ce chu kou za dao
+522;3;2608;3rd Ring Inside Ring Fuxing Rd S Exit Ramp
+522;2;2609;san huan nei quan fu xing lu nan ce ru kou za dao
+522;3;2609;3rd Ring Inside Ring Fuxing Rd S Entrance Ramp
+522;2;2610;fu xing lu bei ce
+522;3;2610;Fuxing Rd N
+522;2;2611;san huan nei quan fu xing lu bei ce ru kou za dao
+522;3;2611;3rd Ring Inside Ring Fuxing Rd N Entrance Ramp
+522;2;2612;san huan nei quan fu xing lu bei ce chu kou za dao
+522;3;2612;3rd Ring Inside Ring Fuxing Rd N Exit Ramp
+522;2;2613;san huan wai quan fu xing lu bei ce ru kou za dao
+522;3;2613;3rd Ring Outside Ring Fuxing Rd N Entrance Ramp
+522;2;2614;san huan wai quan fu xing lu bei ce chu kou za dao
+522;3;2614;3rd Ring Outside Ring Fuxing Rd N Exit Ramp
+522;2;2615;san huan wai quan fu xing lu nan ce ru kou za dao
+522;3;2615;3rd Ring Outside Ring Fuxing Rd S Entrance Ramp
+522;2;2616;san huan wai quan fu xing lu nan ce chu kou za dao
+522;3;2616;3rd Ring Outside Ring Fuxing Rd S Exit Ramp
+522;2;2618;san huan nei quan zi zhu yuan lu chu kou za dao
+522;3;2618;3rd Ring Inside Ring Zhuyuan Rd Exit Ramp
+522;2;2619;san huan wai quan zi zhu yuan lu ru kou za dao
+522;3;2619;3rd Ring Outside Ring Zizhuyuan Rd Entrance Ramp
+522;2;2621;wan quan he kuai su lu dong ce
+522;3;2621;Wanquanhe Expy E
+522;2;2622;wan quan he kuai su lu dong ce san huan chu kou za dao
+522;3;2622;Wanquanhe Expy E 3rd Ring Exit Ramp
+522;2;2625;san huan wai quan jing mi lu chu kou za dao
+522;3;2625;3rd Ring Outside Ring Jingmi Rd Exit Ramp
+522;2;2627;san huan wai quan shou du ji chang gao su gong lu ru kou za dao
+522;3;2627;3rd Ring Outside Ring Capital Airport Hwy Entrance Ramp
+522;2;2628;san huan wai quan jing mi lu ru kou za dao
+522;3;2628;3rd Ring Outside Ring Jingmi Rd Entrance Ramp
+522;2;2631;san huan nei quan shou du ji chang gao su gong lu ru kou za dao
+522;3;2631;3rd Ring Inside Ring Capital Airport Hwy Entrance Ramp
+522;2;2632;san huan nei quan xiang he yuan lu chu kou za dao
+522;3;2632;3rd Ring Inside Ring Xiangheyuan Rd Exit Ramp
+522;2;2633;xiang he yuan lu xi ce
+522;3;2633;Xiangheyuan Rd W
+522;2;2634;xiang he yuan lu dong ce
+522;3;2634;Xiangheyuan Rd E
+522;2;2635;san huan nei quan xiang he yuan lu dong ce ru kou za dao
+522;3;2635;3rd Ring Inside Ring Xiangheyuan Rd E Entrance Ramp
+522;2;2636;san huan nei quan xiang he yuan lu xi ce ru kou za dao
+522;3;2636;3rd Ring Inside Ring Xiangheyuan Rd W Entrance Ramp
+522;2;2637;guo mao qiao bei ce
+522;3;2637;Guomao Brg N
+522;2;2638;san huan wai quan guo mao qiao bei ce ru kou za dao
+522;3;2638;3rd Ring Outside Ring Guomao Brg N Entrance Ramp
+522;2;2639;san huan wai quan guo mao qiao bei ce chu kou za dao
+522;3;2639;3rd Ring Outside Ring Guomao Brg N Exit Ramp
+522;2;2640;san huan nei quan guo mao qiao bei ce ru kou za dao
+522;3;2640;3rd Ring Inside Ring Guomao Brg N Entrance Ramp
+522;2;2641;guo mao qiao nan ce
+522;3;2641;Guomao Brg S
+522;2;2642;san huan nei quan guo mao qiao nan ce ru kou za dao
+522;3;2642;3rd Ring Inside Ring Guomao Brg S Entrance Ramp
+522;2;2644;san huan nei quan guo mao qiao nan ce chu kou za dao
+522;3;2644;3rd Ring Inside Ring Guomao Brg S Exit Ramp
+522;2;2645;san huan wai quan guo mao qiao nan ce chu kou za dao
+522;3;2645;3rd Ring Outside Ring Guomao Brg S Exit Ramp
+522;2;2647;san huan wai quan guo mao qiao nan ce ru kou za dao
+522;3;2647;3rd Ring Outside Ring Guomao Brg S Entrance Ramp
+522;2;2648;feng ti nan lu bei ce
+522;3;2648;Fengti South Rd N
+522;2;2649;si huan nei quan
+522;3;2649;4th Ring Inside Ring
+522;2;2650;si huan nei quan feng ti nan lu bei ce ru kou za dao
+522;3;2650;4th Ring Inside Ring Fengti South Rd N Entrance Ramp
+522;2;2651;xi si huan nan lu fu lu
+522;3;2651;W 4th Ring South Rd Side Rd
+522;2;2653;si huan nei quan xi si huan nan lu fu lu ru kou za dao
+522;3;2653;4th Ring Inside Ring W 4th Ring South Rd Side Rd Entrance Ramp
+522;2;2654;feng ti nan lu nan
+522;3;2654;Fengti South Rd S
+522;2;2656;si huan nei quan feng ti nan lu nan ru kou za dao
+522;3;2656;4th Ring Inside Ring Fengti South Rd S Entrance Ramp
+522;2;2657;feng ti nan lu bei
+522;3;2657;Fengti South Rd N
+522;2;2658;si huan nei quan feng ti nan lu bei ru kou za dao
+522;3;2658;4th Ring Inside Ring Fengti South Rd N Entrance Ramp
+522;2;2659;si huan wai quan
+522;3;2659;4th Ring Outside Ring
+522;2;2660;feng ti nan lu nan ce
+522;3;2660;Fengti South Rd S
+522;2;2662;feng tai nan lu nan ce
+522;3;2662;Fengtai South Rd S
+522;2;2663;feng tai nan lu nan ce si huan chu kou za dao
+522;3;2663;Fengtai South Rd S 4th Ring Exit Ramp
+522;2;2664;feng ti nan lu nan ce si huan wai quan chu kou za dao
+522;3;2664;Fengti South Rd S 4th Ring Outside Ring Exit Ramp
+522;2;2665;si huan wai quan feng ti nan lu nan ce ru kou za dao
+522;3;2665;4th Ring Outside Ring Fengti South Rd S Entrance Ramp
+522;2;2666;feng ti nan lu bei ce si huan nei quan chu kou za dao
+522;3;2666;Fengti South Rd N 4th Ring Inside Ring Exit Ramp
+522;2;2667;si huan nei quan feng ti nan lu chu kou za dao
+522;3;2667;4th Ring Inside Ring Fengti South Rd Exit Ramp
+522;2;2668;feng ti nan lu nan ce si huan nei quan chu kou za dao
+522;3;2668;Fengti South Rd S 4th Ring Inside Ring Exit Ramp
+522;2;2671;si huan nei quan feng ti nan lu nan ce ru kou za dao
+522;3;2671;4th Ring Inside Ring Fengti South Rd S Entrance Ramp
+522;2;2672;feng ti nan lu fu lu
+522;3;2672;Fengti South Rd Side Rd
+522;2;2673;feng ti nan lu bei ce feng ti nan lu fu lu chu kou za dao
+522;3;2673;Fengti South Rd N Fengti South Rd Side Rd Exit Ramp
+522;2;2674;feng ti nan lu bei ce xi si huan nan lu fu lu chu kou za dao
+522;3;2674;Fengti South Rd N W 4th South Rd Side Rd Exit Ramp
+522;2;2675;feng ti nan lu bei ce za dao
+522;3;2675;Fengti South Rd N Ramp
+522;2;2676;feng ti nan lu bei ce za dao feng ti nan lu fu lu chu kou za dao
+522;3;2676;Fengti South Rd N Ramp Fengti South Rd Side Rd Exit Ramp
+522;2;2679;lian hua chi xi lu nan ce si huan nei quan chu kou za dao
+522;3;2679;Lianhuachi West Rd S 4th Ring Inside Ring Exit Ramp
+522;2;2680;lian hua chi xi lu nan ce si huan chu kou za dao
+522;3;2680;Lianhuachi West Rd S 4th Ring Exit Ramp
+522;2;2682;lian hua chi xi lu nan ce xi si huan zhong lu fu lu chu kou za dao
+522;3;2682;Lianhuachi West Rd S W 4th Ring Middle Rd Side Rd Exit Ramp
+522;2;2684;si huan nei quan lian hua chi xi lu bei ce ru kou za dao
+522;3;2684;4th Ring Inside Ring Lianhuachi West Rd N Entrance Ramp
+522;2;2685;si huan nei quan lian hua chi xi lu ru kou za dao
+522;3;2685;4th Ring Inside Ring Lianhuachi West Rd Entrance Ramp
+522;2;2686;lian shi dong lu nan ce
+522;3;2686;Lianshi East Rd S
+522;2;2687;si huan nei quan lian shi dong lu nan ce ru kou za dao
+522;3;2687;4th Ring Inside Ring Lianshi East Rd S Entrance Ramp
+522;2;2688;lian shi dong lu nan ce si huan ru kou za dao
+522;3;2688;Lianshi East Rd S 4th Ring Entrance Ramp
+522;2;2690;lian shi dong lu nan ce xi si huan zhong lu fu lu ru kou za dao
+522;3;2690;Lianshi East Rd S W 4th Ring Middle Rd Side Rd Entrance Ramp
+522;2;2691;si huan wai quan lian shi dong lu nan ce ru kou za dao
+522;3;2691;4th Ring Outside Ring Lianshi East Rd S Entrance Ramp
+522;2;2693;si huan wai quan lian shi dong lu chu kou za dao
+522;3;2693;4th Ring Outside Ring Lianshi East Rd Exit Ramp
+522;2;2694;lian shi dong lu bei ce
+522;3;2694;Lianshi East Rd N
+522;2;2695;lian shi dong lu bei ce si huan wai quan chu kou za dao
+522;3;2695;Lianshi East Rd N 4th Ring Outside Ring Exit Ramp
+522;2;2696;lian hua chi xi lu nan ce si huan wai quan chu kou za dao
+522;3;2696;Lianhuachi West Rd S 4th Ring Outside Ring Exit Ramp
+522;2;2697;si huan nei quan xi si huan zhong lu fu lu chu kou za dao
+522;3;2697;4th Ring Inside Ring W 4th Ring Middle Rd Side Rd Exit Ramp
+522;2;2699;si huan nei quan lian hua chi xi lu bei chu kou za dao
+522;3;2699;4th Ring Inside Ring Lianhuachi West Rd N Exit Ramp
+522;2;2700;lian shi dong lu bei ce si huan nei quan chu kou za dao
+522;3;2700;Lianshi East Rd N 4th Ring Inside Ring Exit Ramp
+522;2;2701;si huan wai quan lian hua chi xi lu ru kou za dao
+522;3;2701;4th Ring Outside Ring Lianhuachi West Rd Entrance Ramp
+522;2;2702;fu shi lu
+522;3;2702;Fushi Rd
+522;2;2703;fu shi lu si huan nei quan chu kou za dao
+522;3;2703;Fushi Rd 4th Ring Inside Ring Exit Ramp
+522;2;2705;fu shi lu nan ce
+522;3;2705;Fushi Rd S
+522;2;2707;fu shi lu bei ce
+522;3;2707;Fushi Rd N
+522;2;2708;fu shi lu bei ce si huan chu kou za dao
+522;3;2708;Fushi Rd N 4th Ring Exit Ramp
+522;2;2709;fu shi lu bei ce si huan nei quan chu kou za dao
+522;3;2709;Fushi Rd N 4th Ring Inside Ring Exit Ramp
+522;2;2710;fu shi lu bei ce si huan wai quan chu kou za dao
+522;3;2710;Fushi Rd N 4th Ring Outside Ring Exit Ramp
+522;2;2711;si huan fu shi lu nan ce ru kou za dao
+522;3;2711;4th Ring Fushi Rd S Entrance Ramp
+522;2;2712;si huan nei quan fu shi lu nan ce ru kou za dao
+522;3;2712;4th Ring Inside Ring Fushi Rd S Entrance Ramp
+522;2;2713;si huan wai quan fu shi lu nan ce ru kou za dao
+522;3;2713;4th Ring Outside Ring Fushi Rd S Entrance Ramp
+522;2;2715;fu shi lu nan ce si huan nei quan chu kou za dao
+522;3;2715;Fushi Rd S 4th Ring Inside Ring Exit Ramp
+522;2;2716;fu shi lu nan ce si huan wai quan chu kou za dao
+522;3;2716;Fushi Rd S 4th Ring Outside Ring Exit Ramp
+522;2;2718;si huan wai quan fu shi lu bei ce ru kou za dao
+522;3;2718;4th Ring Outside Ring Fushi Rd N Entrance Ramp
+522;2;2719;bei wu cun lu
+522;3;2719;Beiwucun Rd
+522;2;2720;si huan nei quan bei wu cun lu ru kou za dao
+522;3;2720;4th Ring Inside Ring Beiwucun Rd Entrance Ramp
+522;2;2721;si huan wai quan bei wu cun lu chu kou za dao
+522;3;2721;4th Ring Outside Ring Beiwucun Rd Exit Ramp
+522;2;2722;fu rong bei lu
+522;3;2722;Furong North Rd
+522;2;2723;si huan wai quan fu rong bei lu chu kou za dao
+522;3;2723;4th Ring Outside Ring Furong North Rd Exit Ramp
+522;2;2724;wan quan he kuai su lu xi ce
+522;3;2724;Wanquanhe Expy W
+522;2;2726;wan quan he kuai su lu xi ce wan quan he qiao ru kou za dao
+522;3;2726;Wanquanhe Expy W Wanquanhe Brg Entrance Ramp
+522;2;2727;wan quan he kuai su lu xi ce si huan chu kou za dao
+522;3;2727;Wanquanhe Expy W 4th Ring Exit Ramp
+522;2;2729;si huan nei quan wan quan he kuai su lu xi ce ru kou za dao
+522;3;2729;4th Ring Inside Ring Wanquanhe Expy W Entrance Ramp
+522;2;2731;si huan nei quan wan quan he kuai su lu dong ce ru kou za dao
+522;3;2731;4th Ring Inside Ring Wanquanhe Expy E Entrance Ramp
+522;2;2733;si huan wai quan cai he fang lu chu kou za dao
+522;3;2733;4th Ring Outside Ring Caihefang Rd Exit Ramp
+522;2;2735;si huan wai quan bei chen xi lu ru kou za dao
+522;3;2735;4th Ring Outside Ring Beichen West Rd Entrance Ramp
+522;2;2737;si huan wai quan bei chen qiao chu kou za dao
+522;3;2737;4th Ring Outside Ring Beichen Brg Exit Ramp
+522;2;2740;si huan bei chen dong lu chu kou za dao
+522;3;2740;4th Ring Beichen East Rd Exit Ramp
+522;2;2741;si huan nei quan bei chen dong lu chu kou za dao
+522;3;2741;4th Ring Inside Ring Beichen East Rd Exit Ramp
+522;2;2742;si huan wai quan bei chen dong lu chu kou za dao
+522;3;2742;4th Ring Outside Ring Beichen East Rd Exit Ramp
+522;2;2744;si huan wai quan jing mi lu ru kou za dao
+522;3;2744;4th Ring Outside Ring Jingmi Rd Entrance Ramp
+522;2;2746;si huan wai quan shou du ji chang gao su gong lu ru kou za dao
+522;3;2746;4th Ring Outside Ring Capital Airport Hwy Entrance Ramp
+522;2;2747;si huan nei quan jing mi lu chu kou za dao
+522;3;2747;4th Ring Inside Ring Jingmi Rd Exit Ramp
+522;2;2748;jing mi lu xi ce
+522;3;2748;Jingmi Rd W
+522;2;2749;si huan nei quan jing mi lu xi ce chu kou za dao
+522;3;2749;4th Ring Inside Ring Jingmi Rd W Exit Ramp
+522;2;2750;jing mi lu dong ce
+522;3;2750;Jingmi Rd E
+522;2;2751;si huan nei quan jing mi lu dong ce chu kou za dao
+522;3;2751;4th Ring Inside Ring Jingmi Rd E Exit Ramp
+522;2;2752;si huan wai quan jing mi lu chu kou za dao
+522;3;2752;4th Ring Outside Ring Jingmi Rd Exit Ramp
+522;2;2754;si huan nei quan jing mi lu ru kou za dao
+522;3;2754;4th Ring Inside Ring Jingmi Rd Entrance Ramp
+522;2;2755;si huan wai quan jing mi lu dong ce chu kou za dao
+522;3;2755;4th Ring Outside Ring Jingmi Rd E Exit Ramp
+522;2;2756;si huan jing mi lu chu kou za dao
+522;3;2756;4th Ring Jingmi Rd Exit Ramp
+522;2;2758;jing tong kuai su gong lu si huan wai quan chu kou za dao
+522;3;2758;Jingtong Fwy 4th Ring Outside Ring Exit Ramp
+522;2;2759;jing tong kuai su gong lu nan ce
+522;3;2759;Jingtong Fwy S
+522;2;2760;jing tong kuai su gong lu nan ce si huan wai quan chu kou za dao
+522;3;2760;Jingtong Fwy S 4th Ring Outside Ring Exit Ramp
+522;2;2762;jing tong kuai su gong lu nan ce si huan nei quan chu kou za dao
+522;3;2762;Jingtong Fwy S 4th Ring Inside Ring Exit Ramp
+522;2;2763;si huan nei quan za dao
+522;3;2763;4th Ring Inside Ring Ramp
+522;2;2766;si huan nei quan si hui qiao chu kou za dao
+522;3;2766;4th Ring Inside Ring Sihui Brg Exit Ramp
+522;2;2767;jing tong kuai su gong lu bei
+522;3;2767;Jingtong Fwy N
+522;2;2768;si huan nei quan jing tong kuai su gong lu bei chu kou za dao
+522;3;2768;4th Ring Inside Ring Jingtong Fwy N Exit Ramp
+522;2;2769;si huan nei quan za dao si hui qiao chu kou za dao
+522;3;2769;4th Ring Inside Ring Ramp Sihui Brg Exit Ramp
+522;2;2770;jing tong kuai su gong lu bei ce
+522;3;2770;Jingtong Fwy N
+522;2;2772;jing tong kuai su gong lu bei ce si huan nei quan chu kou za dao
+522;3;2772;Jingtong Fwy N 4th Ring Inside Ring Exit Ramp
+522;2;2773;tong hui he bei lu gao su gong lu bei ce
+522;3;2773;Tonghuihe North Rd Hwy N
+522;2;2774;tong hui he bei lu gao su gong lu bei ce si huan chu kou za dao
+522;3;2774;Tonghuihe North Rd Hwy N 4th Ring Exit Ramp
+522;2;2776;jing tong kuai su gong lu nan
+522;3;2776;Jingtong Fwy S
+522;2;2777;si huan nei quan jing tong kuai su gong lu nan ru kou za dao
+522;3;2777;4th Ring Inside Ring Jingtong Fwy S Entrance Ramp
+522;2;2778;si huan wai quan jing tong kuai su gong lu nan chu kou za dao
+522;3;2778;4th Ring Outside Ring Jingtong Fwy S Exit Ramp
+522;2;2779;si huan wai quan jing tong kuai su gong lu bei ru kou za dao
+522;3;2779;4th Ring Outside Ring Jingtong Fwy N Entrance Ramp
+522;2;2780;si huan wai quan za dao
+522;3;2780;4th Ring Outside Ring Ramp
+522;2;2781;si huan wai quan za dao jing tong kuai su gong lu ru kou za dao
+522;3;2781;4th Ring Outside Ring Ramp Jingtong Fwy Entrance Ramp
+522;2;2782;jing tong kuai su gong lu bei ce si huan wai quan chu kou za dao
+522;3;2782;Jingtong Fwy N 4th Ring Outside Ring Exit Ramp
+522;2;2783;si huan wai quan jing tong kuai su gong lu ru kou za dao
+522;3;2783;4th Ring Outside Ring Jingtong Fwy Entrance Ramp
+522;2;2784;si huan wai quan si hui qiao ru kou za dao
+522;3;2784;4th Ring Outside Ring Sihui Brg Entrance Ramp
+522;2;2785;si huan wai quan tong hui he bei lu gao su gong lu ru kou za dao
+522;3;2785;4th Ring Outside Ring Tonghuihe North Rd Hwy Entrance Ramp
+522;2;2786;si hui qiao dong bei ce
+522;3;2786;Sihui Brg E N
+522;2;2787;si huan wai quan si hui qiao dong bei ce ru kou za dao
+522;3;2787;4th Ring Outside Ring Sihui Brg E N Entrance Ramp
+522;2;2788;tong hui he bei lu gao su gong lu bei
+522;3;2788;Tonghuihe North Rd Hwy N
+522;2;2790;si huan wai quan tong hui he bei lu gao su gong lu bei ru kou za dao
+522;3;2790;4th Ring Outside Ring Tonghuihe North Rd Hwy N Entrance Ramp
+522;2;2791;si huan nei quan jing tong kuai su gong lu nan ce ru kou za dao
+522;3;2791;4th Ring Inside Ring Jingtong Fwy S Entrance Ramp
+522;2;2792;si huan nei quan jing tong kuai su gong lu ru kou za dao
+522;3;2792;4th Ring Inside Ring Jingtong Fwy Entrance Ramp
+522;2;2793;si huan nei quan jing tong kuai su gong lu bei ce ru kou za dao
+522;3;2793;4th Ring Inside Ring Jingtong Fwy N Entrance Ramp
+522;2;2795;lian shi dong lu nan ce wu huan chu kou za dao
+522;3;2795;Lianshi East Rd S 5th Ring Exit Ramp
+522;2;2796;wu huan nei quan
+522;3;2796;5th Ring Inside Ring
+522;2;2797;lian shi dong lu nan ce wu huan nei quan chu kou za dao
+522;3;2797;Lianshi East Rd S 5th Ring Inside Ring Exit Ramp
+522;2;2798;wu huan wai quan
+522;3;2798;5th Ring Outside Ring
+522;2;2799;lian shi dong lu nan ce wu huan wai quan chu kou za dao
+522;3;2799;Lianshi East Rd S 5th Ring Outside Ring Exit Ramp
+522;2;2800;wu huan nei quan lian shi dong lu nan ce ru kou za dao
+522;3;2800;5th Ring Inside Ring Lianshi East Rd S Entrance Ramp
+522;2;2801;wu huan nei quan lian shi dong lu ru kou za dao
+522;3;2801;5th Ring Inside Rign Lianshi East Rd Entrance Ramp
+522;2;2802;wu huan nei quan lian shi dong lu bei ce ru kou za dao
+522;3;2802;5th Ring Inside Ring Lianshi East Rd N Entrance Ramp
+522;2;2803;lian shi xi lu bei ce
+522;3;2803;Lianshi West Rd N
+522;2;2804;lian shi xi lu bei ce wu huan wai quan chu kou za dao
+522;3;2804;Lianshi West Rd N 5th Ring Outside Ring Exit Ramp
+522;2;2805;lian shi xi lu bei ce wu huan chu kou za dao
+522;3;2805;Lianshi West Rd N 5th Ring Exit Ramp
+522;2;2806;lian shi xi lu bei ce wu huan nei quan chu kou za dao
+522;3;2806;Lianshi West Rd N 5th Ring Inside Ring Exit Ramp
+522;2;2807;wu huan wai quan lian shi dong lu bei ce ru kou za dao
+522;3;2807;5th Ring Outside Rign Lianshi East Rd N Entrance Ramp
+522;2;2808;lian shi xi lu nan ce
+522;3;2808;Lianshi West Rd S
+522;2;2809;wu huan wai quan lian shi xi lu nan ce ru kou za dao
+522;3;2809;5th Ring Outside Ring Lianshi West Rd S Entrance Ramp
+522;2;2810;wu huan wai quan lian shi dong lu ru kou za dao
+522;3;2810;5th Ring Outside Ring Lianshi East Rd Entrance Ramp
+522;2;2811;wu huan wai quan fu shi lu nan ce ru kou za dao
+522;3;2811;5th Ring Outside Ring Fushi Rd S Entrance Ramp
+522;2;2812;wu huan wai quan fu shi lu ru kou za dao
+522;3;2812;5th Ring Outside Ring Fushi Rd Entrance Ramp
+522;2;2813;wu huan wai quan fu shi lu bei ce ru kou za dao
+522;3;2813;5th Ring Outside Ring Fushi Rd N Entrance Ramp
+522;2;2814;fu shi lu nan ce wu huan nei quan chu kou za dao
+522;3;2814;Fushi Rd S 5th Ring Inside Ring Exit Ramp
+522;2;2817;fu shi lu nan ce wu jing qiao dong jie chu kou za dao
+522;3;2817;Fushi Rd S Wujing Brg East St Exit Ramp
+522;2;2820;jin yuan qiao li jiao
+522;3;2820;Jinyuan Brg Jct
+522;2;2821;fu shi lu nan ce jin yuan qiao li jiao chu kou za dao
+522;3;2821;Fushi Rd S Jinyuan Brg Jct Exit Ramp
+522;2;2822;fu shi lu nan ce wu huan chu kou za dao
+522;3;2822;Fushi Rd S 5th Ring Exit Ramp
+522;2;2823;fu shi lu nan ce wu huan wai quan chu kou za dao
+522;3;2823;Fushi Rd S 5th Ring Outside Ring Exit Ramp
+522;2;2825;wu huan nei quan fu shi lu bei ce ru kou za dao
+522;3;2825;5th Ring Inside Ring Fushi Rd N Entrance Ramp
+522;2;2826;wu huan nei quan fu shi lu ru kou za dao
+522;3;2826;5th Ring Inside Ring Fushi Rd Entrance Ramp
+522;2;2827;fu shi lu bei ce wu huan wai quan chu kou za dao
+522;3;2827;Fushi Rd N 5th Ring Outside Ring Exit Ramp
+522;2;2828;fu shi lu bei ce wu huan chu kou za dao
+522;3;2828;Fushi Rd N 5th Ring Exit Ramp
+522;2;2829;fu shi lu bei ce wu huan nei quan chu kou za dao
+522;3;2829;Fushi Rd N 5th Ring Inside Ring Exit Ramp
+522;2;2830;wu huan nei quan fu shi lu nan ce ru kou za dao
+522;3;2830;5th Ring Inside Ring Fushi Rd S Entrance Ramp
+522;2;2832;wu huan nei quan xiang shan nan lu chu kou za dao
+522;3;2832;5th Ring Inside Ring Xiangshan South Rd Exit Ramp
+522;2;2833;wu huan nei quan xiang shan nan lu ru kou za dao
+522;3;2833;5th Ring Inside Ring Xiangshan South Rd Entrance Ramp
+522;2;2834;wu huan wai quan xiang shan nan lu chu kou za dao
+522;3;2834;5th Ring Outside Ring Xiangshan South Rd Exit Ramp
+522;2;2835;wu huan wai quan xiang shan nan lu ru kou za dao
+522;3;2835;5th Ring Outside Ring Xiangshan South Rd Entrance Ramp
+522;2;2836;xing shi kou qiao nan ce
+522;3;2836;Xingshikou Brg S
+522;2;2837;wu huan nei quan xing shi kou qiao nan ce chu kou za dao
+522;3;2837;5th Ring Inside Ring Xingshikou Brg S Exit Ramp
+522;2;2840;wu huan xing shi kou qiao nan ce chu kou za dao
+522;3;2840;5th Ring Xingshikou Brg S Exit Ramp
+522;2;2841;wu huan wai quan xing shi kou qiao nan ce chu kou za dao
+522;3;2841;5th Ring Outside Ring Xingshikou Brg S Exit Ramp
+522;2;2842;xing shi kou qiao bei ce
+522;3;2842;Xingshikou Brg N
+522;2;2844;wu huan nei quan xing shi kou qiao ru kou za dao
+522;3;2844;5th Ring Inside Ring Xingshikou Brg Entrance Ramp
+522;2;2845;wu huan xing shi kou qiao ru kou za dao
+522;3;2845;5th Ring Xingshikou Brg Entrance Ramp
+522;2;2846;wu huan wai quan xing shi kou qiao ru kou za dao
+522;3;2846;5th Ring Outside Ring Xingshikou Brg Entrance Ramp
+522;2;2848;wu huan wai quan xing shi kou qiao nan ce ru kou za dao
+522;3;2848;5th Ring Outside Ring Xingshikou Brg S Entrance Ramp
+522;2;2849;wu huan wai quan xing shi kou qiao bei ce ru kou za dao
+522;3;2849;5th Ring Outside Ring Xingshikou Brg N Entrance Ramp
+522;2;2851;xiang quan huan dao
+522;3;2851;Xiangquanhuandao
+522;2;2852;wu huan nei quan xiang quan huan dao chu kou za dao
+522;3;2852;5th Ring Inside Ring Xiangquanhuandao Exit Ramp
+522;2;2853;wu huan wai quan xiang quan huan dao ru kou za dao
+522;3;2853;5th Ring Outside Ring Xiangquanhuandao Entrance Ramp
+522;2;2854;shang he yan lu
+522;3;2854;Shangheyan Rd
+522;2;2855;wu huan nei quan shang he yan lu ru kou za dao
+522;3;2855;5th Ring Inside Ring Shangheyan Rd Entrance Ramp
+522;2;2862;wu huan wai quan wan quan he kuai su lu xi ce ru kou za dao
+522;3;2862;5th Ring Outside Ring Wanquanhe Expy W Entrance Ramp
+522;2;2865;wu huan wai quan xiao jia he qiao li jiao wang wan quan he kuai su lu xi ce fang xiang chu kou za dao
+522;3;2865;5th Ring Outside Ring Xiaojiahe Brg Jct from Wanquanhe Expy W Fangxiang Exit Ramp
+522;2;2866;xiao jia he qiao li jiao (wan quan he kuai su lu xi ce fang xiang)
+522;3;2866;Xiaojiahe Brg Jct (Wanquanhe Expy W Fangxiang)
+522;2;2867;wu huan nei quan wan quan he kuai su lu xi ce ru kou za dao
+522;3;2867;5th Ring Inside Ring Wanquanhe Expy W Entrance Ramp
+522;2;2871;wu huan wai quan yuan ming yuan xi lu chu kou za dao
+522;3;2871;5th Ring Outside Ring Yuanmingyuan West Rd Exit Ramp
+522;2;2872;wan quan he kuai su lu xi ce wu huan wai quan chu kou za dao
+522;3;2872;Wanquanhe Expy W 5th Ring Outside Ring Exit Ramp
+522;2;2873;wan quan he kuai su lu xi ce wu huan ru kou za dao
+522;3;2873;Wanquanhe Expy W 5th Ring Entrance Ramp
+522;2;2876;xiao jia he qiao li jiao xi
+522;3;2876;Xiaojiaheqiao Jct W
+522;2;2878;wu huan nei quan xiao jia he qiao li jiao xi ru kou za dao
+522;3;2878;5th Ring Inside Ring Xiaojiahe Brg Jct W Entrance Ramp
+522;2;2879;wan quan he kuai su lu dong ce wu huan ru kou za dao
+522;3;2879;Wanquanhe Expy E 5th Ring Entrance Ramp
+522;2;2880;wu huan wai quan wan quan he kuai su lu dong ce ru kou za dao
+522;3;2880;5th Ring Outside Ring Wanquanhe Expy E Entrance Ramp
+522;2;2881;wu huan nei quan wan quan he kuai su lu dong ce ru kou za dao
+522;3;2881;5th Ring Inside Ring Wanquanhe Expy E Entrance Ramp
+522;2;2882;wan quan he kuai su lu dong ce wu huan wai quan chu kou za dao
+522;3;2882;Wanquanhe Expy E 5th Ring Outside Ring Exit Ramp
+522;2;2884;wu huan nei quan zhong guan cun bei da jie chu kou za dao
+522;3;2884;5th Ring Inside Ring Zhongguancun North St Exit Ramp
+522;2;2885;lin cui lu
+522;3;2885;Lincui Rd
+522;2;2886;wu huan nei quan lin cui lu chu kou za dao
+522;3;2886;5th Ring Inside Ring Lincui Rd Exit Ramp
+522;2;2887;wu huan wai quan lin cui lu ru kou za dao
+522;3;2887;5th Ring Outside Ring Lincui Rd Entrance Ramp
+522;2;2888;ao lin xi lu
+522;3;2888;Aolin West Rd
+522;2;2889;wu huan nei quan ao lin xi lu chu kou za dao
+522;3;2889;5th Ring Inside Ring Aolin West Rd Exit Ramp
+522;2;2890;chao yang qu ao yun cun xiang ren da
+522;3;2890;Chaoyangquaoyuncunxiangrenda
+522;2;2894;wu huan you chao yang qu ao yun cun xiang ren da zhi ao lin xi lu ru kou za dao
+522;3;2894;5th Ring from Chaoyang District Aoyuncunxiangrenda to Aolin West Rd Entrance Ramp
+522;2;2895;wu huan wai quan lin cui lu chu kou za dao
+522;3;2895;5th Ring Outside Ring Lincui Rd Exit Ramp
+522;2;2898;wu huan nei quan ao lin xi lu ru kou za dao
+522;3;2898;5th Ring Inside Ring Aolin West Rd Entrance Ramp
+522;2;2900;wu huan nei quan an li lu chu kou za dao
+522;3;2900;5th Ring Inside Ring Anli Rd Exit Ramp
+522;2;2902;wu huan nei quan bei yuan lu chu kou za dao
+522;3;2902;5th Ring Inside Ring Beiyuan Rd Exit Ramp
+522;2;2903;wu huan wai quan bei yuan lu ru kou za dao
+522;3;2903;5th Ring Outside Ring Beiyuan Rd Entrance Ramp
+522;2;2904;wu huan wai quan bei yuan lu chu kou za dao
+522;3;2904;5th Ring Outside Ring Beiyuan Rd Exit Ramp
+522;2;2906;bei yuan dong lu
+522;3;2906;Beiyuan East Rd
+522;2;2907;wu huan nei quan bei yuan dong lu chu kou za dao
+522;3;2907;5th Ring Inside Ring Beiyuan East Rd Exit Ramp
+522;2;2908;bei yuan dong lu xi ce
+522;3;2908;Beiyuan East Rd W
+522;2;2909;wu huan nei quan bei yuan dong lu xi ce chu kou za dao
+522;3;2909;5th Ring Inside Ring Beiyuan East Rd W Exit Ramp
+522;2;2910;wu huan nei quan za dao
+522;3;2910;5th Ring Inside Ring Ramp
+522;2;2911;wu huan nei quan za dao bei yuan dong lu ru kou za dao
+522;3;2911;5th Ring Inside Ring Ramp Beiyuan East Rd Entrance Ramp
+522;2;2912;bei yuan dong lu xi
+522;3;2912;Beiyuan East Rd W
+522;2;2913;wu huan nei quan bei yuan dong lu xi chu kou za dao
+522;3;2913;5th Ring Inside Ring Beiyuan East Rd W Exit Ramp
+522;2;2914;bei yuan dong lu zhong
+522;3;2914;Beiyuan East Rd M
+522;2;2915;wu huan nei quan bei yuan dong lu zhong chu kou za dao
+522;3;2915;5th Ring Inside Ring Beiyuan East Rd M Exit Ramp
+522;2;2917;bei yuan dong lu dong ce
+522;3;2917;Beiyuan East Rd E
+522;2;2918;wu huan nei quan bei yuan dong lu dong ce chu kou za dao
+522;3;2918;5th Ring Inside Ring Beiyuan East Rd E Exit Ramp
+522;2;2919;bei yuan dong lu dong
+522;3;2919;Beiyuan East Rd E
+522;2;2920;wu huan nei quan bei yuan dong lu dong ru kou za dao
+522;3;2920;5th Ring Inside Ring Beiyuan East Rd E Entrance Ramp
+522;2;2921;wu huan wai quan bei yuan dong lu chu kou za dao
+522;3;2921;5th Ring Outside Ring Beiyuan East Rd Exit Ramp
+522;2;2923;wu huan wai quan bei yuan dong lu dong chu kou za dao
+522;3;2923;5th Ring Outside Ring Beiyuan East Rd E Exit Ramp
+522;2;2924;wu huan wai quan za dao
+522;3;2924;5th Ring Outside Ring Ramp
+522;2;2925;gu jia zhuang qiao li jiao
+522;3;2925;Gujiazhuang Brg Jct
+522;2;2926;wu huan wai quan za dao gu jia zhuang qiao li jiao chu kou za dao
+522;3;2926;5th Ring Outside Ring Ramp Gujiazhuang Brg Jct Exit Ramp
+522;2;2929;wu huan wai quan bei yuan dong lu dong ce chu kou za dao
+522;3;2929;5th Ring Outside Ring Beiyuan East Rd E Exit Ramp
+522;2;2931;wu huan wai quan bei yuan dong lu zhong chu kou za dao
+522;3;2931;5th Ring Outside Ring Beiyuan East Rd M Exit Ramp
+522;2;2932;wu huan wai quan bei yuan dong lu xi chu kou za dao
+522;3;2932;5th Ring Outside Ring Beiyuan East Rd W Exit Ramp
+522;2;2933;lai guang ying xi lu nan ce
+522;3;2933;Laiguangying West Rd S
+522;2;2934;wu huan wai quan lai guang ying xi lu nan ce chu kou za dao
+522;3;2934;5th Ring Outside Ring Laiguangying West Rd S Exit Ramp
+522;2;2935;lai guang ying xi lu bei ce
+522;3;2935;Laiguangying West Rd N
+522;2;2936;wu huan wai quan lai guang ying xi lu bei ce chu kou za dao
+522;3;2936;5th Ring Outside Ring Laiguangying West Rd N Exit Ramp
+522;2;2937;wu huan wai quan bei yuan dong lu xi ce chu kou za dao
+522;3;2937;5th Ring Outside Ring Beiyuan East Rd W Exit Ramp
+522;2;2938;guang shun bei da jie
+522;3;2938;Guangshun North St
+522;2;2939;wu huan nei quan guang shun bei da jie chu kou za dao
+522;3;2939;5th Ring Inside Ring Guangshun North St Exit Ramp
+522;2;2940;wu huan wai quan guang shun bei da jie ru kou za dao
+522;3;2940;5th Ring Outside Ring Guangshun North St Entrance Ramp
+522;2;2941;wu huan wai quan guang shun bei da jie chu kou za dao
+522;3;2941;5th Ring Outside Ring Guangshun North St Exit Ramp
+522;2;2944;wu huan nei quan ping cui xi lu ru kou za dao
+522;3;2944;5th Ring Inside Ring Pingcui West Rd Entrance Ramp
+522;2;2945;wu huan nei quan jing mi lu chu kou za dao
+522;3;2945;5th Ring Inside Ring Jingmi Rd Exit Ramp
+522;2;2946;wu yuan qiao li jiao
+522;3;2946;Wuyuan Brg Jct
+522;2;2947;wu huan nei quan wu yuan qiao li jiao chu kou za dao
+522;3;2947;5th Ring Inside Ring Wuyuan Brg Jct Exit Ramp
+522;2;2948;wu huan jing mi lu chu kou za dao
+522;3;2948;5th Ring Jingmi Rd Exit Ramp
+522;2;2949;jing mi lu bei ce
+522;3;2949;Jingmi Rd N
+522;2;2951;wu huan wai quan jing mi lu bei ce chu kou za dao
+522;3;2951;5th Ring Outside Ring Jingmi Rd N Exit Ramp
+522;2;2952;shou du ji chang gao su gong lu zhong
+522;3;2952;Capital Airport Hwy M
+522;2;2954;wu huan wai quan shou du ji chang gao su gong lu zhong chu kou za dao
+522;3;2954;5th Ring Outside Ring Capital Airport Hwy M Exit Ramp
+522;2;2956;jing mi lu dong
+522;3;2956;Jingmi Rd E
+522;2;2957;wu huan wai quan jing mi lu dong chu kou za dao
+522;3;2957;5th Ring Outside Ring Jingmi Rd E Exit Ramp
+522;2;2958;wu huan jing mi lu dong ce chu kou za dao
+522;3;2958;5th Ring Jingmi Rd E Exit Ramp
+522;2;2959;wu huan nei quan jing mi lu dong ce chu kou za dao
+522;3;2959;5th Ring Inside Ring Jingmi Rd E Exit Ramp
+522;2;2961;wu yuan qiao li jiao you wu huan nei quan zhi jing mi lu dong ce chu kou za dao
+522;3;2961;Wuyuan Brg Jct from 5th Ring Inside Ring to Jingmi Rd E Exit Ramp
+522;2;2962;wu huan wai quan jing mi lu chu kou za dao
+522;3;2962;5th Ring Outside Ring Jingmi Rd Exit Ramp
+522;2;2963;wu huan jing mi lu xi ce ru kou za dao
+522;3;2963;5th Ring Jingmi Rd W Entrance Ramp
+522;2;2964;wu huan nei quan jing mi lu xi ce ru kou za dao
+522;3;2964;5th Ring Inside Ring Jingmi Rd W Entrance Ramp
+522;2;2965;wu huan wai quan jing mi lu xi ce ru kou za dao
+522;3;2965;5th Ring Outside Ring Jingmi Rd W Entrance Ramp
+522;2;2966;wu huan wai quan shou du ji chang gao su gong lu ru kou za dao
+522;3;2966;5th Ring Outside Ring Capital Airport Hwy Entrance Ramp
+522;2;2967;dong ba lu
+522;3;2967;Dongba Rd
+522;2;2968;wu huan wai quan dong ba lu ru kou za dao
+522;3;2968;5th Ring Outside Ring Dongba Rd Entrance Ramp
+522;2;2969;wu huan nei quan dong ba lu chu kou za dao
+522;3;2969;5th Ring Inside Ring Dongba Rd Exit Ramp
+522;2;2971;wu huan nei quan dong ba lu ru kou za dao
+522;3;2971;5th Ring Inside Ring Dongba Rd Entrance Ramp
+522;2;2972;wu huan wai quan dong ba lu chu kou za dao
+522;3;2972;5th Ring Outside Ring Dongba Rd Exit Ramp
+522;2;2974;jing tong kuai su gong lu nan ce wu huan wai quan chu kou za dao
+522;3;2974;Jingtong Fwy S 5th Ring Outside Ring Exit Ramp
+522;2;2975;jing tong kuai su gong lu nan ce wu huan chu kou za dao
+522;3;2975;Jingtong Fwy S 5th Ring Exit Ramp
+522;2;2976;wu huan jing tong kuai su gong lu bei ce ru kou za dao
+522;3;2976;5th Ring Jingtong Fwy N Entrance Ramp
+522;2;2977;yuan tong qiao li jiao
+522;3;2977;Yuantong Brg Jct
+522;2;2980;yuan tong qiao li jiao you jing tong kuai su gong lu bei ce zhi wu huan wai quan ru kou za dao
+522;3;2980;Yuantong Brg Jct from Jingtong Fwy N to 5th Ring Outside Ring Entrance Ramp
+522;2;2981;wu huan wai quan jing tong kuai su gong lu bei ce ru kou za dao
+522;3;2981;5th Ring Outside Ring Jingtong Fwy N Entrance Ramp
+522;2;2982;wu huan nei quan jing tong kuai su gong lu chu kou za dao
+522;3;2982;5th Ring Inside Ring Jingtong Fwy Exit Ramp
+522;2;2983;jing tong kuai su gong lu bei ce wu huan nei quan chu kou za dao
+522;3;2983;Jingtong Fwy N 5th Ring Inside Ring Exit Ramp
+522;2;2985;jing tong kuai su gong lu nan ce wu huan nei quan chu kou za dao
+522;3;2985;Jingtong Fwy S 5th Ring Inside Ring Exit Ramp
+522;2;2987;jing tong kuai su gong lu nan ce jian guo lu chu kou za dao
+522;3;2987;Jingtong Fwy S Jianguo Rd Exit Ramp
+522;2;2989;jing tong kuai su gong lu nan ce za dao
+522;3;2989;Jingtong Fwy S Ramp
+522;2;2990;jing tong kuai su gong lu nan ce za dao jian guo lu chu kou za dao
+522;3;2990;Jingtong Fwy S Ramp Jianguo Rd Exit Ramp
+522;2;2992;wu huan jing tong kuai su gong lu nan ce ru kou za dao
+522;3;2992;5th Ring Jingtong Fwy S Entrance Ramp
+522;2;2993;wu huan wai quan jing tong kuai su gong lu nan ce ru kou za dao
+522;3;2993;5th Ring Outside Ring Jingtong Fwy S Entrance Ramp
+522;2;2994;wu huan nei quan jing tong kuai su gong lu nan ce ru kou za dao
+522;3;2994;5th Ring Inside Ring Jingtong Fwy S Entrance Ramp
+522;2;2995;wu huan nei quan jing tong kuai su gong lu bei ce ru kou za dao
+522;3;2995;5th Ring Inside Ring Jingtong Fwy N Entrance Ramp
+522;2;3003;kang hua lu
+522;3;3003;Kanghua Rd
+522;2;3004;wu huan wai quan kang hua lu chu kou za dao
+522;3;3004;5th Ring Outside Ring Kanghua Rd Exit Ramp
+522;2;3005;kang hua lu wai ce
+522;3;3005;Kanghua Rd Outside
+522;2;3006;wu huan wai quan kang hua lu wai ce chu kou za dao
+522;3;3006;5th Ring Outside Ring Kanghua Rd Outside Exit Ramp
+522;2;3007;kang hua lu nei ce
+522;3;3007;Kanghua Rd Inside
+522;2;3008;wu huan wai quan kang hua lu nei ce chu kou za dao
+522;3;3008;5th Ring Outside Ring Kanghua Rd Inside Exit Ramp
+522;2;3010;wu huan nei quan kang hua lu nei ce ru kou za dao
+522;3;3010;5th Ring Inside Ring Kanghua Rd Inside Entrance Ramp
+522;2;3018;san tai shan lu dong ce
+522;3;3018;Santaishan Rd E
+522;2;3019;wu huan wai quan san tai shan lu dong ce chu kou za dao
+522;3;3019;5th Ring Outside Ring Santaishan Rd E Exit Ramp
+522;2;3020;wu huan wai quan san tai shan lu dong ce ru kou za dao
+522;3;3020;5th Ring Outside Ring Santaishan Rd E Entrance Ramp
+522;2;3022;wu huan wai quan rong hua bei lu ru kou za dao
+522;3;3022;5th Ring Outside Ring Ronghua North Rd Entrance Ramp
+522;2;3023;wu huan nei quan san tai shan lu dong ce chu kou za dao
+522;3;3023;5th Ring Inside Ring Santaishan Rd E Exit Ramp
+522;2;3025;wu huan nei quan dong ma lu ru kou za dao
+522;3;3025;5th Ring Inside Ring Dongma Rd Entrance Ramp
+522;2;3026;san tai shan lu dong
+522;3;3026;Santaishan Rd E
+522;2;3027;wu huan nei quan san tai shan lu dong chu kou za dao
+522;3;3027;5th Ring Inside Ring Santaishan Rd E Exit Ramp
+522;2;3028;san tai shan lu zhong
+522;3;3028;Santaishan Rd M
+522;2;3029;wu huan nei quan san tai shan lu zhong chu kou za dao
+522;3;3029;5th Ring Inside Ring Santaishan Rd M Exit Ramp
+522;2;3030;san tai shan lu xi
+522;3;3030;Santaishan Rd W
+522;2;3031;wu huan nei quan san tai shan lu xi ru kou za dao
+522;3;3031;5th Ring Inside Ring Santaishan Rd W Entrance Ramp
+522;2;3032;san tai shan lu xi ce
+522;3;3032;Santaishan Rd W
+522;2;3033;wu huan nei quan san tai shan lu xi ce ru kou za dao
+522;3;3033;5th Ring Inside Ring Santaishan Rd W Entrance Ramp
+522;2;3034;wu huan nei quan za dao san tai shan lu xi ce ru kou za dao
+522;3;3034;5th Ring Inside Ring Ramp Santaishan Rd W Entrance Ramp
+522;2;3035;wu huan nei quan san tai shan lu xi ce chu kou za dao
+522;3;3035;5th Ring Inside Ring Santaishan Rd W Exit Ramp
+522;2;3036;wu huan wai quan san tai shan lu xi ce chu kou za dao
+522;3;3036;5th Ring Ouside Ring Santaishan Rd W Exit Ramp
+522;2;3037;huang yi lu
+522;3;3037;Huangyi Rd
+522;2;3038;wu huan wai quan huang yi lu ru kou za dao
+522;3;3038;5th Ring Outside Ring Huangyi Rd Entrance Ramp
+522;2;3039;shun xin jie
+522;3;3039;Shunxin St
+522;2;3040;wu huan nei quan shun xin jie chu kou za dao
+522;3;3040;5th Ring Inside Ring Shunxin St Exit Ramp
+522;2;3042;nan zhong zhou lu dong ce
+522;3;3042;S Zhongzhou Rd E
+522;2;3045;nan zhong zhou lu xi ce
+522;3;3045;S Zhongzhou Rd W
+522;2;3048;wu huan wai quan nan zhong zhou lu chu kou za dao
+522;3;3048;5th Ring Outside Ring S Zhongzhou Rd Exit Ramp
+522;2;3049;nan zhong zhou lu xi
+522;3;3049;S Zhongzhou Rd W
+522;2;3050;wu huan wai quan nan zhong zhou lu xi chu kou za dao
+522;3;3050;5th Ring Outside Ring S Zhongzhou Rd W Exit Ramp
+522;2;3051;nan zhong zhou lu zhong
+522;3;3051;S Zhongzhou Rd M
+522;2;3052;wu huan wai quan nan zhong zhou lu zhong chu kou za dao
+522;3;3052;5th Ring Outside Ring S Zhongzhou Rd M Exit Ramp
+522;2;3053;nan zhong zhou lu dong
+522;3;3053;S Zhongzhou Rd E
+522;2;3054;wu huan wai quan nan zhong zhou lu dong ru kou za dao
+522;3;3054;5th Ring Outside Ring S Zhongzhou Rd E Entrance Ramp
+522;2;3056;wu huan wai quan nan zhong zhou lu ru kou za dao
+522;3;3056;5th Ring Outside Ring S Zhongzhou Rd Entrance Ramp
+522;2;3057;wu huan nei quan nan zhong zhou lu chu kou za dao
+522;3;3057;5th Ring Inside Ring S Zhongzhou Rd Exit Ramp
+522;2;3058;wu huan nei quan nan zhong zhou lu dong ce chu kou za dao
+522;3;3058;5th Ring Inside Ring S Zhongzhou Rd E Exit Ramp
+522;2;3059;wu huan nei quan nan zhong zhou lu dong chu kou za dao
+522;3;3059;5th Ring Inside Ring S Zhongzhou Rd E Exit Ramp
+522;2;3060;wu huan nei quan nan zhong zhou lu zhong chu kou za dao
+522;3;3060;5th Ring Inside Ring S Zhongzhou Rd M Exit Ramp
+522;2;3061;wu huan nei quan nan zhong zhou lu xi ru kou za dao
+522;3;3061;5th Ring Inside Ring S Zhongzhou Rd W Entrance Ramp
+522;2;3062;wu huan nei quan nan zhong zhou lu dong ce ru kou za dao
+522;3;3062;5th Ring Inside Ring S Zhongzhou Rd E Entrance Ramp
+522;2;3063;wu huan nei quan nan zhong zhou lu xi ce ru kou za dao
+522;3;3063;5th Ring Inside Ring S Zhongzhou Rd W Entrance Ramp
+522;2;3064;wu huan wai quan nan zhong zhou lu xi ce ru kou za dao
+522;3;3064;5th Ring Outside Ring S Zhongzhou Rd W Entrance Ramp
+522;2;3065;wu huan wai quan nan zhong zhou lu dong ce chu kou za dao
+522;3;3065;5th Ring Outside Ring S Zhongzhou Rd E Exit Ramp
+522;2;3066;wu huan wai quan nan zhong zhou lu dong ce ru kou za dao
+522;3;3066;5th Ring Outside Ring S Zhongzhou Rd E Entrance Ramp
+522;2;3067;wu huan wai quan nan zhong zhou lu xi ce chu kou za dao
+522;3;3067;5th Ring Outside Ring S Zhongzhou Rd W Exit Ramp
+522;2;3068;wu huan nei quan nan zhong zhou lu xi ce chu kou za dao
+522;3;3068;5th Ring Inside Ring S Zhongzhou Rd W Exit Ramp
+522;2;3069;wu huan nei quan huang yi lu ru kou za dao
+522;3;3069;5th Ring Inside Ring Huangyi Rd Entrance Ramp
+522;2;3070;wu huan wai quan huang yi lu chu kou za dao
+522;3;3070;5th Ring Outside Ring Huangyi Rd Exit Ramp
+522;2;3071;bei xing lu
+522;3;3071;Beixing Rd
+522;2;3072;wu huan nei quan bei xing lu chu kou za dao
+522;3;3072;5th Ring Inside Ring Beixing Rd Exit Ramp
+522;2;3073;wu huan nei quan bei xing lu ru kou za dao
+522;3;3073;5th Ring Inside Ring Beixing Rd Entrance Ramp
+522;2;3074;wu huan wai quan bei xing lu ru kou za dao
+522;3;3074;5th Ring Outside Ring Beixing Rd Entrance Ramp
+522;2;3075;wu huan wai quan bei xing lu chu kou za dao
+522;3;3075;5th Ring Outside Ring Beixing Rd Exit Ramp
+522;2;3076;lu hua lu
+522;3;3076;Luhua Rd
+522;2;3077;wu huan wai quan lu hua lu ru kou za dao
+522;3;3077;5th Ring Outside Ring Luhua Rd Entrance Ramp
+522;2;3079;wu huan nei quan lu hua lu chu kou za dao
+522;3;3079;5th Ring Inside Ring Luhua Rd Exit Ramp
+522;2;3080;wu huan wai quan lu hua lu chu kou za dao
+522;3;3080;5th Ring Outside Ring Luhua Rd Exit Ramp
+522;2;3081;wu huan nei quan lu hua lu ru kou za dao
+522;3;3081;5th Ring Inside Ring Luhua Rd Entrance Ramp
+522;2;3084;wu huan nei quan lu qiu bei lu chu kou za dao
+522;3;3084;5th Ring Inside Ring Luqiu North Rd Exit Ramp
+522;2;3086;wu huan wai quan zuo di lu ru kou za dao
+522;3;3086;5th Ring Outside Ring Zuodi Rd Entrance Ramp
+522;2;3088;shi jing shan lu bei ce
+522;3;3088;Shijingshan Rd N
+522;2;3089;wu huan nei quan shi jing shan lu bei ce ru kou za dao
+522;3;3089;5th Ring Inside Ring Shijingshan Rd N Entrance Ramp
+522;2;3090;wu huan nei quan wu jing qiao dong jie ru kou za dao
+522;3;3090;5th Ring Inside Ring Wujing Brg East St Entrance Ramp
+522;2;3091;wu huan nei quan shi jing shan lu ru kou za dao
+522;3;3091;5th Ring Inside Ring Shijingshan Rd Entrance Ramp
+522;2;3092;wu huan wai quan shi jing shan lu chu kou za dao
+522;3;3092;5th Ring Outside Ring Shijingshan Rd Exit Ramp
+522;2;3094;wu huan nei quan yu quan shan lu ru kou za dao
+522;3;3094;5th Ring Inside Ring Yuquanshan Rd Entrance Ramp
+522;2;3095;xiang shan lu
+522;3;3095;Xiangshan Rd
+522;2;3096;wu huan wai quan xiang shan lu chu kou za dao
+522;3;3096;5th Ring Outside Ring Xiangshan Rd Exit Ramp
+522;2;3097;xiang shan lu dong ce
+522;3;3097;Xiangshan Rd E
+522;2;3099;xiang shan lu xi ce
+522;3;3099;Xiangshan Rd W
+522;2;3100;wu huan wai quan xiang shan lu xi ce chu kou za dao
+522;3;3100;5th Ring Outside Ring Xiangshan Rd W Exit Ramp
+522;2;3101;wu huan wai quan xiang shan lu dong ce chu kou za dao
+522;3;3101;5th Ring Outside Ring Xiangshan Rd E Exit Ramp
+522;2;3103;wu huan wai quan xiang hong qi lu ru kou za dao
+522;3;3103;5th Ring Outside Ring Xianghongqi Rd Entrance Ramp
+522;2;3104;wu huan nei quan xiang hong qi lu ru kou za dao
+522;3;3104;5th Ring Inside Ring Xianghongqi Rd Entrance Ramp
+522;2;3105;wu huan wai quan xiang hong qi lu chu kou za dao
+522;3;3105;5th Ring Outside Ring Xianghongqi Rd Exit Ramp
+522;2;3107;xi si huan zhong lu fu lu dong ce
+522;3;3107;W 4th Ring Middle Rd Side Rd E
+522;2;3109;lian hua chi xi lu nan ce xi si huan zhong lu fu lu dong ce ru kou za dao
+522;3;3109;Lianhuachi West Rd S W 4th Ring Middle Rd Side Rd E Entrance Ramp
+522;2;3111;si huan nei quan shi ba li dian qiao ru kou za dao
+522;3;3111;4th Ring Inside Ring Shibalidian Brg Entrance Ramp
+522;2;3114;er huan wai quan dong zhi men bei da jie shang za dao
+522;3;3114;2nd Ring Outside Ring Dongzhimen North St Entrance Ramp
+522;2;3115;wan quan he kuai su lu dong ce yuan ming yuan xi lu chu kou za dao
+522;3;3115;Wanquanhe Expy E Yuanmingyuan West Rd Exit Ramp
+522;2;3117;si huan nei quan jian xiang qiao chu kou za dao
+522;3;3117;4th Ring Inside Ring Jianxiang Brg Exit Ramp
+522;2;3119;wu huan nei quan san tai shan lu chu kou za dao
+522;3;3119;5th Ring Inside Ring Santaishan Rd Exit Ramp
+522;2;3120;er huan nei quan dong zhi men bei da jie xia za dao
+522;3;3120;2nd Ring Inside Ring Dongzhimen North St Exit Ramp
+522;2;3121;de sheng men xi da jie
+522;3;3121;Deshengmen West St
+522;2;3124;san huan feng tai bei lu bei ce ru kou za dao
+522;3;3124;3rd Ring Fengtai North Rd N Entrance Ramp
+522;2;3125;er huan nei quan guang ming qiao bei ce ru kou za dao
+522;3;3125;2nd Ring Inside Ring Guangming Brg N Entrance Ramp
+522;2;3126;si huan nei quan fu shi lu bei ce ru kou za dao
+522;3;3126;4th Ring Inside Ring Fushi Rd N Entrance Ramp
+522;2;3127;si huan nei quan jing mi lu xi ce ru kou za dao
+522;3;3127;4th Ring Inside Ring Jingmi Rd W Entrance Ramp
+522;2;3128;si huan wai quan shi ba li dian qiao shang za dao
+522;3;3128;4th Ring Outside Ring Shibalidian Brg Entrance Ramp
+522;2;3129;lian shi dong lu nan ce za dao
+522;3;3129;Lianshi East Rd S Ramp
+522;2;3130;lian shi dong lu nan ce za dao xi si huan zhong lu fu lu chu kou za dao
+522;3;3130;Lianshi East Rd S Ramp W 4th Ring Middle Rd Side Rd Exit Ramp
+522;2;3131;wu huan nei quan nan zhong zhou lu ru kou za dao
+522;3;3131;5th Ring Inside Ring S Zhongzhou Rd Entrance Ramp
+522;2;3133;wan quan he kuai su lu xi ce wan quan he lu xia za dao
+522;3;3133;Wanquanhe Expy W Wanquanhe Rd Exit Ramp
+522;2;3134;san huan nei quan guo mao qiao bei ce chu kou za dao
+522;3;3134;3rd Ring Inside Ring Guomao Brg N Exit Ramp
+522;2;3135;wu huan wai quan bei yuan dong lu xi ce ru kou za dao
+522;3;3135;5th Ring Outside Ring Beiyuan East Rd W Entrance Ramp
+522;2;3137;san huan wai quan lian hua chi xi lu chu kou za dao
+522;3;3137;3rd Ring Outside Ring Lianhuachi West Rd Exit Ramp
+522;2;3138;jing tong kuai su gong lu si huan ru kou za dao
+522;3;3138;Jingtong Fwy 4th Ring Entrance Ramp
+522;2;3139;jing tong kuai su gong lu bei ce si huan ru kou za dao
+522;3;3139;Jingtong Fwy N 4th Ring Entrance Ramp
+522;2;3140;jing tong kuai su gong lu nan ce si huan ru kou za dao
+522;3;3140;Jingtong Fwy S 4th Ring Entrance Ramp
+522;2;3141;qian zhu ge zhuang
+522;3;3141;Qianzhugezhuang
+522;2;3144;zhong tie gong cheng da sha
+522;3;3144;Zhongtiegongchengdasha
+522;2;3145;gao run gao er fu ju le bu
+522;3;3145;Gaorun Archery
+522;2;3147;liu niang fu lu
+522;3;3147;Liuniangfu Rd
+522;2;3148;da li lu
+522;3;3148;Dali Rd
+522;2;3149;hei quan lu
+522;3;3149;Heiquan Rd
+522;2;3150;guan zhuang lu
+522;3;3150;Guanzhuang Rd
+522;2;3153;jin ding shan lu
+522;3;3153;Jindingshan Rd
+522;2;3160;bang zi jing bei lu
+522;3;3160;Bangzijing North Rd
+522;2;3161;hong jun ying lu
+522;3;3161;Hongjunying Rd
+522;2;3164;fa tou jie
+522;3;3164;Fatou St
+522;2;3171;li ze lu bei ce
+522;3;3171;Lize Rd N
+522;2;3172;er huan wai quan li ze lu bei ce chu kou za dao
+522;3;3172;2nd Ring Outside Ring Lize Rd N Exit Ramp
+522;2;3173;lin cui lu dong ce
+522;3;3173;Lincui Rd E
+522;2;3174;wu huan wai quan lin cui lu dong ce chu kou za dao
+522;3;3174;5th Ring Outside Ring Lincui Rd E Exit Ramp
+522;2;3178;jing kun lu
+522;3;3178;Jingkun Rd
+522;2;3179;yan fang lu
+522;3;3179;Yanfang Rd
+522;2;3186;guo jia ti yu chang bei lu
+522;3;3186;Guojiatiyuchang North Rd
+522;2;3190;tai yang gong nan jie
+522;3;3190;Taiyanggong South St
+522;2;3191;jing tang lu
+522;3;3191;Jingtang Rd
+522;2;3192;tai he lu
+522;3;3192;Taihe Rd
+522;2;3196;yu guan ying
+522;3;3196;Yuguanying
+522;2;3198;liang xiang dong qu shi liu hao lu
+522;3;3198;Liangxiangdongqushiliuhao Rd
+522;2;3200;ji shi kou dong lu
+522;3;3200;Jishikou East Rd
+522;2;3201;yang lin chu kou lu
+522;3;3201;Yanglinchukou Rd
+522;2;3202;su jia tuo
+522;3;3202;Sujiatuo
+522;2;3207;guang chang xi ce lu
+522;3;3207;Guangchangxice Rd
+522;2;3211;jiu gong dong lu
+522;3;3211;Jiugong East Rd
+522;2;3214;dong si huan nan lu fu lu zhi shi li he yin yue you er yuan
+522;3;3214;E 4th Ring South Rd Side Rd to Shiliheyinyueyoueryuan
+522;2;3230;feng tai dong lu
+522;3;3230;Fengtai East Rd
+522;2;3233;guo gong zhuang xiao xue
+522;3;3233;Guogongzhuangxiaoxue
+522;2;3234;fan yang lu zhi fen zhuang
+522;3;3234;Fanyang Rd to Fenzhuang
+522;2;3235;fen zhuang
+522;3;3235;Fenzhuang
+522;2;3236;xi da wang nan lu zhi shi li he yin yue you er yuan
+522;3;3236;Xidawang South Rd to Shiliheyinyueyoueryuan
+522;2;3237;yu yang lu
+522;3;3237;Yuyang Rd
+522;2;3240;302 shi dao
+522;3;3240;302 City Ave
+522;2;3245;bei jing lv se yin xiang gao er fu ju le bu
+522;3;3245;Beijing Green Dream Golf Club
+522;2;3246;teng long you er yuan
+522;3;3246;Tenglong Kindergarten
+522;2;3247;jin zhan qiao
+522;3;3247;Jinzhan Brg
+522;2;3248;gang shan shou fei zhan
+522;3;3248;Gangshan Tollgate
+522;2;3250;xing wang lu
+522;3;3250;Xingwang Rd
+522;2;3259;lang fu da jie
+522;3;3259;Langfu Ave
+522;2;3260;mi xi lu
+522;3;3260;Mixi Rd
+522;2;3261;S274
+522;3;3261;S274
+522;2;3263;wu xing lu
+522;3;3263;Wuxing Rd
+522;2;3268;ting che qu
+522;3;3268;Parking Area
+522;2;3274;hua yuan xi jie
+522;3;3274;Huayuan West St
+522;2;3275;wa zi
+522;3;3275;Wazi
+522;2;3276;xi liu huan
+522;3;3276;W 6th Ring
+522;2;3277;qian ling shan shou fei zhan
+522;3;3277;Qianlingshan Tollgate
+522;2;3278;da hui chang dong lu
+522;3;3278;Dahuichang East Rd
+522;2;3280;he xie jia yuan er qu
+522;3;3280;District 2 Harmonious Homestead
+522;2;3281;ji chang dong lu
+522;3;3281;Jichang East Rd
+522;2;3284;bei lu cao yuan hu tong
+522;3;3284;Beilucaoyuan Hu Tong
+522;2;3285;lu yuan er jie
+522;3;3285;Luyuaner St
+522;2;3290;tang jia ling lu
+522;3;3290;Tangjialing Rd
+522;2;3291;nong da xiao qu bei qu
+522;3;3291;Nongdaxiaoqubeiqu
+522;2;3296;da lu dian bei lu
+522;3;3296;Daludian North Rd
+522;2;3297;fa xin fu qian jie
+522;3;3297;Faxinfu Front St
+522;2;3299;Y814
+522;3;3299;Y814
+522;2;3303;tai ping zhuang zhong jie
+522;3;3303;Taipingzhuang Middle St
+522;2;3311;feng xiang lu
+522;3;3311;Fengxiang Rd
+522;2;3313;bai jia tuan lu
+522;3;3313;Baijiatuan Rd
+522;2;3318;bi yun si lu
+522;3;3318;Biyunsi Rd
+522;2;3319;chang run lu
+522;3;3319;Changrun Rd
+522;2;3320;bao sheng dong lu
+522;3;3320;Baosheng East Rd
+522;2;3324;tai hu da jie
+522;3;3324;Taihu Ave
+522;2;3328;tai yang gong bei jie
+522;3;3328;Taiyanggong North St
+522;2;3329;xiao ying bei lu
+522;3;3329;Xiaoying North Rd
+522;2;3330;shou pa kou bei jie
+522;3;3330;Shoupakou North St
+522;2;3331;mei shi jie
+522;3;3331;Meishi St
+522;2;3332;ba jiao xi jie
+522;3;3332;Bajiao West St
+522;2;3333;ba jiao bei lu
+522;3;3333;Bajiao North Rd
+522;2;3334;ping guo yuan nan lu
+522;3;3334;Pingguoyuan South Rd
+522;2;3335;dong feng nan lu
+522;3;3335;Dongfeng South Rd
+522;2;3336;xing huo xi lu
+522;3;3336;Xinghuo West Rd
+522;2;3337;dong tu cheng lu
+522;3;3337;Dongtucheng Rd
+522;2;3338;ba da chu lu
+522;3;3338;Badachu Rd
+522;2;3340;jin yu qiao zhi shou du ji chang fu lu
+522;3;3340;Jinyu Brg to Shoudujichang Side Rd
+522;2;3341;jin yu qiao
+522;3;3341;Jinyu Brg
+522;2;3342;da tun lu sui dao
+522;3;3342;Datunlu Tunl
+522;2;3343;ke xue yuan nan li zhong jie
+522;3;3343;Kexueyuannanli Middle St
+522;2;3344;zhuang hu ren jia
+522;3;3344;Zhuanghu Renjia
+522;2;3345;wu huan nei quan ding cheng lu dong ce ru kou za dao
+522;3;3345;5th Ring Inside Ring Dingcheng Rd E Entrance Ramp
+522;2;3346;ding cheng lu dong ce
+522;3;3346;Dingcheng Rd E
+522;2;3347;wu huan wai quan za dao ding cheng lu dong ce ru kou za dao
+522;3;3347;5th Ring Outside Ring Ramp Dingcheng Rd E Entrance Ramp
+522;2;3350;xi zhi men wai da jie bei ce er huan ru kou za dao
+522;3;3350;Xizhimen Outer St N 2nd Ring Entrance Ramp
+522;2;3351;xi zhi men wai da jie bei ce
+522;3;3351;Xizhimen Outer St N
+522;2;3352;wu huan nei quan da lu dian bei lu ru kou za dao
+522;3;3352;5th Ring Inside Ring Daludian North Rd Entrance Ramp
+522;2;3353;wu huan nei quan lao jun tang zhong lu ru kou za dao
+522;3;3353;5th Ring Inside Ring Laojuntang Middle Rd Entrance Ramp
+522;2;3354;wu huan nei quan lao jun tang zhong lu wai ce ru kou za dao
+522;3;3354;5th Ring Inside Ring Laojuntang Middle Rd Outside Entrance Ramp
+522;2;3355;lao jun tang zhong lu wai ce
+522;3;3355;Laojuntang Middle Rd Outside
+522;2;3356;wu huan nei quan da lu dian bei lu chu kou za dao
+522;3;3356;5th Ring Inside Ring Daludian North Rd Exit Ramp
+522;2;3357;da lu dian bei lu bei ce
+522;3;3357;Daludian North Rd N
+522;2;3358;wu huan nei quan da lu dian bei lu bei ce chu kou za dao
+522;3;3358;5th Ring Inside Ring Daludian North Rd N Exit Ramp
+522;2;3359;da lu dian bei lu nan ce
+522;3;3359;Daludian North Rd S
+522;2;3360;wu huan nei quan da lu dian bei lu nan ce chu kou za dao
+522;3;3360;5th Ring Inside Ring Daludian North Rd S Exit Ramp
+522;2;3363;dian shang
+522;3;3363;Dianshang
+522;2;3364;guang chang dong ce lu
+522;3;3364;Guangchangdongce Rd
+522;2;3370;dong yao lu
+522;3;3370;Dongyao Rd
+522;2;3371;dong ma ge zhuang qiao
+522;3;3371;Dongmagezhuang Brg
+522;2;3372;pu he er qiao
+522;3;3372;Puheer Brg
+522;2;3373;hong du dong lu
+522;3;3373;Hongdu East Rd
+522;2;3374;hua mao dong lu
+522;3;3374;Huamao East Rd
+522;2;3377;san lu ju xiao xue xiao
+522;3;3377;Sanlujuxiaoxuexiao
+522;2;3378;he zhao yun
+522;3;3378;Hezhaoyun
+522;2;3379;hei shan hu lu
+522;3;3379;Heishanhu Rd
+522;2;3380;jia jia fen
+522;3;3380;Jiajiafen
+522;2;3386;bei jing tian wen guan
+522;3;3386;Beijingtianwenguan
+522;2;3387;gao liang qiao lu
+522;3;3387;Gaoliangqiao Rd
+522;2;3398;chang chun jie xi ce
+522;3;3398;Changchun St W
+522;2;3399;chang chun jie xi ce er huan chu kou za dao
+522;3;3399;Changchunjie W 2nd Ring Exit Ramp
+522;2;3401;shou du ji chang ji tuan gong si
+522;3;3401;Capital Airport Holding Company
+522;2;3402;jing hua jie
+522;3;3402;Jinghua St
+522;2;3403;lu si lu
+522;3;3403;Lusi Rd
+522;2;3405;chang chi lu
+522;3;3405;Changchi Rd
+522;2;3406;shui xin lu
+522;3;3406;Shuixin Rd
+522;2;3407;xin sha lu
+522;3;3407;Xinsha Rd
+522;2;3410;sha tai lu
+522;3;3410;Shatai Rd
+522;2;3411;ma bei lu
+522;3;3411;Mabei Rd
+522;2;3413;jin shan ling shou fei zhan
+522;3;3413;Jinshanling Tollgate
+522;2;3416;pian qiao shou fei zhan
+522;3;3416;Pianqiao Tollgate
+522;2;3417;huai rou qiao
+522;3;3417;Huairou Brg
+522;2;3418;Y401
+522;3;3418;Y401
+522;2;3421;hou jin lu
+522;3;3421;Houjin Rd
+522;2;3422;ying shi cheng lu
+522;3;3422;Yingshicheng Rd
+522;2;3423;da guang gao su gong lu
+522;3;3423;Daguang Hwy
+522;2;3426;bai cun
+522;3;3426;Baicun Village
+522;2;3427;yu fa nan shou fei zhan
+522;3;3427;Yufanan Tollgate
+522;2;3428;yu fa lu
+522;3;3428;Yufa Rd
+522;2;3429;jing cheng lu shou fei zhan
+522;3;3429;Jingcheng Road Tollgate
+522;2;3430;S227
+522;3;3430;S227
+522;2;3431;yu quan ying chu kou
+522;3;3431;Yuquanying Exit Ramp
+522;2;3435;ren li lu
+522;3;3435;Renli Rd
+522;2;3436;bei wu fu wu qu
+522;3;3436;Beiwu Service Area
+522;2;3442;huo xiao lu
+522;3;3442;Huoxiaolu
+522;2;3443;yong le ting che qu
+522;3;3443;Yongle Parking Area
+522;2;3444;he da lu
+522;3;3444;Heda Rd
+522;2;3445;jing hu gao su gong lu
+522;3;3445;Jinghu Hwy
+522;2;3446;cui hu bei lu
+522;3;3446;Cuihu North Rd
+522;2;3447;bai ge lu
+522;3;3447;Baige Rd
+522;2;3448;bai shan bei jia you zhan
+522;3;3448;Baishanbeijiayouzhan
+522;2;3449;wai huan xian
+522;3;3449;Outer Ring Line
+522;2;3450;bei huo fa cun
+522;3;3450;Beihuofa Village
+522;2;3451;yang fang lu chu kou
+522;3;3451;Yangfanglu Exit Ramp
+522;2;3460;niu bei lu
+522;3;3460;Niubei Rd
+522;2;3462;G6 fu lu
+522;3;3462;G6 Side Rd
+522;2;3463;ti xiang cao tang
+522;3;3463;Tixiang Caotang
+522;2;3466;hang zhan lou lian luo xian
+522;3;3466;Hangzhanloulianluo Line
+522;2;3467;ji chang nan lu
+522;3;3467;Jichang South Rd
+522;2;3469;zhen wu miao lu si tiao
+522;3;3469;Zhenwumiaolusi Aly
+522;2;3470;guang bai zhong lu
+522;3;3470;Guangbai Middle Rd
+522;2;3471;zheng fu si lu
+522;3;3471;Zhengfusi Rd
+522;2;3473;guang lai lu
+522;3;3473;Guanglai Rd
+522;2;3474;lu yang qiao xi lu
+522;3;3474;Luyangqiao West Rd
+522;2;3475;min zu yuan xi lu
+522;3;3475;Minzuyuan West Rd
+522;2;3476;long tan dong lu
+522;3;3476;Longtan East Rd
+522;2;3478;wen bei lu
+522;3;3478;Wenbei Rd
+522;2;3479;xi huang cheng gen bei jie
+522;3;3479;W Huangchenggen North St
+522;2;3480;bei hu qu lu
+522;3;3480;Beihuqu Rd
+522;2;3481;lou zi zhuang lu
+522;3;3481;Louzizhuang Rd
+522;2;3482;bei di zhong lu
+522;3;3482;Beidi Middle Rd
+522;2;3483;dong huang cheng gen nan jie
+522;3;3483;E Huangchenggen South St
+522;2;3484;jia chuang lu
+522;3;3484;Jiachuang Rd
+522;2;3485;jing hai er lu
+522;3;3485;Jinghaier Rd
+522;2;3486;jing hai yi lu
+522;3;3486;Jinghaiyi Rd
+522;2;3489;G1 fu lu
+522;3;3489;G1 Side Rd
+522;2;3490;bei zhan bei jie
+522;3;3490;Beizhan North St
+522;2;3491;ping ding shan
+522;3;3491;Pingdingshan
+522;2;3492;wang cun lu
+522;3;3492;Wangcun Rd
+522;2;3494;yong yin qu bei lu
+522;3;3494;Yongyinqu North Rd
+522;2;3495;ying bin lu
+522;3;3495;Yingbin Rd
+522;2;3496;nan gong nan lu
+522;3;3496;Nangong South Rd
+522;2;3497;wang zhuang cun
+522;3;3497;Wangzhuang Village
+522;2;3498;ke chuang dong san jie
+522;3;3498;Kechuangdongsan St
+522;2;3499;liu jing lu
+522;3;3499;Liujing Rd
+522;2;3500;cheng bei jie
+522;3;3500;Chengbei St
+522;2;3501;G4 fu lu
+522;3;3501;G4 Side Rd
+522;2;3502;hong ju bei jie
+522;3;3502;Hongju North St
+522;2;3503;zhen xing dong lu
+522;3;3503;Zhenxing East Rd
+522;2;3504;liang shui he yi jie
+522;3;3504;Liangshuiheyi St
+522;2;3505;san hai zi dong lu
+522;3;3505;Sanhaizi East Rd
+522;2;3506;xi tu cheng lu
+522;3;3506;Xitucheng Rd
+522;2;3507;bo xing liu lu
+522;3;3507;Boxingliu Rd
+522;2;3508;guang wai lu
+522;3;3508;Guangwai Rd
+522;2;3511;sun he pai chu suo
+522;3;3511;Sunhepaichusuo
+522;2;3512;nao shi kou bei jie
+522;3;3512;Naoshikou North St
+522;2;3513;xin yuan da jie
+522;3;3513;Xinyuan Ave
+522;2;3515;xi huang cheng gen nan jie
+522;3;3515;W Huangchenggen South St
+522;2;3516;jin xing lu
+522;3;3516;Jinxing Rd
+522;2;3518;lang xin zhuang lu
+522;3;3518;Langxinzhuang Rd
+522;2;3519;san zhi lu
+522;3;3519;Sanzhilu
+522;2;3521;cong lin zhuang xi lu
+522;3;3521;Conglinzhuang West Rd
+522;2;3523;xin tuan lu
+522;3;3523;Xintuan Rd
+522;2;3525;tuan li da jie
+522;3;3525;Tuanli Ave
+522;2;3527;lu yuan bei da jie
+522;3;3527;Luyuan North St
+522;2;3528;fu bi lu
+522;3;3528;Fubi Rd
+522;2;3529;pi cun lu
+522;3;3529;Picun Rd
+522;2;3530;li tian lu
+522;3;3530;Litian Rd
+522;2;3531;jing bao lu
+522;3;3531;Jingbao Rd
+522;2;3532;shang cheng lu
+522;3;3532;Shangcheng Rd
+522;2;3533;yu qiao zhong lu
+522;3;3533;Yuqiao Middle Rd
+522;2;3534;bei yun he xin di lu
+522;3;3534;Beiyunhexindi Rd
+522;2;3535;tong hu nan lu
+522;3;3535;Tonghu South Rd
+522;2;3536;qun fang nan jie
+522;3;3536;Qunfang South St
+522;2;3537;yun jing dong lu
+522;3;3537;Yunjing East Rd
+522;2;3538;qun fang zhong er jie
+522;3;3538;Qunfangzhonger St
+522;2;3539;dian qi cun
+522;3;3539;Dianqi Village
+522;2;3540;she ji chang lu
+522;3;3540;Shejichang Rd
+522;2;3541;zhang guo zhuang cun
+522;3;3541;Zhangguozhuang Village
+522;2;3542;er qi chang lu
+522;3;3542;Erqichang Rd
+522;2;3543;de xian lu
+522;3;3543;Dexian Rd
+522;2;3544;nan ding lu
+522;3;3544;Nanding Rd
+522;2;3546;jin shang bo wu guan
+522;3;3546;Shanxi Businessmen Museum
+522;2;3547;yun jing nan da jie
+522;3;3547;Yunjing South Ave
+522;2;3549;fu tong da sha
+522;3;3549;Futongdasha
+522;2;3553;long jin er jie
+522;3;3553;Longjiner St
+522;2;3554;Y908
+522;3;3554;Y908
+522;2;3556;nan zhu gan hu tong
+522;3;3556;S Zhugan Hu Tong
+522;2;3557;jiu gong qiao
+522;3;3557;Jiugong Brg
+522;2;3558;bai yun lu (fu xing men wai da jie)
+522;3;3558;Baiyun Rd (Fuxingmen Outer St)
+522;2;3559;hui long guan dong da jie zhi long jin er jie
+522;3;3559;Huilongguan E St to Longjiner St
+522;2;3560;qing feng lu
+522;3;3560;Qingfeng Rd
+522;2;3561;ma lian wa xi lu
+522;3;3561;Malianwa West Rd
+522;2;3575;xi zhi men bei da jie fu lu
+522;3;3575;Xizhimen North St Side Rd
+522;2;3576;xi tu cheng lu fu lu
+522;3;3576;Xitucheng Rd Side Rd
+522;2;3577;xue yuan lu fu lu
+522;3;3577;Xueyuan Rd Side Rd
+522;2;3578;xin de jie
+522;3;3578;Xinde St
+522;2;3579;shuang lin nan lu
+522;3;3579;Shuanglin South Rd
+522;2;3580;shui ku nan lu
+522;3;3580;Shuiku South Rd
+522;2;3581;liang xiang dong lu
+522;3;3581;Liangxiang East Rd
+522;2;3582;bei guan dong lu
+522;3;3582;Beiguan East Rd
+522;2;3587;ming cheng qiang yi zhi gong yuan
+522;3;3587;Ming Dynasty Wall Relics Park
+522;2;3590;zao jia jie
+522;3;3590;Zaojia St
+522;2;3592;feng tai nan lu zhi feng tai dong lu
+522;3;3592;Fengtai South Rd to Fengtai East Rd
+522;2;3594;rui li jiang pan
+522;3;3594;Ruili Jiangpan
+522;2;3595;lin hong lu
+522;3;3595;Linhong Rd
+522;2;3596;chun ze lu
+522;3;3596;Chunze Rd
+522;2;3599;da hong men xi lu
+522;3;3599;Dahongmen West Rd
+522;2;3600;da hong men lu
+522;3;3600;Dahongmen Rd
+522;2;3601;liu xiang lu
+522;3;3601;Liuxiang Rd
+522;2;3602;shun ba tiao
+522;3;3602;Shunba Aly
+522;2;3603;heng yi tiao
+522;3;3603;Hengyi Aly
+522;2;3604;cheng shou si zhong lu
+522;3;3604;Chengshousi Middle Rd
+522;2;3605;fang zhuang nan lu
+522;3;3605;Fangzhuang South Rd
+522;2;3606;cheng yi lu
+522;3;3606;Chengyi Rd
+522;2;3607;xi yu shun lu
+522;3;3607;Xiyushun Rd
+522;2;3608;nan yuan dong lu
+522;3;3608;Nanyuan East Rd
+522;2;3609;gong suo hu tong
+522;3;3609;Gongsuo Hu Tong
+522;2;3610;kai xuan da jie
+522;3;3610;Kaixuan Ave
+522;2;3611;jia rui tong xiao qu
+522;3;3611;Jiaruitongxiaoqu
+522;2;3612;da hong men dong qian jie
+522;3;3612;Dahongmendong Front St
+522;2;3613;chang yang lu
+522;3;3613;Changyang Rd
+522;2;3616;shang di nan lu
+522;3;3616;Shangdi South Rd
+522;2;3617;shang di wu jie
+522;3;3617;Shangdiwu St
+522;2;3619;qi xiao lu
+522;3;3619;Qixiaolu
+522;2;3620;long jin yi jie
+522;3;3620;Longjinyi St
+522;2;3621;xi xiao kou lu
+522;3;3621;Xixiaokou Rd
+522;2;3622;xin du lu
+522;3;3622;Xindu Rd
+522;2;3623;mao fang lu
+522;3;3623;Maofang Rd
+522;2;3624;qing he zhong jie
+522;3;3624;Qinghe Middle St
+522;2;3625;zhu fang lu
+522;3;3625;Zhufang Rd
+522;2;3626;yu an lu
+522;3;3626;Yu'an Rd
+522;2;3627;huo sha fu xian
+522;3;3627;Huoshafu Line
+522;2;3628;shui po bei jie
+522;3;3628;Shuipo North St
+522;2;3629;bei huan lu
+522;3;3629;N Ring Rd
+522;2;3630;ke xue yuan nan li xi jie
+522;3;3630;Kexueyuannanli West St
+522;2;3631;ke xue yuan nan li dong jie
+522;3;3631;Kexueyuannanli East St
+522;2;3632;hui zhong bei lu
+522;3;3632;Huizhong North Rd
+522;2;3633;ding cheng lu
+522;3;3633;Dingcheng Rd
+522;2;3634;lai guang ying dong lu
+522;3;3634;Laiguangying East Rd
+522;2;3635;jing shun dong jie
+522;3;3635;Jingshun East St
+522;2;3636;xin jin lu
+522;3;3636;Xinjin Rd
+522;2;3637;nan gao lu
+522;3;3637;Nan'gao Rd
+522;2;3638;jin yu lu
+522;3;3638;Jinyu Rd
+522;2;3639;wang si ying bei lu
+522;3;3639;Wangsiying North Rd
+522;2;3640;fa tou lu
+522;3;3640;Fatou Rd
+522;2;3641;wan tong lu
+522;3;3641;Wantong Rd
+522;2;3642;kang zhong jie
+522;3;3642;Kangzhong St
+522;2;3643;pu wai lu
+522;3;3643;Puwai Rd
+522;2;3644;jia chuang er lu
+522;3;3644;Jiachuanger Rd
+522;2;3645;jing hai lu
+522;3;3645;Jinghai Rd
+522;2;3646;xing yi lu
+522;3;3646;Xingyi Rd
+522;2;3647;xing hai er jie
+522;3;3647;Xinghaier St
+522;2;3648;qing yuan dong lu
+522;3;3648;Qingyuan East Rd
+522;2;3649;qing yuan xi lu
+522;3;3649;Qingyuan West Rd
+522;2;3650;xing ye da jie
+522;3;3650;Xingye Ave
+522;2;3651;tong qian lu
+522;3;3651;Tongqian Rd
+522;2;3652;yong hua lu
+522;3;3652;Yonghua Rd
+522;2;3653;zuo an men xi jie
+522;3;3653;Zuoanmen West St
+522;2;3654;gu cheng bei lu
+522;3;3654;Gucheng North Rd
+522;2;3655;yang zhuang da jie
+522;3;3655;Yangzhuang St
+522;2;3656;gu cheng dong jie
+522;3;3656;Gucheng East St
+522;2;3657;229 shi dao
+522;3;3657;229 City Ave
+522;2;3659;shui ni chang hou shen lu
+522;3;3659;Shuinichanghoushen Rd
+522;2;3660;xi guan lu
+522;3;3660;Xiguan Rd
+522;2;3661;yao ping lu
+522;3;3661;Yaoping Rd
+522;2;3662;203 shi dao
+522;3;3662;203 City Ave
+522;2;3663;yan he lu
+522;3;3663;Yanhe Rd
+522;2;3664;shan kou lu
+522;3;3664;Shankou Rd
+522;2;3665;da jue si lu
+522;3;3665;Dajuesi Rd
+522;2;3668;jiu zhou lu
+522;3;3668;Jiuzhou Rd
+522;2;3669;zhang ge zhuang cun
+522;3;3669;Zhanggezhuangcun
+522;2;3670;chang hong xi lu
+522;3;3670;Changhong West Rd
+522;2;3671;xi lu nan da jie
+522;3;3671;Xilu South Ave
+522;2;3672;zi yuan bei lu
+522;3;3672;Ziyuan North Rd
+522;2;3673;shun bai lu (xi wai jie)
+522;3;3673;Shunbai Rd (Xiwai St)
+522;2;3674;shun bai lu
+522;3;3674;Shunbai Rd
+522;2;3675;X007 ( jiu )
+522;3;3675;X007(Former)
+522;2;3676;bai de lu
+522;3;3676;Baide Rd
+522;2;3677;yong yu lu
+522;3;3677;Yongyu Rd
+522;2;3678;guo bei jia you zhan
+522;3;3678;Guobeijiayouzhan
+522;2;3680;huo sha lu
+522;3;3680;Huosha Rd
+522;2;3681;hua yi qiao
+522;3;3681;Huayi Brg
+522;2;3682;321 shi dao
+522;3;3682;321 City Ave
+522;2;3683;shun xi nan lu
+522;3;3683;Shunxi South Rd
+522;2;3684;bai quan zhuang yi qiao
+522;3;3684;Baiquanzhuangyi Brg
+522;2;3685;gao jia pu
+522;3;3685;Gaojiabao
+522;2;3686;xing hua nan lu
+522;3;3686;Xinghua South Rd
+522;2;3687;xi er qi nan lu
+522;3;3687;Xierqi South Rd
+522;2;3689;guo gong zhuang lu
+522;3;3689;Guogongzhuang Rd
+522;2;3691;lian qing lu
+522;3;3691;Lianqing Rd
+522;2;3692;guo jia zhuang
+522;3;3692;Guojiazhuang
+522;2;3693;hua gong qiao
+522;3;3693;Huagong Brg
+522;2;3694;wo long dong lu
+522;3;3694;Wolong East Rd
+522;2;3695;zhong dong lu zhi jian cai cheng dong lu
+522;3;3695;Zhongdong Rd to Jiancaicheng East Rd
+522;2;3696;kang ying dong lu zhi jing mi lu
+522;3;3696;Kangying East Rd to Jingmi Rd
+522;2;3697;kang ying dong lu
+522;3;3697;Kangying East Rd
+522;2;3699;dao xiang hu bei lu
+522;3;3699;Daoxianghu North Rd
+522;2;3703;guan di miao
+522;3;3703;Guandi Temple
+522;2;3704;dong huang cheng gen bei jie
+522;3;3704;E Huangchenggen North St
+522;2;3706;gao liang qiao xie jie
+522;3;3706;Gaoliangqiaoxie St
+522;2;3707;yu ting qiao zhi zuo an men xi bin he lu
+522;3;3707;Yuting Brg to Zuoanmenxibinhe Rd
+522;2;3708;feng mao nan lu
+522;3;3708;Fengmao South Rd
+522;2;3709;qiao liang chang di er she qu
+522;3;3709;Qiaoliangchangdiershequ
+522;2;3710;fu cheng men wai da jie fu lu
+522;3;3710;Fuchengmen Outer St Side Rd
+522;2;3711;fu an dong lu
+522;3;3711;Fuan East Rd
+522;2;3712;jian guo men wai da jie fu lu
+522;3;3712;Jianguomen Outer St Side Rd
+522;2;3713;jin yuan qiao
+522;3;3713;Jinyuan Brg
+522;2;3714;fu shi lu fu lu
+522;3;3714;Fushi Rd Side Rd
+522;2;3715;qian hou yin zi lu
+522;3;3715;Qianhouyinzi Rd
+522;2;3716;hou yin zi
+522;3;3716;Houyinzi
+522;2;3717;zi zhu yuan lu fu lu
+522;3;3717;Zizhuyuan Rd Side Rd
+522;2;3718;jin xing xi lu
+522;3;3718;Jinxing West Rd
+522;2;3719;bei jing hui yi zhong xin nan ce
+522;3;3719;Beijing Conference Center S
+522;2;3720;cao chang san tiao
+522;3;3720;Caochangsan Aly
+522;2;3721;xing wang bei lu
+522;3;3721;Xingwang North Rd
+522;2;3722;tai yang gong qiao
+522;3;3722;Taiyanggong Brg
+522;2;3723;shou pa kou qiao
+522;3;3723;Shoupakou Brg
+522;2;3724;dong xin dian zhong jie
+522;3;3724;Dongxindian Middle St
+522;2;3725;jiao dao dui lu
+522;3;3725;Jiaodaodui Rd
+522;2;3726;306 shi dao
+522;3;3726;306 City Ave
+522;2;3727;en ji lu
+522;3;3727;Enji Rd
+522;2;3728;302 shi dao zhi shuang qiao xi lu
+522;3;3728;302 City Ave to Shuangqiao West Rd
+522;2;3729;liu xing hua yuan san qu
+522;3;3729;Liuxinghuayuansanqu
+522;2;3730;tian zhu qiao
+522;3;3730;Tianzhu Brg
+522;2;3731;chang chun yuan lu
+522;3;3731;Changchunyuan Rd
+522;2;3732;cheng ze yuan lu
+522;3;3732;Chengzeyuan Rd
+522;2;3733;G110 ( jiu )
+522;3;3733;G110(Former)
+522;2;3734;kangzhuangshoufeizhan
+522;3;3734;Kangzhuang Tollgate
+522;2;3735;217 shi dao
+522;3;3735;217 City Ave
+522;2;3736;S216
+522;3;3736;S216
+522;2;3737;bei hu qu qiao
+522;3;3737;Beihuqu Brg
+522;2;3738;330 shi dao
+522;3;3738;330 City Ave
+522;2;3739;mi xing lu
+522;3;3739;Mixing Rd
+522;2;3740;mi xing lu jiu xian zhi xian
+522;3;3740;Mixinglujiuxian Br
+522;2;3741;wan yao lu
+522;3;3741;Wanyao Rd
+522;2;3744;224 shi dao
+522;3;3744;224 City Ave
+522;2;3745;qi da lu
+522;3;3745;Qidalu
+522;2;3746;wu liu yuan qiao
+522;3;3746;Wuliuyuan Brg
+522;2;3747;ma chi kou dong qiao
+522;3;3747;Machikou East Brg
+522;2;3749;chang tun qiao
+522;3;3749;Changtun Brg
+522;2;3750;rong shang liu lu
+522;3;3750;Rongshangliu Rd
+522;2;3751;fang shan li yuan qiao
+522;3;3751;Fangshanliyuan Brg
+522;2;3752;jian ting qiao
+522;3;3752;Jianting Brg
+522;2;3754;lang fa dong qiao
+522;3;3754;Langfa East Brg
+522;2;3755;sha shi chang lu
+522;3;3755;Shashichang Rd
+522;2;3756;nan sha wo qiao
+522;3;3756;Nanshawo Brg
+522;2;3761;si huan nei quan de xian lu chu kou za dao
+522;3;3761;4th Ring Inside Ring Dexian Rd Exit Ramp
+522;2;3762;de xian lu dong ce
+522;3;3762;Dexian Rd E
+522;2;3763;si huan nei quan de xian lu dong ce chu kou za dao
+522;3;3763;4th Ring Inside Ring Dexian Rd E Exit Ramp
+522;2;3764;de xian lu xi ce
+522;3;3764;Dexian Rd W
+522;2;3765;si huan nei quan de xian lu xi ce chu kou za dao
+522;3;3765;4th Ring Inside Ring Dexian Rd W Exit Ramp
+522;2;3771;de xian lu dong ce si huan chu kou za dao
+522;3;3771;Dexian Rd E 4th Ring Exit Ramp
+522;2;3772;de xian lu dong ce si huan nei quan chu kou za dao
+522;3;3772;Dexian Rd E 4th Ring Inside Ring Exit Ramp
+522;2;3773;de xian lu xi ce si huan chu kou za dao
+522;3;3773;Dexian Rd W 4th Ring Exit Ramp
+522;2;3774;de xian lu si huan chu kou za dao
+522;3;3774;Dexian Rd 4th Ring Exit Ramp
+522;2;3775;de xian lu si huan nei quan chu kou za dao
+522;3;3775;Dexian Rd 4th Ring Inside Ring Exit Ramp
+522;2;3776;de xian lu xi ce si huan wai quan chu kou za dao
+522;3;3776;Dexian Rd W 4th Ring Outside Ring Exit Ramp
+522;2;3777;de xian lu dong ce si huan wai quan chu kou za dao
+522;3;3777;Dexian Rd E 4th Ring Outside Ring Exit Ramp
+522;2;3779;de xian lu si huan wai quan chu kou za dao
+522;3;3779;Dexian Rd 4th Ring Outside Ring Exit Ramp
+522;2;3780;si huan wai quan de xian lu chu kou za dao
+522;3;3780;4th Ring Outside Ring Dexian Rd Exit Ramp
+522;2;3781;si huan wai quan de xian lu dong ce chu kou za dao
+522;3;3781;4th Ring Outside Ring Dexian Rd E Exit Ramp
+522;2;3782;si huan wai quan de xian lu xi ce chu kou za dao
+522;3;3782;4th Ring Outside Ring Dexian Rd W Exit Ramp
+522;2;3783;de xian lu wu huan chu kou za dao
+522;3;3783;Dexian Rd 5th Ring Exit Ramp
+522;2;3784;wu huan de xian lu chu kou za dao
+522;3;3784;5th Ring Dexian Rd Exit Ramp
+522;2;3785;da hui chang dong lu (zhou kou dian lu)
+522;3;3785;Dahuichang East Rd (Zhoukoudian Rd)
+522;2;3786;qian jie
+522;3;3786;Qianjie
+522;2;3787;bei an he lu (da jue si lu)
+522;3;3787;Beianhe Rd (Dajuesi Rd)
+522;2;3788;jing tang lu (229 shi dao)
+522;3;3788;Jingtang Rd (229 City Ave)
+522;2;3789;tian bei lu (321 shi dao)
+522;3;3789;Tianbei Rd (321 City Ave)
+522;2;3790;yang fang zhen nan qiao
+522;3;3790;Yangfangzhen South Brg
+522;2;3791;X204
+522;3;3791;X204
+522;2;3792;xiao du she lu
+522;3;3792;Xiaodushe Rd
+522;2;3794;tu cheng cun dong qiao
+522;3;3794;Tuchengcun East Brg
+522;2;3795;de mao qiao
+522;3;3795;Demao Brg
+522;2;3796;liu xiang qiao
+522;3;3796;Liuxiang Brg
+522;2;3797;san hui dong qiao
+522;3;3797;Sanhui East Brg
+522;2;3798;fu rong dong lu zhi san hui dong qiao
+522;3;3798;Furong East Rd to Sanhui East Brg
+522;2;3799;huan chang zhong lu
+522;3;3799;Huanchang Middle Rd
+522;2;3800;guo yuan huan dao
+522;3;3800;Guoyuanhuandao
+522;2;3801;long gang lu (hei quan lu)
+522;3;3801;Longgang Rd (Heiquan Rd)
+522;2;3802;chang jin lu
+522;3;3802;Changjin Rd
+522;2;3803;wu sheng lu
+522;3;3803;Wusheng Rd
+522;2;3804;wang zuo qiao (quan hu dong lu)
+522;3;3804;Wangzuo Brg (Quanhu East Rd)
+522;2;3805;cheng zhuang lu (feng tai xi lu)
+522;3;3805;Chengzhuang Rd (Fengtai West Rd)
+522;2;3806;ma lian dao bei jie
+522;3;3806;Maliandao North St
+522;2;3807;hui long guan cun
+522;3;3807;Huilongguan Village
+522;2;3808;deng zhuang nan lu
+522;3;3808;Dengzhuang South Rd
+522;2;3809;bei jing ao lin pi ke guo lu gong si
+522;3;3809;Beijingaolinpikeguolugongsi
+522;2;3810;liu huan (jun zhuang lu)
+522;3;3810;6th Ring (Junzhuang Rd)
+522;2;3812;ji chang di er gao su fu lu
+522;3;3812;Jichangdiergaosu Side Rd
+522;2;3813;ji chang di er gao su
+522;3;3813;Jichangdier Hwy
+522;2;3814;da gao li zhuang lu
+522;3;3814;Dagaolizhuang Rd
+522;2;3815;jin ji gao su gong lu
+522;3;3815;Jinji Hwy
+522;2;3816;de sheng men wai da jie de sheng men dong da jie ru kou za dao
+522;3;3816;Deshengmen Outer St Deshengmen East St Entrance Ramp
+522;2;3817;san huan wai quan jing mi lu xi ce chu kou za dao
+522;3;3817;3rd Ring Outside Ring Jingmi Rd W Exit Ramp
+522;2;3819;wu huan nei quan xiang hong qi lu chu kou za dao
+522;3;3819;5th Ring Inside Ring Xianghongqi Rd Exit Ramp
+522;2;3820;wu huan nei quan jiu zhong lu chu kou za dao
+522;3;3820;5th Ring Inside Ring Jiuzhong Rd Exit Ramp
+522;2;3821;wu huan nei quan jiu zhong lu ru kou za dao
+522;3;3821;5th Ring Inside Ring Jiuzhong Rd Entrance Ramp
+522;2;3822;wu huan wai quan jiu zhong lu chu kou za dao
+522;3;3822;5th Ring Outside Ring Jiuzhong Rd Exit Ramp
+522;2;3823;wu huan wai quan jiu zhong lu ru kou za dao
+522;3;3823;5th Ring Outside Ring Jiuzhong Rd Entrance Ramp
+522;2;3824;dong san huan bei lu fu lu
+522;3;3824;E 3rd Ring North Rd Side Rd
+522;2;3825;fu xing lu nan
+522;3;3825;Fuxing Rd S
+522;2;3828;huang liang lu nan
+522;3;3828;Huangliang Rd S
+522;2;3829;liang san lu zhi nan gong nan lu
+522;3;3829;Liangsan Rd to Nangong South Rd
+522;2;3830;zhang feng lu
+522;3;3830;Zhangfeng Rd
+522;2;3831;kang hua qiao
+522;3;3831;Kanghua Brg
+522;2;3832;dong xiao kou
+522;3;3832;Dongxiaokou
+522;2;3833;ren he qiao
+522;3;3833;Renhe Brg

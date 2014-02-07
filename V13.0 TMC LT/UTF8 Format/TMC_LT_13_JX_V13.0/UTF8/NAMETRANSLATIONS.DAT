@@ -1,0 +1,783 @@
+﻿CID;LID;NID;NTRANSLATION
+503;2;685;gan zhou shi
+503;3;685;Ganzhou
+503;2;686;da guang gao su gong lu gan zhou duan
+503;3;686;Daguang Hwy Ganzhou Sect
+503;2;689;xin feng fu wu qu
+503;3;689;Xinfeng Service Area
+503;2;690;tie shi kou shou fei zhan
+503;3;690;Tieshikou Tollgate
+503;2;691;xin feng shou fei zhan
+503;3;691;Xinfeng Tollgate
+503;2;692;nan kang fu wu qu
+503;3;692;Nankang Service Area
+503;2;693;long hui shou fei zhan
+503;3;693;Longhui Tollgate
+503;2;694;kang da gao su gong lu
+503;3;694;Kangda Hwy
+503;2;695;gan zhou rao cheng gao su gong lu
+503;3;695;Ganzhouraocheng Hwy
+503;2;696;nan kang shou fei zhan
+503;3;696;Nankang Tollgate
+503;2;697;xia rong gao su gong lu
+503;3;697;Xiarong Hwy
+503;2;698;heng shi shou fei zhan
+503;3;698;Hengshi Tollgate
+503;2;699;heng shi fu wu qu
+503;3;699;Hengshi Service Area
+503;2;700;tang cun shou fei zhan
+503;3;700;Tangcun Tollgate
+503;2;701;ji guang gao su gong lu gan zhou duan
+503;3;701;Jiguang Hwy Ganzhou Sect
+503;2;703;G319
+503;3;703;G319
+503;2;707;quan nan gao su gong lu
+503;3;707;Quannan Hwy
+503;2;710;ji an shi
+503;3;710;Ji'an
+503;2;711;da guang gao su gong lu ji an duan
+503;3;711;Daguang Hwy Ji'an Sect
+503;2;712;sui chuan fu wu qu
+503;3;712;Suichuan Service Area
+503;2;713;sui chuan shou fei zhan
+503;3;713;Suichuan Tollgate
+503;2;714;wan an shou fei zhan
+503;3;714;Wan'an Tollgate
+503;2;715;shao kou shou fei zhan
+503;3;715;Shaokou Tollgate
+503;2;716;tai jing gao su gong lu
+503;3;716;Taijing Hwy
+503;2;717;ji an fu wu qu
+503;3;717;Ji'an Service Area
+503;2;718;S335
+503;3;718;S335
+503;2;719;zhang ji gao su gong lu
+503;3;719;Zhangji Hwy
+503;2;720;yin wan fu wu qu
+503;3;720;Yinwan Service Area
+503;2;721;an fu shou fei zhan
+503;3;721;Anfu Tollgate
+503;2;722;you tian shou fei zhan
+503;3;722;Oil Field Tollgate
+503;2;723;xin yu nan shou fei zhan
+503;3;723;Xinyu S Tollgate
+503;2;724;xin yu shi
+503;3;724;Xinyu
+503;2;725;da guang gao su gong lu xin yu duan
+503;3;725;Daguang Hwy Xinyu Sect
+503;2;726;xian nv hu fu wu qu
+503;3;726;Xiannvhu Service Area
+503;2;727;xian nv hu shou fei zhan
+503;3;727;Xiannvhu Tollgate
+503;2;729;dong cun shou fei zhan
+503;3;729;Dongcun Tollgate
+503;2;730;yi chun shi
+503;3;730;Yichun
+503;2;731;da guang gao su gong lu yi chun duan
+503;3;731;Daguang Hwy Yichun Sect
+503;2;732;shang gao fu wu qu
+503;3;732;Shanggao Service Area
+503;2;733;shang gao shou fei zhan
+503;3;733;Shanggao Tollgate
+503;2;734;yi feng shou fei zhan
+503;3;734;Yifeng Tollgate
+503;2;735;tian bao shou fei zhan
+503;3;735;Tianbao Tollgate
+503;2;736;yi feng fu wu qu
+503;3;736;Yifeng Service Area
+503;2;737;tong gu shou fei zhan
+503;3;737;Tonggu Tollgate
+503;2;738;jiu jiang shi
+503;3;738;Jiujiang
+503;2;739;da guang gao su gong lu jiu jiang duan
+503;3;739;Daguang Hwy Jiujiang Sect
+503;2;740;he shi fu wu qu
+503;3;740;Heshi Service Area
+503;2;741;xiu shui shou fei zhan
+503;3;741;Xiushui Tollgate
+503;2;742;xiu shui fu wu qu
+503;3;742;Xiushui Service Area
+503;2;743;rao jia
+503;3;743;Raojia
+503;2;744;fu zhou shi
+503;3;744;Fuzhou
+503;2;763;ji guang gao su gong lu
+503;3;763;Jiguang Hwy
+503;2;766;ying tan shi
+503;3;766;Yingtan
+503;2;767;ji guang gao su gong lu ying tan duan
+503;3;767;Jiguang Hwy Yingtan Sect
+503;2;770;yu jiang fu wu qu
+503;3;770;Yujiang Service Area
+503;2;771;shang rao shi
+503;3;771;Shangrao
+503;2;772;ji guang gao su gong lu shang rao duan
+503;3;772;Jiguang Hwy Shangrao Sect
+503;2;773;yu gan ting che qu
+503;3;773;Yugan Parking Area
+503;2;774;wan nian shou fei zhan
+503;3;774;Wannian Tollgate
+503;2;775;wan nian fu wu qu
+503;3;775;Wannian Service Area
+503;2;776;po yang shou fei zhan
+503;3;776;Poyang Tollgate
+503;2;777;po yang ting che qu
+503;3;777;Poyang Parking Area
+503;2;778;le ping shou fei zhan
+503;3;778;Leping Tollgate
+503;2;779;huang gang shou fei zhan
+503;3;779;Huanggang Tollgate
+503;2;780;jing de zhen shi
+503;3;780;Jingdezhen
+503;2;781;ji guang gao su gong lu jing de zhen duan
+503;3;781;Jiguang Hwy Jingdezhen Sect
+503;2;782;yue liang hu fu wu qu
+503;3;782;Yuelianghu Service Area
+503;2;783;hang rui gao su gong lu
+503;3;783;Hangrui Hwy
+503;2;784;gao wu li
+503;3;784;Gaowuli
+503;2;785;san long shou fei zhan
+503;3;785;Sanlong Tollgate
+503;2;786;huang tan ting che qu
+503;3;786;Huangtan Parking Area
+503;2;787;jing gong qiao shou fei zhan
+503;3;787;Jinggongqiao Tollgate
+503;2;788;nan cheng fu wu qu
+503;3;788;Nancheng Service Area
+503;2;789;nan cheng shu niu
+503;3;789;Nanchengshuniu
+503;2;790;nan cheng dong shou fei zhan
+503;3;790;Nancheng E Tollgate
+503;2;791;nan cheng ting che qu
+503;3;791;Nancheng Parking Area
+503;2;792;zi xi shou fei zhan
+503;3;792;Zixi Tollgate
+503;2;793;jin xi shou fei zhan
+503;3;793;Jinxi Tollgate
+503;2;794;jin xi fu wu qu
+503;3;794;Jinxi Service Area
+503;2;795;long hu shan shou fei zhan
+503;3;795;Longhushan Tollgate
+503;2;796;ji guang gao su gong lu fu zhou duan
+503;3;796;Jiguang Hwy Fuzhou Sect
+503;2;797;shi cheng bei shou fei zhan
+503;3;797;Shicheng N Tollgate
+503;2;798;guang chang fu wu qu
+503;3;798;Guangchang Service Area
+503;2;799;chi shui shou fei zhan
+503;3;799;Chishui Tollgate
+503;2;800;guang chang ting che qu
+503;3;800;Guangchang Parking Area
+503;2;801;guang chang shou fei zhan
+503;3;801;Guangchang Tollgate
+503;2;802;bai she shou fei zhan
+503;3;802;Baishe Tollgate
+503;2;803;nan feng fu wu qu
+503;3;803;Nanfeng Service Area
+503;2;804;nan feng shou fei zhan
+503;3;804;Nanfeng Tollgate
+503;2;805;nan feng ting che qu
+503;3;805;Nanfeng Parking Area
+503;2;806;rui jin nan shou fei zhan
+503;3;806;Ruijin S Tollgate
+503;2;807;shang ding
+503;3;807;Shangding
+503;2;808;rui jin ting che qu
+503;3;808;Ruijin Parking Area
+503;2;809;ning du fu wu qu
+503;3;809;Ningdu Service Area
+503;2;810;ning du dong shou fei zhan
+503;3;810;Ningdu E Tollgate
+503;2;811;ning du ting che qu
+503;3;811;Ningdu Parking Area
+503;2;812;huang jin bu shou fei zhan
+503;3;812;Huangjinbu Tollgate
+503;2;814;long hu shan ting che qu
+503;3;814;Longhushan Parking Area
+503;2;815;ying tan nan shou fei zhan
+503;3;815;Yingtan S Tollgate
+503;2;877;hu kun gao su gong lu
+503;3;877;Hukun Hwy
+503;2;918;G320
+503;3;918;G320
+503;2;937;nan chang shi
+503;3;937;Nanchang
+503;2;938;nan chang rao cheng gao su gong lu
+503;3;938;Nanchangraocheng Hwy
+503;2;944;chang tong gao su gong lu
+503;3;944;Changtong Hwy
+503;2;945;wan li fu wu qu
+503;3;945;Wanli Service Area
+503;2;946;X052
+503;3;946;X052
+503;2;947;zhi min da dao
+503;3;947;Zhimin Blvd
+503;2;948;feng sheng gao su gong lu
+503;3;948;Fengsheng Hwy
+503;2;949;ji chang da dao
+503;3;949;Jichang Blvd
+503;2;950;qi li gang fu wu qu
+503;3;950;Qiligang Service Area
+503;2;951;X020
+503;3;951;X020
+503;2;953;de chang gao su gong lu
+503;3;953;Dechang Hwy
+503;2;954;you lan shou fei zhan
+503;3;954;Youlan Tollgate
+503;2;956;quan ling fu wu qu
+503;3;956;Quanling Service Area
+503;2;957;wen zhen dong shou fei zhan
+503;3;957;Wenzhen E Tollgate
+503;2;958;G316
+503;3;958;G316
+503;2;959;X030
+503;3;959;X030
+503;2;960;nan chang nan fu wu qu
+503;3;960;Nanchang S Service Area
+503;2;963;hou tian shu niu
+503;3;963;Houtianshuniu
+503;2;964;sheng mi shou fei zhan
+503;3;964;Shengmi Tollgate
+503;2;967;X049
+503;3;967;X049
+503;2;968;xiang yun da dao
+503;3;968;Xiangyun Blvd
+503;2;969;qian hu da dao
+503;3;969;Qianhu Blvd
+503;2;972;nan si you hao lu
+503;3;972;Nansiyouhao Rd
+503;2;973;lei gong ao fu wu qu
+503;3;973;Leigongao Service Area
+503;2;974;lu shan nan da dao
+503;3;974;Lushan South Blvd
+503;2;977;yu ping dong da jie
+503;3;977;Yuping East Ave
+503;2;978;ying xiong da dao
+503;3;978;Yingxiong Blvd
+503;2;982;X059
+503;3;982;X059
+503;2;983;Y934
+503;3;983;Y934
+503;2;984;dong xiang fu wu qu
+503;3;984;Dongxiang Service Area
+503;2;987;jing tou xiang
+503;3;987;Jingtou Ln
+503;2;988;xiao fang
+503;3;988;Xiaofang
+503;2;990;S101
+503;3;990;S101
+503;2;993;ying bin zhong da dao
+503;3;993;Yingbin Middle Blvd
+503;2;996;lian tang nan da dao
+503;3;996;Liantang South Blvd
+503;2;999;fu shan da dao
+503;3;999;Fushan Blvd
+503;2;1000;cheng hu bei da dao
+503;3;1000;Chenghu North Blvd
+503;2;1001;hui ren da dao
+503;3;1001;Huiren Blvd
+503;2;1002;zhen xing da dao
+503;3;1002;Zhenxing Blvd
+503;2;1003;ying bin bei da dao
+503;3;1003;Yingbin North Blvd
+503;2;1006;chang nan da dao
+503;3;1006;Changnan Blvd
+503;2;1007;san dian xi lu
+503;3;1007;Sandian West Rd
+503;2;1010;he fang xi lu
+503;3;1010;Hefang West Rd
+503;2;1011;fu he nan lu
+503;3;1011;Fuhe South Rd
+503;2;1014;guan ying lu
+503;3;1014;Guanying Rd
+503;2;1015;jian she lu
+503;3;1015;Jianshe Rd
+503;2;1018;hong cheng lu
+503;3;1018;Hongcheng Rd
+503;2;1021;fu he zhong lu
+503;3;1021;Fuhe Middle Rd
+503;2;1022;zhan qian xi lu
+503;3;1022;Zhanqian West Rd
+503;2;1023;chao yang zhou zhong lu
+503;3;1023;Chaoyangzhou Middle Rd
+503;2;1024;fu he bei lu
+503;3;1024;Fuhe North Rd
+503;2;1027;ru zi xi lu
+503;3;1027;Ruzi West Rd
+503;2;1028;zhong shan lu
+503;3;1028;Zhongshan Rd
+503;2;1029;min de lu
+503;3;1029;Minde Rd
+503;2;1032;die shan lu
+503;3;1032;Dieshan Rd
+503;2;1033;yang ming lu
+503;3;1033;Yangming Rd
+503;2;1036;yan jiang bei da dao
+503;3;1036;Yanjiang North Blvd
+503;2;1039;xiang shan bei lu
+503;3;1039;Xiangshan North Rd
+503;2;1040;su pu lu
+503;3;1040;Supu Rd
+503;2;1041;ba yi da dao
+503;3;1041;Bayidadao
+503;2;1042;yang ming dong lu
+503;3;1042;Yangming East Rd
+503;2;1045;hong du bei da dao
+503;3;1045;Hongdu North Blvd
+503;2;1048;guo wei lu
+503;3;1048;Guowei Rd
+503;2;1049;qing shan hu sui dao
+503;3;1049;Qingshanhu Tunl
+503;2;1052;shang hai bei lu
+503;3;1052;Shanghai North Rd
+503;2;1055;qing shan hu da dao
+503;3;1055;Qingshanhu Blvd
+503;2;1058;X035
+503;3;1058;X035
+503;2;1059;lian tang bei da dao
+503;3;1059;Liantang North Blvd
+503;2;1060;xiang yang lu
+503;3;1060;Xiangyang Rd
+503;2;1061;lian tang zhong da dao
+503;3;1061;Liantang Middle Blvd
+503;2;1064;nan lian lu
+503;3;1064;Nanlian Rd
+503;2;1067;guang zhou lu
+503;3;1067;Guangzhou Rd
+503;2;1068;jing gang shan da dao
+503;3;1068;Jinggangshan Blvd
+503;2;1069;hong du nan da dao
+503;3;1069;Hongdu South Blvd
+503;2;1070;jie fang xi lu
+503;3;1070;Jiefang West Rd
+503;2;1071;zhan qian lu
+503;3;1071;Zhanqian Rd
+503;2;1074;yong shu lu
+503;3;1074;Yongshu Rd
+503;2;1077;ru zi dong lu
+503;3;1077;Ruzi East Rd
+503;2;1078;fu zhou lu
+503;3;1078;Fuzhou Rd
+503;2;1079;nan jing xi lu
+503;3;1079;Nanjing West Rd
+503;2;1082;gan jiang zhong da dao
+503;3;1082;Ganjiang Middle Blvd
+503;2;1083;hong gu zhong da dao
+503;3;1083;Honggu Middle Blvd
+503;2;1084;feng huang bei da dao
+503;3;1084;Fenghuang North Blvd
+503;2;1085;die zi hu da dao
+503;3;1085;Diezihu Blvd
+503;2;1086;huang jia hu dong lu
+503;3;1086;Huangjiahu East Rd
+503;2;1089;kong mu hu da jie
+503;3;1089;Kongmuhu Ave
+503;2;1090;feng lin da dao
+503;3;1090;Fenglin Blvd
+503;2;1093;shuang gang dong da jie
+503;3;1093;Shuanggang East Ave
+503;2;1094;lu shan zhong da dao
+503;3;1094;Lushan Middle Blvd
+503;2;1097;lu shan bei da dao
+503;3;1097;Lushan North Blvd
+503;2;1100;jia yan lu
+503;3;1100;Jiayan Rd
+503;2;1101;chang zheng xi lu
+503;3;1101;Changzheng West Rd
+503;2;1104;xing guo lu
+503;3;1104;Xingguo Rd
+503;2;1105;chang mai nan lu
+503;3;1105;Changmai South Rd
+503;2;1106;jie fang lu
+503;3;1106;Jiefang Rd
+503;2;1107;chang zheng dong lu
+503;3;1107;Changzheng East Rd
+503;2;1110;yi yuan lu
+503;3;1110;Yiyuan Rd
+503;2;1113;feng huang zhong da dao
+503;3;1113;Fenghuang Middle Blvd
+503;2;1116;feng he zhong da dao
+503;3;1116;Fenghe Middle Blvd
+503;2;1121;cui yuan lu
+503;3;1121;Cuiyuan Rd
+503;2;1122;hui zhan lu
+503;3;1122;Huizhan Rd
+503;2;1123;lv yin lu
+503;3;1123;Lvyin Rd
+503;2;1124;lu shan nan da dao fu lu
+503;3;1124;Lushan South Blvd Side Rd
+503;2;1125;feng he bei da dao
+503;3;1125;Fenghe North Blvd
+503;2;1127;jing gang shan da dao fu lu
+503;3;1127;Jinggangshan Blvd Side Rd
+503;2;1128;jiang xi xin dong fang peng ren xue yuan
+503;3;1128;Jiangxixindongfangpengrenxueyuan
+503;2;1131;xue fu nan da dao
+503;3;1131;Xuefu South Blvd
+503;2;1132;guo ti da dao
+503;3;1132;Guoti Blvd
+503;2;1135;yan jiang nan da dao
+503;3;1135;Yanjiang South Blvd
+503;2;1136;fu sheng nan lu
+503;3;1136;Fusheng South Rd
+503;2;1137;tao hua nan lu
+503;3;1137;Taohua South Rd
+503;2;1138;jin sha er lu
+503;3;1138;Jinshaer Rd
+503;2;1139;jin sha da dao
+503;3;1139;Jinsha Blvd
+503;2;1142;hang kong lu
+503;3;1142;Hangkong Rd
+503;2;1143;bo lan bei lu
+503;3;1143;Bolan North Rd
+503;2;1144;gao xin nan da dao
+503;3;1144;Gaoxin South Blvd
+503;2;1147;chang dong da dao
+503;3;1147;Changdong Blvd
+503;2;1148;li ming lu
+503;3;1148;Liming Rd
+503;2;1151;X002
+503;3;1151;X002
+503;2;1154;shun wai lu
+503;3;1154;Shunwai Rd
+503;2;1155;ai xi hu nan lu
+503;3;1155;Aixihu South Rd
+503;2;1158;zi yang da dao
+503;3;1158;Ziyang Blvd
+503;2;1159;ai xi hu bei lu
+503;3;1159;Aixihu North Rd
+503;2;1162;fu da you lu
+503;3;1162;Fudayou Rd
+503;2;1165;you an lu
+503;3;1165;Youan Rd
+503;2;1168;tian xiang da dao
+503;3;1168;Tianxiang Blvd
+503;2;1174;S101 zhi de chang gao su gong lu
+503;3;1174;S101 to Dechang Hwy
+503;2;1179;fu sheng lu
+503;3;1179;Fusheng Rd
+503;2;1182;tao hua lu
+503;3;1182;Taohua Rd
+503;2;1185;da shi chang dong lu
+503;3;1185;Dashichang East Rd
+503;2;1188;hong du zhong da dao
+503;3;1188;Hongdu Middle Blvd
+503;2;1191;shang hai nan lu
+503;3;1191;Shanghai South Rd
+503;2;1194;qing shan hu nan da dao
+503;3;1194;Qingshanhu South Blvd
+503;2;1197;jie fang dong lu
+503;3;1197;Jiefang East Rd
+503;2;1198;jing dong nan da dao
+503;3;1198;Jingdong South Blvd
+503;2;1201;luo gang lu
+503;3;1201;Luogang Rd
+503;2;1202;feng he nan da dao
+503;3;1202;Fenghe South Blvd
+503;2;1203;xue fu da dao
+503;3;1203;Xuefu Blvd
+503;2;1206;xi zhan da jie
+503;3;1206;Xizhan Ave
+503;2;1209;ba yue hu lu
+503;3;1209;Bayuehu Rd
+503;2;1210;yun fei lu
+503;3;1210;Yunfei Rd
+503;2;1211;jiu zhou da jie
+503;3;1211;Jiuzhou Ave
+503;2;1212;shui chang lu
+503;3;1212;Shuichang Rd
+503;2;1213;yan jiang zhong da dao
+503;3;1213;Yanjiang Middle Blvd
+503;2;1214;zhong shan xi lu
+503;3;1214;Zhongshan West Rd
+503;2;1215;min de xi lu
+503;3;1215;Minde West Rd
+503;2;1216;teng wang ge sui dao
+503;3;1216;Tengwangge Tunl
+503;2;1219;qi feng lu
+503;3;1219;Qifeng Rd
+503;2;1222;ying xiong da qiao
+503;3;1222;Yingxiong Brg
+503;2;1225;tang shan jie
+503;3;1225;Tangshan St
+503;2;1226;gao xin da dao
+503;3;1226;Gaoxin Blvd
+503;2;1227;jing dong da dao
+503;3;1227;Jingdong Blvd
+503;2;1237;feng huang nan da dao
+503;3;1237;Fenghuang South Blvd
+503;2;1240;gan jiang nan da dao
+503;3;1240;Ganjiang South Blvd
+503;2;1243;gan jiang bei da dao
+503;3;1243;Ganjiang North Blvd
+503;2;1246;jin jiang lu
+503;3;1246;Jinjiang Rd
+503;2;1249;huang he lu
+503;3;1249;Huanghe Rd
+503;2;1250;yang zi zhou lu
+503;3;1250;Yangzizhou Rd
+503;2;1253;zhu jiang lu
+503;3;1253;Zhujiang Rd
+503;2;1254;shuang gang nan lu
+503;3;1254;Shuanggang South Rd
+503;2;1261;chang fu da dao
+503;3;1261;Changfu Blvd
+503;2;1264;xin jian da dao
+503;3;1264;Xinjian Blvd
+503;2;1265;wen hua da dao
+503;3;1265;Wenhua Blvd
+503;2;1268;wen jiao lu
+503;3;1268;Wenjiao Rd
+503;2;1269;chang mai lu
+503;3;1269;Changmai Rd
+503;2;1275;guang lan lu
+503;3;1275;Guanglan Rd
+503;2;1283;gui yuan lu
+503;3;1283;Guiyuan Rd
+503;2;1284;qing shan bei lu
+503;3;1284;Qingshan North Rd
+503;2;1285;gong ye da dao
+503;3;1285;Gongye Blvd
+503;2;1288;hong wan da dao
+503;3;1288;Hongwan Blvd
+503;2;1295;hong gu bei da dao
+503;3;1295;Honggu North Blvd
+503;2;1300;huang jia hu xi lu
+503;3;1300;Huangjiahu West Rd
+503;2;1303;chang xi da dao
+503;3;1303;Changxi Blvd
+503;2;1306;hai tang nan lu
+503;3;1306;Haitang South Rd
+503;2;1309;qing lan da dao
+503;3;1309;Qinglan Blvd
+503;2;1310;yu ping xi da jie
+503;3;1310;Yuping West Ave
+503;2;1311;feng lin xi da jie
+503;3;1311;Fenglin West Ave
+503;2;1312;shuang gang xi da jie
+503;3;1312;Shuanggang West Ave
+503;2;1315;mai yuan lu
+503;3;1315;Maiyuan Rd
+503;2;1320;hai tang bei lu
+503;3;1320;Haitang North Rd
+503;2;1323;bai shui hu lu
+503;3;1323;Baishuihu Rd
+503;2;1326;qing lan lu
+503;3;1326;Qinglan Rd
+503;2;1329;ying xiong qi lu
+503;3;1329;Yingxiongqi Rd
+503;2;1332;gong ye yi lu
+503;3;1332;Gongyeyi Rd
+503;2;1333;jiang xi sheng di san yi yuan
+503;3;1333;Jiangxishengdisanyiyuan
+503;2;1334;qing shan nan lu
+503;3;1334;Qingshan South Rd
+503;2;1337;er qi bei lu
+503;3;1337;Erqi North Rd
+503;2;1340;shu xi lu
+503;3;1340;Shuxi Rd
+503;2;1343;bei jing dong lu
+503;3;1343;Beijing East Rd
+503;2;1344;nan jing dong lu
+503;3;1344;Nanjing East Rd
+503;2;1347;xin xi qiao lu
+503;3;1347;Xinxiqiao Rd
+503;2;1348;fei yan lu
+503;3;1348;Feiyan Rd
+503;2;1349;huo ju er lu
+503;3;1349;Huojuer Rd
+503;2;1350;min qiang lu
+503;3;1350;Minqiang Rd
+503;2;1351;min feng lu
+503;3;1351;Minfeng Rd
+503;2;1352;huo ju da jie
+503;3;1352;Huoju Ave
+503;2;1359;gao xin qi lu
+503;3;1359;Gaoxinqi Rd
+503;2;1362;jing an lu
+503;3;1362;Jing'an Rd
+503;2;1367;huo ju san lu
+503;3;1367;Huojusan Rd
+503;2;1368;dong yuan lu
+503;3;1368;Dongyuan Rd
+503;2;1371;shang dong cun
+503;3;1371;Shangdong Village
+503;2;1372;xiao lan da dao
+503;3;1372;Xiaolan Blvd
+503;2;1382;fu shan san lu
+503;3;1382;Fushansan Rd
+503;2;1391;xin zhou lu
+503;3;1391;Xinzhou Rd
+503;2;1392;ru zi lu
+503;3;1392;Ruzi Rd
+503;2;1397;xi ma zhuang jie
+503;3;1397;Ximazhuang St
+503;2;1398;xiang shan nan lu
+503;3;1398;Xiangshan South Rd
+503;2;1401;guang chang nan lu
+503;3;1401;Guangchang South Rd
+503;2;1402;bei jing xi lu
+503;3;1402;Beijing West Rd
+503;2;1407;ding gong lu
+503;3;1407;Dinggonglu
+503;2;1408;er qi nan lu
+503;3;1408;Erqi South Rd
+503;2;1411;shang hai lu
+503;3;1411;Shanghai Rd
+503;2;1414;gan qiao nan lu
+503;3;1414;Ganqiao South Rd
+503;2;1415;gan jiang da qiao
+503;3;1415;Ganjiang Brg
+503;2;1416;gan qiao bei lu
+503;3;1416;Ganqiao North Rd
+503;2;1421;san jing lu
+503;3;1421;Sanjing Rd
+503;2;1424;bin jiang you er yuan
+503;3;1424;Binjiang Kindergarten
+503;2;1425;xi zhao lu
+503;3;1425;Xizhao Rd
+503;2;1432;nan fu lu
+503;3;1432;Nanfu Rd
+503;2;1435;ai xi hu xi lu
+503;3;1435;Aixihu West Rd
+503;2;1440;ai xi hu dong lu
+503;3;1440;Aixihu East Rd
+503;2;1441;chuang xin er lu
+503;3;1441;Chuangxiner Rd
+503;2;1442;cheng dong yi lu
+503;3;1442;Chengdongyi Rd
+503;2;1448;ao ti nan lu
+503;3;1448;Aoti South Rd
+503;2;1449;xue yuan yi lu
+503;3;1449;Xueyuanyi Rd
+503;2;1454;huo chang lu
+503;3;1454;Huochang Rd
+503;2;1463;zhong shan dong lu
+503;3;1463;Zhongshan East Rd
+503;2;1464;guang chang bei lu
+503;3;1464;Guangchang North Rd
+503;2;1465;luo yang lu
+503;3;1465;Luoyang Rd
+503;2;1468;qian jin lu
+503;3;1468;Qianjin Rd
+503;2;1471;nan chang cang xiang
+503;3;1471;Nanchangcang Ln
+503;2;1472;sheng jin ta jie
+503;3;1472;Shengjinta St
+503;2;1487;jian she xi lu
+503;3;1487;Jianshe West Rd
+503;2;1488;tao yuan da jie
+503;3;1488;Taoyuan Ave
+503;2;1491;tian you lu
+503;3;1491;Tianyou Rd
+503;2;1499;xiang hu xi lu
+503;3;1499;Xianghu West Rd
+503;2;1502;shi yao lu
+503;3;1502;Shiyao Rd
+503;2;1507;nan gang da dao
+503;3;1507;Nan'gang Blvd
+503;2;1508;shi qiao lu
+503;3;1508;Shiqiao Rd
+503;2;1511;dong sheng da dao
+503;3;1511;Dongsheng Blvd
+503;2;1512;ya zhou
+503;3;1512;Asia
+503;2;1513;zhong guo
+503;3;1513;China
+503;2;1514;jiang xi sheng
+503;3;1514;JIANGXI
+503;2;1518;G105
+503;3;1518;G105
+503;2;1584;fu yin gao su gong lu
+503;3;1584;Fuyin Hwy
+503;2;1646;S222
+503;3;1646;S222
+503;2;1647;jun shan hu fu wu qu
+503;3;1647;Junshanhu Service Area
+503;2;1650;yong wai zheng jie
+503;3;1650;Yongwaizheng St
+503;2;1651;xian shi er lu
+503;3;1651;Xianshier Rd
+503;2;1652;nan chang da qiao
+503;3;1652;Nanchang Brg
+503;2;1653;ba yi da qiao
+503;3;1653;Bayidaqiao
+503;2;1655;jiang xi sheng ren min yi yuan
+503;3;1655;Jiangxi Province People's Hospital
+503;2;1656;ai xi hu er lu
+503;3;1656;Aixihuer Rd
+503;2;1658;mei lin da jie
+503;3;1658;Meilin Ave
+503;2;1659;sheng mi da qiao
+503;3;1659;Shengmi Brg
+503;2;1660;luo zhen zhen
+503;3;1660;Luozhen Town
+503;2;1661;jiang xiang jie dong lu
+503;3;1661;Jiangxiangjie East Rd
+503;2;1662;X023
+503;3;1662;X023
+503;2;1669;X012
+503;3;1669;X012
+503;2;1670;X014
+503;3;1670;X014
+503;2;1671;nan pu lu
+503;3;1671;Nanpu Rd
+503;2;1672;xin gong yuan lu
+503;3;1672;Xingongyuan Rd
+503;2;1673;ai xi hu da qiao
+503;3;1673;Aixihu Brg
+503;2;1675;ling bei san lu
+503;3;1675;Lingbeisan Rd
+503;2;1679;zhong da nan lu
+503;3;1679;Zhongda South Rd
+503;2;1683;Y231
+503;3;1683;Y231
+503;2;1684;yang zi zhou li jiao
+503;3;1684;Yangzizhou Jct
+503;2;1685;feng sheng gao su gong lu nan
+503;3;1685;Fengsheng Hwy S
+503;2;1686;an shi lu
+503;3;1686;Anshi Rd
+503;2;1687;tao yuan xi lu
+503;3;1687;Taoyuan West Rd
+503;2;1688;huan hu lu
+503;3;1688;Huanhu Rd
+503;2;1689;zhu qiao dong lu
+503;3;1689;Zhuqiao East Rd
+503;2;1690;xie fo lu
+503;3;1690;Xiefo Rd
+503;2;1691;fo ta lu
+503;3;1691;Fota Rd
+503;2;1693;fu shan li jiao qiao
+503;3;1693;Fushan Jct
+503;2;1694;yao hu xi da dao
+503;3;1694;Yaohu W Blvd
+503;2;1695;nan chang rao cheng gao su gong lu xi duan
+503;3;1695;Nanchangraocheng Hwy West Sect
+503;2;1696;nan chang rao cheng gao su gong lu bei duan
+503;3;1696;Nanchangraocheng Hwy North Sect
+503;2;1697;nan chang rao cheng gao su gong lu dong duan
+503;3;1697;Nanchangraocheng Hwy East Sect
+503;2;1698;nan chang rao cheng gao su gong lu nan duan
+503;3;1698;Nanchangraocheng Hwy South Sect
+503;2;1699;chang xi nan shu niu
+503;3;1699;Changxi'nanshuniu
+503;2;1700;si ma miao li jiao qiao
+503;3;1700;Simamiao Jct
+503;2;1701;hai wei da sha
+503;3;1701;Haiweidasha
+503;2;1706;luo yang lu sui dao
+503;3;1706;Luoyang Rd Tunl
+503;2;1710;long he gao su gong lu
+503;3;1710;Longhe Hwy
+503;2;1711;ding nan fu wu qu
+503;3;1711;Dingnan Service Area
+503;2;1712;S237
+503;3;1712;S237
+503;2;1713;S344
+503;3;1713;S344
+503;2;1714;jiang xi shi da
+503;3;1714;Jiangxishida
+503;2;1715;nan chang chang dong zhen zheng fu
+503;3;1715;Nanchangchangdongzhenzhengfu

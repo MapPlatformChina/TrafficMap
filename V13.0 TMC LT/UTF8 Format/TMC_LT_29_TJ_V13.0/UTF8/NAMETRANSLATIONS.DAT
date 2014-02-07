@@ -1,0 +1,1745 @@
+﻿CID;LID;NID;NTRANSLATION
+519;2;1;ya zhou
+519;3;1;Asia
+519;2;2;zhong guo
+519;3;2;China
+519;2;3;tian jin
+519;3;3;TIANJIN
+519;2;5;jing hu gao su gong lu
+519;3;5;Jinghu Hwy
+519;2;17;jin jin gong lu
+519;3;17;Jinjin Hwy
+519;2;22;jin han gong lu
+519;3;22;Jinhan Hwy
+519;2;26;jin cang gao su gong lu
+519;3;26;Jincang Hwy
+519;2;30;dong xing dao
+519;3;30;Dongxing Ave
+519;2;45;xian feng lu
+519;3;45;Xianfeng Rd
+519;2;49;wang gang lu
+519;3;49;Wanggang Rd
+519;2;50;ma ji lu
+519;3;50;Maji Rd
+519;2;54;ren huan lu
+519;3;54;Renhuan Rd
+519;2;56;huan yu lu
+519;3;56;Huanyu Rd
+519;2;59;zhong xing lu
+519;3;59;Zhongxing Rd
+519;2;66;xin ke dao
+519;3;66;Xinke Ave
+519;2;69;jin yang lu
+519;3;69;Jinyang Rd
+519;2;72;da ming dao
+519;3;72;Daming Ave
+519;2;86;deng zhou lu
+519;3;86;Dengzhou Rd
+519;2;89;yan ji dao
+519;3;89;Yanji Ave
+519;2;91;guo yuan bei dao
+519;3;91;Guoyuan North Ave
+519;2;92;tian zhong dao
+519;3;92;Tianzhong Ave
+519;2;93;shun yi dao
+519;3;93;Shunyi Ave
+519;2;96;pu ji he dao
+519;3;96;Pujihe Ave
+519;2;102;yang qiao bei da jie
+519;3;102;Yangqiao North Ave
+519;2;103;jin pu bei lu
+519;3;103;Jinpu North Rd
+519;2;105;huang wei lu
+519;3;105;Huangwei Rd
+519;2;106;zhi cheng lu
+519;3;106;Zhicheng Rd
+519;2;107;ba ma lu
+519;3;107;Bamalu
+519;2;110;san ma lu
+519;3;110;Sanmalu
+519;2;111;er ma lu
+519;3;111;Ermalu
+519;2;113;jin wei lu
+519;3;113;Jinwei Rd
+519;2;116;jin ting dao
+519;3;116;Jinting Ave
+519;2;117;jin tian dao
+519;3;117;Jintian Ave
+519;2;121;jin lai gong lu
+519;3;121;Jinlai Hwy
+519;2;126;ling bin lu
+519;3;126;Lingbin Rd
+519;2;129;ying feng dao
+519;3;129;Yingfeng Ave
+519;2;131;ying shui dao
+519;3;131;Yingshui Ave
+519;2;132;di nan dao
+519;3;132;Dinan Ave
+519;2;136;bao shan dao
+519;3;136;Baoshan Ave
+519;2;139;jia ling dao
+519;3;139;Jialing Ave
+519;2;141;wei shui dao
+519;3;141;Weishui Ave
+519;2;146;hong qi bei lu
+519;3;146;Hongqi North Rd
+519;2;148;xiang tan lu
+519;3;148;Xiangtan Rd
+519;2;152;hong hu zhong lu
+519;3;152;Honghu Middle Rd
+519;2;155;ding zi gu er hao lu
+519;3;155;Dingziguerhao Rd
+519;2;161;tie dong lu
+519;3;161;Tiedong Rd
+519;2;162;pu ji he dong dao
+519;3;162;Pujihe East Ave
+519;2;164;san qian lu
+519;3;164;Sanqian Rd
+519;2;165;wan ke hua yuan lu
+519;3;165;Wankehuayuan Rd
+519;2;171;ba yang xian
+519;3;171;Bayang Line
+519;2;172;tai hua lu
+519;3;172;Taihua Rd
+519;2;174;qing sha lu
+519;3;174;Qingsha Rd
+519;2;175;liu kou lu
+519;3;175;Liukou Rd
+519;2;182;hai tai da dao
+519;3;182;Haitai Blvd
+519;2;183;hai tai nan bei da jie
+519;3;183;Haitainanbei Ave
+519;2;184;hai tai fa zhan er lu
+519;3;184;Haitaifazhaner Rd
+519;2;185;hai tai dong lu
+519;3;185;Haitai East Rd
+519;2;190;rong yuan lu
+519;3;190;Rongyuan Rd
+519;2;191;mei yuan lu
+519;3;191;Meiyuan Rd
+519;2;204;you yi lu
+519;3;204;Youyi Rd
+519;2;207;bai yun lu
+519;3;207;Baiyun Rd
+519;2;216;dong xing lu
+519;3;216;Dongxing Rd
+519;2;217;xin wei di dao
+519;3;217;Xinweidi Ave
+519;2;218;guang hua lu
+519;3;218;Guanghua Rd
+519;2;219;jin tang lu
+519;3;219;Jintang Rd
+519;2;220;zhong shan men er hao lu
+519;3;220;Zhongshanmenerhao Rd
+519;2;223;hong qi nan lu
+519;3;223;Hongqi South Rd
+519;2;225;you yi nan lu
+519;3;225;Youyi South Rd
+519;2;234;kun lun bei lu
+519;3;234;Kunlun North Rd
+519;2;256;nan kai san wei lu
+519;3;256;Nankaisanwei Rd
+519;2;258;guang kai zhong jie
+519;3;258;Guangkai Middle St
+519;2;264;bei ma lu
+519;3;264;Beima Rd
+519;2;265;xi ma lu
+519;3;265;Xima Rd
+519;2;266;bei men wai da jie
+519;3;266;Beimenwai Ave
+519;2;267;cheng xiang dong lu
+519;3;267;Chengxiang East Rd
+519;2;268;da hu tong
+519;3;268;Dahutong
+519;2;271;zhang zi zhong lu
+519;3;271;Zhangzizhong Rd
+519;2;279;jin zhong he da jie
+519;3;279;Jinzhonghe Ave
+519;2;280;kun wei lu
+519;3;280;Kunwei Rd
+519;2;284;jin sha jiang lu
+519;3;284;Jinshajiang Rd
+519;2;285;zhao gu li da jie
+519;3;285;Zhaoguli Ave
+519;2;294;tai an dao
+519;3;294;Taian Ave
+519;2;296;hu bei lu
+519;3;296;Hubei Rd
+519;2;299;pu kou dao
+519;3;299;Pukou Ave
+519;2;305;jian she lu
+519;3;305;Jianshe Rd
+519;2;306;zhe jiang lu
+519;3;306;Zhejiang Rd
+519;2;321;qi lian lu
+519;3;321;Qilian Rd
+519;2;327;zhong huan xi lu
+519;3;327;Middle Ring West Rd
+519;2;332;dong si jing lu
+519;3;332;E Sijing Rd
+519;2;333;dong er jing lu
+519;3;333;E Erjing Rd
+519;2;344;zhang xing zhuang da dao
+519;3;344;Zhangxingzhuang Blvd
+519;2;351;yu hong lu
+519;3;351;Yuhong Rd
+519;2;352;zeng chan dao
+519;3;352;Zengchan Ave
+519;2;353;xing fu dao
+519;3;353;Xingfu Ave
+519;2;354;zhen li dao
+519;3;354;Zhenli Ave
+519;2;358;jin ji gao su gong lu
+519;3;358;Jinji Hwy
+519;2;359;yue jin lu
+519;3;359;Yuejin Rd
+519;2;364;fu min lu
+519;3;364;Fumin Rd
+519;2;376;ji chang yi hao lu
+519;3;376;Jichangyihao Rd
+519;2;379;xun hai lu
+519;3;379;Xunhai Rd
+519;2;382;bian dian suo lu
+519;3;382;Biandiansuo Rd
+519;2;383;zhan zhuang zi lu
+519;3;383;Zhanzhuangzi Rd
+519;2;385;fu shan lu
+519;3;385;Fushan Rd
+519;2;388;xian feng dong lu
+519;3;388;Xianfeng East Rd
+519;2;389;yi jing lu
+519;3;389;Yijing Rd
+519;2;390;san jing lu
+519;3;390;Sanjing Rd
+519;2;392;sheng yuan lu
+519;3;392;Shengyuan Rd
+519;2;395;lu xin he lu
+519;3;395;Luxinhe Rd
+519;2;400;dong jiu dao
+519;3;400;Dongjiu Ave
+519;2;401;dong jin lu
+519;3;401;Dongjin Rd
+519;2;403;zhong xin zhuang lu
+519;3;403;Zhongxinzhuang Rd
+519;2;415;chen yong lu
+519;3;415;Chenyong Rd
+519;2;417;bei yi dao
+519;3;417;Beiyi Ave
+519;2;449;hai guang lu
+519;3;449;Haiguang Rd
+519;2;459;bin shui xi dao yan chang xian
+519;3;459;Binshuixidaoyanchang Line
+519;2;464;jin hai dao
+519;3;464;Jinhai Ave
+519;2;468;jin jin gao su gong lu
+519;3;468;Jinjin Hwy
+519;2;482;gao xin da dao
+519;3;482;Gaoxin Blvd
+519;2;487;jing jin tang gao su gong lu
+519;3;487;Jingjintang Hwy
+519;2;490;wen yong ku zi lu
+519;3;490;Wenyongkuzi Rd
+519;2;496;jin gu gong lu
+519;3;496;Jingu Hwy
+519;2;508;xing hua dao
+519;3;508;Xinghua Ave
+519;2;509;yu shui lu
+519;3;509;Yushui Rd
+519;2;510;ai di sheng dao
+519;3;510;Aidisheng Ave
+519;2;513;G104
+519;3;513;G104
+519;2;515;S112
+519;3;515;S112
+519;2;518;liu xia lu
+519;3;518;Liuxia Rd
+519;2;524;jin jing fu xian
+519;3;524;Jinjing Line
+519;2;531;xu hua dao
+519;3;531;Xuhua Ave
+519;2;532;chun xi dao
+519;3;532;Chunxi Ave
+519;2;538;wai huan xian
+519;3;538;Outer Ring Line
+519;2;539;jin yong gong lu
+519;3;539;Jinyong Hwy
+519;2;546;xi qing dao
+519;3;546;Xiqing Ave
+519;2;556;yu zhuang zi lu
+519;3;556;Yuzhuangzi Rd
+519;2;559;jin bin gao su gong lu
+519;3;559;Jinbin Hwy
+519;2;560;bei han lu
+519;3;560;Beihan Rd
+519;2;563;chen chang lu
+519;3;563;Chenchang Rd
+519;2;565;long zhou dao
+519;3;565;Longzhou Ave
+519;2;566;long yan dao
+519;3;566;Longyan Ave
+519;2;567;long men dao
+519;3;567;Longmen Ave
+519;2;568;long quan dao
+519;3;568;Longquan Ave
+519;2;569;jia ning dao
+519;3;569;Jianing Ave
+519;2;570;jia qing dao
+519;3;570;Jiaqing Ave
+519;2;571;ding zi gu san hao lu
+519;3;571;Dingzigusanhao Rd
+519;2;574;tang jia wan heng di
+519;3;574;Tangjiawanhengdi
+519;2;575;ben xi lu
+519;3;575;Benxi Rd
+519;2;576;xian yang bei lu
+519;3;576;Xianyang North Rd
+519;2;577;bai jiu chang da dao
+519;3;577;Baijiuchang Blvd
+519;2;578;qin jian dao
+519;3;578;Qinjian Ave
+519;2;579;wu ai dao
+519;3;579;Wuai Ave
+519;2;581;xin hong lu
+519;3;581;Xinhong Rd
+519;2;583;wu zhong hou da dao
+519;3;583;Wuzhong Back Blvd
+519;2;584;hong qiao bei da jie
+519;3;584;Hongqiao North Ave
+519;2;591;he bei da jie
+519;3;591;Hebei Ave
+519;2;592;cheng xiang zhong lu
+519;3;592;Chengxiang Middle Rd
+519;2;595;qing yuan lu
+519;3;595;Qingyuan Rd
+519;2;600;xin hua dao
+519;3;600;Xinhua Ave
+519;2;602;qing zhi lu
+519;3;602;Qingzhi Rd
+519;2;623;xiang jiang dao
+519;3;623;Xiangjiang Ave
+519;2;624;qiong zhou dao
+519;3;624;Qiongzhou Ave
+519;2;631;tai er zhuang lu
+519;3;631;Taierzhuang Rd
+519;2;634;liu wei lu
+519;3;634;Liuwei Rd
+519;2;635;ba wei lu
+519;3;635;Bawei Rd
+519;2;636;hong xing lu
+519;3;636;Hongxing Rd
+519;2;639;jing jiang lu
+519;3;639;Jingjiang Rd
+519;2;642;chen yang dao
+519;3;642;Chenyang Ave
+519;2;644;chang zhou dao
+519;3;644;Changzhou Ave
+519;2;650;qi wei lu
+519;3;650;Qiwei Rd
+519;2;652;jiu wei lu
+519;3;652;Jiuwei Rd
+519;2;656;jiu jing lu
+519;3;656;Jiujing Rd
+519;2;657;shi jing lu
+519;3;657;Shijing Rd
+519;2;658;shi yi jing lu
+519;3;658;Shiyijing Rd
+519;2;659;shi san jing lu
+519;3;659;Shisanjing Rd
+519;2;666;da gu nan lu
+519;3;666;Dagu South Rd
+519;2;667;wei di dao
+519;3;667;Weidi Ave
+519;2;668;jie fang nan lu
+519;3;668;Jiefang South Rd
+519;2;669;tai hu lu
+519;3;669;Taihu Rd
+519;2;670;hei niu cheng dao
+519;3;670;Heiniucheng Ave
+519;2;671;wei shan lu
+519;3;671;Weishan Rd
+519;2;672;zhu jiang dao
+519;3;672;Zhujiang Ave
+519;2;678;jing shui dao
+519;3;678;Jingshui Ave
+519;2;679;ling shi lu
+519;3;679;Lingshi Rd
+519;2;694;huan jing bei lu
+519;3;694;Huanjing North Rd
+519;2;695;huan rui bei lu
+519;3;695;Huanrui North Rd
+519;2;696;rui jing xi dao
+519;3;696;Ruijing West Ave
+519;2;697;rui da bei lu
+519;3;697;Ruida North Rd
+519;2;718;chen yuan lu
+519;3;718;Chenyuan Rd
+519;2;723;chen tong lu
+519;3;723;Chentong Rd
+519;2;726;chen da lu
+519;3;726;Chenda Rd
+519;2;727;huan rui nan lu
+519;3;727;Huanrui South Rd
+519;2;730;guang rong dao
+519;3;730;Guangrong Ave
+519;2;731;chen sheng lu
+519;3;731;Chensheng Rd
+519;2;737;chen xing lu
+519;3;737;Chenxing Rd
+519;2;742;chen wang lu
+519;3;742;Chenwang Rd
+519;2;746;long yang dao
+519;3;746;Longyang Ave
+519;2;759;hong hu bei lu
+519;3;759;Honghu North Rd
+519;2;762;tian tai lu
+519;3;762;Tiantai Rd
+519;2;763;ding zi gu yi hao lu
+519;3;763;Dingziguyihao Rd
+519;2;764;tang jia wan da dao
+519;3;764;Tangjiawan Blvd
+519;2;773;yan men lu
+519;3;773;Yanmen Rd
+519;2;778;jun sheng lu
+519;3;778;Junsheng Rd
+519;2;779;yi jie lu
+519;3;779;Yijie Rd
+519;2;780;yi qing lu
+519;3;780;Yiqing Rd
+519;2;787;dong ma lu
+519;3;787;Dongmalu
+519;2;788;yong ji lu
+519;3;788;Yongji Rd
+519;2;792;yi bai lu
+519;3;792;Yibai Rd
+519;2;795;gu bei dao
+519;3;795;Gubei Ave
+519;2;796;yu guan dao
+519;3;796;Yuguan Ave
+519;2;797;sheng jing dao
+519;3;797;Shengjing Ave
+519;2;799;lv wei lu
+519;3;799;Lvwei Rd
+519;2;800;nan kou lu
+519;3;800;Nankou Rd
+519;2;810;ji nian guan lu
+519;3;810;Jinianguan Rd
+519;2;822;yi bin dao
+519;3;822;Yibin Ave
+519;2;824;ya an dao
+519;3;824;Yaan Ave
+519;2;828;lan ping lu
+519;3;828;Lanping Rd
+519;2;834;shuang feng dao
+519;3;834;Shuangfeng Ave
+519;2;836;xi hu cun da jie
+519;3;836;Xihucun Ave
+519;2;837;wan de zhuang nan bei jie
+519;3;837;Wandezhuangnanbei St
+519;2;849;xi heng di
+519;3;849;Xihengdi
+519;2;851;fen shui dao
+519;3;851;Fenshui Ave
+519;2;864;fu jiang lu
+519;3;864;Fujiang Rd
+519;2;866;ye jin lu
+519;3;866;Yejin Rd
+519;2;874;zha qiao nan lu
+519;3;874;Zhaqiao South Rd
+519;2;875;yi hua lu
+519;3;875;Yihua Rd
+519;2;886;jie yuan xi dao
+519;3;886;Jieyuan West Ave
+519;2;887;nan ni wan lu
+519;3;887;Nanniwan Rd
+519;2;890;xiang yang lu
+519;3;890;Xiangyang Rd
+519;2;894;lin tong lu
+519;3;894;Lintong Rd
+519;2;901;cheng xiang xi lu
+519;3;901;Chengxiang West Rd
+519;2;904;qing shan da jie
+519;3;904;Qingshan Ave
+519;2;906;tong nan lu
+519;3;906;Tongnan Rd
+519;2;911;mi yun lu
+519;3;911;Miyun Rd
+519;2;912;xian yang lu
+519;3;912;Xianyang Rd
+519;2;913;luo jiang lu
+519;3;913;Luojiang Rd
+519;2;914;hong qi lu
+519;3;914;Hongqi Rd
+519;2;915;qing nian lu
+519;3;915;Qingnian Rd
+519;2;916;guang kai si ma lu
+519;3;916;Guangkaisi Rd
+519;2;922;xi shi da jie
+519;3;922;Xishi Ave
+519;2;923;huang he dao
+519;3;923;Huanghe Ave
+519;2;924;jie yuan dao
+519;3;924;Jieyuan Ave
+519;2;925;fu xing lu
+519;3;925;Fuxing Rd
+519;2;929;da feng lu
+519;3;929;Dafeng Rd
+519;2;931;nan yun he nan lu
+519;3;931;Nanyunhe South Rd
+519;2;932;nan yun he bei lu
+519;3;932;Nanyunhe North Rd
+519;2;934;fu kang lu
+519;3;934;Fukang Rd
+519;2;936;xi hu dao
+519;3;936;Xihu Ave
+519;2;937;ling yin dao
+519;3;937;Lingyin Ave
+519;2;938;chang jiang dao
+519;3;938;Changjiang Ave
+519;2;941;san tan lu
+519;3;941;Santan Rd
+519;2;942;bai di lu
+519;3;942;Baidi Rd
+519;2;943;nan feng lu
+519;3;943;Nanfeng Rd
+519;2;944;yu quan lu
+519;3;944;Yuquan Rd
+519;2;945;wei jin lu
+519;3;945;Weijin Rd
+519;2;946;an shan dao
+519;3;946;Anshan Ave
+519;2;947;an shan xi dao
+519;3;947;Anshan West Ave
+519;2;948;xin xing lu
+519;3;948;Xinxing Rd
+519;2;949;nan jing lu
+519;3;949;Nanjing Rd
+519;2;950;gan su lu
+519;3;950;Gansu Rd
+519;2;951;shan xi lu
+519;3;951;Shanxi Rd
+519;2;952;shan xi lu
+519;3;952;Shanxi Rd
+519;2;953;he nan lu
+519;3;953;He'nan Rd
+519;2;954;he bei lu
+519;3;954;Hebei Rd
+519;2;955;shan dong lu
+519;3;955;Shandong Rd
+519;2;956;xin hua lu
+519;3;956;Xinhua Rd
+519;2;957;xing an lu
+519;3;957;Xing'an Rd
+519;2;961;guang kai er ma lu
+519;3;961;Guangkaier Rd
+519;2;962;nan kai wu ma lu
+519;3;962;Nankaiwu Rd
+519;2;963;nan kai er wei lu
+519;3;963;Nankaierwei Rd
+519;2;965;nan kai san ma lu
+519;3;965;Nankaisan Rd
+519;2;966;nan kai er ma lu
+519;3;966;Nankaier Rd
+519;2;968;fu an da jie
+519;3;968;Fuan Ave
+519;2;969;nan men wai da jie
+519;3;969;Nanmenwai Ave
+519;2;970;rong ye da jie
+519;3;970;Rongye Ave
+519;2;971;he ping lu
+519;3;971;Heping Rd
+519;2;973;ping an jie
+519;3;973;Ping'an St
+519;2;976;jin bu lu
+519;3;976;Jinbu Rd
+519;2;977;min zhu dao
+519;3;977;Minzhu Ave
+519;2;981;bi hai lu
+519;3;981;Bihai Rd
+519;2;985;nan kai wu wei lu
+519;3;985;Nankaiwuwei Rd
+519;2;987;fu zhuang jie
+519;3;987;Fuzhuang St
+519;2;995;cheng du dao
+519;3;995;Chengdu Ave
+519;2;996;gui zhou lu
+519;3;996;Guizhou Rd
+519;2;1004;yan yang lu
+519;3;1004;Yanyang Rd
+519;2;1010;hua tian dao
+519;3;1010;Huatian Ave
+519;2;1011;kai hua dao
+519;3;1011;Kaihua Ave
+519;2;1012;wu hua dao
+519;3;1012;Wuhua Ave
+519;2;1016;fei hong lu
+519;3;1016;Feihong Rd
+519;2;1017;zhong fu lu
+519;3;1017;Zhongfu Rd
+519;2;1018;hua yuan dong lu
+519;3;1018;Huayuan East Rd
+519;2;1023;gong hua dao
+519;3;1023;Gonghua Ave
+519;2;1033;shui shang gong yuan bei dao
+519;3;1033;Shuishanggongyuan North Ave
+519;2;1036;qing feng lu
+519;3;1036;Qingfeng Rd
+519;2;1041;tian ta dao
+519;3;1041;Tianta Ave
+519;2;1042;cang qiong dao
+519;3;1042;Cangqiong Ave
+519;2;1043;yun ji dao
+519;3;1043;Yunji Ave
+519;2;1044;xia guang dao
+519;3;1044;Xiaguang Ave
+519;2;1049;bin shui xi dao
+519;3;1049;Binshui West Ave
+519;2;1051;hua yuan lu
+519;3;1051;Huayuan Rd
+519;2;1052;hong qi nan lu yan chang xian
+519;3;1052;Hongqi'nanluyanchang Line
+519;2;1053;bin shui dao
+519;3;1053;Binshui Ave
+519;2;1055;shui shang gong yuan xi lu
+519;3;1055;Shuishanggongyuan West Rd
+519;2;1056;shui shang gong yuan dong lu
+519;3;1056;Shuishanggongyuan East Rd
+519;2;1057;shi ying lu
+519;3;1057;Shiying Rd
+519;2;1058;wei jin nan lu
+519;3;1058;Weijin South Rd
+519;2;1059;huan hu zhong lu
+519;3;1059;Huanhu Middle Rd
+519;2;1060;huan hu dong lu
+519;3;1060;Huanhu East Rd
+519;2;1061;zi jin shan lu
+519;3;1061;Zijinshan Rd
+519;2;1062;bin guan xi lu
+519;3;1062;Binguan West Rd
+519;2;1063;le yuan dao
+519;3;1063;Leyuan Ave
+519;2;1066;huang pu nan lu
+519;3;1066;Huangpu South Rd
+519;2;1067;yue xiu lu
+519;3;1067;Yuexiu Rd
+519;2;1069;long chang lu
+519;3;1069;Longchang Rd
+519;2;1070;jian chang dao
+519;3;1070;Jianchang Ave
+519;2;1071;zhong shan bei lu
+519;3;1071;Zhongshan North Rd
+519;2;1073;tai zhou lu
+519;3;1073;Taizhou Rd
+519;2;1078;shui chan qian jie
+519;3;1078;Shuichan Front St
+519;2;1079;zhong fang qian jie
+519;3;1079;Zhongfang Front St
+519;2;1081;ge xin dao
+519;3;1081;Gexin Ave
+519;2;1082;yang yu chi lu
+519;3;1082;Yangyuchi Rd
+519;2;1087;hong mei dao
+519;3;1087;Hongmei Ave
+519;2;1091;yuan wei lu
+519;3;1091;Yuanwei Rd
+519;2;1093;yue wei lu
+519;3;1093;Yuewei Rd
+519;2;1094;chen wei lu
+519;3;1094;Chenwei Rd
+519;2;1095;su wei lu
+519;3;1095;Suwei Rd
+519;2;1097;lv wei lu
+519;3;1097;Lvwei Rd
+519;2;1098;diao wei lu
+519;3;1098;Diaowei Rd
+519;2;1101;wu ma lu
+519;3;1101;Wumalu
+519;2;1102;zhong shan lu
+519;3;1102;Zhongshan Rd
+519;2;1104;shi zi lin da jie
+519;3;1104;Shizilin Ave
+519;2;1105;jian guo dao
+519;3;1105;Jianguo Ave
+519;2;1109;sheng li lu
+519;3;1109;Shengli Rd
+519;2;1116;xin kai da jie
+519;3;1116;Xinkai Ave
+519;2;1118;jin gang qiao
+519;3;1118;Jin'gang Brg
+519;2;1123;xiang wei lu
+519;3;1123;Xiangwei Rd
+519;2;1126;yu wei lu
+519;3;1126;Yuwei Rd
+519;2;1127;gang wei lu
+519;3;1127;Gangwei Rd
+519;2;1129;xin da lu
+519;3;1129;Xindalu
+519;2;1144;rong ji da jie
+519;3;1144;Rongji Ave
+519;2;1145;duo lun dao
+519;3;1145;Duolun Ave
+519;2;1149;chi feng dao
+519;3;1149;Chifeng Ave
+519;2;1155;tai er zhuang nan lu
+519;3;1155;Taierzhuang South Rd
+519;2;1157;bo ai dao
+519;3;1157;Boai Ave
+519;2;1159;min zu lu
+519;3;1159;Minzu Rd
+519;2;1160;min sheng lu
+519;3;1160;Minsheng Rd
+519;2;1161;wu jing lu
+519;3;1161;Wujing Rd
+519;2;1162;hai he dong lu
+519;3;1162;Haihe East Rd
+519;2;1167;hua chang dao
+519;3;1167;Huachang Ave
+519;2;1169;xin zhao lu
+519;3;1169;Xinzhao Rd
+519;2;1170;xin kai lu
+519;3;1170;Xinkai Rd
+519;2;1176;liu jing lu
+519;3;1176;Liujing Rd
+519;2;1181;shi wu jing lu
+519;3;1181;Shiwujing Rd
+519;2;1182;da zhi gu zhong lu
+519;3;1182;Dazhigu Middle Rd
+519;2;1184;da gu bei lu
+519;3;1184;Dagu North Rd
+519;2;1185;xu zhou dao
+519;3;1185;Xuzhou Ave
+519;2;1186;qu fu dao
+519;3;1186;Qufu Ave
+519;2;1187;jie fang bei lu
+519;3;1187;Jiefang North Rd
+519;2;1188;ying kou dao
+519;3;1188;Yingkou Ave
+519;2;1189;ha er bin dao
+519;3;1189;Haerbin Ave
+519;2;1195;da gu qiao
+519;3;1195;Dagu Brg
+519;2;1198;gui yang lu
+519;3;1198;Guiyang Rd
+519;2;1200;xi ning dao
+519;3;1200;Xining Ave
+519;2;1201;jin zhou dao
+519;3;1201;Jinzhou Ave
+519;2;1204;kun ming lu
+519;3;1204;Kunming Rd
+519;2;1222;qi xiang tai lu
+519;3;1222;Qixiangtai Rd
+519;2;1225;wu jia yao da jie
+519;3;1225;Wujiayao Ave
+519;2;1226;tong an dao
+519;3;1226;Tongan Ave
+519;2;1227;dian tai dao
+519;3;1227;Diantai Ave
+519;2;1230;xi kang lu
+519;3;1230;Xikang Rd
+519;2;1231;yun nan lu
+519;3;1231;Yunnan Rd
+519;2;1232;gui lin lu
+519;3;1232;Guilin Rd
+519;2;1237;you yi bei lu
+519;3;1237;Youyi North Rd
+519;2;1239;shan tou lu
+519;3;1239;Shantou Rd
+519;2;1243;xi lou hou jie
+519;3;1243;Xilou Back St
+519;2;1251;ping jiang dao
+519;3;1251;Pingjiang Ave
+519;2;1253;qian jin dao
+519;3;1253;Qianjin Ave
+519;2;1260;guang dong lu
+519;3;1260;Guangdong Rd
+519;2;1264;yong an dao
+519;3;1264;Yongan Ave
+519;2;1265;jiu long lu
+519;3;1265;Jiulong Rd
+519;2;1266;shao xing dao
+519;3;1266;Shaoxing Ave
+519;2;1267;he fei dao
+519;3;1267;Hefei Ave
+519;2;1271;ma chang dao
+519;3;1271;Machang Ave
+519;2;1273;feng hua dao
+519;3;1273;Fenghua Ave
+519;2;1274;li min dao
+519;3;1274;Limin Ave
+519;2;1277;mei jiang dao
+519;3;1277;Meijiang Ave
+519;2;1282;ping shan dao
+519;3;1282;Pingshan Ave
+519;2;1287;sui jiang dao
+519;3;1287;Suijiang Ave
+519;2;1290;hong yuan dao
+519;3;1290;Hongyuan Ave
+519;2;1291;sai da lu
+519;3;1291;Saida Rd
+519;2;1293;xing hua si zhi lu
+519;3;1293;Xinghuasi Byp
+519;2;1296;xin yuan dao
+519;3;1296;Xinyuan Ave
+519;2;1301;min he dao
+519;3;1301;Minhe Ave
+519;2;1306;hua long dao
+519;3;1306;Hualong Ave
+519;2;1307;xin guang lu
+519;3;1307;Xinguang Rd
+519;2;1310;jin zhong he dong jie
+519;3;1310;Jinzhonghe East St
+519;2;1319;dong ting lu
+519;3;1319;Dongting Rd
+519;2;1321;wu shui dao
+519;3;1321;Wushui Ave
+519;2;1323;nu jiang dao
+519;3;1323;Nujiang Ave
+519;2;1329;lu shui dao
+519;3;1329;Lushui Ave
+519;2;1332;dong jiang dao
+519;3;1332;Dongjiang Ave
+519;2;1333;yu jiang dao
+519;3;1333;Yujiang Ave
+519;2;1342;yi lin lu
+519;3;1342;Yilin Rd
+519;2;1344;cheng lin dao
+519;3;1344;Chenglin Ave
+519;2;1345;wei guo dao
+519;3;1345;Weiguo Ave
+519;2;1347;jin bin da dao
+519;3;1347;Jinbin Blvd
+519;2;1348;tai chang lu
+519;3;1348;Taichang Rd
+519;2;1350;kun lun lu
+519;3;1350;Kunlun Rd
+519;2;1351;sha liu bei lu
+519;3;1351;Shaliu North Rd
+519;2;1354;nan ma lu
+519;3;1354;Nanma Rd
+519;2;1355;nan cheng jie
+519;3;1355;Nancheng St
+519;2;1359;zi ya he nan lu
+519;3;1359;Ziyahe South Rd
+519;2;1367;li shuang lu
+519;3;1367;Lishuang Rd
+519;2;1378;wu hao di lu
+519;3;1378;Wuhaodi Rd
+519;2;1384;xue yuan lu
+519;3;1384;Xueyuan Rd
+519;2;1391;tian jin shi
+519;3;1391;Tianjin
+519;2;1403;hai bin da dao
+519;3;1403;Haibin Blvd
+519;2;1405;lin hai lu
+519;3;1405;Linhai Rd
+519;2;1408;yong yang xi dao
+519;3;1408;Yongyang West Ave
+519;2;1415;zi ya he qiao
+519;3;1415;Ziyahe Brg
+519;2;1416;G112 tian jin duan
+519;3;1416;G112 Tianjin Sect
+519;2;1419;wang qing tuo jiao jing da dui
+519;3;1419;Wangqingtuojiaojingdadui
+519;2;1421;S108
+519;3;1421;S108
+519;2;1439;xiao bian zhuang da qiao
+519;3;1439;Xiaobianzhuang Brg
+519;2;1441;liang wang zhuang xiang zheng fu
+519;3;1441;Jinghai Liangwangzhuang Gov
+519;2;1446;tong bei lu
+519;3;1446;Tongbei Rd
+519;2;1457;jin cang gao su gong lu tian jin duan
+519;3;1457;Jincang Hwy Tianjin Sect
+519;2;1459;chao yang dao
+519;3;1459;Chaoyang Ave
+519;2;1460;zhu jiang da dao
+519;3;1460;Zhujiang Blvd
+519;2;1461;jin ji fu wu qu
+519;3;1461;Jinji Service Area
+519;2;1466;liu dong dao
+519;3;1466;Liudong Ave
+519;2;1469;xu guan tun fu wu qu
+519;3;1469;Xuguantun Service Area
+519;2;1470;liu xi yuan xiao qu
+519;3;1470;Liuxi Garden Community
+519;2;1476;jing hai fu wu qu
+519;3;1476;Jinghai Service Area
+519;2;1477;wang qing tuo fu wu qu
+519;3;1477;Wangqingtuo Service Area
+519;2;1479;dong li fu wu qu
+519;3;1479;Dongli Service Area
+519;2;1482;tian jin nan fu wu qu
+519;3;1482;Tianjin S Service Area
+519;2;1483;jing jin gao su gong lu
+519;3;1483;Jingjin Hwy
+519;2;1486;han gu fu wu qu
+519;3;1486;Hangu Service Area
+519;2;1488;lu bei kou fu wu qu
+519;3;1488;Lubeikou Service Area
+519;2;1493;yu shi xian
+519;3;1493;Yushi Line
+519;2;1495;bao di fu wu qu
+519;3;1495;Baodi Service Area
+519;2;1497;xin an zhen fu wu qu
+519;3;1497;Xin'an Town Service Area
+519;2;1499;yu he dao
+519;3;1499;Yuhe Ave
+519;2;1500;jing jin lu
+519;3;1500;Jingjin Rd
+519;2;1502;gao feng lu
+519;3;1502;Gaofeng Rd
+519;2;1505;li de lu
+519;3;1505;Lide Rd
+519;2;1506;gu lou nan jie
+519;3;1506;Gulou South St
+519;2;1507;rong an da jie
+519;3;1507;Rongan Ave
+519;2;1510;ha mi dao
+519;3;1510;Hami Ave
+519;2;1511;jian shan lu
+519;3;1511;Jianshan Rd
+519;2;1512;yan tai dao
+519;3;1512;Yantai Ave
+519;2;1513;dan dong lu
+519;3;1513;Dandong Rd
+519;2;1514;chong qing dao
+519;3;1514;Chongqing Ave
+519;2;1515;chang chun dao
+519;3;1515;Changchun Ave
+519;2;1516;bin jiang dao
+519;3;1516;Binjiang Ave
+519;2;1518;beng bu dao
+519;3;1518;Bengbu Ave
+519;2;1519;hua xing dao
+519;3;1519;Huaxing Ave
+519;2;1522;kai feng dao
+519;3;1522;Kaifeng Ave
+519;2;1523;quan wang lu
+519;3;1523;Quanwang Rd
+519;2;1539;liao ning lu
+519;3;1539;Liaoning Rd
+519;2;1548;bao ding dao
+519;3;1548;Baoding Ave
+519;2;1555;tai da da jie
+519;3;1555;Taida Ave
+519;2;1556;xin zhong lu
+519;3;1556;Xinzhong Rd
+519;2;1589;zhong shan xi lu
+519;3;1589;Zhongshan West Rd
+519;2;1590;zi huan lu
+519;3;1590;Zihuan Rd
+519;2;1592;yun peng dao
+519;3;1592;Yunpeng Ave
+519;2;1595;bai gu tun ting che qu
+519;3;1595;Baigutun Parking Area
+519;2;1658;S381
+519;3;1658;S381
+519;2;1675;nan sun zhuang xiao xue
+519;3;1675;Nansunzhuangxiaoxue
+519;2;1682;zhong xin da dao
+519;3;1682;Zhongxin Blvd
+519;2;1698;han da dao
+519;3;1698;Handa Ave
+519;2;1707;jin chi lu
+519;3;1707;Jinchi Rd
+519;2;1713;bei cang yan chang lu
+519;3;1713;Beicangyanchang Rd
+519;2;1716;tang han lu
+519;3;1716;Tanghan Rd
+519;2;1717;huan jing nan lu
+519;3;1717;Huanjing South Rd
+519;2;1719;tai xing nan lu
+519;3;1719;Taixing South Rd
+519;2;1720;shun da lu
+519;3;1720;Shunda Rd
+519;2;1723;zhi gu qiao
+519;3;1723;Zhigu Brg
+519;2;1727;shang hai dao
+519;3;1727;Shanghai Ave
+519;2;1729;guang zhou dao
+519;3;1729;Guangzhou Ave
+519;2;1730;hai he dong lu sui dao
+519;3;1730;Haihedonglu Tunl
+519;2;1739;jiu long jie
+519;3;1739;Jiulong St
+519;2;1746;xiao gao di
+519;3;1746;Xiaogaodi
+519;2;1758;fu jian lu
+519;3;1758;Fujian Rd
+519;2;1759;qun fang lu
+519;3;1759;Qunfang Rd
+519;2;1762;tie dong bei lu
+519;3;1762;Tiedong North Rd
+519;2;1765;zi yang lu
+519;3;1765;Ziyang Rd
+519;2;1773;rong wu gao su gong lu
+519;3;1773;Rongwu Hwy
+519;2;1775;gang zhong lu
+519;3;1775;Gangzhong Rd
+519;2;1776;jin zi gong lu
+519;3;1776;Jinzi Hwy
+519;2;1777;jin qi gong lu
+519;3;1777;Jinqi Hwy
+519;2;1779;xin zhuang zi cun lu
+519;3;1779;Xinzhuangzicun Rd
+519;2;1782;zha nan lu
+519;3;1782;Zha'nan Rd
+519;2;1786;yang bei da jie
+519;3;1786;Yangbei Ave
+519;2;1788;che zhan bei lu
+519;3;1788;Chezhan North Rd
+519;2;1789;huang hai lu
+519;3;1789;Huanghai Rd
+519;2;1790;nan hai lu
+519;3;1790;Nanhai Rd
+519;2;1791;tai xiang lu
+519;3;1791;Taixiang Rd
+519;2;1792;bei hai lu
+519;3;1792;Beihai Rd
+519;2;1794;jing men da dao
+519;3;1794;Jingmen Blvd
+519;2;1795;hai bin jiu lu
+519;3;1795;Haibinjiu Rd
+519;2;1796;jin tang si hao lu
+519;3;1796;Jintangsihao Rd
+519;2;1799;zhong yang da dao
+519;3;1799;Zhongyang Blvd
+519;2;1800;xin gang er hao lu
+519;3;1800;Xin'gangerhao Rd
+519;2;1807;dong hai lu
+519;3;1807;Donghai Rd
+519;2;1808;di wu da jie
+519;3;1808;Diwu Ave
+519;2;1809;di jiu da jie
+519;3;1809;Dijiu Ave
+519;2;1810;xin gang ba hao lu
+519;3;1810;Xin'gangbahao Rd
+519;2;1814;shun hua dao
+519;3;1814;Shunhua Ave
+519;2;1816;bao shan dao
+519;3;1816;Baoshan Ave
+519;2;1818;jin jiang lu
+519;3;1818;Jinjiang Rd
+519;2;1819;zhong xin lu
+519;3;1819;Zhongxin Rd
+519;2;1820;xin gang lu
+519;3;1820;Xin'gang Rd
+519;2;1822;gang bin lu
+519;3;1822;Gangbin Rd
+519;2;1823;gang yi lu
+519;3;1823;Gangyi Rd
+519;2;1824;hai tong jie
+519;3;1824;Haitong St
+519;2;1825;di sheng dao
+519;3;1825;Disheng Ave
+519;2;1827;ji chang da dao
+519;3;1827;Jichang Blvd
+519;2;1828;xi er lu
+519;3;1828;Xier Rd
+519;2;1829;min hang lu
+519;3;1829;Minhang Rd
+519;2;1831;yan an lu
+519;3;1831;Yan'an Rd
+519;2;1832;mi yun yi zhi lu
+519;3;1832;Miyunyi Byp
+519;2;1833;gang ning dong lu
+519;3;1833;Gangning East Rd
+519;2;1834;gang ning xi lu
+519;3;1834;Gangning West Rd
+519;2;1837;hang tian dao
+519;3;1837;Hangtian Ave
+519;2;1838;gu hai dao
+519;3;1838;Guhai Ave
+519;2;1839;fan rong da jie
+519;3;1839;Fanrong Ave
+519;2;1840;bin guan nan dao
+519;3;1840;Binguan South Ave
+519;2;1843;wan quan dao
+519;3;1843;Wanquan Ave
+519;2;1844;si ping xi dao
+519;3;1844;Siping West Ave
+519;2;1845;lan zhou dao
+519;3;1845;Lanzhou Ave
+519;2;1846;hu nan lu
+519;3;1846;Hu'nan Rd
+519;2;1847;wu jia yao er hao lu
+519;3;1847;Wujiayaoerhao Rd
+519;2;1848;huan hu bei dao
+519;3;1848;Huanhu North Ave
+519;2;1849;huan hu xi lu
+519;3;1849;Huanhu West Rd
+519;2;1850;huan hu nan dao
+519;3;1850;Huanhu South Ave
+519;2;1851;huan hu zhong dao
+519;3;1851;Huanhu Middle Ave
+519;2;1852;bai yun shan lu
+519;3;1852;Baiyunshan Rd
+519;2;1856;liu zhou lu
+519;3;1856;Liuzhou Rd
+519;2;1857;wu chang lu
+519;3;1857;Wuchang Rd
+519;2;1858;xiang yang dao
+519;3;1858;Xiangyang Ave
+519;2;1859;sha shi dao
+519;3;1859;Shashi Ave
+519;2;1860;she kou dao
+519;3;1860;Shekou Ave
+519;2;1861;yue yang dao
+519;3;1861;Yueyang Ave
+519;2;1862;mu nan dao
+519;3;1862;Munan Ave
+519;2;1863;da li dao
+519;3;1863;Dali Ave
+519;2;1868;tang shan dao
+519;3;1868;Tangshan Ave
+519;2;1869;nan chang lu
+519;3;1869;Nanchang Rd
+519;2;1870;ai guo dao
+519;3;1870;Aiguo Ave
+519;2;1871;zeng jin dao
+519;3;1871;Zengjin Ave
+519;2;1872;li wan lu
+519;3;1872;Liwan Rd
+519;2;1874;shi er jing lu
+519;3;1874;Shierjing Rd
+519;2;1879;jing yi tang yao dian
+519;3;1879;Jingyitang Drugstore
+519;2;1887;bei da jie
+519;3;1887;Beida St
+519;2;1888;xin ye jiu jie
+519;3;1888;Xinyejiu St
+519;2;1889;jing sheng lu
+519;3;1889;Jingsheng Rd
+519;2;1891;yue ya he dao
+519;3;1891;Yueyahe Ave
+519;2;1892;min jiang lu
+519;3;1892;Minjiang Rd
+519;2;1921;mei chang fu wu qu
+519;3;1921;Meichang Service Area
+519;2;1922;zao jia cheng ting che qu
+519;3;1922;Zaojiacheng Parking Area
+519;2;1924;da gang fu wu qu
+519;3;1924;Dagang Service Area
+519;2;1949;huai he dao
+519;3;1949;Huaihe Ave
+519;2;1950;ti yuan bei dao
+519;3;1950;Tiyuan North Ave
+519;2;1951;yu liang dao
+519;3;1951;Yuliang Ave
+519;2;1952;san tiao shi da jie
+519;3;1952;Santiaoshi Ave
+519;2;1956;shuang qiao fu wu qu
+519;3;1956;Shuangqiao Service Area
+519;2;1957;feng jian xian
+519;3;1957;Fengjian Line
+519;2;1958;yan hai gao su gong lu
+519;3;1958;Yanhai Hwy
+519;2;1973;jin bao gao su gong lu
+519;3;1973;Jinbao Hwy
+519;2;2002;yu hua dao
+519;3;2002;Yuhua Ave
+519;2;2003;rong hua dao
+519;3;2003;Ronghua Ave
+519;2;2013;jin bao gao su fu wu qu
+519;3;2013;Jinbao Expwy Service Area
+519;2;2019;jin tang gong lu
+519;3;2019;Jintang Hwy
+519;2;2020;long wu lu
+519;3;2020;Longwu Rd
+519;2;2021;lao shan dao
+519;3;2021;Laoshan Ave
+519;2;2022;S103
+519;3;2022;S103
+519;2;2027;jin gu yi xian
+519;3;2027;Jinguyi Line
+519;2;2031;hang tian bei li xiao qu
+519;3;2031;Hangtian Beili Community
+519;2;2036;xin tai lu
+519;3;2036;Xintai Rd
+519;2;2038;si ma lu
+519;3;2038;Simalu
+519;2;2045;wang chuan chang yi hao lu
+519;3;2045;Wangchuanchangyihao Rd
+519;2;2049;jing fu gong lu
+519;3;2049;Jingfu Hwy
+519;2;2062;lu bei lu
+519;3;2062;Lubei Rd
+519;2;2076;chao yang da dao
+519;3;2076;Chaoyang Blvd
+519;2;2077;cang sang lu
+519;3;2077;Cangsang Rd
+519;2;2103;si cun dian fu wu qu
+519;3;2103;Sicun Village Dian Service Area
+519;2;2106;dong li hu chu ru kou
+519;3;2106;Donglihu Exit and Entrance Ramp
+519;2;2107;xin bei gong lu
+519;3;2107;Xinbei Hwy
+519;2;2113;S274
+519;3;2113;S274
+519;2;2119;xin gang wu hao lu
+519;3;2119;Xin'gangwuhao Rd
+519;2;2120;ling shi yi da dao
+519;3;2120;Lingshiyi Blvd
+519;2;2124;hu bin dao
+519;3;2124;Hubin Ave
+519;2;2132;jin zi lu
+519;3;2132;Jinzi Rd
+519;2;2133;jin wang gong lu chu ru kou
+519;3;2133;Jinwang Hwy Exit and Entrance Ramp
+519;2;2136;lu tang lu
+519;3;2136;Lutang Rd
+519;2;2138;zhong bei da dao
+519;3;2138;Zhongbei Blvd
+519;2;2148;xin yuan lu
+519;3;2148;Xinyuan Rd
+519;2;2149;ban gang lu
+519;3;2149;Ban'gang Rd
+519;2;2156;wan de zhuang da jie
+519;3;2156;Wandezhuang Ave
+519;2;2160;zi you dao
+519;3;2160;Ziyou Ave
+519;2;2161;wu jing lu sui dao
+519;3;2161;Wujinglu Tunl
+519;2;2162;chang de dao
+519;3;2162;Changde Ave
+519;2;2163;zhu shan lu
+519;3;2163;Zhushan Rd
+519;2;2164;jing ha gao su gong lu
+519;3;2164;Jingha Hwy
+519;2;2170;chang shen gao su gong lu tian jin duan
+519;3;2170;Changshen Hwy Tianjin Sect
+519;2;2173;he bei gong ye da xue
+519;3;2173;Hebei University Of Technology
+519;2;2174;chang shen gao su gong lu
+519;3;2174;Changshen Hwy
+519;2;2175;wai huan dong lu
+519;3;2175;Outer Ring East Rd
+519;2;2179;jin ji lian luo xian
+519;3;2179;Jinjilianluo Line
+519;2;2180;tian jin zhan fu wu qu
+519;3;2180;Tianjinzhan Service Area
+519;2;2181;bin bao gao su gong lu
+519;3;2181;Binbao Hwy
+519;2;2182;ji zhou fu wu qu
+519;3;2182;Jizhou Service Area
+519;2;2184;ji zhou shou fei zhan
+519;3;2184;Jizhou Tollgate
+519;2;2185;rong wu gao su gong lu tian jin duan
+519;3;2185;Rongwu Hwy Tianjin Sect
+519;2;2187;sai da da dao
+519;3;2187;Saida Blvd
+519;2;2188;fan peng xian
+519;3;2188;Fanpeng Line
+519;2;2189;hai bin gao su gong lu
+519;3;2189;Haibin Hwy
+519;2;2191;hai he dao
+519;3;2191;Haihe Ave
+519;2;2193;tian jin da dao
+519;3;2193;Tianjin Blvd
+519;2;2194;jing hu gao su gong lu tian jin duan
+519;3;2194;Jinghu Hwy Tianjin Sect
+519;2;2195;jing jin gao su gong lu tian jin duan
+519;3;2195;Jingjin Hwy Tianjin Sect
+519;2;2196;he da lu
+519;3;2196;Heda Rd
+519;2;2198;jin ning gao su gong lu
+519;3;2198;Jinning Hwy
+519;2;2199;xi zhong huan kuai su
+519;3;2199;W Middle Ring Expy
+519;2;2201;jin han lian luo xian
+519;3;2201;Jinhanlianluo Line
+519;2;2202;hang kong lu
+519;3;2202;Hangkong Rd
+519;2;2203;jun ji lu li jiao qiao
+519;3;2203;Junji Rd Jct
+519;2;2204;jin gang gao su gong lu
+519;3;2204;Jin'gang Hwy
+519;2;2205;jin gang gong lu
+519;3;2205;Jin'gang Hwy
+519;2;2206;wai huan xi lu
+519;3;2206;Outer Ring West Rd
+519;2;2208;jian dong zhi lu
+519;3;2208;Jiandong Byp
+519;2;2211;wai huan bei lu
+519;3;2211;Outer Ring North Rd
+519;2;2214;da lian dong dao
+519;3;2214;Dalian East Ave
+519;2;2215;xin gang si hao lu
+519;3;2215;Xin'gangsihao Rd
+519;2;2216;dong huan lu
+519;3;2216;E Ring Rd
+519;2;2217;xin lao gong lu
+519;3;2217;Xinlao Hwy
+519;2;2218;jin jing gong lu
+519;3;2218;Jinjing Hwy
+519;2;2219;nan huan dao
+519;3;2219;S Ring Ave
+519;2;2220;liu yun lu
+519;3;2220;Liuyun Rd
+519;2;2222;jin di da lu
+519;3;2222;Jindida Rd
+519;2;2223;SL14
+519;3;2223;SL14
+519;2;2224;hong li lu
+519;3;2224;Hongli Rd
+519;2;2225;wai huan nan lu
+519;3;2225;Outer Ring South Rd
+519;2;2226;tian xiang dao
+519;3;2226;Tianxiang Ave
+519;2;2227;zhong qing lu
+519;3;2227;Zhongqing Rd
+519;2;2228;li du lu (G205)
+519;3;2228;Lidu Rd (G205)
+519;2;2229;dong li hu lu
+519;3;2229;Donglihu Rd
+519;2;2230;hua ming da dao
+519;3;2230;Huaming Blvd
+519;2;2232;xu yang lu
+519;3;2232;Xuyang Rd
+519;2;2235;nan men lu
+519;3;2235;Nanmen Rd
+519;2;2236;ya shen lu
+519;3;2236;Yashen Rd
+519;2;2240;bai wan lu
+519;3;2240;Baiwan Rd
+519;2;2241;guo cun lu
+519;3;2241;Guocun Rd
+519;2;2242;gong yi hao lu
+519;3;2242;Gongyihao Rd
+519;2;2243;xiu chuan lu
+519;3;2243;Xiuchuan Rd
+519;2;2244;tian hua lu
+519;3;2244;Tianhua Rd
+519;2;2247;sheng tang lu
+519;3;2247;Shengtang Rd
+519;2;2249;gang cheng da dao xi lu
+519;3;2249;Gangcheng Blvd West Rd
+519;2;2250;guo kang dao
+519;3;2250;Guokang Ave
+519;2;2253;dong dian lu
+519;3;2253;Dongdian Rd
+519;2;2254;bei chen dao
+519;3;2254;Beichen Ave
+519;2;2256;da zhi gu xi lu
+519;3;2256;Dazhigu West Rd
+519;2;2257;tan jiang dao
+519;3;2257;Tanjiang Ave
+519;2;2258;jiu lian shan lu
+519;3;2258;Jiulianshan Rd
+519;2;2261;bei huan dao
+519;3;2261;N Ring Ave
+519;2;2262;chun hua lu
+519;3;2262;Chunhua Rd
+519;2;2263;xin huan nan jie
+519;3;2263;Xinhuan South St
+519;2;2265;xi ying men da jie
+519;3;2265;Xiyingmen Ave
+519;2;2266;hong hu dong lu
+519;3;2266;Honghu East Rd
+519;2;2267;fu min qiao
+519;3;2267;Fumin Brg
+519;2;2268;jin zhong qiao da jie
+519;3;2268;Jinzhongqiao Ave
+519;2;2269;ji chang san hao lu
+519;3;2269;Jichangsanhao Rd
+519;2;2270;bao ding qiao
+519;3;2270;Baoding Brg
+519;2;2273;hai bin san lu
+519;3;2273;Haibinsan Rd
+519;2;2277;hao jia da yuan
+519;3;2277;Haojiadayuan
+519;2;2278;xing ning lu
+519;3;2278;Xingning Rd
+519;2;2279;xiao huo xiang
+519;3;2279;Xiaohuo Ln
+519;2;2280;xing hua qi zhi lu
+519;3;2280;Xinghuaqi Byp
+519;2;2281;tai er zhuang zhi lu
+519;3;2281;Taierzhuang Byp
+519;2;2282;hong ze dong lu
+519;3;2282;Hongze East Rd
+519;2;2283;jing ming lu
+519;3;2283;Jingming Rd
+519;2;2284;wei shan nan lu
+519;3;2284;Weishan South Rd
+519;2;2285;bo lin yuan
+519;3;2285;Bolinyuan
+519;2;2286;qian li di
+519;3;2286;Qianlidi
+519;2;2287;shuang huan lu
+519;3;2287;Shuanghuan Rd
+519;2;2288;zhong cheng li
+519;3;2288;Zhongchengli
+519;2;2289;sheng yang li
+519;3;2289;Shengyangli
+519;2;2290;xin gang yi hao lu
+519;3;2290;Xin'gangyihao Rd
+519;2;2291;zi ya he nan dao
+519;3;2291;Ziyahe South Ave
+519;2;2292;xi an dao
+519;3;2292;Xi'an Ave
+519;2;2293;chang sha lu
+519;3;2293;Changsha Rd
+519;2;2294;xing guang lu
+519;3;2294;Xingguang Rd
+519;2;2295;wan hui lu
+519;3;2295;Wanhui Rd
+519;2;2296;qi li hai da dao
+519;3;2296;Qilihai Blvd
+519;2;2297;dong an jia xiao yi hao lu
+519;3;2297;Donganjiaxiaoyihao Rd
+519;2;2298;fu wu qu
+519;3;2298;Service Area
+519;2;2300;guo yuan nan dao
+519;3;2300;Guoyuan South Ave
+519;2;2301;nan cang dao fu dao
+519;3;2301;Nancang Ave Side Ave
+519;2;2302;nan cang dao
+519;3;2302;Nancang Ave
+519;2;2303;da feng qiao
+519;3;2303;Dafeng Brg
+519;2;2304;tian jin shi jiao guan ju zhi shu zhi dui
+519;3;2304;Tianjinshijiaoguanjuzhishuzhidui
+519;2;2305;wan liu cun da jie
+519;3;2305;Wanliucun Ave
+519;2;2306;xin kuo lu
+519;3;2306;Xinkuo Rd
+519;2;2307;shu guang lu
+519;3;2307;Shuguang Rd
+519;2;2308;zhi cheng lu fu lu
+519;3;2308;Zhicheng Rd Side Rd
+519;2;2309;man jiang dao
+519;3;2309;Manjiang Ave
+519;2;2310;feng huang lu
+519;3;2310;Fenghuang Rd
+519;2;2311;long shan dao
+519;3;2311;Longshan Ave
+519;2;2312;bo shan dao
+519;3;2312;Boshan Ave
+519;2;2313;wei guo dao fu lu
+519;3;2313;Weiguo Ave Side Rd
+519;2;2314;tai xing lu
+519;3;2314;Taixing Rd
+519;2;2315;san shui dao
+519;3;2315;Sanshui Ave
+519;2;2316;mi yun er zhi lu
+519;3;2316;Miyuner Byp
+519;2;2317;jin rong dao
+519;3;2317;Jinrong Ave
+519;2;2319;ting che qu
+519;3;2319;Tingchequ
+519;2;2320;min xing yuan
+519;3;2320;Minxing Garden
+519;2;2323;jian yang lu
+519;3;2323;Jianyang Rd
+519;2;2326;jin bao gao su gong lu zhi wai huan xi lu
+519;3;2326;Jinbao Hwy to Outer Ring West Rd
+519;2;2327;xing guang guang chang
+519;3;2327;Xingguang Plz
+519;2;2328;zhong fu da sha
+519;3;2328;Zhongfudasha
+519;2;2330;ji chang huo yun lu
+519;3;2330;Jichanghuoyun Rd
+519;2;2331;re dai zhi wu guan guang yuan
+519;3;2331;Redaizhiwuguanguangyuan
+519;2;2332;kun yu bei lu
+519;3;2332;Kunyu North Rd
+519;2;2334;xing yuan bie shu
+519;3;2334;Xingyuan Villa
+519;2;2336;an guang nan lu
+519;3;2336;Anguang South Rd
+519;2;2337;lu hua zhuang yuan
+519;3;2337;Luhua Zhuangyuan
+519;2;2338;jin han zhi lu
+519;3;2338;Jinhan Byp
+519;2;2339;wu ben yi cun xiao xue
+519;3;2339;Wubenyi Village Primary School
+519;2;2342;tian ping lu
+519;3;2342;Tianping Rd
+519;2;2343;bei chen qu tian li zhi zhi pin chang
+519;3;2343;Beichen Tianli Paper Products
+519;2;2345;qi ma lu
+519;3;2345;Qima Rd
+519;2;2346;li gong ci da jie
+519;3;2346;Ligongci Ave
+519;2;2349;hai yuan dao
+519;3;2349;Haiyuan Ave
+519;2;2351;nan hui lu
+519;3;2351;Nanhui Rd
+519;2;2354;qian bi zhuang shou fei zhan
+519;3;2354;Qianbizhuang Tollgate
+519;2;2355;xia zhu zhuang chu kou
+519;3;2355;Xiazhuzhuang Exit Ramp
+519;2;2356;tong wang lu
+519;3;2356;Tongwang Rd
+519;2;2357;tang han kuai su lu
+519;3;2357;Tanghan Expy
+519;2;2358;jin hai lu
+519;3;2358;Jinhai Rd
+519;2;2360;xin gang lu zhi zhong yang da dao
+519;3;2360;Xingang Rd to Zhongyang Blvd
+519;2;2361;hua shi dao
+519;3;2361;Huashi Ave
+519;2;2362;yang liu lu
+519;3;2362;Yangliu Rd
+519;2;2364;fu kang lu
+519;3;2364;Fukang Rd
+519;2;2365;jin wang gong lu
+519;3;2365;Jinwang Hwy
+519;2;2367;xi si dao
+519;3;2367;Xisi Ave
+519;2;2369;hong xing lu fu lu
+519;3;2369;Hongxing Rd Side Rd
+519;2;2370;he bei da jie gao jia
+519;3;2370;Hebei Ave Viad
+519;2;2371;shi yi jing lu qiao
+519;3;2371;Shiyijinglu Brg
+519;2;2372;shun chi qiao
+519;3;2372;Shunchi Brg
+519;2;2373;ping bao xian
+519;3;2373;Pingbao Line
+519;2;2374;jin wei xian
+519;3;2374;Jinwei Line
+519;2;2375;tang cheng gao su gong lu
+519;3;2375;Tangcheng Hwy
+519;2;2376;jin yu xian
+519;3;2376;Jinyu Line
+519;2;2377;jiu yuan xian
+519;3;2377;Jiuyuan Line
+519;2;2378;jing ha xian
+519;3;2378;Jingha Line
+519;2;2379;xi bang xian
+519;3;2379;Xibang Line
+519;2;2380;jin lu xian
+519;3;2380;Jinlu Line
+519;2;2381;bao ping lu
+519;3;2381;Baoping Rd
+519;2;2382;panshanshoufeizhan
+519;3;2382;Panshan Tollgate
+519;2;2383;zhi wan xian
+519;3;2383;Zhiwan Line
+519;2;2384;han cai xian
+519;3;2384;Hancai Line
+519;2;2386;tian jin shi ji di hua gong chang
+519;3;2386;Tianjinshijidihuagongchang
+519;2;2387;bei yang xian
+519;3;2387;Beiyang Line
+519;2;2388;jin han xian
+519;3;2388;Jinhan Line
+519;2;2389;jing jin xian
+519;3;2389;Jingjin Line
+519;2;2390;er ba xian
+519;3;2390;Erbaxian
+519;2;2392;tuan wang xian
+519;3;2392;Tuanwang Line
+519;2;2394;da feng xian
+519;3;2394;Dafeng Line
+519;2;2395;bin shi gao su gong lu
+519;3;2395;Binshi Hwy
+519;2;2396;jing fu xian ( jiu )
+519;3;2396;Jingfu Line (Former)
+519;2;2397;jin ji gao su gong lu tian jin duan
+519;3;2397;Jinji Hwy Tianjin Sect
+519;2;2398;han gang xian
+519;3;2398;Han'gang Line
+519;2;2399;tang gang xian
+519;3;2399;Tanggang Line
+519;2;2400;tuan da xian
+519;3;2400;Tuanda Line
+519;2;2401;jin wen xian
+519;3;2401;Jinwen Line
+519;2;2402;jing ba xian
+519;3;2402;Jingba Line
+519;2;2403;jin yong xian
+519;3;2403;Jinyong Line
+519;2;2404;jing fu xian
+519;3;2404;Jingfu Line
+519;2;2405;cui lang xian
+519;3;2405;Cuilang Line
+519;2;2406;qing xi lu
+519;3;2406;Qingxi Rd
+519;2;2407;jing jin gao su lian luo xian
+519;3;2407;Jingjin'gaosulianluoxian
+519;2;2408;da dong xian
+519;3;2408;Dadong Line
+519;2;2409;cui heng lu
+519;3;2409;Cuiheng Rd
+519;2;2410;xi da dao
+519;3;2410;Xidadao
+519;2;2411;jing tang zhi xian
+519;3;2411;Jingtang Br
+519;2;2412;ma yang xian
+519;3;2412;Mayang Line
+519;2;2413;ying jian xian
+519;3;2413;Yingjian Line
+519;2;2414;yan hai gao su gong lu tian jin duan
+519;3;2414;Yanhai Hwy Tianjin Sect
+519;2;2415;wei xing gong lu
+519;3;2415;Weixing Hwy
+519;2;2416;bao lu xian
+519;3;2416;Baolu Line
+519;2;2417;tang tong xian
+519;3;2417;Tangtong Line
+519;2;2418;su di lu
+519;3;2418;Sudi Rd
+519;2;2419;huai an huan lu
+519;3;2419;Huaian Ring
+519;2;2420;bin guan lu
+519;3;2420;Binguan Rd
+519;2;2421;bin you dao
+519;3;2421;Binyou Ave
+519;2;2422;wu qing huan xian
+519;3;2422;Wuqing Loop
+519;2;2423;wu ning xian
+519;3;2423;Wuning Line
+519;2;2424;jia ning dao
+519;3;2424;Jianing Ave
+519;2;2427;jing fu zhi xian
+519;3;2427;Jingfu Br
+519;2;2432;gao wang xian
+519;3;2432;Gaowang Line
+519;2;2436;jin yu fu xian
+519;3;2436;Jinyu Line
+519;2;2437;jin tong xian
+519;3;2437;Jintong Line
+519;2;2443;jin da xian
+519;3;2443;Jinda Line
+519;2;2445;jin da xian zhi jing jin gao su gong lu
+519;3;2445;Jinda Line to Jingjin Hwy
+519;2;2447;jin bei xian
+519;3;2447;Jinbei Line
+519;2;2448;jin gu xian
+519;3;2448;Jingu Line
+519;2;2450;ge wan xian
+519;3;2450;Gewan Line
+519;2;2452;dong yan lu
+519;3;2452;Dongyan Rd
+519;2;2453;jin wen gong lu
+519;3;2453;Jinwen Hwy
+519;2;2454;jin jing xian
+519;3;2454;Jinjing Line
+519;2;2455;jin ba xian
+519;3;2455;Jinba Line
+519;2;2456;liu dao kou cun
+519;3;2456;Liudaokou Village
+519;2;2457;yong an gong mu
+519;3;2457;Yongangongmu
+519;2;2460;bin tang xian
+519;3;2460;Bintang Line
+519;2;2461;cui yang xian
+519;3;2461;Cuiyang Line
+519;2;2463;jin tang er xian
+519;3;2463;Jintanger Line
+519;2;2464;you yi lu yan chang xian
+519;3;2464;Youyiluyanchangxian
+519;2;2465;zhou li zhuang cun
+519;3;2465;Zhoulizhuang Village
+519;2;2466;yang liu qing san zhong
+519;3;2466;Yangliuqingsanzhong
+519;2;2467;tuan jing lu
+519;3;2467;Tuanjing Rd
+519;2;2471;gong xi lu
+519;3;2471;Gongxi Rd
+519;2;2472;gui fa xiang shi ba jie ma hua zong dian
+519;3;2472;Guifaxiangshibajiemahuazongdian
+519;2;2473;bei an qiao
+519;3;2473;Beian Brg
+519;2;2474;chen kang lu
+519;3;2474;Chenkang Rd
+519;2;2475;tang kou di dao
+519;3;2475;Tangkoudi Ave
+519;2;2478;nan yun he nan dao
+519;3;2478;Nanyunhe South Ave
+519;2;2480;tuo chang dao
+519;3;2480;Tuochang Ave
+519;2;2483;dong feng li jiao qiao
+519;3;2483;Dongfeng Jct
+519;2;2484;shun chi qiao huan dao
+519;3;2484;Shunchiqiaohuandao
+519;2;2485;ji chang jin chang lu
+519;3;2485;Jichangjinchang Rd
+519;2;2488;fu kang lu (chun ming lu)
+519;3;2488;Fukang Rd (Chunming Rd)
+519;2;2490;xue lian nan lu
+519;3;2490;Xuelian South Rd
+519;2;2491;jin bu dao
+519;3;2491;Jinbu Ave
+519;2;2493;bei hang lu
+519;3;2493;Beihang Rd
+519;2;2494;tian jiang lu
+519;3;2494;Tianjiang Rd
+519;2;2495;xin kai lu (tang kou di dao)
+519;3;2495;Xinkai Rd (Tangkoudi Ave)
+519;2;2496;run yang dao
+519;3;2496;Runyang Ave
+519;2;2497;long ze dao
+519;3;2497;Longze Ave
+519;2;2498;zhi cheng lu (xin kai qiao)
+519;3;2498;Zhicheng Rd (Xinkai Brg)
+519;2;2502;bin hai lu
+519;3;2502;Binhai Rd
+519;2;2503;yu quan lu (hong kan da dao)
+519;3;2503;Yuquan Rd (Hongkan Blvd)
+519;2;2504;xi chang xia po
+519;3;2504;Xichangxiapo
+519;2;2505;yan tuo qiao
+519;3;2505;Yantuo Brg
+519;2;2506;ji chang bei lu
+519;3;2506;Jichang North Rd
+519;2;2507;jin bei gong lu
+519;3;2507;Jinbei Hwy
+519;2;2508;hui kang dao
+519;3;2508;Huikang Ave
+519;2;2509;jin bao qiao
+519;3;2509;Jinbao Brg
+519;2;2510;liu zhou lu (wu chang lu)
+519;3;2510;Liuzhou Rd (Wuchang Rd)
+519;2;2511;xue lian lu
+519;3;2511;Xuelian Rd
+519;2;2512;hong yun xiao qu
+519;3;2512;Hongyunxiaoqu
+519;2;2516;nan jing lu (wei jin lu)
+519;3;2516;Nanjing Rd (Weijin Rd)
+519;2;2517;jin wei lu
+519;3;2517;Jinwei Rd
+519;2;2518;hong xing qiao
+519;3;2518;Hongxing Brg
+519;2;2519;bei zhan qiao
+519;3;2519;Beizhan Brg
+519;2;2521;xi qing dao fu lu
+519;3;2521;Xiqing Ave Side Rd
+519;2;2522;hei niu cheng dao fu lu
+519;3;2522;Heiniucheng Ave Side Rd
+519;2;2524;rong wu lian luo xian
+519;3;2524;Rongwulianluoxian
+519;2;2525;rong wu fu lu
+519;3;2525;Rongwu Side Rd
+519;2;2526;hai yuan nan dao
+519;3;2526;Haiyuan South Ave
+519;2;2527;lian yuan lu
+519;3;2527;Lianyuan Rd
+519;2;2528;si jing lu
+519;3;2528;Sijing Rd
+519;2;2529;hu jia yuan li jiao qiao
+519;3;2529;Hujiayuan Jct
+519;2;2530;wu xiang xian
+519;3;2530;Wuxiang Line
+519;2;2531;xiao bian zhuang qiao
+519;3;2531;Xiaobianzhuang Brg
+519;2;2532;xin yang dao
+519;3;2532;Xinyang Ave
+519;2;2535;nan cheng lin cun
+519;3;2535;Nanchenglin Village
+519;2;2536;xin fa gong yu
+519;3;2536;Xinfagongyu
+519;2;2537;da gu nan lu fu lu
+519;3;2537;Dagu South Rd Side Rd
+519;2;2538;gu fang li
+519;3;2538;Gufangli
+519;2;2540;hong qi nan lu fu lu
+519;3;2540;Hongqi South Rd Side Rd
+519;2;2544;lu an da jie
+519;3;2544;Lu'an Ave
+519;2;2546;shui shang gong yuan bei dao nan
+519;3;2546;Shuishanggongyuan North Ave S
+519;2;2549;ju yuan lu
+519;3;2549;Juyuan Rd

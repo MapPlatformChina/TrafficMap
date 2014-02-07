@@ -1,0 +1,10 @@
+﻿CLASS;TCD;STCD;SDESC;SNATCODE;SNATDESC
+A;1;0;Continent;;
+A;3;0;Country;;
+A;7;0;Order 1 area;;
+A;8;0;Order 2 area;;
+L;1;1;Motorway;;
+P;1;3;Motorway junction;;
+P;3;8;Car park;;
+P;3;3;Service area;;
+P;1;1;Motorway intersection;;

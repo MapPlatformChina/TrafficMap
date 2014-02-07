@@ -1,0 +1,947 @@
+﻿CID;LID;NID;NTRANSLATION
+497;2;1263;he li cun
+497;3;1263;Heli Village
+497;2;1265;kai fa qu da lu
+497;3;1265;Kaifaqu Rd
+497;2;1267;X053
+497;3;1267;X053
+497;2;1269;gong zhu ling shou fei zhan
+497;3;1269;Gongzhuling Tollgate
+497;2;1271;song yuan shi
+497;3;1271;Songyuan
+497;2;1272;da guang gao su gong lu
+497;3;1272;Daguang Hwy
+497;2;1273;G203
+497;3;1273;G203
+497;2;1275;S201
+497;3;1275;S201
+497;2;1279;S301
+497;3;1279;S301
+497;2;1280;fu yu fu wu qu
+497;3;1280;Fuyu Service Area
+497;2;1289;hun wu gao su gong lu song yuan duan
+497;3;1289;Hunwu Hwy Songyuan Sect
+497;2;1290;la lin he fu wu qu
+497;3;1290;Lalinhe Service Area
+497;2;1291;si ping shi
+497;3;1291;Siping
+497;2;1293;jing ha gao su gong lu song yuan duan
+497;3;1293;Jingha Hwy Songyuan Sect
+497;2;1294;da wa fu wu qu
+497;3;1294;Dawa Service Area Daguang Expwy
+497;2;1295;jing ha gao su gong lu si ping duan
+497;3;1295;Jingha Hwy Siping Sect
+497;2;1311;guo er luo si da lu
+497;3;1311;Guoerluosi Rd
+497;2;1312;ban de shou fei zhan
+497;3;1312;Bande Tollgate
+497;2;1317;si ping fu wu qu
+497;3;1317;Siping Service Area
+497;2;1318;kao shan tun fu wu qu
+497;3;1318;Kaoshantun Service Area
+497;2;1319;gong zhu ling fu wu qu
+497;3;1319;Gongzhuling Service Area
+497;2;1320;tao jia tun fu wu qu
+497;3;1320;Taojiatun Service Area
+497;2;1324;chang chun shi
+497;3;1324;Changchun
+497;2;1327;mi sha zi fu wu qu
+497;3;1327;Mishazi Service Area
+497;2;1333;S206
+497;3;1333;S206
+497;2;1334;X001
+497;3;1334;X001
+497;2;1337;S106
+497;3;1337;S106
+497;2;1339;G302
+497;3;1339;G302
+497;2;1340;chun cheng fu wu qu
+497;3;1340;Chuncheng Service Area
+497;2;1344;jing yue da jie
+497;3;1344;Jingyue Ave
+497;2;1345;chang chun fu wu qu
+497;3;1345;Changchun Service Area
+497;2;1347;teng fei da lu
+497;3;1347;Tengfei Rd
+497;2;1348;hao yue da lu
+497;3;1348;Haoyue Rd
+497;2;1350;an da jie
+497;3;1350;Anda St
+497;2;1351;xi huan cheng lu
+497;3;1351;W Huancheng Rd
+497;2;1352;chun cheng da jie
+497;3;1352;Chuncheng Ave
+497;2;1353;zheng yang jie
+497;3;1353;Zhengyang St
+497;2;1354;pu yang jie
+497;3;1354;Puyang St
+497;2;1355;tu jia tun
+497;3;1355;Tujiatun
+497;2;1356;chang bai gong lu
+497;3;1356;Changbai Hwy
+497;2;1361;bei huan cheng lu
+497;3;1361;N Huancheng Rd
+497;2;1363;de hui fu wu qu
+497;3;1363;Dehui Service Area
+497;2;1364;de da lu
+497;3;1364;Deda Rd
+497;2;1365;cai yuan zi shou fei zhan
+497;3;1365;Caiyuanzi Tollgate
+497;2;1366;tao lai zhao shou fei zhan
+497;3;1366;Taolaizhao Tollgate
+497;2;1371;shi tou kou men fu wu qu
+497;3;1371;Shitoukoumen Service Area
+497;2;1386;dong huan cheng lu
+497;3;1386;E Huancheng Rd
+497;2;1387;shi jia cun
+497;3;1387;Shijia Village
+497;2;1388;shi ji da jie
+497;3;1388;Shiji Ave
+497;2;1389;yang pu da jie
+497;3;1389;Yangpu Ave
+497;2;1395;dong feng da jie
+497;3;1395;Dongfeng Ave
+497;2;1397;xi hu da lu
+497;3;1397;Xihu Rd
+497;2;1398;xing shun lu
+497;3;1398;Xingshun Rd
+497;2;1399;ben chi lu
+497;3;1399;Benchi Rd
+497;2;1400;yue ye lu
+497;3;1400;Yueye Rd
+497;2;1401;chang qing lu
+497;3;1401;Changqing Rd
+497;2;1402;xi an da lu
+497;3;1402;Xi'an Rd
+497;2;1403;hu xi lu
+497;3;1403;Huxi Rd
+497;2;1404;jing yang da lu
+497;3;1404;Jingyang Rd
+497;2;1407;qing yin lu
+497;3;1407;Qingyin Rd
+497;2;1409;xin yue lu
+497;3;1409;Xinyue Rd
+497;2;1410;kai yun jie
+497;3;1410;Kaiyun St
+497;2;1411;da xin lu
+497;3;1411;Daxin Rd
+497;2;1412;jie fang da lu
+497;3;1412;Jiefang Rd
+497;2;1413;wei shan lu
+497;3;1413;Weishan Rd
+497;2;1414;chang shen lu
+497;3;1414;Changshen Rd
+497;2;1415;kuan ping da lu
+497;3;1415;Kuanping Rd
+497;2;1416;liao ning lu
+497;3;1416;Liaoning Rd
+497;2;1417;ren min da jie
+497;3;1417;Renmin Ave
+497;2;1418;fu rong lu
+497;3;1418;Furong Rd
+497;2;1419;xi guang da jie
+497;3;1419;Xiguang Ave
+497;2;1421;chuang ye da jie
+497;3;1421;Chuangye Ave
+497;2;1422;zi li jie
+497;3;1422;Zili St
+497;2;1423;ji long bei jie
+497;3;1423;Jilong North St
+497;2;1425;kai xuan lu
+497;3;1425;Kaixuan Rd
+497;2;1427;qian jin da jie
+497;3;1427;Qianjin Ave
+497;2;1428;nan hu da lu
+497;3;1428;Nanhu Rd
+497;2;1429;wei xing lu
+497;3;1429;Weixing Rd
+497;2;1430;hu guang lu
+497;3;1430;Huguang Rd
+497;2;1431;hong qi jie
+497;3;1431;Hongqi St
+497;2;1432;ji long nan jie
+497;3;1432;Jilong South St
+497;2;1433;xin zhu lu
+497;3;1433;Xinzhu Rd
+497;2;1434;ji long zhong jie
+497;3;1434;Jilong Middle St
+497;2;1435;hua lian lu
+497;3;1435;Hualian Rd
+497;2;1436;sheng li da jie
+497;3;1436;Shengli Ave
+497;2;1438;nan huan cheng lu
+497;3;1438;S Huancheng Rd
+497;2;1439;zi you da lu
+497;3;1439;Ziyou Rd
+497;2;1440;min kang lu
+497;3;1440;Minkang Rd
+497;2;1441;chong qing lu
+497;3;1441;Chongqing Rd
+497;2;1442;xin fa lu
+497;3;1442;Xinfa Rd
+497;2;1443;bei jing da jie
+497;3;1443;Beijing Ave
+497;2;1444;ya tai da jie
+497;3;1444;Yatai Ave
+497;2;1445;hei shui lu
+497;3;1445;Heishui Rd
+497;2;1446;fan rong lu
+497;3;1446;Fanrong Rd
+497;2;1447;ti bei lu
+497;3;1447;Tibei Rd
+497;2;1448;dong ling jie
+497;3;1448;Dongling St
+497;2;1449;ji lin da lu
+497;3;1449;Jilin Rd
+497;2;1450;chang chun da jie
+497;3;1450;Changchun Ave
+497;2;1451;dong wu ma lu
+497;3;1451;Dongwu Rd
+497;2;1452;guang fu lu
+497;3;1452;Guangfu Rd
+497;2;1453;chang jiang lu
+497;3;1453;Changjiang Rd
+497;2;1455;chang xin jie
+497;3;1455;Changxin St
+497;2;1456;xiao nan jie
+497;3;1456;Xiaonan St
+497;2;1457;cai yu da jie
+497;3;1457;Caiyu Ave
+497;2;1458;xian tai da jie
+497;3;1458;Xiantai Ave
+497;2;1459;bei hai lu
+497;3;1459;Beihai Rd
+497;2;1461;si tong lu
+497;3;1461;Sitong Rd
+497;2;1462;dong sheng da jie
+497;3;1462;Dongsheng Ave
+497;2;1463;ling dong lu
+497;3;1463;Lingdong Rd
+497;2;1464;yuan da da jie
+497;3;1464;Yuanda Ave
+497;2;1465;he bei tun
+497;3;1465;Hebeitun
+497;2;1466;he dong lu
+497;3;1466;Hedong Rd
+497;2;1467;dong rong da lu
+497;3;1467;Dongrong Rd
+497;2;1469;xi xiao gu shu
+497;3;1469;Xixiaogushu
+497;2;1474;X009
+497;3;1474;X009
+497;2;1477;fu zhi da lu
+497;3;1477;Fuzhi Rd
+497;2;1478;xin cheng da jie
+497;3;1478;Xincheng Ave
+497;2;1481;hui gong lu
+497;3;1481;Huigong Rd
+497;2;1482;guang gu da jie
+497;3;1482;Guanggu Ave
+497;2;1483;gui gu da jie
+497;3;1483;Guigu Ave
+497;2;1485;fei yue lu
+497;3;1485;Feiyue Rd
+497;2;1486;dian tai jie
+497;3;1486;Diantai St
+497;2;1488;wei guang jie
+497;3;1488;Weiguang St
+497;2;1489;lin he jie
+497;3;1489;Linhe St
+497;2;1490;hui zhan da jie
+497;3;1490;Huizhan Ave
+497;2;1491;bin he lu
+497;3;1491;Binhe Rd
+497;2;1492;hui nan jie
+497;3;1492;Huinan St
+497;2;1495;xing fu jie
+497;3;1495;Xingfu St
+497;2;1497;bo xue lu
+497;3;1497;Boxue Rd
+497;2;1498;he ping da jie
+497;3;1498;Heping Ave
+497;2;1499;xin min da jie
+497;3;1499;Xinmin Ave
+497;2;1500;tong zhi jie
+497;3;1500;Tongzhi St
+497;2;1501;da jing lu
+497;3;1501;Dajing Rd
+497;2;1502;le qun jie
+497;3;1502;Lequn St
+497;2;1503;kang ping jie
+497;3;1503;Kangping St
+497;2;1504;shu xun jie
+497;3;1504;Shuxun St
+497;2;1505;jin bu jie
+497;3;1505;Jinbu St
+497;2;1506;da ma lu
+497;3;1506;Damalu
+497;2;1507;tai bei da jie
+497;3;1507;Taibei Ave
+497;2;1508;qing feng lu
+497;3;1508;Qingfeng Rd
+497;2;1510;zhong shan da jie
+497;3;1510;Zhongshan Ave
+497;2;1512;wan bao jie
+497;3;1512;Wanbao St
+497;2;1514;gong nong da lu
+497;3;1514;Gongnong Rd
+497;2;1517;qing hua lu
+497;3;1517;Qinghua Rd
+497;2;1518;gui lin lu
+497;3;1518;Guilin Rd
+497;2;1520;ji shun jie
+497;3;1520;Jishun St
+497;2;1521;fu feng lu
+497;3;1521;Fufeng Rd
+497;2;1522;shi guang lu
+497;3;1522;Shiguang Rd
+497;2;1523;pu dong lu
+497;3;1523;Pudong Rd
+497;2;1524;rong guang lu
+497;3;1524;Rongguang Rd
+497;2;1525;tong an jie
+497;3;1525;Tong'an St
+497;2;1526;dong xin lu
+497;3;1526;Dongxin Rd
+497;2;1527;ying kou lu
+497;3;1527;Yingkou Rd
+497;2;1533;dong ling nan jie
+497;3;1533;Dongling South St
+497;2;1535;shang hai lu
+497;3;1535;Shanghai Rd
+497;2;1536;han kou da jie
+497;3;1536;Hankou Ave
+497;2;1538;bei an lu
+497;3;1538;Beian Rd
+497;2;1539;xiang yang jie
+497;3;1539;Xiangyang St
+497;2;1540;shan xi lu
+497;3;1540;Shanxi Rd
+497;2;1541;bei an lu bei san hu tong
+497;3;1541;Beianlubeisan Hu Tong
+497;2;1543;chang tong lu
+497;3;1543;Changtong Rd
+497;2;1544;nan jing da jie
+497;3;1544;Nanjing Ave
+497;2;1548;wu song lu
+497;3;1548;Wusong Rd
+497;2;1552;chang bai lu
+497;3;1552;Changbai Rd
+497;2;1553;qing shi lu
+497;3;1553;Qingshi Rd
+497;2;1554;bei ren min da jie
+497;3;1554;N Renmin Ave
+497;2;1555;jiu tai lu
+497;3;1555;Jiutai Rd
+497;2;1556;dong rong da qiao
+497;3;1556;Dongrong Brg
+497;2;1558;liu ying lu
+497;3;1558;Liuying Rd
+497;2;1559;tuan shan jie
+497;3;1559;Tuanshan St
+497;2;1568;chang qing gong lu
+497;3;1568;Changqing Hwy
+497;2;1584;jing bei lu
+497;3;1584;Jingbei Rd
+497;2;1587;tie bei er lu
+497;3;1587;Tiebeier Rd
+497;2;1599;xi wu ma lu
+497;3;1599;Xiwu Rd
+497;2;1600;qing zhou lu
+497;3;1600;Qingzhou Rd
+497;2;1601;bai ju lu
+497;3;1601;Baiju Rd
+497;2;1602;qing song jie
+497;3;1602;Qingsong St
+497;2;1603;nen jiang lu
+497;3;1603;Nenjiang Rd
+497;2;1604;qing dao lu
+497;3;1604;Qingdao Rd
+497;2;1605;dong er tiao jie
+497;3;1605;E Ertiao St
+497;2;1606;tie bei yi lu
+497;3;1606;Tiebeiyi Rd
+497;2;1608;hang zhou lu
+497;3;1608;Hangzhou Rd
+497;2;1611;huang he lu
+497;3;1611;Huanghe Rd
+497;2;1612;dong ba tiao
+497;3;1612;Dongba Aly
+497;2;1615;dong lai bei jie
+497;3;1615;Donglai North St
+497;2;1617;tong da lu
+497;3;1617;Tongda Rd
+497;2;1618;da zhong jie
+497;3;1618;Dazhong St
+497;2;1620;fu min da jie
+497;3;1620;Fumin Ave
+497;2;1623;an qing lu
+497;3;1623;Anqing Rd
+497;2;1625;tong xin lu
+497;3;1625;Tongxin Rd
+497;2;1626;kun lun er lu
+497;3;1626;Kunluner Rd
+497;2;1627;xing an lu
+497;3;1627;Xing'an Rd
+497;2;1632;ying chun nan lu
+497;3;1632;Yingchun South Rd
+497;2;1633;si lian da jie
+497;3;1633;Silian Ave
+497;2;1637;jian she jie
+497;3;1637;Jianshe St
+497;2;1639;xi chao yang lu
+497;3;1639;W Chaoyang Rd
+497;2;1640;pu qing lu
+497;3;1640;Puqing Rd
+497;2;1644;hu lin jie
+497;3;1644;Hulin St
+497;2;1646;fu jin lu
+497;3;1646;Fujin Rd
+497;2;1647;xin jiang jie
+497;3;1647;Xinjiang St
+497;2;1648;ci guang lu
+497;3;1648;Ciguang Rd
+497;2;1649;xi min zhu da jie
+497;3;1649;W Minzhu Ave
+497;2;1650;dong min zhu da jie
+497;3;1650;E Minzhu Ave
+497;2;1651;dong chao yang lu
+497;3;1651;E Chaoyang Rd
+497;2;1652;yi he lu
+497;3;1652;Yihe Rd
+497;2;1653;tuan jie lu
+497;3;1653;Tuanjie Rd
+497;2;1654;xi si ma lu
+497;3;1654;Xisi Rd
+497;2;1656;dong si ma lu
+497;3;1656;Dongsi Rd
+497;2;1657;tong hua lu
+497;3;1657;Tonghua Rd
+497;2;1658;yong ji hu tong
+497;3;1658;Yongji Hu Tong
+497;2;1659;ping yang jie
+497;3;1659;Pingyang St
+497;2;1660;ping quan lu
+497;3;1660;Pingquan Rd
+497;2;1661;guang ming lu
+497;3;1661;Guangming Rd
+497;2;1662;jin shui lu
+497;3;1662;Jinshui Rd
+497;2;1663;chong zhi lu
+497;3;1663;Chongzhi Rd
+497;2;1664;min an lu
+497;3;1664;Min'an Rd
+497;2;1665;xian yang lu
+497;3;1665;Xianyang Rd
+497;2;1666;ping zhi jie
+497;3;1666;Pingzhi St
+497;2;1667;xi san dao jie
+497;3;1667;W Sandao St
+497;2;1668;dong san dao jie
+497;3;1668;E Sandao St
+497;2;1669;yong chang lu
+497;3;1669;Yongchang Rd
+497;2;1670;tao yuan lu
+497;3;1670;Taoyuan Rd
+497;2;1671;dong tian jie
+497;3;1671;Dongtian St
+497;2;1672;dong da qiao jie
+497;3;1672;Dongdaqiao St
+497;2;1675;dong lai nan jie
+497;3;1675;Donglai South St
+497;2;1676;jing dong lu
+497;3;1676;Jingdong Rd
+497;2;1677;wu han lu
+497;3;1677;Wuhan Rd
+497;2;1678;zhu hai lu
+497;3;1678;Zhuhai Rd
+497;2;1679;bo shuo lu
+497;3;1679;Boshuo Rd
+497;2;1680;ju ye da jie
+497;3;1680;Juye Ave
+497;2;1681;liu ying xi lu
+497;3;1681;Liuying West Rd
+497;2;1682;liu ying dong lu
+497;3;1682;Liuying East Rd
+497;2;1689;jie fang da lu fu lu
+497;3;1689;Jiefang Rd Side Rd
+497;2;1690;ya tai da jie fu lu
+497;3;1690;Yatai Ave Side Rd
+497;2;1698;X063
+497;3;1698;X063
+497;2;1701;ji chang lu
+497;3;1701;Jichang Rd
+497;2;1702;yan an da jie
+497;3;1702;Yan'an Ave
+497;2;1705;ren min da jie fu lu
+497;3;1705;Renmin Ave Side Rd
+497;2;1718;jing yue da jie bei ce
+497;3;1718;Jingyue Ave N
+497;2;1735;jing yue da jie nan ce
+497;3;1735;Jingyue Ave S
+497;2;1739;S101 bei ce
+497;3;1739;S101 N
+497;2;1742;S101 nan ce
+497;3;1742;S101 S
+497;2;1747;G302 xi ce
+497;3;1747;G302 W
+497;2;1749;G302 dong ce
+497;3;1749;G302 E
+497;2;1761;S106 bei ce
+497;3;1761;S106 N
+497;2;1763;S106 nan ce
+497;3;1763;S106 S
+497;2;1802;chang ji nan xian
+497;3;1802;Changji South Line
+497;2;1804;xing jia tun
+497;3;1804;Xingjiatun
+497;2;1805;nan si huan lu
+497;3;1805;S 4th Ring Rd
+497;2;1811;ya tai guo shui xiao qu
+497;3;1811;Yataiguoshuixiaoqu
+497;2;1814;yan he jie
+497;3;1814;Yanhe St
+497;2;1818;yong chun bao
+497;3;1818;Yongchunbao
+497;2;1824;xiao gao jia wo bao
+497;3;1824;Xiaogaojiawobao
+497;2;1825;bei si huan lu
+497;3;1825;N 4th Ring Rd
+497;2;1826;bei kai xuan lu
+497;3;1826;Beikaixuan Rd
+497;2;1834;S104
+497;3;1834;S104
+497;2;1836;qing lin lu
+497;3;1836;Qinglin Rd
+497;2;1837;xi jie fang li jiao qiao
+497;3;1837;Xijiefang Jct
+497;2;1842;wei xing guang chang
+497;3;1842;Weixing Plz
+497;2;1843;ren min guang chang
+497;3;1843;Renmin Plz
+497;2;1844;qian xing long bao
+497;3;1844;Qianxinglongbao
+497;2;1847;bao ta jie
+497;3;1847;Baota St
+497;2;1851;li jia dian
+497;3;1851;Lijiadian
+497;2;1854;hua luo geng xue xiao min an lu xiao qu
+497;3;1854;Hualuogeng Sch Min'an Road Campus
+497;2;1871;fang cao jie
+497;3;1871;Fangcao St
+497;2;1876;hun wu gao su gong lu
+497;3;1876;Hunwu Hwy
+497;2;1880;hun wu gao su gong lu chang chun duan
+497;3;1880;Hunwu Hwy Changchun Sect
+497;2;1883;X005
+497;3;1883;X005
+497;2;1887;chang chun rao cheng gao su gong lu
+497;3;1887;Changchunraocheng Hwy
+497;2;1888;S001
+497;3;1888;S001
+497;2;1891;jing ha gao su gong lu
+497;3;1891;Jingha Hwy
+497;2;1892;xiao xi tun
+497;3;1892;Xiaoxitun
+497;2;1893;fu chang gao su gong lu
+497;3;1893;Fuchang Hwy
+497;2;1895;zi ran cun fu wu qu
+497;3;1895;Ziran Village Service Area
+497;2;1900;shi jia zi
+497;3;1900;Shijiazi
+497;2;1901;chang chun rao cheng gao su gong lu wai quan
+497;3;1901;Changchunraocheng Hwy Outside Ring
+497;2;1902;chang chun rao cheng gao su gong lu wai quan G302 chu kou za dao
+497;3;1902;Changchunraocheng Hwy Outside Ring G302 Exit Ramp
+497;2;1903;chang chun rao cheng gao su gong lu wai quan G302 ru kou za dao
+497;3;1903;Changchunraocheng Hwy Outside Ring G302 Entrance Ramp
+497;2;1904;chang chun rao cheng gao su gong lu nei quan G302 chu kou za dao
+497;3;1904;Changchunraocheng Hwy Inside Ring G302 Exit Ramp
+497;2;1905;chang chun rao cheng gao su gong lu nei quan
+497;3;1905;Changchunraocheng Hwy Inside Ring
+497;2;1906;chang chun rao cheng gao su gong lu nei quan G302 ru kou za dao
+497;3;1906;Changchunraocheng Hwy Inside Ring G302 Entrance Ramp
+497;2;1907;chang chun rao cheng gao su gong lu G302 chu kou za dao
+497;3;1907;Changchunraocheng Hwy G302 Exit Ramp
+497;2;1908;chang chun rao cheng gao su gong lu G302 ru kou za dao
+497;3;1908;Changchunraocheng Hwy G302 Entrance Ramp
+497;2;1909;chang chun rao cheng gao su gong lu G302 dong ce chu kou za dao
+497;3;1909;Changchunraocheng Hwy G302 E Exit Ramp
+497;2;1910;chang chun rao cheng gao su gong lu G302 xi ce chu kou za dao
+497;3;1910;Changchunraocheng Hwy G302 W Exit Ramp
+497;2;1911;chang chun rao cheng gao su gong lu G302 dong ce ru kou za dao
+497;3;1911;Changchunraocheng Hwy G302 E Entrance Ramp
+497;2;1912;chang chun rao cheng gao su gong lu G302 xi ce ru kou za dao
+497;3;1912;Changchunraocheng Hwy G302 W Entrance Ramp
+497;2;1913;chang chun rao cheng gao su gong lu wai quan S106 chu kou za dao
+497;3;1913;Changchunraocheng Hwy Outside Ring S106 Exit Ramp
+497;2;1914;chang chun rao cheng gao su gong lu wai quan S106 bei ce ru kou za dao
+497;3;1914;Changchunraocheng Hwy Outside Ring S106 N Entrance Ramp
+497;2;1915;chang chun rao cheng gao su gong lu nei quan S106 nan ce ru kou za dao
+497;3;1915;Changchunraocheng Hwy Inside Ring S106 S Entrance Ramp
+497;2;1916;chang chun rao cheng gao su gong lu nei quan S106 chu kou za dao
+497;3;1916;Changchunraocheng Hwy Inside Ring S106 Exit Ramp
+497;2;1917;chang chun rao cheng gao su gong lu nei quan da zhong jie ru kou za dao
+497;3;1917;Changchunraocheng Hwy Inside Ring Dazhong St Entrance Ramp
+497;2;1918;chang chun rao cheng gao su gong lu wai quan da zhong jie chu kou za dao
+497;3;1918;Changchunraocheng Hwy Outside Ring Dazhong St Exit Ramp
+497;2;1919;chang chun rao cheng gao su gong lu wai quan da zhong jie ru kou za dao
+497;3;1919;Changchunraocheng Hwy Outside Ring Dazhong St Entrance Ramp
+497;2;1920;chang chun rao cheng gao su gong lu nei quan da zhong jie chu kou za dao
+497;3;1920;Changchunraocheng Hwy Inside Ring Dazhong St Exit Ramp
+497;2;1921;chang chun rao cheng gao su gong lu da zhong jie chu kou za dao
+497;3;1921;Changchunraocheng Hwy Dazhong St Exit Ramp
+497;2;1922;chang chun rao cheng gao su gong lu da zhong jie ru kou za dao
+497;3;1922;Changchunraocheng Hwy Dazhong St Entrance Ramp
+497;2;1923;chang chun rao cheng gao su gong lu wai quan jing yue da jie chu kou za dao
+497;3;1923;Changchunraocheng Hwy Outside Ring Jingyue Ave Exit Ramp
+497;2;1924;chang chun rao cheng gao su gong lu wai quan jing yue da jie ru kou za dao
+497;3;1924;Changchunraocheng Hwy Outside Ring Jingyue Ave Entrance Ramp
+497;2;1925;chang chun rao cheng gao su gong lu nei quan jing yue da jie ru kou za dao
+497;3;1925;Changchunraocheng Hwy Inside Ring Jingyue Ave Entrance Ramp
+497;2;1926;chang chun rao cheng gao su gong lu nei quan jing yue da jie chu kou za dao
+497;3;1926;Changchunraocheng Hwy Inside Ring Jingyue Ave Exit Ramp
+497;2;1927;chang chun rao cheng gao su gong lu jing yue da jie chu kou za dao
+497;3;1927;Changchunraocheng Hwy Jingyue Ave Exit Ramp
+497;2;1928;chang chun rao cheng gao su gong lu jing yue da jie ru kou za dao
+497;3;1928;Changchunraocheng Hwy Jingyue Ave Entrance Ramp
+497;2;1929;chang chun rao cheng gao su gong lu jing yue da jie nan ce ru kou za dao
+497;3;1929;Changchunraocheng Hwy Jingyue Ave S Entrance Ramp
+497;2;1930;chang chun rao cheng gao su gong lu jing yue da jie nan ce chu kou za dao
+497;3;1930;Changchunraocheng Hwy Jingyue Ave S Exit Ramp
+497;2;1931;chang chun rao cheng gao su gong lu jing yue da jie bei ce ru kou za dao
+497;3;1931;Changchunraocheng Hwy Jingyue Ave N Entrance Ramp
+497;2;1932;chang chun rao cheng gao su gong lu jing yue da jie bei ce chu kou za dao
+497;3;1932;Changchunraocheng Hwy Jingyue Ave N Exit Ramp
+497;2;1933;chang chun rao cheng gao su gong lu nei quan S101 chu kou za dao
+497;3;1933;Changchunraocheng Hwy Inside Ring S101 Exit Ramp
+497;2;1934;chang chun rao cheng gao su gong lu nei quan S101 bei ce ru kou za dao
+497;3;1934;Changchunraocheng Hwy Inside Ring S101 N Entrance Ramp
+497;2;1935;chang chun rao cheng gao su gong lu wai quan S101 nan ce ru kou za dao
+497;3;1935;Changchunraocheng Hwy Outside Ring S101 S Entrance Ramp
+497;2;1936;chang chun rao cheng gao su gong lu wai quan S101 chu kou za dao
+497;3;1936;Changchunraocheng Hwy Outside Ring S101 Exit Ramp
+497;2;1937;chao da da lu
+497;3;1937;Chaoda Rd
+497;2;1941;ya tai bei jie
+497;3;1941;Yatai North St
+497;2;1942;zhi nong da jie
+497;3;1942;Zhinong Ave
+497;2;1943;zi li xi jie
+497;3;1943;Zili West St
+497;2;1944;bo hui lu
+497;3;1944;Bohui Rd
+497;2;1945;fei hong lu
+497;3;1945;Feihong Rd
+497;2;1948;zhong jia yao
+497;3;1948;Zhongjiayao
+497;2;1949;li jia wa zi
+497;3;1949;Lijiawazi
+497;2;1951;zi shan lu
+497;3;1951;Zishan Rd
+497;2;1952;hui gong lu gao jia qiao
+497;3;1952;Huigonglu Viad
+497;2;1953;dong qi tiao jie
+497;3;1953;E Qitiao St
+497;2;1954;chang chun yi zhong
+497;3;1954;Changchunyizhong
+497;2;1955;dong san tiao jie
+497;3;1955;E Santiao St
+497;2;1956;zhe jiang lu
+497;3;1956;Zhejiang Rd
+497;2;1957;zhu jiang lu
+497;3;1957;Zhujiang Rd
+497;2;1958;dong liu tiao jie
+497;3;1958;E Liutiao St
+497;2;1959;xi san ma lu
+497;3;1959;Xisan Rd
+497;2;1960;dong san ma lu
+497;3;1960;Dongsan Rd
+497;2;1961;chang tong di shui suo
+497;3;1961;Changtongdishuisuo
+497;2;1962;shu guang lu
+497;3;1962;Shuguang Rd
+497;2;1963;xi si dao jie
+497;3;1963;W Sidao St
+497;2;1964;dong si dao jie
+497;3;1964;E Sidao St
+497;2;1965;mu dan jie
+497;3;1965;Mudan St
+497;2;1966;hui min lu
+497;3;1966;Huimin Rd
+497;2;1967;li xin jie
+497;3;1967;Lixin St
+497;2;1968;ming de lu bei hu tong
+497;3;1968;Mingdelu North Hu Tong
+497;2;1969;ming de lu
+497;3;1969;Mingde Rd
+497;2;1970;bai hui jie
+497;3;1970;Baihui St
+497;2;1971;xi er dao jie
+497;3;1971;W Erdao St
+497;2;1972;dong er dao jie
+497;3;1972;E Erdao St
+497;2;1976;he fei lu
+497;3;1976;Hefei Rd
+497;2;1977;yan he lu
+497;3;1977;Yanhe Rd
+497;2;1978;gong ping lu
+497;3;1978;Gongping Rd
+497;2;1979;min feng da jie
+497;3;1979;Minfeng Ave
+497;2;1980;yong ning lu
+497;3;1980;Yongning Rd
+497;2;1981;bei shi tiao
+497;3;1981;Beishi Aly
+497;2;1982;tie bei si lu
+497;3;1982;Tiebeisi Rd
+497;2;1985;xiao shan jie
+497;3;1985;Xiaoshan St
+497;2;1986;jin chuan jie
+497;3;1986;Jinchuan St
+497;2;1987;hai kou lu
+497;3;1987;Haikou Rd
+497;2;1988;wen zhou jie
+497;3;1988;Wenzhou St
+497;2;1989;kun shan lu
+497;3;1989;Kunshan Rd
+497;2;1990;he shun jie
+497;3;1990;Heshun St
+497;2;1991;shuang yang lu
+497;3;1991;Shuangyang Rd
+497;2;1992;zhuo yue da jie
+497;3;1992;Zhuoyue Ave
+497;2;1993;jin hu da lu
+497;3;1993;Jinhu Rd
+497;2;1994;chao fan da jie
+497;3;1994;Chaofan Ave
+497;2;1995;cheng nan da lu
+497;3;1995;Chengnan Rd
+497;2;1996;xi yi tiao jie
+497;3;1996;W Yitiao St
+497;2;1997;hu ning lu
+497;3;1997;Huning Rd
+497;2;1998;jing yue tan guo jia sen lin gong yuan
+497;3;1998;Jingyuetan National Forest Park
+497;2;2000;nong an nan jie
+497;3;2000;Nongan South St
+497;2;2001;nong an bei jie
+497;3;2001;Nongan North St
+497;2;2002;shi fu xi jie
+497;3;2002;Shifu West St
+497;2;2003;cai xia jie
+497;3;2003;Caixia St
+497;2;2004;cai zhi jie
+497;3;2004;Caizhi St
+497;2;2005;xiang lu jie
+497;3;2005;Xianglu St
+497;2;2006;yun you lu
+497;3;2006;Yunyou Rd
+497;2;2007;tie xi jie
+497;3;2007;Tiexi St
+497;2;2008;chong wen lu
+497;3;2008;Chongwen Rd
+497;2;2010;xiang yun jie
+497;3;2010;Xiangyun St
+497;2;2011;yang guang lu
+497;3;2011;Yangguang Rd
+497;2;2012;shi fu nan lu
+497;3;2012;Shifu South Rd
+497;2;2014;bei ba tiao
+497;3;2014;Beiba Aly
+497;2;2015;jin cheng da jie
+497;3;2015;Jincheng Ave
+497;2;2016;bei huan cheng lu ( jiu )
+497;3;2016;N Huancheng Rd (Former)
+497;2;2017;sheng yang jie
+497;3;2017;Shengyang St
+497;2;2018;hong yang jie
+497;3;2018;Hongyang St
+497;2;2019;qing pu lu
+497;3;2019;Qingpu Rd
+497;2;2020;jin xi lu
+497;3;2020;Jinxi Rd
+497;2;2021;luo yang jie
+497;3;2021;Luoyang St
+497;2;2022;ying bin lu
+497;3;2022;Yingbin Rd
+497;2;2023;yang guang zong he men zhen
+497;3;2023;Yangguangzonghemenzhen
+497;2;2024;yi er lu
+497;3;2024;Yier Rd
+497;2;2025;xiao dian zi
+497;3;2025;Xiaodianzi
+497;2;2028;zhi yuan jie
+497;3;2028;Zhiyuan St
+497;2;2029;xiu zheng lu
+497;3;2029;Xiuzheng Rd
+497;2;2030;wei ming jie
+497;3;2030;Weiming St
+497;2;2031;xi wu tiao jie
+497;3;2031;W Wutiao St
+497;2;2032;chang ping jie
+497;3;2032;Changping St
+497;2;2033;nan chang lu
+497;3;2033;Nanchang Rd
+497;2;2034;dong zhong hua lu
+497;3;2034;E Zhonghua Rd
+497;2;2035;nan hu xin cun dong jie
+497;3;2035;Nanhuxincun East St
+497;2;2036;qing ming jie
+497;3;2036;Qingming St
+497;2;2037;tong xing lu
+497;3;2037;Tongxing Rd
+497;2;2038;xin kai he xiao qu
+497;3;2038;Xinkaihexiaoqu
+497;2;2039;yi kuang jie
+497;3;2039;Yikuang St
+497;2;2040;li guo jie
+497;3;2040;Liguo St
+497;2;2041;ya tai bei jie fu lu
+497;3;2041;Yatai North St Side Rd
+497;2;2042;tian guang lu
+497;3;2042;Tianguang Rd
+497;2;2043;zhong huan qi qu
+497;3;2043;Zhonghuanqiqu
+497;2;2044;xiao cheng zi jie
+497;3;2044;Xiaochengzi St
+497;2;2046;ya zhou
+497;3;2046;Asia
+497;2;2047;zhong guo
+497;3;2047;China
+497;2;2048;ji lin sheng
+497;3;2048;JILIN
+497;2;2056;G102
+497;3;2056;G102
+497;2;2063;S101
+497;3;2063;S101
+497;2;2131;qing nian lu
+497;3;2131;Qingnian Rd
+497;2;2244;yue yang jie
+497;3;2244;Yueyang St
+497;2;2531;xi si huan lu
+497;3;2531;W 4th Ring Rd
+497;2;2616;jing ha gao su gong lu chang chun duan
+497;3;2616;Jingha Hwy Changchun Sect
+497;2;2618;chang ji bei xian
+497;3;2618;Changji North Line
+497;2;2619;lei jia da jie
+497;3;2619;Leijia Ave
+497;2;2622;chang chun shi yu xin xiao xue
+497;3;2622;Changchunshiyuxinxiaoxue
+497;2;2623;tian guang xiao xue
+497;3;2623;Tianguang Primary School
+497;2;2624;wei xing lu fu lu
+497;3;2624;Weixing Rd Side Rd
+497;2;2626;qin huang dao lu
+497;3;2626;Qinhuangdao Rd
+497;2;2627;qian jin da jie fu lu
+497;3;2627;Qianjin Ave Side Rd
+497;2;2628;huo ju lu
+497;3;2628;Huoju Rd
+497;2;2629;chang chun shi di zhen ju
+497;3;2629;Changchunshidizhenju
+497;2;2630;lu jia tun
+497;3;2630;Lujiatun
+497;2;2633;wang fu shou fei zhan
+497;3;2633;Wangfu Tollgate
+497;2;2634;ha la hai shou fei zhan
+497;3;2634;Halahai Tollgate
+497;2;2635;wang fu fu wu qu
+497;3;2635;Wangfu Service Area
+497;2;2636;ying bin da lu
+497;3;2636;Yingbin Rd
+497;2;2637;yu min lu
+497;3;2637;Yumin Rd
+497;2;2638;he xie da jie
+497;3;2638;Hexie Ave
+497;2;2639;kuang da lu
+497;3;2639;Kuangda Rd
+497;2;2640;yi ju lu
+497;3;2640;Yiju Rd
+497;2;2641;chao yue da jie
+497;3;2641;Chaoyue Ave
+497;2;2642;chang chun rao cheng gao su gong lu bei duan
+497;3;2642;Changchunraocheng Hwy North Sect
+497;2;2643;chang chun rao cheng gao su gong lu dong duan
+497;3;2643;Changchunraocheng Hwy East Sect
+497;2;2644;chang chun rao cheng gao su gong lu nan duan
+497;3;2644;Changchunraocheng Hwy South Sect
+497;2;2645;chang chun rao cheng gao su gong lu xi duan
+497;3;2645;Changchunraocheng Hwy West Sect
+497;2;2646;fu chang gao su gong lu chang chun duan
+497;3;2646;Fuchang Hwy Changchun Sect
+497;2;2648;dou jia gou tun
+497;3;2648;Doujiagoutun
+497;2;2649;X003
+497;3;2649;X003
+497;2;2650;kua zi gou fu wu qu
+497;3;2650;Kuazigou Service Area
+497;2;2651;hua jia fu wu qu
+497;3;2651;Huajia Service Area
+497;2;2652;an long quan hu tong li jiao qiao
+497;3;2652;Anlongquanhutong Jct
+497;2;2653;bai ju lu (xi wu tiao jie)
+497;3;2653;Baiju Rd (W Wutiao St)
+497;2;2654;chang chun rao cheng gao su gong lu (qing nian lu)
+497;3;2654;Changchunraocheng Hwy (Qingnian Rd)
+497;2;2655;bei si huan lu (qing nian lu)
+497;3;2655;N 4th Ring Rd (Qingnian Rd)
+497;2;2657;long shuang gong lu
+497;3;2657;Longshuang Hwy
+497;2;2658;ji lin da lu (chang ji gong lu)
+497;3;2658;Jilin Rd (Changji Hwy)
+497;2;2659;chang ji gong lu
+497;3;2659;Changji Hwy
+497;2;2660;long san jie
+497;3;2660;Longsan St
+497;2;2662;xin yue lu (xi huan cheng lu)
+497;3;2662;Xinyue Rd (W Huancheng Rd)
+497;2;2665;ying chun nan lu (kuan ping da lu)
+497;3;2665;Yingchun South Rd (Kuanping Rd)
+497;2;2666;fu min da lu
+497;3;2666;Fumin Rd
+497;2;2667;dong tou dao jie
+497;3;2667;E Toudao St
+497;2;2668;nan hu da lu (dong ling nan jie)
+497;3;2668;Nanhu Rd (Dongling South St)
+497;2;2669;hu bin jie
+497;3;2669;Hubin St
+497;2;2671;xi san tiao jie
+497;3;2671;W Santiao St
+497;2;2672;dong ba tiao (chang bai lu)
+497;3;2672;Dongba Aly (Changbai Rd)
+497;2;2674;bei hai lu (xiao shan jie)
+497;3;2674;Beihai Rd (Xiaoshan St)
+497;2;2675;meng jia gong tie qiao
+497;3;2675;Mengjiagongtie Brg
+497;2;2676;fu feng lu (lin he jie)
+497;3;2676;Fufeng Rd (Linhe St)
+497;2;2678;ri guang lu
+497;3;2678;Riguang Rd
+497;2;2679;cai yu da jie (shi guang lu)
+497;3;2679;Caiyu Ave (Shiguang Rd)
+497;2;2681;min an jie
+497;3;2681;Min'an St
+497;2;2682;dong men li hu tong
+497;3;2682;Dongmenli Hu Tong
+497;2;2683;chang xin dong lu
+497;3;2683;Changxin East Rd
+497;2;2685;fu rong xiao qu xi qu
+497;3;2685;Furongxiaoquxiqu
+497;2;2686;bing shi wu lu
+497;3;2686;Bingshiwu Rd
+497;2;2688;wan ke cheng
+497;3;2688;Wankecheng
+497;2;2689;zheng fu da jie
+497;3;2689;Zhengfu Ave
+497;2;2690;bei yuan da da jie
+497;3;2690;Beiyuanda Ave
+497;2;2691;zhong ke da jie
+497;3;2691;Zhongke Ave
+497;2;2692;bei xing lu
+497;3;2692;Beixing Rd
+497;2;2693;hai er da dao
+497;3;2693;Haier Blvd
+497;2;2694;ya tai bei huan li jiao qiao
+497;3;2694;Yatai North Ring Jct
