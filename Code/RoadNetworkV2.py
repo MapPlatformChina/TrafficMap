@@ -27,30 +27,45 @@ class RoadNetwork:
 
 class Road:
 	def __init__(self, LCD, name = ''):
-		self.road_segs = []
+		self.road_segs = RoadSegSet()
+		self.links = LinkSet()
 		self.road_name = name
 		self.LCD = LCD
 	
 	def set_name(self,name):
 		self.road_name = name
-	
-	def add_seg(self,roadseg):
-		self.road_segs.append(roadseg)
-	
-	def reset(self):
-		self.road_segs = []
-		self.road_name = ''
-	
-	def get_size(self):
-		return len(self.road_segs)
+
+	def add_link(self,link):
+		self.links.add_link(link)
+
+	def get_link(self,LCD,direction):
+		return self.links.get_link(LCD,direction)
+
+	def add_seg(self,seg):
+		self.road_segs.add_seg(seg)
 		
 	def get_seg(self,LCD):
-		for seg in self.road_segs:
+		return self.road_segs.get_seg(LCD)
+		
+class RoadSegSet:
+	def __init__(self):
+		self.road_seg_set = []
+	
+	def reset(self):
+		self.road_seg_set = []
+	
+	def add_seg(self, seg):
+		self.road_seg_set.append(seg)
+	
+	def get_size(self):
+		return len(self.road_seg_set)
+	
+	def get_seg(self, LCD):
+		for seg in self.road_seg_set:
 			if seg.LCD == LCD:
 				return seg
-		return None;
-
-		
+		return None
+	
 class RoadSeg:
 	def __init__(self, LCD, links = None, urban = True):
 		self.links = links
@@ -86,19 +101,23 @@ class LinkSet:
 	def get_size(self):
 		return len(self.link_set)
 	
-	def get_link(self,index):
-		return self.link_set[index]
-	
-	def search(self, LCD, direction):
+	def get_link(self, LCD, direction):
 		for link in self.link_set:
 			if link.match(LCD,direction):
 				return link
 		return None
 	
-	def search_by_seg(self, seg_lcd):
+	def get_link_by_seg(self, seg_lcd):
 		link_set = LinkSet()
 		for link in self.link_set:
 			if link.point_a.seg_lcd == seg_lcd:
+				link_set.add_link(link)
+		return link_set
+
+	def get_link_by_road(self, road_lcd):
+		link_set = LinkSet()
+		for link in self.link_set:
+			if link.point_a.road_lcd == road_lcd:
 				link_set.add_link(link)
 		return link_set
 
@@ -209,9 +228,11 @@ class RoadNetworkDictionary:
 			road_id = road[0]
 			road_name = self.name_dict.search(road[1])
 			road_obj = Road(road_id,road_name)
+			links = self.link_set.get_link_by_road(road_id);
+			road_obj.links = links
 			self.road_network.add_road(road_obj)
-			# print road_id,road_name.decode('utf-8').encode('gb2312',"ignore")
 		print 'Done!'
+		
 
 	def load_segment_data(self):
 		print 'Load',self.seg_data_file,'...',
@@ -225,9 +246,10 @@ class RoadNetworkDictionary:
 			seg_id = seg[0]
 			road_id = seg[1]
 			road_seg_obj = RoadSeg(seg_id)
+			link_set = self.link_set.get_link_by_seg(seg_id)
+			for link in link_set.link_set:
+				road_seg_obj.add_link(link)
 			self.road_network.get_road(road_id).add_seg(road_seg_obj);
-			link_set = self.link_set.search_by_seg(seg_id)
-			self.road_network.get_road(road_id).get_seg(seg_id).links = link_set
 		print 'Done!'
 
 	def load_link_dict(self):
@@ -273,18 +295,19 @@ def main():
 	road_dict.load_segment_data()
 	print road_dict.road_network.get_size(),'roads loaded'
 	
-	file_handle = open("LinkList.txt", "wb")
+	#file_handle = open("LinkList.txt", "wb")
 
 	for road in road_dict.road_network.roads:
-		for seg in road.road_segs:
+		for seg in road.road_segs.road_seg_set:
 			for link in seg.links.link_set:
 				outputstr = ('%s;%s;%s;%s;%d;%s;%f;%f;%f;%f\n' % (road.LCD, seg.LCD, 
 									link.point_a.LCD, link.point_b.LCD, link.direction, road.road_name,
 						link.point_a.longitude, link.point_a.latitude, 
 						link.point_b.longitude, link.point_b.latitude) )
-				file_handle.write(outputstr)
+				print outputstr
+				#file_handle.write(outputstr)
 						
-	file_handle.close()
+	#file_handle.close()
 	
 	print 'List is writen into LinkList.txt!\nFeel free to check out'
 	
