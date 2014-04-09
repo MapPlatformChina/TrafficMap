@@ -55,11 +55,13 @@ class RoadNetwork:
 		
 
 class Road:
-	def __init__(self, LCD, name = ''):
+	def __init__(self, LCD, name = None, TCD = None, STCD = None):
 		self.segs = []
 		self.links = []
 		self.name = name
 		self.LCD = LCD
+		self.TCD = TCD
+		self.STCD = STCD
 	
 	def set_name(self,name):
 		self.name = name
@@ -83,8 +85,8 @@ class Road:
 		return None
 		
 class RoadSeg:
-	def __init__(self, LCD, links = [], urban = True):
-		self.links = links
+	def __init__(self, LCD, urban = True):
+		self.links = []
 		self.urban = urban
 		self.LCD = LCD
 	
@@ -143,6 +145,19 @@ class PointDict:
 			if point.LCD == LCD:
 				return point
 		return None
+
+class TypeDict:
+	def __init__(self):
+		self.types = [];
+	
+	def add_type(self,type_CD,subtype_CD,type_name):
+		self.types.append((type_CD, subtype_CD, type_name))
+	
+	def get_type_name(self, type_CD, subtype_CD):
+		for type in self.types:
+			if type[0] == type_CD and type[1] == subtype_CD:
+				return type[2]
+		return None
 		
 class NameDict:
 	def __init__(self):
@@ -179,9 +194,14 @@ class RoadNetworkDict:
 		self.point_data_file = '../Res/POINTS.DAT'
 		self.point_off_data_file = '../Res/POFFSETS.DAT'
 		self.name_data_file = '../Res/NAMES.DAT'
+		self.type_data_file = '../Res/SUBTYPES.DAT'
 		
 		# initiate var used for CSVData
 		self.seperator = ';'
+
+		# initiate type dict and load it
+		self.type_dict = TypeDict()
+		self.load_type_dict()
 
 		# initiate name dict and load it
 		self.name_dict = NameDict()
@@ -201,6 +221,14 @@ class RoadNetworkDict:
 		
 		self.load_link_data()
 		
+	def load_type_dict(self):
+		print 'Load',self.type_data_file,'...',
+		type_data = CSVData(self.type_data_file, self.seperator);
+		indexes = ('TCD','STCD','SDESC')
+		type_data_filtered = type_data.get_data(indexes)
+		for type in type_data_filtered:
+			self.type_dict.add_type(type[0],type[1],type[2])
+		print 'Done!'
 
 	def load_name_dict(self):
 		print 'Load',self.name_data_file,'...',
@@ -220,27 +248,36 @@ class RoadNetworkDict:
 			self.seg_dict.add_seg(seg[0],seg[1])
 		print 'Done!'
 
+	# before calling this function, seg_dict should be loaded
 	def load_point_dict(self):
 		print 'Load',self.point_data_file,'...',
 		point_data = CSVData(self.point_data_file, self.seperator)
 		indexes = ('LCD', 'XCOORD', 'YCOORD','SEG_LCD', 'ROA_LCD', 'RNID')
 		point_data_filtered = point_data.get_data(indexes)
 		for point_data_item in point_data_filtered:
+			seg_lcd = point_data_item[3]
+			roa_lcd = point_data_item[4]
+			if seg_lcd == '':
+				seg_lcd = None
+			else:
+				roa_lcd = self.seg_dict.get_road_lcd(seg_lcd)
+			if roa_lcd == '':
+				roa_lcd = None
 			point_obj = Point(point_data_item[0], 
 					float(point_data_item[1])/100000,float(point_data_item[2])/100000,
-					point_data_item[3], point_data_item[4], self.name_dict.get_name(point_data_item[5]))
+					seg_lcd, roa_lcd, self.name_dict.get_name(point_data_item[5]))
 			self.point_dict.add_point(point_obj)
 		print 'Done!'
 		
 	def load_road_data(self):
 		print 'Load',self.road_data_file,'...',
 		road_data = CSVData(self.road_data_file, self.seperator)
-		indexes = ('LCD', 'RNID')
+		indexes = ('LCD', 'RNID', 'TCD', 'STCD')
 		road_data_filtered = road_data.get_data(indexes)
 		for road in road_data_filtered:
 			road_id = road[0]
 			road_name = self.name_dict.get_name(road[1])
-			road_obj = Road(road_id,road_name)
+			road_obj = Road(road_id,road_name,road[2],road[3])
 			self.road_network.add_road(road_obj)
 		print 'Done!'
 		
@@ -251,57 +288,131 @@ class RoadNetworkDict:
 		point_off_data_filtered = point_off_data.get_data(indexes)
 		print 'Done!'
 
+		count = 0
 		print 'Parsing data ...',
 		for off_data in point_off_data_filtered:
 			point_a = self.point_dict.get_point(off_data[0])
 			# fill road_lcd if not present
-			if point_a.seg_lcd != '':
-				point_a.road_lcd = self.seg_dict.get_road_lcd(point_a.seg_lcd)
 			if len(off_data[1]) > 0:
 				point_b = self.point_dict.get_point(off_data[1])
 				link_obj = Link(point_a,point_b, 0)
-				# fill point b road_lcd if not present
-				if point_b.seg_lcd != '':
-					point_b.road_lcd = self.seg_dict.get_road_lcd(point_b.seg_lcd)
 				self.road_network.add_link(link_obj);
+				count += 1
 			if len(off_data[2]) > 0:
 				point_b = self.point_dict.get_point(off_data[2])
 				link_obj = Link(point_a,point_b, 1)
-				# fill point b road_lcd if not present
-				if point_b.seg_lcd != '':
-					point_b.road_lcd = self.seg_dict.get_road_lcd(point_b.seg_lcd)
 				self.road_network.add_link(link_obj);
+				count += 1
 		print 'Done!'
+		print count, 'links loaded!'
 
+def parse_direction(link, TCD, STCD):
+	msg = ''
+	if TCD == '2':		# ring road
+		if link.direction == 1:
+			msg = 'CLOCK'
+		else:
+			msg = 'C-CLOCK'
+	else:
+		msg = 'LINE'
 
+	diff_longitude = link.point_b.longitude-link.point_a.longitude
+	diff_latitude = link.point_b.latitude -link.point_a.latitude
+	if abs(diff_longitude) >= abs(diff_latitude):
+		if diff_longitude >= 0:
+			msg = ('%s;%d;%s' % (msg, 1,'EAST'))
+		else:
+			msg = ('%s;%d;%s' % (msg, 3,'WEST'))
+	else:
+		if diff_latitude >= 0:
+			msg = ('%s;%d;%s' % (msg, 2,'NORTH'))
+		else:
+			msg = ('%s;%d;%s' % (msg, 4,'SOUTH'))
+	return msg
+	
+def get_shift(link, shift_dis):
+
+	diff_longitude = link.point_b.longitude-link.point_a.longitude
+	diff_latitude = link.point_b.latitude -link.point_a.latitude
+	if abs(diff_longitude) >= abs(diff_latitude):
+		if diff_longitude >= 0:
+			return (0, -shift_dis)	#EAST
+		else:
+			return (0, shift_dis)	#WEST
+	else:
+		if diff_latitude >= 0:
+			return (shift_dis,0)	#NORTH
+		else:
+			return (-shift_dis,0)	#SOUTH
+	return (0,0)
+	
 def main():
 
 	# Here, your unit test code or main program
 	road_dict = RoadNetworkDict()
 	print road_dict.road_network.get_size(),'roads loaded'
 	
-	file_handle = open("LinkList.txt", "wb")
+	is_shifted = True
+	
+	if is_shifted:
+		output_filename = "LinkListShifted.txt"
+		shift_dis = 0.00002
+	else:
+		output_filename = "LinkList.txt"
+		shift_dis = 0
+	
+	file_handle = open(output_filename, "wb")
 	
 	count = 0
 
 	for road in road_dict.road_network.roads:
+		if road.TCD == '7' and road.STCD =='0':		#匝道
+			shift_factor = shift_dis * 1
+		elif road.TCD == '1' and road.STCD =='1':	#高速
+			shift_factor = shift_dis * 4
+		elif road.TCD == '1' and road.STCD =='2':	#一级公路
+			shift_factor = shift_dis * 2.5
+		elif road.TCD == '1' and road.STCD =='3':	#二级公路
+			shift_factor = shift_dis * 6 # 1.5
+		elif road.TCD == '1' and road.STCD =='4':	#三级公路
+			shift_factor = shift_dis * 6 # 1
+		elif road.TCD == '2' and road.STCD =='1':	#高速环路
+			shift_factor = shift_dis * 2.5
+		elif road.TCD == '2' and road.STCD =='2':	#其它环路
+			shift_factor = shift_dis * 1.5
+		elif road.TCD == '3' and road.STCD =='0':	#一级路段
+			shift_factor = shift_dis * 1
+		else:
+			shift_factor = shift_dis
+
 		for seg in road.segs:
 			for link in seg.links:
-				outputstr = ('%s;%s;%s;%s;%s;%s;%d;%f;%f;%f;%f;%s;%s\n' %  
-									(road.LCD, road.name,
-									link.point_a.LCD, link.point_a.link_name, link.point_b.LCD, link.point_b.link_name, link.direction, 
-									link.point_a.longitude, link.point_a.latitude,  
-									link.point_b.longitude, link.point_b.latitude,
+				direction_msg = parse_direction(link,road.TCD, road.STCD)
+				shift = get_shift(link, shift_factor)
+				outputstr = ('%s;%s;%s;%s;%d;%s;%f;%f;%f;%f;%s;%s\n' %  
+									(road.LCD, link.point_a.link_name,
+									link.point_a.LCD, link.point_b.LCD, link.direction, direction_msg,
+									link.point_a.latitude+shift[1], link.point_a.longitude+shift[0],
+									link.point_b.latitude+shift[1], link.point_b.longitude+shift[0],
+									link.point_a.seg_lcd, link.point_b.seg_lcd) )
+
+				outputstr = ('%s;%s;%s;%s;%d;%s;%f;%f;%f;%f;%s;%s\n' %  
+									(road.LCD, link.point_a.link_name,
+									link.point_a.LCD, link.point_b.LCD, link.direction, direction_msg,
+									link.point_a.latitude+shift[1], link.point_a.longitude+shift[0],
+									link.point_b.latitude+shift[1], link.point_b.longitude+shift[0],
 									link.point_a.seg_lcd, link.point_b.seg_lcd) )
 				#print outputstr
 				file_handle.write(outputstr)
 				count += 1
 		for link in road.links:
-			outputstr = ('%s;%s;%s;%s;%s;%s;%d;%f;%f;%f;%f;%s;%s\n' %  
-							(road.LCD, road.name,
-							link.point_a.LCD, link.point_a.link_name, link.point_b.LCD, link.point_b.link_name, link.direction, 
-							link.point_a.longitude, link.point_a.latitude,  
-							link.point_b.longitude, link.point_b.latitude,
+			direction_msg = parse_direction(link,road.TCD, road.STCD)
+			shift = get_shift(link, shift_factor)
+			outputstr = ('%s;%s;%s;%s;%d;%s;%f;%f;%f;%f;%s;%s\n' %  
+							(road.LCD, link.point_a.link_name,
+							link.point_a.LCD, link.point_b.LCD, link.direction, direction_msg,
+							link.point_a.latitude+shift[1], link.point_a.longitude+shift[0],
+							link.point_b.latitude+shift[1], link.point_b.longitude+shift[0],
 							link.point_a.seg_lcd, link.point_b.seg_lcd) )
 			#print outputstr
 			file_handle.write(outputstr)
@@ -310,7 +421,7 @@ def main():
 						
 	file_handle.close()
 	
-	print 'List is writen into LinkList.txt!'
+	print 'List is writen into ', output_filename
 	print count, 'links are written!\nFeel free to check out\n'
 	
 if __name__=='__main__':
