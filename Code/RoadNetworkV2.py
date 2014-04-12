@@ -8,6 +8,24 @@
 
 # Below is the area for class definition
 from CSVData import *
+import math
+
+direction_sign_dict = {'E': 1, 'W': 3, 'N': 2, 'S': 4}
+# geo should be in [latitude, longitude] format
+def get_direction_sign_with_geo(geo_a, geo_b):
+	diff = [geo_b[0] - geo_a[0], geo_b[1] - geo_b[1]]
+	direction_sign = '?'
+	if abs(diff[1]) >= abs(diff[0]):
+		if diff[1] >= 0:
+			direction_sign = 'E'	#EAST
+		else:
+			direction_sign = 'W'	#WEST
+	else:
+		if diff[0] >= 0:
+			direction_sign = 'N'	#NORTH
+		else:
+			direction_sign = 'S'	#SOUTH
+	return direction_sign
 
 class RoadNetwork:
 	def __init__(self, roads = []):
@@ -121,7 +139,11 @@ class Link:
 		return [ self.point_a.LCD, self.point_b.LCD,
 					self.point_a.longitude, self.point_a.latitude, 
 					self.point_b.longitude, self.point_b.latitude, 
-					self.direction] 
+					self.direction]
+	
+	def get_direction_sign(self):
+		return get_direction_sign_with_geo((self.point_a.latitude, self.point_a.longitude),
+									(self.point_b.latitude, self.point_b.longitude))
 
 class Point:
 	def __init__(self, LCD, longitude, latitude, seg_lcd=None,road_lcd =None, link_name =None):
@@ -345,10 +367,60 @@ def get_shift(link, shift_dis):
 		else:
 			return (-shift_dis,0)	#SOUTH
 	return (0,0)
-	
-def main():
+
+
+def sample_helper_break_link_into_dict(link):
+	GRANULARITY = 0.00001
+	link_name = ('%s_%d' % (link.point_b.LCD, link.direction))
+	dict_array = []
+	zero_point = [link.point_a.latitude,link.point_a.longitude]
+	diff = [link.point_b.latitude - link.point_a.latitude, 
+				link.point_b.longitude - link.point_a.longitude]
+
+	num_segment = int(math.ceil(max(abs(diff[0]),abs(diff[1])) / 0.0001))
+	seg_diff = [diff[0] / float(num_segment), diff[1] / float(num_segment)]
+	for i in range(0,num_segment):
+		pa = [zero_point[0] + seg_diff[0] * i,zero_point[1] + seg_diff[1] * i] 
+		pb = [zero_point[0] + seg_diff[0] * (i+1),zero_point[1] + seg_diff[1] * (i+1)] 
+		pc = [(pa[0] + pb[0]) / 2, (pa[1] + pb[1]) / 2]
+		dict_array.append((pc[0],pc[1],link_name))
+	return dict_array
+			
+def sample_helper_write_link(link, handle_of_file):
+	count = 0
+	dict_array = sample_helper_break_link_into_dict(link)
+	direction_sign = link.get_direction_sign()
+	for item in dict_array:
+		outputstr = ('%s;%f;%f;%s\n' % (direction_sign,item[0],item[1],item[2]))
+		handle_of_file.write(outputstr)
+		count += 1
+	return count
+
+def sample_func_generate_link_dictionanry():
 
 	# Here, your unit test code or main program
+	road_dict = RoadNetworkDict()
+	print road_dict.road_network.get_size(),'roads loaded'
+	
+	output_filename = 'LinkMatch.dict'
+	file_handle = open(output_filename, "wb")
+	
+	count = 0
+
+	for road in road_dict.road_network.roads:
+
+		for seg in road.segs:
+			for link in seg.links:
+				count += sample_helper_write_link(link, file_handle)
+			for link in road.links:
+				count += sample_helper_write_link(link, file_handle)
+						
+	file_handle.close()
+	
+	print 'Link dictionary is writen into ', output_filename
+	print count, 'links are written!\nFeel free to check out\n'
+
+def sample_generate_link_list():
 	road_dict = RoadNetworkDict()
 	print road_dict.road_network.get_size(),'roads loaded'
 	
@@ -423,6 +495,12 @@ def main():
 	
 	print 'List is writen into ', output_filename
 	print count, 'links are written!\nFeel free to check out\n'
+	
+def main():
+
+	# Here, your unit test code or main program
+	sample_func_generate_link_dictionanry()
+	#sample_generate_link_list()
 	
 if __name__=='__main__':
 	main()
